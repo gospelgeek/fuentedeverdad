@@ -1,0 +1,63 @@
+[
+    {
+        "x": "30%",
+        "y": "2%",
+        "width": "100%",
+        "styleBox": "width: 85%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-2",
+        "data": {
+            "text": "<p class='monserrat-black' style='font-size: 2.3em; color: black;'>LEGAL</p>"
+        }
+                
+    },
+    {
+        "x": "60%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    },
+    {
+        "x": "5%",
+        "y": "90%",
+        "width": "100%",
+        "styleBox": "width: 100%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "zIndex": 200,
+        "tag": "contenido",
+        "id_unique": "content-text-54",
+        "style": "color: #fff; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+            "text": "<ul style='padding-inline-start: 0px; list-estyle: none; font-size: 0.52em;'> <li style='display: flex; align-items: center; gap: 0.5em;'><a style='color: black; text-decoration: none;' href='https://fuentedeverdad.org/' target='_blank'>fuentedeverdad.org</a> </li></ul>"
+        }
+    }
+]
