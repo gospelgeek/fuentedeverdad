@@ -57,7 +57,7 @@
         "style": "color: #fff; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
-            "text": "<ul style='padding-inline-start: 0px; list-estyle: none; font-size: 0.52em;'>                                              <li style='display: flex; align-items: center; gap: 0.5em;'>                                                                        <a style='color: black; text-decoration: none;' href='https://fuentedeverdad.org/' target='_blank'>fuentedeverdad.org</a>            </li></ul>"
+            "text": "<ul style='padding-inline-start: 0px; list-estyle: none; font-size: 0.52em;'> <li style='display: flex; align-items: center; gap: 0.5em;'><a style='color: black; text-decoration: none;' href='https://fuentedeverdad.org/' target='_blank'>fuentedeverdad.org</a> </li></ul>"
         }
     }
 ]

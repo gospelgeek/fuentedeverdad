@@ -3,42 +3,42 @@
 
    function addPage(page, book, lang) {
 
-       var pages = book.turn('pages')
+    var pages = book.turn('pages')
+        // Create a new element for this page
+    if (checkMobile()) {
+        var element = $('<div />', { class: '' });
+    } else {
+        var element = $('<div />', {});
 
-       // Create a new element for this page
-       if (checkMobile()) {
-           var element = $(`<div id="content-inter-${page}" />`, { class: 'hard' });
-       } else {
-           var element = $(`<div id="content-inter-${page}" />`, {});
+    }
 
-       }
+    if (page % 2 == 0) {
+        element.addClass('even')
+    } else {
+        element.addClass('odd')
+    }
 
-       if (page % 2 == 0) {
-           element.addClass('even')
-       } else {
-           element.addClass('odd')
-       }
 
-       // Add the page to the flipbook
-       if (book.turn('addPage', element, page)) {
-           // Add the initial HTML
-           // It will contain a loader indicator and a gradient
-           
-           if (page !== 1 && page !== pages) {
-               if (lang == 'es') {
-                   element.html('<div class="gradient"></div><div id=' +"pie-pagina-"+ page +' class="number-page" onclick=goPage(2)>' + page + '</div>');
-               } else {
-                   element.html('<div class="gradient"></div><div id=' +"pie-pagina-"+ page +' class="number-page" onclick=goPage(2)>' + page + '</div>');
-               }
-           } else {
-               element.html('<div class="gradient"></div>');
-           }
+    // Add the page to the flipbook
+    if (book.turn('addPage', element, page)) {
+        // Add the initial HTML
+        // It will contain a loader indicator and a gradient
 
-           // Load the page
-           loadPage(page, element, lang);
-       }
+        if (page !== 1  && page !== pages && page !== 2) {
+            if (lang == 'es') {
+                element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + (page-1) + ' </div>');
+            } else {
+                element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + (page-1) + ' </div>');
+            }
+        } else {
+            element.html('<div class="gradient"></div>');
+        }
 
-   }
+        // Load the page
+        loadPage(page, element, lang);
+    }
+
+}
 
    function loadPage(page, pageElement, lang) {
 

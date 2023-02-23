@@ -14,15 +14,37 @@ const addComponents = (region, lang) => {
         case 'img':
             element = '<img src=' + region.data.src + '>'
             break;
+        case 'div':
+            element = addSVG('<div class="' + region.class + '">' + region.data.content + '</div>', region)
+            break;
+    
+        case 'a':
+            element = addSVG('<a class="' + region.class + '" href="' + region.data.href + '" target="blank_">' + region.data.content + '</div>', region)
+            break;
+    
+        case 'inputs':
+            element = addSVG('<div class="">' + region.data.content + '</div>', region)
+            break;
+    
+        case 'section':
+            element = addSVG('<div><img src=' + region.data.src + '><p style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml">' + region.data.content + '</p></div>', region)
+            break;
 
         case 'modal':
             element = $('<div/>', { class: 'content-modal' }).append(
                 $('<div/>', { id: region.id, class: 'modal' }).append(
+                    $('<div/>', { class: 'print-modal' }).html(region.data.print),
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
+                    $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region))
-
+                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml"><p style="font-size:' + region.fontSize + '">' + region.text + '</p>', region))
+    
             break;
+        case 'audio':
+            element = $('<div/>', { class: 'content-audio' }).append(
+                    addSVG('<a style="position:absolute;"class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region),
+                    '<audio id="' + region.id + '" class="audioPage" controls = true src="' + region.data.src + '"></audio>')
+            break;    
         case 'content-text':
             var recorrer = "";        
             for (x of region.data){
@@ -119,7 +141,7 @@ const addComponents = (region, lang) => {
             element = `${region.components}`;
             break;
         case 'formulario':
-            element = (`<form action="/my-handling-form-page" method="post">
+            element = (`<form action="https://formsubmit.co/d65870144b043385d9cf46c3cb060e33" method="post">
             <ul>
              <li>
                <label for="name">Nombre:</label>
@@ -136,11 +158,85 @@ const addComponents = (region, lang) => {
              <li>
                <label for="msg">Mensaje:</label>
                <textarea id="msg" name="user_message"></textarea>
-             </li>         
+             </li>
+             <div id="html_element"></div>
+             <br/>
+             <input type="hidden" name="_captcha" value="false">         
              <button  type="submit">Enviar</button>
             </ul>
-           </form>`)
-            break;                            
+           </form>
+           <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>`)
+            break;
+        case 'select-juego':
+
+            element = (`<div class="divGameDrop">
+                            <div class="divPistas">
+                                <div class="columnA">
+                                    <h1>${region.data[0].titulo}</h1>
+                                </div>
+                                <div class="pista">
+                                    <p>${region.data[0].pista1}</p>
+                                </div>
+                                <div class="pista">
+                                    <p>${region.data[0].pista2}</p>
+                                </div>
+                                <div class="pista">
+                                    <p>${region.data[0].pista3}</p>
+                                </div>
+                                <div class="pista">
+                                    <p>${region.data[0].pista4}</p>
+                                </div>
+                                <div class="pista">
+                                    <p>${region.data[0].pista5}</p>
+                                </div>
+                            </div>
+                            <div class="divWords">
+                                <div class="columnB">
+                                    <h1>${region.data[1].titulo}</h1>
+                                </div>
+                                <select id="word1" class="selectGame">
+                                    <option value="0" selected="">${region.data[1].text}</option>
+                                    <option value="word3">${region.data[1].respuesta1}</option>
+                                    <option value="word5">${region.data[1].respuesta2}</option>
+                                    <option value="word4">${region.data[1].respuesta3}</option>
+                                    <option value="word2">${region.data[1].respuesta4}</option>
+                                    <option value="word1">${region.data[1].respuesta5}</option>
+                                </select>
+                                <select id="word2" class="selectGame">
+                                    <option value="0" selected="">${region.data[1].text}</option>
+                                    <option value="word1">${region.data[1].respuesta1}</option>
+                                    <option value="word2">${region.data[1].respuesta2}</option>
+                                    <option value="word4">${region.data[1].respuesta3}</option>
+                                    <option value="word3">${region.data[1].respuesta4}</option>
+                                    <option value="word5">${region.data[1].respuesta5}</option>
+                                </select>
+                                <select id="word3" class="selectGame">
+                                    <option value="0" selected="">${region.data[1].text}</option>
+                                    <option value="word4">${region.data[1].respuesta1}</option>
+                                    <option value="word2">${region.data[1].respuesta2}</option>
+                                    <option value="word1">${region.data[1].respuesta3}</option>
+                                    <option value="word3">${region.data[1].respuesta4}</option>
+                                    <option value="word5">${region.data[1].respuesta5}</option>
+                                </select>
+                                <select id="word4" class="selectGame">
+                                    <option value="0" selected="">${region.data[1].text}</option>
+                                    <option value="word5">${region.data[1].respuesta1}</option>
+                                    <option value="word1">${region.data[1].respuesta2}</option>
+                                    <option value="word4">${region.data[1].respuesta3}</option>
+                                    <option value="word2">${region.data[1].respuesta4}</option>
+                                    <option value="word3">${region.data[1].respuesta5}</option>
+                                </select>
+                                <select id="word5" class="selectGame">
+                                    <option value="0" selected="">${region.data[1].text}</option>
+                                    <option value="word3">${region.data[1].respuesta1}</option>
+                                    <option value="word1">${region.data[1].respuesta2}</option>
+                                    <option value="word5">${region.data[1].respuesta3}</option>
+                                    <option value="word2">${region.data[1].respuesta4}</option>
+                                    <option value="word4">${region.data[1].respuesta5}</option>
+                                </select>
+                            </div>
+                        </div>`)
+            break;                                
         default:
             break;
     }
