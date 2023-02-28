@@ -1,36 +1,116 @@
 [
     {
         "x": "5%",
-        "y": "2%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
+        "y": "4%",
+        "width": "90%",
+        "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "data":{
-            "text": "<p class='monserrat-black' style='font-size: 2.3em; color: black;'>Eventos</p>"
+        "id_unique": "text-indece-page-2",
+        "data": {
+            "text": "<h4 class='monserrat-black' style='font-size: 1.5em; color: black;'>GREETINGS AND REPORT</h4><h3>FTC VICE PRESIDENT COLOMBIA</h3>"
         }
-  
+                
     },
     {
-        "x": "60%",
-        "y": "14%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-8",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Lanzamiento Oficial Iglesia</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/oficial/2.jpeg'/></a></div></div>"
+        "x": "5%",
+        "y": "25%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "82%",
+        "height": "4%",
+        "fontSize": "3.5em",
+        "tag": "p",
+        "class": "text-biblical",
+        "data": {
+            "content": "<i><b>1 Thessalonians 5:23</b>“And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.”</i>"
+        }
     },
     {
-        "x": "20%",
-        "y": "30%",
-        "width": "60%",
-        "zIndex": 400,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-8",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Lanzamiento Oficial Iglesia</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`2`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/oficial/1.jpeg'/></a></div></div>"
-    }
+        "x": "-5%",
+        "y": "37%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>Praise the Lord lovely brethren from our beautiful FTC Global Church. My most profound desire is for God to keep blessing you, our Bishop Samuel Valverde, our first lady Raquel Valverde, and each and everyone of you. This group of people has always shown unconditional support through prayers, offerings, and love that has been demonstrated throughout time.</p>"
+        }
+    },
+    {
+        "x": "5%",
+        "y": "65%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p7",
+        "class": "button-read",
+        "text": "Leer más...",
+        "data": {
+            "title": "<br>SALUDO E INFORME<br><br>VICEPRESIDENTE FDV COLOMBIA<br><br>",
+            "content": "Praise the Lord lovely brethren from our beautiful FTC Global Church. My most profound desire is for God to keep blessing you, our Bishop Samuel Valverde, our first lady Raquel Valverde, and each and everyone of you. This group of people has always shown unconditional support through prayers, offerings, and love that has been demonstrated throughout time.<br><br>This report is to inform you about the advancement of our vision in Colombia. As of right now,  we have 11 churches throughout the whole national territory; Cartagena, Barranquilla, Santa Marta, Medellin, Cali, Palmira, Ocaña, Bogota, and two more that are in a period of transition and training. We continue to receive messages from different cities across the country with requests to join our church. Our prayer is for God to keep sending more laborers… “The harvest truly is plenteous, but the labourers are few”. There is no doubt that the growth has been special and is a reason to be joyful. However, as we experience growth, our responsibility also increases. We continue to ask for your prayers until we see “every heart healed”.<br><br>The year of 2022 defied us in different areas of the ministry and life, but in all these things God has been good and faithful.<br><br>In February we celebrated FTC’s first convention in Colombia. We counted with the presence of our Bishop Samuel Valverde, our first lady Raquel Valverde, our pastor of global missions Martin Perez, brothers from other countries, and of course, brethren from other delegations of our country.<br><br>In March we received the seminar “Spiritual Authority” from our Bishop, in which the three churches from Medellin united as one. It was a time of blessings and learning.<br><br>In May we visited the city of Bogota with Bishop Valverde, in order to establish initial contact with the people with which we shared our vision. We later followed up with emails and phone calls with those who showed interest. This meeting took place in a building of a small neighborhood called Chicó, in the city of Bogota. In this visit, Pastor Roberto Rozo was installed as the pastor in the city of Bosa, in the southern part of Colombia. It was there where we saw the thirst this city has for a vision that heals hiring hearts. Subsequently,, towards the end of November, we witnessed the great launch of FTC Bogota! It was definitely a historic and unforgettable day that gathered more than 500 people. The musical ministry Celeste accompanied us and we received a beautiful word from pastor Samuel Valverde, “The Wounds of Christ”; and till this day that message is talked about and some brethren that are now with us also were touched by this message.<br><br>I profoundly thank my great God and savior Jesus Christ because he deemed me as faithful, putting me in the ministry and if it weren’t for his grace, this would’ve been impossible. I want to open my heart and say that it has been noticeable, in the most important events we were able to count with the presence of our President Bishop Samuel Valverde and his admirable wife, our sister Raquel (the mother of us all). Day by day we face challenges but the advice of wisdom, love for Colombia, and support from our Bishop has impacted our lives in an indescribable manner and has made this work easier. Despite his multiple commitments, we have always had spiritual parents that are loving and comprehensive, not only with our job in the ministry, but in our personal lives. I pray to God to remunerate you and to bless you in abundance.<br><br><i><b>1 Thessalonians 5:23</b>“And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.”</i><br><br><b>Written by Pastor Alvaro Ocampo</b>"
+        }
+    },
+    {
+        "x": "-5%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "50%",
+        "y": "80%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }    
 ]

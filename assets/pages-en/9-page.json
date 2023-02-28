@@ -1,3 +1,102 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "5%",
+        "width": "90%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-2",
+        "data": {
+            "text": "<h4 class='monserrat-black' style='font-size: 1.5em; color: black;'>GREAT NEWS FROM THE FIELD</h4>"
+        }
+                
+    },
+    {
+        "x": "-5%",
+        "y": "25%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>As church institutions go, Fountain of Truth Global Missions is still in its infancy stage. However, many hurting, homeless, and hungry pastors and ministers have migrated towards a place that God uses to transform pain into purpose. God is healing hearts, restoring strength and using men and women to open works around the world.</p>"
+        }
+    },
+    {
+        "x": "5%",
+        "y": "55%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p9",
+        "class": "button-read",
+        "text": "Leer más...",
+        "data": {
+            "title": "<br>GREAT NEWS FROM THE FIELD<br><br>",
+            "content": "As church institutions go, Fountain of Truth Global Missions is still in its infancy stage. However, many hurting, homeless, and hungry pastors and ministers have migrated towards a place that God uses to transform pain into purpose. God is healing hearts, restoring strength and using men and women to open works around the world.<br><br>We are currently present in ten countries with 54 preaching points and forty-eight pastors who are shepherding flocks.  God is moving. Last year we dedicated a beautiful building in Soloma, located the high mountains of Guatemala; we recently inaugurated our church building in Siem Reap Cambodia, established a Bible study in Puerto Montt, a town in the southernmost part of Chile; we are training a minister in Argentina and continue to preach in Tokyo and Hiroshima. From the beautiful beaches of Playa del Carmen to the border towns of Tijuana and Mexicali, BC Mexico, the Word of God is being preached. Seattle, Ohio, Dallas, San Antonio, San Diego, and Phoenix continue to grow as do our churches in the Silicon Valley of Northern California. Las Vegas continues to win souls and make disciples.<br><br>We have intensified our training for pastors who join FTC - Global with FTC Roadmap, and we continue to deepen our Bible knowledge through the Fountain of Truth Bible Institute. Even more exciting is that many (if not all) of our churches are seeking God in 21-day fasting and prayer chains.<br><br>We are looking forward to our 2023 Mission Summit/Outpouring event that will take place on October 5-8, 2023. More information coming soon, make plans to attend.<br><br>All in all, God has been more than wonderful; this is only the beginning, for the best is yet to come.<br><br><b>Obispo Samuel Valverde</b>"
+        }
+    },
+    {
+        "x": "-5%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "50%",
+        "y": "80%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

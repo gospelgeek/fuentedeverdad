@@ -64,7 +64,7 @@
            pageElement.find('.loader').remove();
        });
 
-       let background_diferent = [ 1 , 8 , 14 , 15]
+       let background_diferent = [ 8 , 14 , 15]
        checkImage((background_diferent.includes(page))? '../assets/pics/backgrounds/' + page + '.gif' : '../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
        loadRegions(page, pageElement, lang);
 
@@ -111,7 +111,7 @@ function createWordsGame(words) {
 }
 
    // Add region
-   function addRegion(region, pageElement, lang, page) {
+function addRegion(region, pageElement, lang, page) {
        var reg = $(`<div />`, { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
        
        if (page == 52) {
@@ -131,7 +131,7 @@ function createWordsGame(words) {
        }).attr('region-data', $.param(region.data || ''));
 
        reg.appendTo(pageElement);
-   }
+}
 
    // Process click on a region
 
