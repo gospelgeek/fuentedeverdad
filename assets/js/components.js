@@ -31,7 +31,7 @@ const addComponents = (region, lang) => {
             break;
 
         case 'modal':
-            element = $('<div/>', { class: 'content-modal' }).append(
+            element = $('<div/>', { class: 'content-modal modal-lg' }).append(
                 $('<div/>', { id: region.id, class: 'modal' }).append(
                     $('<div/>', { class: 'print-modal' }).html(region.data.print),
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
@@ -89,8 +89,8 @@ const addComponents = (region, lang) => {
                        
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
-            "<div id='words'></div>" +
-            "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
+                "<div id='words'></div>" +
+                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
             break;
         case 'img-content-2':
             element = (`<div class="div-center-ubication-responsive"> 
@@ -236,7 +236,12 @@ const addComponents = (region, lang) => {
                                 </select>
                             </div>
                         </div>`)
-            break;                                
+            break;
+        case 'tooltip':
+            element = $('<a/>', {}).append(
+                    addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><em>' + region.data.author + '</em><img class="main-img" src=' + region.data.src + '></p>', region),
+                    addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
+            break;                                        
         default:
             break;
     }

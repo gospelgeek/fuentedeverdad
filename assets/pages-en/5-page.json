@@ -1,0 +1,116 @@
+[
+    {
+        "x": "5%",
+        "y": "0",
+        "width": "90%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-2",
+        "data": {
+            "text": "<h4 class='monserrat-black' style='font-size: 2em; color: black;'>FOUNTAIN OF TRUTH MISSIONARY REPORT</h4>"
+        }
+                
+    },
+    {
+        "x": "-5%",
+        "y": "30%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>A very cordial greeting to God’s people. It is a great honor to be a part of the missionary work that is being realized by our beloved Fountain of Truth Apostolic Church.<br><br>When I started collaborating with Global Missions we counted with four churches, but the growth has been more than evident, one after another, I have been able to see the affiliation of every church and the expansion that God has permitted us to have in the three continents that we are present.</p>"
+        }
+    },
+    {
+        "x": "5%",
+        "y": "25%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "82%",
+        "height": "4%",
+        "fontSize": "4em",
+        "tag": "p",
+        "class": "text-biblical",
+        "data": {
+            "content": "<i>Praise the Lord.</i>"
+        }
+    },
+    {
+        "x": "5%",
+        "y": "65%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p5",
+        "class": "button-read",
+        "text": "Leer más...",
+        "data": {
+            "title": "<br>FOUNTAIN OF TRUTH MISSIONARY REPORT<br><br>",
+            "content": "<i>Praise the Lord.</i><br><br>A very cordial greeting to God’s people. It is a great honor to be a part of the missionary work that is being realized by our beloved Fountain of Truth Apostolic Church.<br><br>When I started collaborating with Global Missions we counted with four churches, but the growth has been more than evident, one after another, I have been able to see the affiliation of every church and the expansion that God has permitted us to have in the three continents that we are present.<br><br>As a result of this growth, we had to include more leaders to serve with their particular gift. God bless the work of pastor Domingo Carlos, who has been in charge of the administration of the church in Mexico and the work of pastor Alvaro Ocampo, who is the one that has been leading the work in Colombia.<br><br>I thank the trust that Bishop Samuel Valverde has placed in me, to lead the work of incorporation and administration of Guatemala, where we have two churches; Japan, where we count with two churches; Canada, with one church; Costa Rica, where we count with two churches; Chile, where we have a newborn church, and the United States, where we have 13 churches, for a grand total of 21 churches that I am honored to serve.<br><br>Some of the acheivments in global missions, I can highlight the incorporations of the works in Mexico, led by pastor Domingo Carlos, Costa Rica, and recently in Chile. This allows us to work with all legality and freedom in these territories.<br><br>I feel very happy to be able to serve God and contribute in favor of the expansion of God’s work. But without a doubt, what produces most satisfaction is seeing souls of men and women surrendering before the feet of Christ, and to know that as a result of the preachings of our pastors, between the year 2021-2022 (for example), we were able to baptize 364 people in the name of Jesus, all for the glory to God.<br><br>The need to pray for our pastors is urgent. Most of them are starting new churches and have come a long way in a painful process. But as they arrived to Fountain of Truth, they have seen how God has healed their hearts which has motivated them to work in the service of the Lord, thus working in favor of those that find themselves wounded and without a home.<br><br>Let us keep fervently praying and continue to contribute with generosity for Global Missions because although much has been done, still “The harvest truly is plenteous, but the labourers are few”."
+        }
+    },
+    {
+        "x": "-5%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "50%",
+        "y": "80%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]

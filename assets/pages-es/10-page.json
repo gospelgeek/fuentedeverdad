@@ -1,3 +1,132 @@
 [
-        
+    {
+        "x": "0",
+        "y": "0",
+        "style": "width: 85%;",
+        "zIndex": "1",
+        "width": "80%",
+        "tag": "img-content",
+        "id_unique": "img-content_10",
+        "data": {
+            "src": "./assets/pics/icons/banderausa.png"
+        }
+    },
+    {
+        "x": "60%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "5%",
+        "y": "70%",
+        "width": "30%",
+        "background-color": "rgb(49,196,243)",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-47",
+        "zIndex": 200,
+        "id_unique": "btn-read-more-10",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "75.4%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/pdf.png",
+        "data": {
+            "url": "#"
+        }
+    },
+    {
+        "x": "5%",
+        "y": "50%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-10",
+        "id_2": "box-text-content-autor-10",
+        "id_3": "text-content-autor-10",
+        "id_4": "box-page-10-autor",
+        "styleImg": "width: 99.8%; height: 99.8%; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 10em; align-self: end; margin-left: -13em; margin-bottom: 1em; grid-area: area-2;",
+        "styleBoxImg": "grid-area: area-1;",
+        "styleTextAutor": " margin-top: 0.15em; padding-left: 8.2em; font-size: 0.55em; color: #fff;",
+        "tag": "boton-author",
+        "iframe": "",
+        "autor": "nombre misionero",
+        "data": {
+            "src": "./assets/pics/icons/"
+        }
+    },
+    {
+        "x": "15%",
+        "y": "40%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-10",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Saludos Familia </p>"
+        }
+    }
 ]
