@@ -16,21 +16,46 @@
   
     },
     {
-        "x": "60%",
-        "y": "14%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>CUMBRE CELULAR GLOBAL 2022</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "20%",
-        "y": "14%",
+        "x": "5%",
+        "y": "55%",
         "width": "60%",
         "zIndex": 400,
         "tag": "all-component",
         "id_unique": "a2-img-page-11",
         "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>EL DERRAMAMIENTO 2022</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`2`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/1.jpeg'/></a></div></div>"
+    },
+    {
+        "x": "-5%",
+        "y": "8%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>“El Derramamiento 2022” fue un evento increíble lleno de fe, compañerismo, entrenamiento y ánimo. Uno de los aspectos más destacados de la conferencia para mí, fue ver la unidad mostrada entre el ministerio. Cada ministro estaba presente, no solo en cuerpo, sino también en enfoque. Además, había un deseo en cada ministro con el que tuve la bendición de comunicarme, de ver el ministerio de la Fuente de la Verdad desarrollarse en una gran plataforma que traiga gloria a Dios.El entusiasmo era palpable y, habían personas que llegaban a los servicios de la noche, todavía con los ojos rojos de derramar sus corazones en las sesiones de la mañana. En general, esta fue una experiencia increíble, y espero tener la bendición de ser parte de ella de nuevo este año.</p>"
+        }
+    },
+    {
+        "x": "10%",
+        "y": "55%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Loammi Díaz",
+            "position": "Pastor y Evangelista",
+            "year": "2023",
+            "src": "./assets/pics/photos/"
+        }
     }
 ]

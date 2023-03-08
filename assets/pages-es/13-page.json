@@ -1,3 +1,88 @@
 [
-    
+    {
+        "x": "10%",
+        "y": "5%",
+        "width": "100%",
+        "styleBox": "width: 65%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "data":{
+            "text": "Silicon Valley,California"
+        }
+  
+    },
+    {
+        "x": "5%",
+        "y": "10%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Ayunos y alboradas mensuales</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/1.jpg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "10%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Devocionales 'Teens en la playa'</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/2.jpg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "32%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Más Bautismos</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/4.jpg'/></a></div></div>"
+    },{
+        "x": "5%",
+        "y": "27%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Día de Acción de Gracias</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/3.jpg'/></a></div></div>"
+    },
+    {
+        "x": "5%",
+        "y": "50%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Semana de la Familia</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/5.jpg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "53%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Seminario de Liderazgo y Bautismo</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/6.jpg'/></a></div></div>"
+    },
+    {
+        "x": "5%",
+        "y": "70%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Seminario de Unicidad</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/7.jpg'/></a></div></div>"
+    },{
+        "x": "50%",
+        "y": "75%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Servicios de Primicias</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/8.jpg'/></a></div></div>"
+    }
 ]
