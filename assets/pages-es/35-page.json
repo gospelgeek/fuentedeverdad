@@ -1,3 +1,43 @@
 [
-    
+    {
+        "x": "30%",
+        "y": "5%",
+        "width": "100%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "data":{
+            "text": "FUENTE DE VERDAD CHILE"
+        }
+  
+    },
+    {
+        "x": "-5%",
+        "y": "8%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>Viaje Misionero Nacional<br>29 de Noviembre al 03 de Diciembre de 2022<br><br>Nuestro viaje misionero tuvo dos objetivos concretos. Primero, confirmar la fe de una pareja de hermanos (Junior y Milmelis) quienes se van a encargar de evangelizar el sector donde ellos viven, y capacitarlos por medio de algunas enseñanzas de evangelismo y misiones. Segundo, evangelizar a algunas familias que estaban dispuestas a oír el evangelio. El lugar visitado fue la región de Los Lagos, ciudad de Puerto Montt, extremo sur de Chile.<br><br>Por lo demás, en Santiago celebramos servicios en Grupos Casa.</p>"
+        }
+    },
+    {
+        "x": "45%",
+        "y": "50%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'></p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/chile/1.jpg'/></a></div></div>"
+    }
 ]
