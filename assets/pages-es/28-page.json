@@ -1,3 +1,80 @@
 [
-    
+    {
+        "x": "10%",
+        "y": "2%",
+        "width": "100%",
+        "styleBox": "width: 65%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "data":{
+            "text": "HIROSHIMA,JAPÓN"
+        }
+  
+    },
+    {
+        "x": "5%",
+        "y": "5%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Día del Amigo</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/1.jpeg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "5%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Paseo Día del Niño</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/2.jpg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "29%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Campamento de Verano</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/4.jpg'/></a></div></div>"
+    },{
+        "x": "5%",
+        "y": "27%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Noche de Vigilia<br>Cumbre Celular &#8220;Ensancha&#8220;</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/3.jpg'/></a></div></div>"
+    },
+    {
+        "x": "5%",
+        "y": "55%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>&#8220;El Derramamiento&#8220; desde Rancho Cucamonga</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/5.jpg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "53%",
+        "width": "80%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Clamor por Japón</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/6.jpg'/></a></div></div>"
+    },
+    {
+        "x": "50%",
+        "y": "73%",
+        "width": "70%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Culto de Celebración y Santa Cena</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/japon/hiroshima/7.jpg'/></a></div></div>"
+    }
 ]

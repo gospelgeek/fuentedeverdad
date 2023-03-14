@@ -1,3 +1,118 @@
 [
-    
+    {
+        "x": "12%",
+        "y": "5%",
+        "width": "100%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "data":{
+            "text": "TESTIMONIO HNA. NANCY PAGAN"
+        }
+  
+    },
+    {
+        "x": "-5%",
+        "y": "8%",
+        "width": "80%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>Camboya fue un lugar donde Dios verdaderamente se movió en mi corazón para poder aportar al ministerio. FDV ha depositado en mí en tantas maneras y ahora es una bendición espiritual que trae paz y gozo a mi corazón, el poder derramar eso que se había depositado en mí para otros.</p>"
+        }
+    },
+    {
+        "x": "3%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p31",
+        "class": "button-read",
+        "text": "Leer más...",
+        "data": {
+            "title": "<br>VIAJE MISIONERO A CAMBOYA<br><br>TESTIMONIO HNA. NANCY PAGAN<br><br>",
+            "content": "Uno de los acontecimientos que impactó mi vida fuertemente en este viaje, fue la conexión que tuvimos con nuestras hermanas de Camboya en la conferencia de mujeres. El Espíritu del Señor nos unió de una manera impactante; lloramos, nos abrazamos y aunque no nos podíamos comunicar, el Señor nos unió en un mismo espíritu. Las alabanzas con la música de Camboya me llevaron a un lugar altísimo, y el Señor me mostraba que la diferencia de idioma no era una barrera para exaltarle.<br><br>Otra experiencia que también me impactó, fue la unidad que había entre todos los hermanos de Fuente de Verdad; que, aunque no nos conocíamos mucho, algunos, nos pudimos unir en un mismo espíritu con un corazón de servicio y dar lo mejor de nosotros. Poder compartir con los niños y las familias de las aldeas, y ayudar con las necesidades de nuestros hermanos allí, fue de gran bendición para nuestro corazón.<br><br>La lección para mi vida en este viaje misionero, es la de valorar cada día más las bendiciones que Dios nos ha dado, y sobre todo enseñarles a mis hijas y a mi familia lo bendecidos que somos; muchas veces renegamos y exigimos tanto, cuando otros se conforman con lo que tienen sin reclamar nada.  Este viaje también me enseñó a seguir apoyando las misiones, y a motivar a otros a apoyar nuestras obras misioneras. "
+        }
+    },
+    {
+        "x": "70%",
+        "y": "5%",
+        "width": "50%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'></p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/camboya/testimonios/2.jpg'/></a></div></div>"
+    },
+    {
+        "x": "12%",
+        "y": "50%",
+        "width": "100%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "data":{
+            "text": "TESTIMONIO ESPOSOS CLARK"
+        }
+  
+    },
+    {
+        "x": "-5%",
+        "y": "52%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>¡Paz de Cristo!  Mi nombre es Billie y el de mi esposa Arielle.  Tuvimos el placer de trabajar y reclutar al grupo de FDV Rancho para visitar el campo misionero en Camboya.</p>"
+        }
+    },
+    {
+        "x": "5%",
+        "y": "67%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p31-2",
+        "class": "button-read",
+        "text": "Leer más...",
+        "data": {
+            "title": "<br>VIAJE MISIONERO A CAMBOYA<br><br>TESTIMONIO ESPOSOS CLARK<br><br>",
+            "content": "¡Paz de Cristo!  Mi nombre es Billie y el de mi esposa Arielle.  Tuvimos el placer de trabajar y reclutar al grupo de FDV Rancho para visitar el campo misionero en Camboya.<i>“Nuestras vidas han cambiado para siempre”.</i>Pensamos que íbamos a ayudar, a bendecir, a edificar, pero fue al contrario, ellos nos cambiaron a nosotros. Nunca olvidaremos los sonidos, los olores, todo lo que vimos, vivimos y experimentamos.  Lo más importante fueron las sonrisas de las personas de allí, que siempre estarán en nuestros corazones. ¡Son personas maravillosas que están llenas del Espíritu de Dios!  Siempre estaremos agradecidos por la experiencia que vivimos y animamos a todos los hermanos y hermanas que puedan unirse a nosotros la próxima vez en el campo misionero.  ¡Dios les bendiga!"
+        }
+    },
+    {
+        "x": "45%",
+        "y": "62%",
+        "width": "95%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-11",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'></p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/camboya/testimonios/3.jpg'/></a></div></div>"
+    }
 ]
