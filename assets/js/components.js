@@ -241,7 +241,15 @@ const addComponents = (region, lang) => {
             element = $('<a/>', {}).append(
                     addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><em>' + region.data.author + '</em><img class="main-img" src=' + region.data.src + '></p>', region),
                     addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
-            break;                                        
+            break;     
+            
+        case 'portada':
+                element = `<div class="page">
+                    <div id="animatedBackground"></div>
+                    <img src="assets/pics/portada/portada_fondo.png" alt="">
+                    <img src="assets/pics/portada/portada_textos_marco.png" alt="">
+                </div>`;
+            break; 
         default:
             break;
     }
