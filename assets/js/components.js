@@ -86,12 +86,7 @@ const addComponents = (region, lang) => {
         case 'img-content':
             element = (`<div class="div-center-ubication-responsive"> <img src="${region.data.src}" class='aux-img-class' style="width: 70%; height: 100%; object-fit: cover; ${region.style}"> </div>`)
             break;
-                       
-        case 'wordsGame':
-            element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
-                "<div id='words'></div>" +
-                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
-            break;
+        
         case 'img-content-2':
             element = (`<div class="div-center-ubication-responsive"> 
                             <div class="img-aux-page-12" style='display: grid; grid-template-rows: 5% 90% 5%; grid-template-columns: 100%;'> 
@@ -167,6 +162,12 @@ const addComponents = (region, lang) => {
            </form>
            <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>`)
             break;
+
+        case 'wordsGame':
+            element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
+                "<div id='words'></div>" +
+                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
+            break;  
         case 'select-juego':
 
             element = (`<div class="divGameDrop">

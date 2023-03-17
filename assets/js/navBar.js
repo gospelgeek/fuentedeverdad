@@ -1,5 +1,5 @@
 //THUMBNAILS OPTION
-const createThumb = (pages) => {
+/*const createThumb = (pages) => {
 
     if (!$('.container-thumbs').is(":visible")) {
 
@@ -117,4 +117,4 @@ document.addEventListener('click', function(event) {
         wordSearch.value = ""
         $(".result-search").css({ display: 'none' });
     }
-});
+});*/
