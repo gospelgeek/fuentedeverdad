@@ -90,43 +90,6 @@ const clickReadMore = async (e) => {
 }
 
 
-//event click of lenguage
-const clickLenguage = async (e) => {
-
-    audio_array.map((audio) => {
-        audio.pause();
-    })
-    band_audio = true;
-    audio_array = [];
-
-    //page even
-    page_even = (e).split('-')[0]
-    lang_even = (e).split('-')[1]
-
-    //page odd
-    page_odd = (e).split('-')[2]
-    lang_odd = (e).split('-')[3]
-
-
-    $(`#content-inter-${page_odd}`).html(change_info_page_lengauage(page_odd, lang_odd))
-    $(`#content-inter-${page_even}`).html(change_info_page_lengauage(page_even, lang_even))
-
-}
-
-
-//Function to show menu
-var btnNav = document.querySelector('.show-menu'),
-    menu = document.querySelector('.menu');
-
-btnNav.addEventListener('click', () => {
-    btnNav.classList.toggle('active-menu');
-    menu.classList.toggle('active-menu');
-    $('.container-language').removeClass("visible");
-    $('.container-search').removeClass("visible");
-    $('.container-thumbs').remove()
-});
-
-
 //evento click para quitar el read more
 $('.read-more-close').on('click', function (event) {
     //prevent the default action for the click event
@@ -190,7 +153,7 @@ function change_info_page_lengauage(page, lang) {
 
     insert_img_background(page, element)
 
-    if (lang !== 'espana') { add_components_page(element, page, lang) } else { loadRegions(page, element, 'es') }
+    if (lang !== 'es') { add_components_page(element, page, lang) } else { loadRegions(page, element, 'es') }
 
     return element
 
@@ -581,5 +544,18 @@ function click_boton_a_carrusel(e) {
     localStorage.setItem('array_src', JSON.stringify(e))
 
     $('.carrusel-img-box').removeClass('display-none')
+
+}
+
+
+function click_boton_a_spanish() {
+    var URLhash = window.location.hash;
+    window.location.href = "./index.html"+URLhash;
+
+}
+
+function click_boton_a_english() {
+    var URLhash = window.location.hash;
+    window.location.href = "./index-en.html"+URLhash;
 
 }

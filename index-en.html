@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html lang="es">
+<html lang="en">
 
 <head>
     <title>Fuente de Verdad</title>
@@ -49,15 +49,16 @@
     <!-- End Google Tag Manager (noscript) -->
     <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
 
-    <!--<div id="loading">
-        <img id="loading-image" style='width:50px; height:50px;'
-            src="https://raw.githubusercontent.com/alejolilo1234/Heraldo-digital/main/assets/img/loader%402x.gif"
-            alt="Cargando..." />
-         <div class="loader"></div>
-    </div>-->
-
     <div id="canvas">
-               
+        <!-- Boton idioma-->
+        <div>
+            <a  onclick="click_boton_a_spanish()">
+                <button class="idioma">
+                    <img src="./assets/pics/icons/spain.png">
+                </button>
+            </a>
+        </div> 
+
         <div class="magazine-viewport">
             <!-- Next button -->
             <div ignore="1" class="next-button"></div>
@@ -70,48 +71,6 @@
             <!-- Previous button -->
             <div ignore="1" class="previous-button"></div>
         </div>
-    </div>
-
-    <!--Navigation bar-->
-    <div class="navigation options">
-        <div class="menu">
-            <ul class="options">
-                <li class="thumb options">
-                    <a class="options" onclick="createThumb(`${ $('.magazine').turn('pages')}`)">
-                        <img src="/assets/pics/icons/grid.png" class="options" alt=""> </a>
-                    </a>
-                </li>
-                <li class="search options">
-                    <a class="options" onclick="createSearch()">
-                        <img src="/assets/pics/icons/search.png" class="options" alt=""> </a>
-                    </a>
-                </li>
-                <li class="language options">
-                    <a class="options" onclick="changeLanguage()">
-                        <img src="/assets/pics/icons/globe.png" class="options" alt=""> </a>
-                    </a>
-                </li>
-            </ul>
-        </div>
-        <div class="show-menu">
-            <img src="/assets/pics/icons/down.png" class="options" alt=""> </a>
-        </div>
-    </div>
-
-    <!--Search Section-->
-    <div id="search" class="container-search options">
-        <div class="input-search options">
-            <input id="word-search" class="options" type="text" placeholder="Ingrese su búsqueda aquí...">
-            <button id="button-search" class="options" onclick="searchButton('es')"> <img src="/assets/pics/icons/search.png" class="options" alt=""></i></button>
-        </div>
-
-        <div class="result-search options"></div>
-    </div>
-
-    <!--Language Section-->
-    <div id="language" class="container-language options">
-        <button id='spain' class='spain-language options' onclick="location.href = 'index.html'"><img src="./assets/pics/icons/spain.png" alt="" class="options"><p>Spanish</p></button>
-        <button id='english' class='english-language options' onclick="location.href = 'index-en.html'"><img src="./assets/pics/icons/united-states.png" alt="" class="options"><p>English</p></button>
     </div>
 
     <!-- Read more Component -->
@@ -169,7 +128,7 @@
 
                         // The number of pages
 
-                        pages: 47,
+                        pages: 49,
 
                         // Events
 
@@ -210,7 +169,7 @@
 
                                 // Add pages that aren't in the magazine
                                 for (var i = 0; i < pages.length; i++)
-                                    addPage(pages[i], $(this), 'es');
+                                    addPage(pages[i], $(this), 'en');
 
                             }
                         }
