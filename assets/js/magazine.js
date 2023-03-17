@@ -91,13 +91,14 @@
    // Load regions
 
    function loadRegions(page, element, lang) {
+       //console.log(lang);
        $.getJSON('./assets/pages-' + lang + '/' + page + '-page.json').
        done(function(data) {
            $.each(data, function(key, region) {
                addRegion(region, element, lang, page);
            });
        });
-   }
+    }
    
 //createWordsGame allows create the alphabet soup
 function createWordsGame(words) {
@@ -114,11 +115,10 @@ function createWordsGame(words) {
 function addRegion(region, pageElement, lang, page) {
        var reg = $(`<div />`, { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
        
-       if (page == 52) {
-        console.log('entro 2')
-        $('.p' + 52).append(reg);
+       if (page == 39) {
+        $('.p'+39).append(reg);
         var words = ['Arrepentimiento','Conversión', 'NuevoNacimiento', 'Unicidad', 'ElNombreDeJesús', 'Adopción', 'Justificación', 'Redención', 'Santidad', 'Fe', 'Resurrección']
-        createWordsGame(words)
+        createWordsGame(words);
        }
 
        $(reg).attr('id', region.id_unique);
