@@ -244,11 +244,16 @@ const addComponents = (region, lang) => {
             break;     
             
         case 'portada':
-                element = `<div class="page">
-                    <div id="animatedBackground"></div>
-                    <img src="assets/pics/portada/portada_fondo.png" alt="">
-                    <img src="assets/pics/portada/portada_textos_marco.png" alt="">
-                </div>`;
+            element = `<div class="page">
+                <div id="animatedBackground"></div>
+                <img src="assets/pics/portada/portada_fondo.png" alt="">
+                <img src="assets/pics/portada/portada_textos_marco.png" alt="">
+            </div>`;
+            break; 
+        case 'imageIdex':
+            element = `<div class="index-image">
+                <img src="assets/pics/general-images/top-index.jpg" alt="">
+            </div>`;
             break; 
         default:
             break;

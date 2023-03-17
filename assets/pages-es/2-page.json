@@ -1,11 +1,16 @@
 [
     {
+        "tag": "imageIdex",
+        "x": "0%",
+        "y": "0%"
+    },
+    {
         "x": "5%",
-        "y": "2%",
+        "y": "15%",
         "width": "100%",
         "styleBox": "width: 65%; height: auto !important;",
         "background-color": "#b41015",
-        "color": "#fff",
+        "color": "#53bff1",
         "font-size": "1em",
         "tag": "contenido",
         "style": "font-weight: normal;",
@@ -16,9 +21,9 @@
   
     },
     {
-        "x": "0",
-        "y": "10%",
-        "width": "100%",
+        "x": "10%",
+        "y": "25%",
+        "width": "80%",
         "styleBox": "width: 85%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
@@ -28,151 +33,136 @@
         "id_unique": "text-indece-page-2",
         "text": "",
         "data": [{
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(4)' class='a-aux-indice'>Saludo del Obispo</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(4)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(4)' class='a-aux-indice'>Saludo del Obispo</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(4)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 3-4</span> </a> </p>"        
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 3-4</span> </a> </span>"        
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(6)' class='a-aux-indice'>Nuestras Misiones</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(6)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(6)' class='a-aux-indice'>Nuestras Misiones</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(6)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'</span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 5 - 6</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 5 - 6</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(7)' class='a-aux-indice'>USA</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(7)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(7)' class='a-aux-indice'>USA</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(7)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'></span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 7 - 10</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 7 - 10</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(11)' class='a-aux-indice'>México</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(11)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(11)' class='a-aux-indice'>México</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(11)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 11 - 14</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 11 - 14</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(15)' class='a-aux-indice'>Colombia</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(15)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(15)' class='a-aux-indice'>Colombia</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(15)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 15 - 18</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 15 - 18</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(19)' class='a-aux-indice'>Cambodia</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(19)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(19)' class='a-aux-indice'>Cambodia</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(19)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 19 - 20</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 19 - 20</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(21)' class='a-aux-indice'>Japón</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(21)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(21)' class='a-aux-indice'>Japón</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(21)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 21 - 22</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 21 - 22</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(23)' class='a-aux-indice'>Guatemala</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(23)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(23)' class='a-aux-indice'>Guatemala</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(23)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 23 - 24</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 23 - 24</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(25)' class='a-aux-indice'>Canadá</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(25)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(25)' class='a-aux-indice'>Canadá</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(25)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 25 - 26</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 25 - 26</span> </a> </span>"           
             },{
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(27)' class='a-aux-indice'>Chile</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(27)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(27)' class='a-aux-indice'>Chile</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(27)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 27 - 28</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 27 - 28</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(29)' class='a-aux-indice'>Costa Rica</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(29)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(29)' class='a-aux-indice'>Costa Rica</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(29)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 29 - 30</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 29 - 30</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(31)' class='a-aux-indice'>Desafío Misionero, Pastores - Paises</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(31)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(31)' class='a-aux-indice'>Desafío Misionero, Pastores - Paises</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(31)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 31</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 31</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(32)' class='a-aux-indice'>Video O indice de articulos</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(32)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(32)' class='a-aux-indice'>Video O indice de articulos</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(32)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 32</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 32</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(33)' class='a-aux-indice'>Jesucristo el Misionero por Excelencia</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(33)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(33)' class='a-aux-indice'>Jesucristo el Misionero por Excelencia</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(33)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 33 - 34</span> </a> </p>"           
-            }  
-        ]
-    },
-    {
-        "x": "40%",
-        "y": "10%",
-        "width": "100%",
-        "styleBox": "width: 85%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "content-text",
-        "style": "font-weight: normal;",
-        "id_unique": "text-indece-page-2",
-        "text": "",
-        "data": [
-            {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(35)' class='a-aux-indice'>Porqué aportar para las misiones</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(35)' class='a-aux-indice'> ",
-                "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 35 - 36</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 33 - 34</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(37)' class='a-aux-indice'>El Samaritano</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(37)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(35)' class='a-aux-indice'>Porqué aportar para las misiones</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(35)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 37 - 38</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 35 - 36</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(39)' class='a-aux-indice'>El Corazón del Misionero</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(39)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(37)' class='a-aux-indice'>El Samaritano</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(37)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 39 - 40</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 37 - 38</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(41)' class='a-aux-indice'>Desafío Misionero, Sopa de letras</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(41)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(39)' class='a-aux-indice'>El Corazón del Misionero</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(39)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 41</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 39 - 40</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(42)' class='a-aux-indice'>Cómo aportar para las misiones</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(42)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(41)' class='a-aux-indice'>Desafío Misionero, Sopa de letras</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(41)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 42</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 41</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(43)' class='a-aux-indice'>Sabes que está sucediendo en.... <br>  CAMBODIA Y CHILE</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(43)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(42)' class='a-aux-indice'>Cómo aportar para las misiones</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(42)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 43 - 44</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 42</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(45)' class='a-aux-indice'>Preguntas de Interes</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(45)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(43)' class='a-aux-indice'>Sabes que está sucediendo en.... <br>  CAMBODIA Y CHILE</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(43)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 45</span> </a> </p>"           
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 43 - 44</span> </a> </span>"           
             },
             {
-                "titulo" : "<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(46)' class='a-aux-indice'>Respuestas a preguntas de Interes</a></p>",
-                "autor":   "<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(46)' class='a-aux-indice'> ",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(45)' class='a-aux-indice'>Preguntas de Interes</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(45)' class='a-aux-indice'> ",
                 "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 46</span> </a> </p>"           
-            }
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 45</span> </a> </span>"           
+            },
+            {
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(46)' class='a-aux-indice'>Respuestas a preguntas de Interes</a></span>",
+                "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(46)' class='a-aux-indice'> ",
+                "cargo":  " | <span style='font-weight: normal; color: gray;'> </span>",  
+                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Página 46</span> </a> </span>"           
+            } 
         ]
     }
 ]

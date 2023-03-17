@@ -1,0 +1,101 @@
+/* color de fondo de la revista */
+body{
+    background-color: #081420;
+}
+
+/* estilos generales de la portada */
+#animatedBackground {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url("../pics/portada/portada_mapa1.jpg");
+    background-repeat: repeat;
+    background-position: 0 0;
+    background-size: auto 100%;
+    animation: animatedBackground 500s linear infinite;
+}
+  
+@keyframes animatedBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -10000px 0;
+    }
+}
+
+#page-wrapper-1 .region.undefined{
+    width: 100%;
+    height: 100%;
+}
+
+#page-wrapper-1 .region.undefined .page{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#page-wrapper-1 .region.undefined .page > img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#page-wrapper-1 .videoPages{
+    display: none;
+}
+
+/* estilos generales pagina 2 (indice) */
+div[page="2"] .page.p2 .region.undefined .div-center-ubication-responsive span p{
+    color: #53bff1 !important;
+}
+
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2{
+    background-color: #000;
+    border-radius: 0;
+    border-top: 4px solid #53bff1;
+    padding: 10px 0;
+    border-radius: 3px;
+}
+div[page="2"] .page.p2 .index-image{
+    position: relative;
+}
+div[page="2"] .page.p2 .index-image img{
+    animation: mover-circulo 40s linear infinite alternate;
+}
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 5px;
+}
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content :nth-child(odd){
+    width: 70%;
+}
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content :nth-child(even){
+    width: 30%;
+}
+
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text{
+    color: #53bff1;
+}
+
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text-aux{
+    color: #ffffff;
+}
+div[page="2"] .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text-aux span{
+    color: #ffffff !important;
+}
+
+@keyframes mover-circulo {
+    0% { transform: scale(1) translate(-10px, 0); }
+   30% { transform: scale(1.1) translate(0, 10px);}
+   60% { transform: scale(1.2) translate(10px, 0);}
+   100% { transform: scale(1.3) translate(-10px, 0); }
+}
