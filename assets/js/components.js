@@ -256,8 +256,21 @@ const addComponents = (region, lang) => {
                 <img src="assets/pics/general-images/top-index.jpg" alt="">
             </div>`;
             break; 
+        case 'page-4-title':
+            element = `<div class="page-4-title">
+                <h2>Carta del Obispo presidente</h2>
+                <h1>SAMUEL VALVERDE</h1>
+                <p>Desde el escritorio del <strong>Obispo Samuel Valverde</strong></p>
+            </div>`;
+            break; 
+        case 'author-pic':
+            element = `<div class="page-4-title">
+                <img src="assets/pics/photos/carta_obispo_foto.jpg">
+            </div>`;
+            break; 
         default:
             break;
+            
     }
 
     return element

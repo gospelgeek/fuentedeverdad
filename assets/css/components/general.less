@@ -1,0 +1,95 @@
+// estilos generales para todas las pagina
+@popins-font: 'Poppins', sans-serif;
+
+// colores
+@black: #000000;
+@white: #ffffff;
+@blue-light: #01b7e6;
+
+// aplicar fuente a todos los textos de la revista
+*{
+    font-family: @popins-font;
+}
+
+body{
+    // pagina 4
+    div[page="4"]{
+        .page.p4{
+            .region.undefined{
+                .page-4-title{
+                    h2{
+                        color: #785849;
+                        font-weight: 400;
+                    }
+
+                    h1{
+                        color: #770b0a;
+                    }
+
+                    p{
+                        text-align: center;
+                        color: @black;
+                        margin-top: 15px;
+                    }
+                }
+
+                .aux-class-content{
+                    h4{
+                        font-size: 15px;
+                        color: @black;
+                        text-align:  center;
+                        font-weight: 800;
+                    }
+
+                    p::first-letter {
+                        font-size: 200px;
+                    }
+
+                    .main-text, i{
+                        color: @black;
+                        font-family: @popins-font;
+                    }
+                }    
+            }
+            .region.tooltip-author{
+                img{
+                    display: none;
+                }
+            }
+
+            .region.author-image{
+                z-index: 1;
+            }
+            .region.actions{
+                .div-center-two-icons-responsive{
+                    gap: 10px;
+                }
+            }
+            .content-modal {
+                a.button-magazine{
+                    p{
+                        background-color: @white;
+                        color: @black;
+                        display: flex;
+                        padding: 30px;
+                        border-radius: 80px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        gap: 20px;
+                        white-space: nowrap;
+                        img{
+                           width: 100px !important;
+                           height: 100px;
+                           transform: scale(2);
+                        }
+                        span{
+                            font-size: 36px;
+                            margin-left: 50px;
+                        }
+                    }
+                }
+            }
+        } 
+    }
+}
