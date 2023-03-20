@@ -1,53 +1,36 @@
 [
     {
-        "x": "5%",
-        "y": "5%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "MEXICALI, MÉXICO"
+        "x": "62%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p17",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>LANZAMIENTO OFICIAL DE LA IGLESIA EN SAN ANTONIO, TEXAS",
+            "content": "Esta historia comenzó hace más de 30 años en Slover Ave. en Fontana, California.<br><br>El Pastor Saúl Santos respondió al llamado de Dios al ministerio, a la edad de 15 años cuando predicó su primer sermón. A los 18 años, ingresó al Instituto Bíblico y a los 21 fue ordenado ministro, siguiendo los pasos de su padre y su abuelo, quienes sirvieron como pastores.<br><br>Nuestro campus de San Antonio se inauguró el domingo 22 de mayo de 2022 bajo el liderazgo del Obispo Samuel Valverde. La familia Santos vive en San Antonio, Texas, y sirven como pastores en ese lugar."
         }
-  
     },
     {
-        "x": "5%",
-        "y": "10%",
-        "width": "80%",
-        "zIndex": 400,
-        "tag": "all-component",
-        "id_unique": "a2-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>RECIBIRÉIS PODER</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`2`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/mexico/2.jpg'/></a></div></div>"
-    },
-    {
-            "x": "10%",
-            "y": "5%",
-            "width": "100%",
-            "styleBox": "width: 65%; height: auto !important;",
-            "background-color": "#b41015",
-            "color": "#fff",
-            "font-size": "1em",
-            "tag": "contenido",
-            "style": "font-weight: normal;",
-            "text": "",
-            "data":{
-                "text": "MÉXICO"
-            }
-      
-    },
-    {
-            "x": "5%",
-            "y": "8%",
-            "width": "80%",
-            "zIndex": 200,
-            "tag": "all-component",
-            "id_unique": "a1-img-page-11",
-            "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>CUMBRE NACIONAL MÉXICO</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/mexico/1.jpg'/></a></div></div>"
+        "x": "62%",
+        "y": "72.8%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p17-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "Concierto “Recordando nuestro canto II”",
+            "content": "La iglesia local Fuente de Verdad San Antonio, organizó un concierto apostólico llamado Recordando Nuestro Canto II.<br><br>Nuestro invitado de honor fue el Pastor Samuel Valverde Jr, quien asistió en nombre del Obispo Samuel Valverde. El cantante Joseph Espinoza nos dirigió en himnos antiguos que tocaron nuestro corazón, y fue de mucha bendición. Se llevó a cabo el día sábado 11 de junio a las 6:30 p.m. en 12280 Alamo Ranch Pkwy, San Antonio, TX 78253."
+        }
     }
-       
 ]
