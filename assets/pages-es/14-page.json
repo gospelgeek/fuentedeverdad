@@ -1,72 +1,19 @@
 [
     {
-        "x": "10%",
-        "y": "5%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "Columbia,Maryland"
+        "x": "67.5%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p14",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br><b>Maranatha…Cristo viene!</b>",
+            "content": "Confiando en las promesas del Señor, seguiremos peleando la gran batalla para obtener una corona en los cielos con las obras en la tierra y así seguir edificando más almas que conozcan la verdad que es en Cristo Jesús. Fountain Silicon Valley es un claro testimonio de que, de la mano del Todopoderoso se obtienen victorias y, seguiremos arando el camino para los nuevos creyentes y servidores.<br><br>Bendiciones,<br><b>JOHN FREDY QUINTERO</b><br>Pastor"
         }
-  
-    },
-    {
-        "x": "5%",
-        "y": "10%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Actividad de Jóvenes</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/columbia/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "10%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Conferencia Matrimonial</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/columbia/2.jpg'/></a></div></div>"
-    },
-    {
-        "x": "5%",
-        "y": "35%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Día del Amigo 2022</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/columbia/3.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "35%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Noche 'ELLA'</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/columbia/4.jpg'/></a></div></div>"
-    },
-    {
-        "x": "5%",
-        "y": "60%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Segundo Aniversario</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/columbia/5.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "60%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Taller 'Autoridad Espiritual'</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/columbia/6.jpg'/></a></div></div>"
     }
 ]

@@ -12,26 +12,28 @@
     "data":[
         {
             "titulo": "PISTAS",
-            "pista1":"ejemplo 1",
-            "pista2":"ejemplo 2",
-            "pista3":"ejemplo 3",
-            "pista4":"ejemplo 4",
-            "pista5":"ejemplo 5"
+            "pista1":"MÉXICO",
+            "pista2":"COLOMBIA",
+            "pista3":"JAPÓN",
+            "pista4":"CAMBODIA",
+            "pista5":"COSTA RICA",
+            "pista6":"CHILE"
         },
         {
             "titulo":"RESPUESTAS",
             "text":"SELECCIONE UNA OPCION",
-            "respuesta1":"respuesta1",
-            "respuesta2":"respuesta2",
-            "respuesta3":"respuesta3",
-            "respuesta4":"respuesta4",
-            "respuesta5":"respuesta5"
+            "respuesta6":"Domingo Carlos",
+            "respuesta3":"Jairo R. rozo",
+            "respuesta1":"Leonardo Ishiguro",
+            "respuesta2":"UNG Ratheany",
+            "respuesta4":"Gerson Fernández",
+            "respuesta5":"David E. Caverlotti"
         }
     ]
 },
 {
     "x": "35%",
-    "y": "40%",
+    "y": "50%",
     "viewX": 1800,
     "viewY": 100,
     "width": "83%",

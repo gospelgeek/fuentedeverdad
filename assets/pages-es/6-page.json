@@ -1,24 +1,41 @@
 [
     {
-        "x": "5%",
-        "y": "0",
-        "width": "90%",
+        "x": "12%",
+        "y": "5%",
+        "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
-        "font-size": "1em",
+        "font-size": "1.5em",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-indece-page-2",
+        "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1.5em; color: black;'>Iglesia Apostólica Fuente <br> de Verdad México</h4><h3>Informe del Año 2022</h3>"
+            "text": "<h1 class='monserrat-black' style='font-size: 2em; color: black;'><strong>Saludo e Informe</strong><h1>"
         }
                 
     },
     {
-        "x": "5%",
-        "y": "25%",
+        "x": "17%",
+        "y": "15%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-sub-page-6",
+        "data": {
+            "text": "<h3 class='monserrat-black' style='font-size: 1.5em; color: black; '>Pastor de<br> Misiones FDV</h3>"
+        }
+                
+    },
+    {
+        "x": "17%",
+        "y": "40%",
         "viewX": 1800,
         "viewY": 50,
         "width": "82%",
@@ -27,64 +44,41 @@
         "tag": "p",
         "class": "text-biblical",
         "data": {
-            "content": "<i>¡Es un placer saludarlos en el nombre de Cristo desde el país más bello del mundo, México!</i>"
+            "content": "<i><b>Paz de Cristo.</b></i>"
         }
     },
     {
-        "x": "-5%",
-        "y": "32%",
-        "width": "100%",
+        "x": "12.5%",
+        "y": "47%",
+        "width": "45%",
         "styleBox": "",
         "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "10em",
+        "color": "#ffff",
+        "font-size": "2em",
         "tag": "contenido",
-        "id_unique": "box-text-page-7",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "box-text-page-4",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>Por la gracia de Dios, seguimos adelante con un deseo ferviente de servir cada vez mejor a nuestro Señor, de sembrar la palabra de Dios y de cosechar almas para el reino de Cristo, y de hacer discípulos por toda la nación. Actualmente hay 13 obras en 9 estados.</p>"
+           "text": "<p class='main-text'>Un cordial saludo para todo el pueblo del Señor. Es para mí un honor ser parte del trabajo misionero que realiza...</p>"
         }
     },
     {
-        "x": "5%",
-        "y": "55%",
+        "x": "16%",
+        "y": "62%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "3.3em",
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p6",
-        "class": "button-read",
-        "text": "Leer más...",
-        "data": {
-            "title": "<br>Iglesia Apostólica Fuente de Verdad México<br><br>Informe del Año 2022<br><br>",
-            "content": "<i>¡Es un placer saludarlos en el nombre de Cristo desde el país más bello del mundo, México!</i><br><br>Por la gracia de Dios, seguimos adelante con un deseo ferviente de servir cada vez mejor a nuestro Señor, de sembrar la palabra de Dios y de cosechar almas para el reino de Cristo, y de hacer discípulos por toda la nación. Actualmente hay 13 obras en 9 estados.<br><ul>1. Tijuana, Baja California (Pastor Domingo Carlos)</ul><ul>2. Ciudad México (Pastor Domingo Carlos)</ul><ul>3. Mexicali, Baja California (Pastor Abraham Encinas)</ul><ul>4. Culiacán, Sinaloa (Pastor Gilberto Rentería)</ul><ul>5. Mazatlán, Sinaloa (Pastor Eliezer Barboza)</ul><ul>6. San Luis Potosí, San Luis Potosí (Pastor Gabriel Gálvez)</ul><ul>7. Tehuacán, Puebla (Pastor Frank Díaz)</ul><ul>8. Jala, Nayarit (Pastor Gabriel Gálvez)</ul><ul>9. Juchitán, Oaxaca (Pastor Abraham Encinas)</ul><ul>10. Muna, Yucatán (Pastor Isaac Cahuich)</ul><ul>11. Playa del Carmen (Villas del Sol), Quintana Roo (Pastor Juan Domínguez)</ul><ul>12. Playa del Carmen (Pescadores), Quintana Roo (Pastor Juan  Domínguez)</ul><ul>13. Cancún (Bonfil), Quintana Roo (Pastor Juan Domínguez)</ul>Celebramos nuestra <b>Cumbre Nacional Pastoral 2022 </b>en el mes de febrero en la Ciudad de México donde asistieron pastores y esposas, y donde celebramos reuniones de oración, palabras y mensajes por parte del Obispo Samuel Valverde y Hna. Raquel, Pastor Martín Pérez, y Pastor Domingo Carlos, así como dos celebraciones generales. También pudimos hacer una caminata y una oración por nuestra nación en el Zócalo de la Ciudad. Además, hubo un Culto de iniciación y ordenación ministerial, y se llevó a cabo el lanzamiento de la obra en la CDMX.<br><br>También celebramos nuestra <b>Cumbre Celular Virtual 2022 </b>el 3 de septiembre con gran éxito. Este evento se convirtió en evento global, con la participación de pastores de FDV de todo el mundo, siendo los conferencistas el Obispo Samuel Valverde, Obispo Elías Paez (Iglesia La Misión, Mazatlán, Sinaloa), Obispo Mario Oseguera (Ríos de Agua Viva, Pomona, California), y el Pastor Ernie Santana.<br><br>Nuestra Próxima <b>Cumbre Nacional </b>para el pueblo en general será del 28 de marzo al 02 de abril de 2024 en la ciudad de San Luis Potosí. ¡Todos están invitados!<br><br><b>BUSCANDO UNA FAMILIA PASTORAL: </b>En nombre de Cristo, estamos buscando un pastor para la iglesia en la Ciudad y Estado de México para que siga formando y fortaleciendo la congregación naciente que fue lanzada en el mes de febrero del año 2022. Estamos en búsqueda de un hombre dispuesto a salir, luchar, acudir al llamado, y cumplir la misión.<br><br>La CDMX es una metrópolis cosmopolita con más de 22M de habitantes, que espera a un hombre llamado, que se esfuerce y cumpla la visión de ver cada corazón sanado. ¿Podrás ser tú, ese hombre para la Ciudad de México? Entonces, es a ti a quien decimos, entrégate, y cumple…EL LLAMADO.<br><br><i><b>De parte de:</b><ul>Pastor Domingo Carlos, Presidente FDV México<br>Pastor Juan Domínguez, Secretario<br>Pastor Abraham Encinas, Tesorero<br>Pastor Gabriel Gálvez, Vocal</ul></i>"
-        }
-    },
-    {
-        "x": "-5%",
-        "y": "80%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "35%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
         "class": "",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
-            }
-        ]
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>Informe Misionero Fuente de Verdad Global<br><br>",
+            "content": "<i>Paz de Cristo.</i><br><br>Es para mí un honor ser parte del trabajo misionero que realiza nuestra amada Iglesia Apostólica Fuente de Verdad.<br><br>Cuando empecé a colaborar en la Misiones Globales sólo contábamos con cuatro Iglesias, pero el crecimiento ha sido más que evidente, una a una, he podido ver la afiliación de cada Iglesia y la expansión que Dios nos ha permitido tener en los tres continentes en los que hacemos presencia.<br><br>Como resultado del crecimiento, se han tenido que incluir más líderes que pongan sus dones en esta área del servicio al Señor; Dios bendiga la labor del Pastor Domingo Carlos, quien se ha encargado de la administración de la obra en México y del Pastor Álvaro Ocampo, quien ha estado al frente del trabajo en Colombia.<br><br>Agradezco la confianza que el Obispo Samuel Valverde me ha tenido, para encabezar el trabajo de incorporación y administración de Guatemala, en donde tenemos dos Iglesias; Japón, en donde contamos con dos Iglesias; Canadá, con una Iglesia; Costa Rica, en donde contamos con dos Iglesias; Chile, en donde tenemos una naciente Iglesia y Los Estados Unidos, en donde tenemos 13 Iglesias, para un total de 21 Iglesias a cargo de su servidor.<br><br>Dentro de los logros obtenidos en las misiones globales puedo resaltar la obtención de la personería jurídica para Colombia; personería jurídica para México, labor liderada por el pastor Domingo Carlos; personería jurídica para Costa Rica y, recientemente, personería jurídica para Chile. Lo que nos permite trabajar con legalidad y total libertad en esos territorios.<br><br>Me siento muy felíz de poder servir a Dios y poner un granito de arena en favor de la expansión de la obra de Dios, pero, definitivamente, lo que más satisfacción nos produce es ver almas rindiéndose a las pies de Cristo y saber que, como resultado de la predicación de todos nuestros pastores a nivel global, entre los años 2021 y 2022, solo por citar un ejemplo, pudimos bautizar unas 364 personas en el Nombre de Jesús, todo para gloria del Señor.<br><br>La necesidad que tenemos de orar por nuestros pastores es urgente, la mayoría de ellos se encuentran empezando nuevas Iglesias y han venido de procesos muy dolorosos, pero al llegar a Fuente de Verdad han podido ver cómo Dios ha sanado sus corazones y eso les ha impulsado a querer poner sus vidas al servicio del Señor para trabajar en favor de aquellos que se encuentran heridos y sin hogar. <br><br>Sigamos orando fervientemente  y sigamos aportando generosamente para las Misiones Globales porque estamos seguros que aunque se ha hecho un gran trabajo, todavía <i>“la mies es mucha y los obreros pocos”.</i><br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'>Por el Pastor Martín Pérez</p>"
+        }
     },
     {
         "x": "50%",
@@ -112,5 +106,40 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "10%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "60%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author-pag-6",
+        "data": {
+            "author": "Martín Pérez",
+            "position": "Pastor",
+            "year": "2023",
+            "src": "./assets/pics/photos/martinperez.jpeg"
+        }
+    },
+    {
+        "x": "59.5%",
+        "y": "14%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h6 class='monserrat-black' style='text-align: center;font-size: 0.8em; color: white;'>Por el<br><strong>PASTOR MARTÍN PÉREZ</strong><h6>"
+        }
+                
     }
 ]

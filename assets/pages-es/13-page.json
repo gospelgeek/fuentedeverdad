@@ -1,88 +1,19 @@
 [
     {
-        "x": "10%",
-        "y": "5%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "Silicon Valley,California"
+        "x": "60.5%",
+        "y": "16.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p13",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FOUNTAIN SILICON VALLEY<h6>2022</h6>",
+            "content": "“Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros, a Él sea la gloria en la iglesia en Cristo Jesús por todas las edades, por los siglos de los siglos. Amén” Efesios 3:20-21<br><br>La iglesia en Fountain Silicon Valley y su pastor el hermano Fredy Quintero, les saluda en el nombre del Señor Jesucristo, deseándoles abundantes bendiciones en sus hogares y en sus labores diarias.<br><br>Doy gracias a Dios primeramente, y a la Iglesia Apostólica Fuente de Verdad por la confianza depositada en mí, para desempeñarme en la honrosa labor de liderar una iglesia que predica la verdad, basada en el amor y en la honra al Señor Jesucristo.<br><br>Al empezar esta nueva etapa, se generaron muchas expectativas porque siempre se quiere hacer lo mejor, con la aprobación de Dios; por consiguiente, puedo decir que anduvimos por fe y por fe se lograron recibir muchas bendiciones durante el año. Dios dijo a Josué: “Estaré contigo dondequiera que vayas” y esta promesa es para nosotros también! Ella me da la confianza de contar siempre con su apoyo y me da la seguridad de que Aquel que es poderoso, va mucho más allá de mis expectativas.<br><br>A continuación, presentaremos algunos de los eventos más importantes realizados durante la vigencia 2022, en la iglesia de Fountain Silicon Valley, siempre pidiendo la dirección y el respaldo de nuestro Señor Jesucristo."
         }
-  
-    },
-    {
-        "x": "5%",
-        "y": "10%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Ayunos y alboradas mensuales</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "10%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Devocionales 'Teens en la playa'</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/2.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "32%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Más Bautismos</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/4.jpg'/></a></div></div>"
-    },{
-        "x": "5%",
-        "y": "27%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Día de Acción de Gracias</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/3.jpg'/></a></div></div>"
-    },
-    {
-        "x": "5%",
-        "y": "50%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Semana de la Familia</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/5.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "53%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Seminario de Liderazgo y Bautismo</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/6.jpg'/></a></div></div>"
-    },
-    {
-        "x": "5%",
-        "y": "70%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Seminario de Unicidad</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/7.jpg'/></a></div></div>"
-    },{
-        "x": "50%",
-        "y": "75%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Servicios de Primicias</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/silicon_valley/8.jpg'/></a></div></div>"
     }
 ]
