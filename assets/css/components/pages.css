@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: row;
     height: 53%;
-    overflow-y: auto;
+    /*overflow-y: auto;*/
     padding: 0 5%;
 }
 
@@ -40,7 +40,7 @@
 #word2,
 #word3,
 #word4,
-#word5{
+#word5,#word6{
     text-align: center;
     margin-bottom: 10px;
     background-color: #ffffff;
@@ -55,7 +55,7 @@
     margin-bottom: 10px;
     background-color: #ffffff;
     border: none;
-    height: 11%;
+    /*height: 11%;*/
     border-radius: 35px 35px 35px 35px;
     box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;
 }
@@ -105,8 +105,8 @@ span {
 }
 
 .main-img {
-    width: 160px !important;
-    height: 165px !important;
+    width: 350px !important;
+    height: 350px !important;
     border-radius: 100%;
     box-shadow: 8px 10px 30px grey;
 }
@@ -345,7 +345,7 @@ span {
 }
 
 .button-magazine {
-    display: flex;
+    /*display: flex;*/
     align-items: center;
     text-decoration: none;
     color: #000000;
@@ -355,9 +355,9 @@ span {
 }
 
 .button-magazine img {
-    width: 9% !important;
-    border-radius: 100%;
-    animation: pulse 2s 3;
+    width: 15% !important;
+    /*border-radius: 100%;
+    animation: pulse 2s 3;*/
 }
 
 .button-read img {
@@ -387,7 +387,7 @@ audio {
 
 /*Modal*/
 
-.modal {
+.modal{
     max-width: unset !important;
     width: 50% !important;
     height: 100%;
@@ -813,90 +813,6 @@ audio {
 #title-27-aux {
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
-}
-
-#background-page-10 {
-    height: 64% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-11 {
-    height: 64% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-28 {
-    height: 80% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-29 {
-    height: 80% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-30 {
-    height: 54% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-35 {
-    height: 80% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-36 {
-    height: 68% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-37 {
-    height: 68% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-42 {
-    height: 68% !important;
-    position: absolute !important;
-    top: 0;
-}
-
-#background-page-43 {
-    height: 63% !important;
-    position: absolute !important;
-    bottom: 0;
-}
-
-#background-page-44 {
-    height: 55% !important;
-    position: absolute !important;
-    top: 0;
-}
-
-#background-page-46 {
-    height: 80% !important;
-    position: absolute !important;
-    top: 0;
-}
-
-#background-page-20 {
-    height: 100% !important;
-    position: absolute !important;
-    top: 0;
-}
-
-#background-page-8 {
-    height: 100% !important;
-    position: absolute !important;
-    top: -10%;
 }
 
 
@@ -3441,3 +3357,33 @@ button::-moz-focus-inner {
     background-color: rgb(32, 80, 184);
     border: 2px solid rgb(32, 80, 184);
 }
+
+.slider-container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    overflow-x: scroll;
+  }
+  
+  .slider-container img {
+    flex: 0 0 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .slider-container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+  
+  .slider-container img {
+    flex: 0 0 100%;
+    width: 100%;
+    object-fit: cover;
+  
+    /* Vamos a añadir esto 👇 */
+    scroll-snap-align: center;
+  }

@@ -37,9 +37,19 @@ const addComponents = (region, lang) => {
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml"><p style="font-size:' + region.fontSize + '">' + region.text + '</p>', region))
+                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
     
             break;
+        case 'modal-2':
+            element = $('<div/>', { class: 'content-modal modal-lg' }).append(
+                    $('<div/>', { id: region.id, class: 'modal' }).append(
+                        $('<div/>', { class: 'print-modal' }).html(region.data.print),
+                        $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
+                        $('<img>', { src: region.data.src, class: 'title-modal' }),
+                        $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.imagenes))),
+                    addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+        
+            break;    
         case 'audio':
             element = $('<div/>', { class: 'content-audio' }).append(
                     addSVG('<a style="position:absolute;"class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region),
@@ -176,19 +186,22 @@ const addComponents = (region, lang) => {
                                     <h1>${region.data[0].titulo}</h1>
                                 </div>
                                 <div class="pista">
-                                    <p>${region.data[0].pista1}</p>
+                                    <p style="text-align: center;">${region.data[0].pista1}</p>
                                 </div>
                                 <div class="pista">
-                                    <p>${region.data[0].pista2}</p>
+                                    <p style="text-align: center;">${region.data[0].pista2}</p>
                                 </div>
                                 <div class="pista">
-                                    <p>${region.data[0].pista3}</p>
+                                    <p style="text-align: center;">${region.data[0].pista3}</p>
                                 </div>
                                 <div class="pista">
-                                    <p>${region.data[0].pista4}</p>
+                                    <p style="text-align: center;">${region.data[0].pista4}</p>
                                 </div>
                                 <div class="pista">
-                                    <p>${region.data[0].pista5}</p>
+                                    <p style="text-align: center;">${region.data[0].pista5}</p>
+                                </div>
+                                <div class="pista">
+                                    <p style="text-align: center;">${region.data[0].pista6}</p>
                                 </div>
                             </div>
                             <div class="divWords">
@@ -202,6 +215,7 @@ const addComponents = (region, lang) => {
                                     <option value="word4">${region.data[1].respuesta3}</option>
                                     <option value="word2">${region.data[1].respuesta4}</option>
                                     <option value="word1">${region.data[1].respuesta5}</option>
+                                    <option value="word4">${region.data[1].respuesta6}</option>
                                 </select>
                                 <select id="word2" class="selectGame">
                                     <option value="0" selected="">${region.data[1].text}</option>
@@ -210,6 +224,7 @@ const addComponents = (region, lang) => {
                                     <option value="word4">${region.data[1].respuesta3}</option>
                                     <option value="word3">${region.data[1].respuesta4}</option>
                                     <option value="word5">${region.data[1].respuesta5}</option>
+                                    <option value="word4">${region.data[1].respuesta6}</option>
                                 </select>
                                 <select id="word3" class="selectGame">
                                     <option value="0" selected="">${region.data[1].text}</option>
@@ -218,6 +233,7 @@ const addComponents = (region, lang) => {
                                     <option value="word1">${region.data[1].respuesta3}</option>
                                     <option value="word3">${region.data[1].respuesta4}</option>
                                     <option value="word5">${region.data[1].respuesta5}</option>
+                                    <option value="word4">${region.data[1].respuesta6}</option>
                                 </select>
                                 <select id="word4" class="selectGame">
                                     <option value="0" selected="">${region.data[1].text}</option>
@@ -226,6 +242,7 @@ const addComponents = (region, lang) => {
                                     <option value="word4">${region.data[1].respuesta3}</option>
                                     <option value="word2">${region.data[1].respuesta4}</option>
                                     <option value="word3">${region.data[1].respuesta5}</option>
+                                    <option value="word4">${region.data[1].respuesta6}</option>
                                 </select>
                                 <select id="word5" class="selectGame">
                                     <option value="0" selected="">${region.data[1].text}</option>
@@ -234,40 +251,53 @@ const addComponents = (region, lang) => {
                                     <option value="word5">${region.data[1].respuesta3}</option>
                                     <option value="word2">${region.data[1].respuesta4}</option>
                                     <option value="word4">${region.data[1].respuesta5}</option>
+                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                </select>
+                                <select id="word6" class="selectGame">
+                                    <option value="0" selected="">${region.data[1].text}</option>
+                                    <option value="word3">${region.data[1].respuesta1}</option>
+                                    <option value="word1">${region.data[1].respuesta2}</option>
+                                    <option value="word5">${region.data[1].respuesta3}</option>
+                                    <option value="word2">${region.data[1].respuesta4}</option>
+                                    <option value="word4">${region.data[1].respuesta5}</option>
+                                    <option value="word4">${region.data[1].respuesta6}</option>
                                 </select>
                             </div>
                         </div>`)
             break;
         case 'tooltip':
             element = $('<a/>', {}).append(
-                    addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><em>' + region.data.author + '</em><img class="main-img" src=' + region.data.src + '></p>', region),
+                    addSVG('<p class="main-text " style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
                     addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
             break;     
             
         case 'portada':
-            element = `<div class="page">
+            element = (`<div class="page">
                 <div id="animatedBackground"></div>
                 <img src="assets/pics/portada/portada_fondo.png" alt="">
-                <img src="assets/pics/portada/portada_textos_marco.png" alt="">
-            </div>`;
+                <img src="${region.url}" alt="">
+            </div>`);
             break; 
         case 'imageIdex':
             element = `<div class="index-image">
                 <img src="assets/pics/general-images/top-index.jpg" alt="">
             </div>`;
             break; 
-        case 'page-4-title':
-            element = `<div class="page-4-title">
+        case 'page-3-title':
+            element = `<div class="page-3-title">
                 <h2>Carta del Obispo presidente</h2>
                 <h1>SAMUEL VALVERDE</h1>
                 <p>Desde el escritorio del <strong>Obispo Samuel Valverde</strong></p>
             </div>`;
             break; 
         case 'author-pic':
-            element = `<div class="page-4-title">
-                <img src="assets/pics/photos/carta_obispo_foto.jpg">
-            </div>`;
-            break; 
+            element = (`<div class="page-3-title">
+                    ${region.image}
+            </div>`);
+            break;
+        case 'video-emb':
+            element = (`${region.url}`);
+            break;     
         default:
             break;
             

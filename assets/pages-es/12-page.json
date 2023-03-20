@@ -1,112 +1,70 @@
 [
     {
-        "x": "-12%",
-        "y": "2%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "Brewster,New York"
+        "x": "62%",
+        "y": "19.7%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p12",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FRESH INK<h6>Septiembre 30 de 2022</h6>",
+            "content": "Los jóvenes hicieron una actividad para la comunidad, con el fin de alcanzar la juventud del sector. El tema del servicio fue “Te queremos Aquí”"
         }
-  
     },
     {
-        "x": "5%",
-        "y": "5%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>CULTO DE NIÑOS</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/brewster/3.jpg'/></a></div></div>"
-    },
-    {
-        "x": "40%",
-        "y": "2%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "Hurst,Texas"
+        "x": "62%",
+        "y": "31.7%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p12-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO DE ACCIÓN DE GRACIAS",
+            "content": "Celebramos junto con la iglesia de Pipeline Church este servicio, afuera en el estacionamiento. Fue de gran bendición."
         }
-  
     },
     {
-        "x": "50%",
-        "y": "5%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Segundo Aniversario de la Iglesia</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/texas/segundo_aniversario/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "30%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Alborada</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/texas/alborada/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "50%",
-        "y": "50%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Fresh Ink</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/texas/fresh_ink/1.jpg'/></a></div></div>"
-    },{
-        "x": "50%",
-        "y": "66%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Servicios de Acción de Gracias</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/texas/accion_gracias/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "-6%",
-        "y": "30%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "Plano,Texas"
+        "x": "62%",
+        "y": "70.6%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p12-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>LANZAMIENTO OFICIAL FUENTE DE VERDAD PLANO, TEXAS<h6>Enero 22 de 2022</h6>",
+            "content": "Para nosotros fue un día especial, ya que nuestro Obispo hizo el lanzamiento oficial trayendo consigo una nueva etapa en nuestra congregación. En este día una familia completa se entregó al Señor, bautizándose el padre de familia y, su esposa reconciliándose con el Señor luego de casi 20 años de estar apartada; dedicaron sus hijas al Señor y fue un fin de semana increíble.<br><br>Escrito por el Pastor Edwin Camilo Moreno"
         }
-  
     },
     {
-        "x": "5%",
-        "y": "30%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Lanzamiento Iglesia</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/plano/1.jpg'/></a></div></div>"
-    },
-    {
-        "x": "5%",
-        "y": "68%",
-        "width": "60%",
-        "zIndex": 200,
-        "tag": "all-component",
-        "id_unique": "a1-img-page-11",
-        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>Primer Aniversario</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/Eventos/eeuu/plano/2.jpg'/></a></div></div>"
+        "x": "62%",
+        "y": "81.3%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p12-4",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>1er. ANIVERSARIO FDV PLANO, TEXAS<h6>Abril 11-12 de 2022<h6>",
+            "content": "¡Fin de semana de victoria! Este fin de semana tuvimos conferencia para parejas, 3 nuevos bautismos y celebración de Santa Cena por primera vez en nuestra congregación,  auspiciada por nuestro Obispo Samuel Valverde. Hubo llenura del Espíritu Santo para nuevos hermanos, definitivamente este fin de semana marcó otro periodo especial en la historia de nuestra congregación.<br><br>Pastor Edwin Camilo Moreno"
+        }
     }
 ]

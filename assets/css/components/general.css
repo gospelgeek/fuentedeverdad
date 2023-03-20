@@ -1,58 +1,54 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
-body div[page="4"] .page.p4 .region.undefined .page-4-title h2 {
+body div[page="3"] .page.p3 .region.undefined .page-3-title h2 {
   color: #785849;
   font-weight: 400;
 }
-body div[page="4"] .page.p4 .region.undefined .page-4-title h1 {
+body div[page="3"] .page.p3 .region.undefined .page-3-title h1 {
   color: #770b0a;
 }
-body div[page="4"] .page.p4 .region.undefined .page-4-title p {
+body div[page="3"] .page.p3 .region.undefined .page-3-title p {
   text-align: center;
   color: #000000;
   margin-top: 15px;
 }
-body div[page="4"] .page.p4 .region.undefined .aux-class-content h4 {
+body div[page="3"] .page.p3 .region.undefined .aux-class-content h4 {
   font-size: 15px;
   color: #000000;
   text-align: center;
   font-weight: 800;
 }
-body div[page="4"] .page.p4 .region.undefined .aux-class-content p::first-letter {
+body div[page="3"] .page.p3 .region.undefined .aux-class-content p::first-letter {
   font-size: 200px;
 }
-body div[page="4"] .page.p4 .region.undefined .aux-class-content .main-text,
-body div[page="4"] .page.p4 .region.undefined .aux-class-content i {
+body div[page="3"] .page.p3 .region.undefined .aux-class-content .main-text,
+body div[page="3"] .page.p3 .region.undefined .aux-class-content i {
   color: #000000;
   font-family: 'Poppins', sans-serif;
 }
-body div[page="4"] .page.p4 .region.tooltip-author img {
+body div[page="3"] .page.p3 .region.tooltip-author img {
   display: none;
 }
-body div[page="4"] .page.p4 .region.author-image {
+body div[page="3"] .page.p3 .region.author-image {
   z-index: 1;
 }
-body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
+body div[page="3"] .page.p3 .region.actions .div-center-two-icons-responsive {
   gap: 10px;
 }
-body div[page="4"] .page.p4 .content-modal a.button-magazine p {
-  background-color: #ffffff;
-  color: #000000;
-  padding: 30px;
-  border-radius: 80px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  white-space: nowrap;
+
+
+.main-text{
+
+  font-size: 0.73em;
 }
-body div[page="4"] .page.p4 .content-modal a.button-magazine p img {
-  width: 100px !important;
-  height: 100px;
-  transform: scale(2);
+
+.title-p5{
+  font-size: 1em;
+  color: #f1f6ce;
 }
-body div[page="4"] .page.p4 .content-modal a.button-magazine p span {
-  font-size: 36px;
-  margin-left: 50px;
+
+.text-pag-4{
+  font-size: 0.65em;
+  color: #f1f6ce;
 }

@@ -1,120 +1,46 @@
 [
     {
-        "x": "5%",
-        "y": "5%",
-        "width": "90%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-2",
-        "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1.5em; color: black;'>GRANDES NOTICIAS DESDE EL CAMPO MISIONERO</h4>"
-        }
-                
-    },
-    {
-        "x": "-5%",
-        "y": "25%",
-        "width": "100%",
+        "x": "17%",
+        "y": "55%",
+        "width": "70%",
         "styleBox": "",
         "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "10em",
+        "color": "#ffff",
+        "font-size": "2em",
         "tag": "contenido",
-        "id_unique": "box-text-page-7",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>En cuanto a instituciones de iglesias, Misiones Globales Fuente de Verdad está apenas en su estado de infancia. Sin embargo, muchos pastores y ministros heridos, sin hogar, y con hambre, han migrado hacia un lugar donde Dios transforma su dolor en propósito. Dios está sanando corazones, restaurando fuerzas, y usando hombres y mujeres para abrir obras alrededor del mundo.</p>"
+           "text": "<p class='main-text'>En cuanto a instituciones de iglesias, Misiones Globales Fuente de Verdad está apenas en su estado de infancia. Sin embargo, muchos pastores y ministros heridos, sin hogar, y con hambre, han migrado hacia...</p>"
         }
     },
     {
-        "x": "5%",
-        "y": "55%",
+        "x": "40%",
+        "y": "70%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "3.3em",
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p9",
-        "class": "button-read",
-        "text": "Leer más...",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>GRANDES NOTICIAS DESDE EL CAMPO MISIONERO<br><br>",
             "content": "En cuanto a instituciones de iglesias, Misiones Globales Fuente de Verdad está apenas en su estado de infancia. Sin embargo, muchos pastores y ministros heridos, sin hogar, y con hambre, han migrado hacia un lugar donde Dios transforma su dolor en propósito. Dios está sanando corazones, restaurando fuerzas, y usando hombres y mujeres para abrir obras alrededor del mundo.<br><br>Actualmente, estamos presentes en diez países con 54 puntos de predicación y cuarenta y ocho pastores que están pastoreando los rebaños. Dios se está moviendo. El año pasado dedicamos un hermoso edificio, localizado en las montañas altas de Guatemala; recientemente inauguramos nuestro edificio de la iglesia en Siem Reap Cambodia. Establecimos un estudio bíblico en Puerto Montt, un pueblo más al sur de Chile; estamos entrenando a un ministro en Argentina y continuamos predicando en Tokyo e Hiroshima. Desde las playas hermosas de Playa del Carmen hasta las fronteras de Tijuana y Mexicali, BC México, la palabra de Dios se está predicando. Seattle, Ohio, Dallas, San Antonio, San Diego, y Phoenix continúan creciendo al igual que nuestras iglesias en Silicon Valley del Norte de California. Las Vegas continúa ganando almas y haciendo discípulos.<br><br>Hemos intensificado nuestro entrenamiento para pastores que se unen a FDV - Global con el plan Roadmap, y continuamos profundizando en conocimiento bíblico a través del Instituto Bíblico de Fuente de Verdad. Aún algo más emocionante es que muchas de nuestras iglesias (si no es que todas) están buscando a Dios en cadenas de ayuno y de oración de 21 días.<br><br>Estamos deseando que llegue nuestra Cumbre de Misiones 2023/Evento El Derramamiento, que tomará lugar del 5 al 8 de Octubre. Vendrá más información pronto. Haga planes para asistir.<br><br>Considerando todo, Dios ha sido más que maravilloso; esto es solo el comienzo, puesto que lo mejor está por venir.<br><br><b>Obispo Samuel Valverde</b>"
         }
-    },
-    {
-        "x": "-5%",
-        "y": "80%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "35%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
-            }
-        ]
-    },
-    {
-        "x": "50%",
-        "y": "80%",
-        "width": "50%",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "social-media",
-        "text": "",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/facebook.png",
-                "url": "http://www.facebook.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/gorjeo.png",
-                "url": "http://twitter.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/whatsapp.png",
-                "url": "http://api.whatsapp.com/",
-                "page": 4
-            }
-        ]
-    },
+    },  
     {
         "x": "10%",
-        "y": "50%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "77%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "tooltip",
-        "class": "tooltip-author",
-        "id": "author8",
-        "data": {
-            "author": "Samuel Valverde",
-            "position": "Obispo",
-            "year": "2023",
-            "src": "./assets/pics/photos/samuelvalverde.jpg"
+        "y": "20%",
+        "tag": "img",
+        "class": "",
+        "width": "400",
+        "height":"300",
+        "data":{
+        "src": "assets/pics/general-images/tit_grandes_noticias_esp.webp"
         }
     }
 ]

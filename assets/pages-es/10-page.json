@@ -1,45 +1,36 @@
 [
     {
-        "x": "5%",
-        "y": "5%",
+        "x": "23%",
+        "y": "89%",
+        "viewX": 1800,
+        "viewY": 100,
         "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "data":{
-            "text": "RANCHO CUCAMONGA,CALIFORNIA"
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p10",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CUMBRE CELULAR GLOBAL 2022<h6>Sábado 03 de Septiembre<h6>",
+            "content": "<b>Invitados:</b><ul><li>Pastor Mario Oseguera</li><li>Pastor Elías Paez</li><li>Pastor Samuel Valverde</li></ul>Como Iglesia FDV Global, tuvimos la bendición de estar conectadas todas las sedes de manera simultánea en nuestra Cumbre Celular 2022 transmitida desde la sede central FDV Rancho Cucamonga, fuimos enseñados en que los GRUPOS CASA son un lugar de conexión, de protección, de crecimiento y evangelismo, recibiendo sesiones de motivación y adiestramiento para implementar el ministerio celular de manera formal.<br><br>Estas son algunas de las iglesias globales FDV que participaron en línea:"
         }
-  
     },
     {
-        "x": "50%",
-        "y": "95%",
-        "width": "50%",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "social-media",
-        "text": "",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/facebook.png",
-                "url": "http://www.facebook.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/gorjeo.png",
-                "url": "http://twitter.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/whatsapp.png",
-                "url": "http://api.whatsapp.com/",
-                "page": 4
-            }
-        ]
+        "x": "65%",
+        "y": "89%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p10-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "EL DERRAMAMIENTO",
+            "content": "Los reportes del increíble fin de semana parecían no menguar. Unos hablaban emocionados acerca de un culto, y otros, con no menos emoción, acerca de otro. Para unos era tal predicación, y para otros el tiempo de altar que le siguió. Todos, desde experimentados ministros hasta nuevos convertidos, decían haber recibido algo muy especial. Vez tras vez se mencionaba un factor en común… Dios se hizo presente.<br><br><b>¿Qué es El Derramamiento?</b><br><br>La promesa de Dios en Joel 2:28 de que en los últimos días derramaría de Su Espíritu comenzó a cumplirse el Día de Pentecostés cuando por primera vez un grupo de creyentes recibió el don del Espíritu Santo (Hechos 2:1–4). Siendo que Jesucristo enseñó que la entrada al reino de los cielos requería “nacer de agua y del Espíritu” (Juan 3:5), y que la señal inicial de la recepción de Su Espíritu es el hablar en lenguas (Hechos 2, 10, 19), un evento que enfatice esta maravillosa experiencia no podía faltar en una iglesia apostólica.<br><br>El Derramamiento, entonces, tiene el propósito de posibilitar tres objetivos sumamente importantes, considerando el primero como esencial a la existencia de esta conferencia:<ol><li>Que los que nunca han recibido el bautismo del Espíritu Santo hablando en lenguas lo reciban (Hechos 2:1–4).</li><li>Que los creyentes que ya recibieron el Espíritu puedan renovar su experiencia, siendo llenos del Espíritu Santo otra vez (Hechos 4:29–31).</li><li>Promover una atmósfera donde los milagrosos dones del Espíritu puedan manifestarse y operar para el beneficio de la iglesia como cuerpo de Cristo (1 Corintios 12:4–11).</li></ol><b>El Derramamiento 2022</b><br><br>Por supuesto, una conferencia donde se dé prioridad a la presencia del Espíritu Santo tendrá otros beneficios: la confraternidad con hermanos de diversas iglesias, de varios estados de la unión americana, así como visitantes de otros países; el celo misionero que nació en varios corazones; la juventud que visitó el altar noche tras noche y se fueron llenos de la presencia de Dios; visitantes que sintieron por primera vez la presencia de un Dios real y vivo; los ministros y ministerios que fueron energizados para alcanzar este mundo con el evangelio.<br><br>Tal vez la característica principal del Derramamiento 2022 fue el claro llamado de Dios a un retorno a la santidad, a honrar la presencia de un Dios santo en espíritu, conducta, y aún vestimenta, así como era en los albores de nuestro movimiento pentecostal. Nuestros líderes respondieron afirmativamente, con un compromiso de predicar y enseñar la Palabra sin disoluciones.<br><br>Por todo ello, anticipamos un mover de Dios aún más poderoso en el futuro, y todos los que estuvieron presentes este año ya hicieron planes para no perderse el siguiente Derramamiento."
+        }
     }
 ]
