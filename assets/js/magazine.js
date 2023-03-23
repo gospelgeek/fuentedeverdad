@@ -64,7 +64,8 @@
            pageElement.find('.loader').remove();
        });
 
-       let background_diferent = [3,5,  7, 8, 10,38,39,48,49]
+       let background_diferent = [3,5,  7, 8, 10,38,39,48,49];
+
        checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
        loadRegions(page, pageElement, lang);
 
