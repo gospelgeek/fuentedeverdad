@@ -311,6 +311,11 @@ const addComponents = (region, lang) => {
                 <p><strong>${region.text1}</strong>${region.text2}</p>
             </div>`;
             break; 
+        case 'event-subtitle':
+            element = `<div class="event-subtitle">
+                <p>${region.text}</p>
+            </div>`;
+            break; 
         default:
             break;
             

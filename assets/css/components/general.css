@@ -48,7 +48,16 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   color: #ffffff;
   transform: translateX(-10px);
   text-transform: capitalize;
-  max-width: 150px;
+  max-width: 180px;
+}
+@media (max-width: 480px) {
+  .event-container .image img {
+    width: 70px;
+  }
+  .event-container h3.text {
+    font-size: 14px;
+    max-width: 150px;
+  }
 }
 .event-title p {
   color: #ffffff;
@@ -57,4 +66,12 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-title p strong {
   margin-right: 8px;
   font-size: 40px;
+}
+.event-subtitle {
+  max-width: 150px;
+}
+.event-subtitle p {
+  color: #ffffff;
+  font-size: 13px;
+  text-align: left;
 }

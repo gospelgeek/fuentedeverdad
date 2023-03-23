@@ -8,13 +8,19 @@
     },
     {
         "tag": "event-container",
-        "x": "11%",
-        "y": "20%",
+        "x": "8%",
+        "y": "21%",
         "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
         "text": "Día del Super Heroe 2022"
     },
     {
-        "x": "62%",
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "20%",
+        "text": "Tuvimos la grata compañía de nuestro..."
+    },
+    {
+        "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
         "viewY": 100,
@@ -40,21 +46,33 @@
     },
     {
         "tag": "event-container",
-        "x": "11%",
+        "x": "8%",
         "y": "53%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-2ANIVERSARIO.webp",
         "text": "Segundo Aniversario de la Iglesia"
     },
     {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "56%",
+        "text": "Tuvimos la grata compañía de nuestro..."
+    },
+    {
         "tag": "event-container",
-        "x": "11%",
-        "y": "67%",
+        "x": "8%",
+        "y": "68%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
         "text": "Alborada Servicio de Amanecer"
     },
     {
-        "x": "62%",
-        "y": "60.7%",
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "69%",
+        "text": "Celebramos junto con la iglesia de pipeline..."
+    },
+    {
+        "x": "61%",
+        "y": "61.7%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -70,8 +88,8 @@
         }
     },
     {
-        "x": "62%",
-        "y": "73.8%",
+        "x": "61%",
+        "y": "74.8%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
