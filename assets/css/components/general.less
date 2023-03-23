@@ -13,8 +13,8 @@
 
 body{
     // pagina 3
-    div[page="3"]{
-        .page.p3{
+    div[page="4"]{
+        .page.p4{
             .region.undefined{
                 .page-3-title{
                     h2{
@@ -67,5 +67,35 @@ body{
             }
             
         } 
+    }
+}
+
+// estilos generales para el contenedor de los eventos
+.event-container{
+    display: flex;
+    align-items: center;
+    .image{
+        img{
+            width: 80px;
+            border-radius: 50%;
+        }
+    }
+    h3.text{
+        color: @white;
+        transform: translateX(-10px);
+        text-transform: capitalize;
+        max-width: 150px;
+    }
+}
+
+// estilos generales para el titulo de los eventos
+.event-title{
+    p{
+        color: @white;
+        font-size: 20px;
+        strong{
+            margin-right: 8px;
+            font-size: 40px;
+        }
     }
 }
