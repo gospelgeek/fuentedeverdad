@@ -1,8 +1,8 @@
 [
     {
-        "x": "17%",
-        "y": "55%",
-        "width": "70%",
+        "x": "5%",
+        "y": "50%",
+        "width": "75%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
@@ -12,12 +12,12 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text'>En cuanto a instituciones de iglesias, Misiones Globales Fuente de Verdad está apenas en su estado de infancia. Sin embargo, muchos pastores y ministros heridos, sin hogar, y con hambre, han migrado hacia...</p>"
+           "text": "<p class='main-text-p11'>En cuanto a instituciones de iglesias, Misiones Globales Fuente de Verdad está apenas en su estado de infancia. Sin embargo, muchos pastores y ministros heridos, sin hogar, y con hambre, han migrado hacia...</p>"
         }
     },
     {
-        "x": "40%",
-        "y": "70%",
+        "x": "12%",
+        "y": "72%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -37,10 +37,101 @@
         "y": "20%",
         "tag": "img",
         "class": "",
-        "width": "400",
+        "width": "350",
         "height":"300",
         "data":{
         "src": "assets/pics/general-images/tit_grandes_noticias_esp.webp"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "23%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-cr.gif",
+        "pagina": "34"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "30%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-cb.gif",
+        "pagina": "32"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "38%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-jp.gif",
+        "pagina": "30"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "46%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-co.gif",
+        "pagina": "26"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "54%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-mx.gif",
+        "pagina": "20"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "63%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-usa.gif",
+        "pagina": "12"
+        }
+    },
+    {
+        "x": "90%",
+        "y": "72%",
+        "tag": "img-2",
+        "class": "",
+        "width": "50",
+        "height":"50",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-ch.gif",
+        "pagina": "37"
         }
     }
 ]

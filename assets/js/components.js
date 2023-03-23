@@ -267,7 +267,7 @@ const addComponents = (region, lang) => {
             break;
         case 'tooltip':
             element = $('<a/>', {}).append(
-                    addSVG('<p class="main-text " style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
+                    addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
                     addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
             break;     
             
@@ -283,9 +283,9 @@ const addComponents = (region, lang) => {
                 <img src="assets/pics/general-images/top-index.jpg" alt="">
             </div>`;
             break; 
-        case 'page-3-title':
-            element = `<div class="page-3-title">
-                <h2>Carta del Obispo presidente</h2>
+        case 'page-4-title':
+            element = `<div class="page-4-title">
+                <h2>Carta del <br>Obispo presidente</h2>
                 <h1>SAMUEL VALVERDE</h1>
             </div>`;
             break; 
@@ -296,7 +296,16 @@ const addComponents = (region, lang) => {
             break;
         case 'video-emb':
             element = (`${region.url}`);
-            break;     
+            break;
+
+        case 'img-2':
+            if(region.lang == "esp"){
+                element = '<a href="./index.html#pagina/'+region.data.pagina +'"> <img src=' + region.data.src + '></a>'
+            }else{
+                element = '<a href="./index-en.html#pagina/'+region.data.pagina +'"> <img src=' + region.data.src + '></a>'
+            }
+            
+            break;       
         default:
             break;
             
