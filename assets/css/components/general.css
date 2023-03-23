@@ -75,3 +75,6 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   font-size: 13px;
   text-align: left;
 }
+.region.full-subtitle .event-subtitle {
+  max-width: none;
+}
