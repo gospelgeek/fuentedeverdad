@@ -287,7 +287,6 @@ const addComponents = (region, lang) => {
             element = `<div class="page-3-title">
                 <h2>Carta del Obispo presidente</h2>
                 <h1>SAMUEL VALVERDE</h1>
-                <p>Desde el escritorio del <strong>Obispo Samuel Valverde</strong></p>
             </div>`;
             break; 
         case 'author-pic':
