@@ -1,14 +1,14 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
-body div[page="4"] .page.p4 .region.undefined .page-3-title h2 {
+body div[page="4"] .page.p4 .region.undefined .page-4-title h2 {
   color: #785849;
   font-weight: 400;
 }
-body div[page="4"] .page.p4 .region.undefined .page-3-title h1 {
+body div[page="4"] .page.p4 .region.undefined .page-4-title h1 {
   color: #770b0a;
 }
-body div[page="4"] .page.p4 .region.undefined .page-3-title p {
+body div[page="4"] .page.p4 .region.undefined .page-4-title p {
   text-align: center;
   color: #000000;
   margin-top: 15px;
@@ -36,6 +36,60 @@ body div[page="4"] .page.p4 .region.author-image {
 body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   gap: 10px;
 }
+
+.main-text{
+
+  font-size: 0.73em;
+}
+
+.main-text-p9{
+  font-size: 0.75em;
+  text-align: right;
+  line-height: 12px;
+  color: rgb(209, 206, 206);
+}
+
+
+.main-text-p8{
+  font-size: 0.73em;
+}
+
+
+.title-p7{
+  font-size: 1.2em;
+  color: #301406;
+  line-height: 16px;
+}
+
+.text-pag-7{
+  font-size: 0.8em;
+  color: #301406;
+}
+
+.main-text-p9-1{
+  font-size: 0.7em;
+  text-align: center;
+}
+
+.main-text-p11{
+  text-align: left;
+  font-size: 0.90em;
+}
+
+.main-text-p42{
+  color: black;
+  font-size: 0.75em;
+  text-align: left;
+  line-height: 12px;
+}
+
+.main-text-p42-2{
+  color: black;
+  font-size: 0.5em;
+  text-align: right;
+  line-height: 12px;
+}
+
 .event-container {
   display: flex;
   align-items: center;
@@ -78,3 +132,4 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .region.full-subtitle .event-subtitle {
   max-width: none;
 }
+

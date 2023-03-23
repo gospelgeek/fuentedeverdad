@@ -1,6 +1,6 @@
 [
     {
-        "x": "20%",
+        "x": "-4%",
         "y": "10%",
         "width": "80%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -10,14 +10,14 @@
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-indece-page-5",
+        "id_unique": "text-indece-page-9",
         "data": {
-            "text": "<h1 class='monserrat-black' style='font-size: 1.7em; color: #0a8967;'><strong>Saludo e Informe</strong><h1>"
+            "text": "<h1 class='monserrat-black' style='font-size: 1.7em; color: #ecbe13;'><strong>Saludo e Informe</strong><h1>"
         }
                 
     },
     {
-        "x": "34%",
+        "x": "10%",
         "y": "12%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -27,24 +27,26 @@
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-sub-page-6",
+        "id_unique": "text-sub-page-9",
         "data": {
-            "text": "<h3 class='monserrat-black' style='font-size: 1.5em; color: #0a8967; '>FDV México</h3>"
+            "text": "<h3 class='monserrat-black' style='font-size: 1.5em; color: #ecbe13; '>FDV Colombia</h3>"
         }
                 
     },
     {
-        "x": "20%",
+        "x": "0",
         "y": "23%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "60%",
-        "height": "4%",
-        "fontSize": "5em",
-        "tag": "p",
-        "class": "text-biblical",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9-2",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
         "data": {
-            "content": "<i><b>¡Es un placer saludarlos en el nombre de Cristo desde el país más bello del mundo,</b></i>"
+           "text": "<p class='main-text-p9-1'><i><b>1 Tesalonicenses 5.23</b> “Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, espíritu, alma y cuerpo, sea guardado irreprensible para la venida de nuestro Señor Jesucristo.”</i></p>"
         }
     },
     {
@@ -56,16 +58,16 @@
         "color": "#ffff",
         "font-size": "2em",
         "tag": "contenido",
-        "id_unique": "box-text-page-7",
+        "id_unique": "box-text-page-9-2",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p8'>Por la gracia de Dios, seguimos adelante con un deseo ferviente de servir cada vez mejor a nuestro Señor, de sembrar la palabra de Dios y de cosechar almas para el reino de Cristo, y de hacer discípulos por toda la nación. Actualmente hay 13 obras en 9 estados.</p>"
+           "text": "<p class='main-text-p8'>Paz de Cristo amados hermanos de nuestra hermosa iglesia FDV Global. Mi más profundo deseo es que Dios les siga bendiciendo en todas las cosas, a nuestro obispo presidente Samuel Valverde, nuestra primera dama Raquel Valverde y a todos y cada uno de nuestros hermanos que, siempre nos han mostrado su apoyo incondicional con sus oraciones, ofrendas y con su amor demostrado todo este tiempo.</p>"
         }
     },
     {
         "x": "10%",
-        "y": "48%",
+        "y": "52%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",

@@ -1,13 +1,13 @@
 [
     {
         "x": "0%",
-        "y": "10%",
+        "y": "5%",
         "width": "100%",
-        "tag": "page-3-title"
+        "tag": "page-4-title"
     },
     {
         "x": "0%",
-        "y": "35%",
+        "y": "28%",
         "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",
@@ -15,7 +15,7 @@
         "font-size": "2em",
         "tag": "contenido",
         "id_unique": "box-text-page-3",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1.2em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
            "text": "<p class='main-text'>Querida Iglesia Fuente de Verdad Global:<br>Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br>Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960<br></p>"
@@ -39,8 +39,8 @@
         }
     },
     {
-        "x": "2%",
-        "y": "90%",
+        "x": "20%",
+        "y": "62.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "35%",
@@ -52,7 +52,7 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
-                "icon": "./assets/pics/icons/iconEscucha.png",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
                 "url": "./assets/audios/"
             },
             {
@@ -62,8 +62,8 @@
         ]
     },
     {
-        "x": "50%",
-        "y": "90%",
+        "x": "55%",
+        "y": "65%",
         "width": "50%",
         "background-color": "#b41015",
         "color": "#fff",
@@ -90,9 +90,9 @@
     },
     {
         "x": "0%",
-        "y": "69%",
+        "y": "70.5%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/carta_obispo_foto.jpg'>"
+        "image": "<img src='assets/pics/photos/carta_obispo_foto.webp'>"
     }
 ]

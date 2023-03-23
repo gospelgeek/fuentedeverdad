@@ -1,24 +1,7 @@
 [
     {
-        "x": "5%",
-        "y": "0",
-        "width": "90%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-2",
-        "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1.5em; color: black;'>JESUCRISTO, NUESTRO MISIONERO POR EXCELENCIA</h4>"
-        }
-                
-    },
-    {
-        "x": "5%",
-        "y": "15%",
+        "x": "20%",
+        "y": "33%",
         "viewX": 1800,
         "viewY": 50,
         "width": "82%",
@@ -27,42 +10,44 @@
         "tag": "p",
         "class": "text-biblical",
         "data": {
-            "content": "<i>Paz de Cristo.</i>"
+            "content": "<i><strong>Paz de Cristo</strong></i>"
         }
     },
     {
-        "x": "5%",
-        "y": "22%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "82%",
-        "height": "4%",
-        "fontSize": "4em",
-        "tag": "p",
-        "class": "text-biblical",
-        "data": {
-            "content": "<b>Isaías 61:1-3</b> “1 El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos apertura de la cárcel”</i>"
-        }
-    },
-    {
-        "x": "-5%",
-        "y": "40%",
-        "width": "100%",
+        "x": "12%",
+        "y": "43%",
+        "width": "78%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "10em",
         "tag": "contenido",
-        "id_unique": "box-text-page-7",
+        "id_unique": "box-text-page-42",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>Isaías profetizó, no solo el nacimiento del mesías, además, la labor que desempeñaría el más grande e importante misionero que el mundo haya conocido.</p>"
+           "text": "<p class='main-text-p42'>“1 El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón....</p>"
         }
     },
     {
-        "x": "5%",
-        "y": "57%",
+        "x": "12%",
+        "y": "54%",
+        "width": "75%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-42-2",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p42'>Isaías profetizó, no solo el nacimiento del mesías, además, la labor que desempeñaría el más grande e importante misionero que el mundo haya conocido...</p>"
+        }
+    },
+    {
+        "x": "20%",
+        "y": "64%",
         "viewX": 1800,
         "viewY": 100,
         "width": "90%",
@@ -78,8 +63,8 @@
         }
     },
     {
-        "x": "-5%",
-        "y": "80%",
+        "x": "-1%",
+        "y": "84%",
         "viewX": 1800,
         "viewY": 100,
         "width": "35%",
@@ -91,7 +76,7 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
-                "icon": "./assets/pics/icons/iconEscucha.png",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
                 "url": "./assets/audios/"
             },
             {
@@ -101,8 +86,8 @@
         ]
     },
     {
-        "x": "50%",
-        "y": "80%",
+        "x": "48%",
+        "y": "84%",
         "width": "50%",
         "background-color": "#b41015",
         "color": "#fff",
@@ -126,5 +111,39 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "42%",
+        "y": "30%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "40%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Martín Perez",
+            "position": "Pastor",
+            "year": "2023",
+            "src": "./assets/pics/photos/martinperez.jpeg"
+        }
+    },
+    {
+        "x": "50%",
+        "y": "33%",
+        "width": "25%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-42-3",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p42-2'>Por el<br><strong>PASTOR MARTÍN PÉREZ</strong></p>"
+        }
     }
 ]

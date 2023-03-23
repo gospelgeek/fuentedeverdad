@@ -1,7 +1,7 @@
 [
     {
         "x": "4%",
-        "y": "12%",
+        "y": "8%",
         "width": "80%",
         "styleBox": "",
         "background-color": "#b41015",
@@ -12,7 +12,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='title-p5'><strong>Quisiera que mi epitafio dijera:</strong></p>"
+           "text": "<p class='title-p7'><strong>Quisiera que mi<br> epitafio dijera:</strong></p>"
         }
     },
     {
@@ -28,12 +28,12 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='text-pag-4'>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.</p>"
+           "text": "<p class='text-pag-7'>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.</p>"
         }
     },
     {
-        "x": "68%",
-        "y": "26%",
+        "x": "12%",
+        "y": "36%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -49,8 +49,8 @@
         }
     },
     {
-        "x": "85%",
-        "y": "25.7%",
+        "x": "12%",
+        "y": "42%",
         "viewX": 1800,
         "viewY": 100,
         "width": "50%",

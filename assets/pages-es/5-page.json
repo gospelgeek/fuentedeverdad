@@ -1,8 +1,8 @@
 [
     {
-        "x": "12%",
-        "y": "5%",
-        "width": "40%",
+        "x": "8%",
+        "y": "8%",
+        "width": "80%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
@@ -18,8 +18,8 @@
     },
     {
         "x": "17%",
-        "y": "15%",
-        "width": "40%",
+        "y": "11%",
+        "width": "80%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
@@ -29,13 +29,13 @@
         "text": "",
         "id_unique": "text-sub-page-6",
         "data": {
-            "text": "<h3 class='monserrat-black' style='font-size: 1.5em; color: black; '>Pastor de<br> Misiones FDV</h3>"
+            "text": "<h3 class='monserrat-black' style='font-size: 1.5em; color: black; '>Pastor de Misiones FDV</h3>"
         }
                 
     },
     {
         "x": "17%",
-        "y": "40%",
+        "y": "28%",
         "viewX": 1800,
         "viewY": 50,
         "width": "82%",
@@ -48,9 +48,9 @@
         }
     },
     {
-        "x": "12.5%",
-        "y": "47%",
-        "width": "45%",
+        "x": "10%",
+        "y": "35%",
+        "width": "70%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
@@ -64,8 +64,8 @@
         }
     },
     {
-        "x": "16%",
-        "y": "62%",
+        "x": "17%",
+        "y": "46%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -108,26 +108,15 @@
         ]
     },
     {
-        "x": "10%",
-        "y": "5%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "77%",
-        "height": "60%",
-        "fontSize": "3.2em",
-        "tag": "tooltip",
-        "class": "tooltip-author",
-        "id": "author-pag-6",
-        "data": {
-            "author": "Martín Pérez",
-            "position": "Pastor",
-            "year": "2023",
-            "src": "./assets/pics/photos/martinperez.jpeg"
-        }
+        "x": "0%",
+        "y": "70.5%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/img_fondo_martin.webp'>"
     },
     {
-        "x": "59.5%",
-        "y": "14%",
+        "x": "10%",
+        "y": "75%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -138,8 +127,34 @@
         "text": "",
         "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h6 class='monserrat-black' style='text-align: center;font-size: 0.8em; color: white;'>Por el<br><strong>PASTOR MARTÍN PÉREZ</strong><h6>"
-        }
-                
+            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;'>Por el<br><strong>PASTOR MARTÍN PÉREZ</strong></h4>"
+        }   
+    },
+    {
+        "x": "50%",
+        "y": "65%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 3
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 3
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 3
+            }
+        ]
     }
 ]

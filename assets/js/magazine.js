@@ -64,7 +64,7 @@
            pageElement.find('.loader').remove();
        });
 
-       let background_diferent = [3,5,  7, 8, 10,38,39,48,49]
+       let background_diferent = [3,8, 10,38,39,48,49]
 
        checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
        loadRegions(page, pageElement, lang);
@@ -116,8 +116,8 @@ function createWordsGame(words) {
 function addRegion(region, pageElement, lang, page) {
        var reg = $(`<div />`, { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
        
-       if (page == 38) {
-        $('.p'+38).append(reg);
+       if (page == 40) {
+        $('.p'+40).append(reg);
         var words = ['Arrepentimiento','Conversión', 'NuevoNacimiento', 'Unicidad', 'ElNombreDeJesús', 'Adopción', 'Justificación', 'Redención', 'Santidad', 'Fe', 'Resurrección']
         createWordsGame(words);
        }
