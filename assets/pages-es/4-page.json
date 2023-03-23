@@ -1,78 +1,98 @@
 [
     {
-        "x": "4%",
-        "y": "5%",
-        "width": "90%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-4",
-        "data": {
-            "text": "<h1 class='monserrat-black' style='font-size: 1.2em; color: black;'><strong>DESDE EL CORAZÓN</strong><br>DEL OBISPO<h1>"
-        }
-                
+        "x": "0%",
+        "y": "10%",
+        "width": "100%",
+        "tag": "page-3-title"
     },
     {
-        "x": "15%",
-        "y": "6.4%",
-        "tag": "author-pic",
-        "class": "author-image",
-        "image": "<img width='100' height='180' src='assets/pics/Eventos/entrevista/1.png'>"
-    },
-    {
-        "x": "45%",
-        "y": "33%",
-        "width": "36.1%",
+        "x": "0%",
+        "y": "35%",
+        "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",
-        "color": "#ffff",
+        "color": "#fff",
         "font-size": "2em",
         "tag": "contenido",
-        "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "box-text-page-3",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text'>Esta hermosa entrevista hecha por FDV Bogotá a nuestro Obispo <br>Valverde, deja al <br> descubierto su <br>sincero y transparente corazón...</p>"
+           "text": "<p class='main-text'>Querida Iglesia Fuente de Verdad Global:<br>Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br>Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960<br></p>"
         }
     },
     {
-        "x": "48%",
-        "y": "55%",
+        "x": "10%",
+        "y": "62%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
         "height": "100%",
-        "fontSize": "2em",
+        "fontSize": "1.5em",
         "tag": "modal",
-        "id": "modal-p4",
+        "id": "modal-p3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>DESDE EL CORAZÓN DEL OBISPO SAMUEL VALVERDE<br><br>",
-            "content": "Esta hermosa entrevista hecha por FDV Bogotá a nuestro Obispo Valverde, deja al descubierto su sincero y transparente corazón.  Preguntas inteligentes y respuestas profundas, enriquecedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí:<ul><li>¿Por qué “Cada Corazón Sanado”?</li><li>¿Por qué independizarse de la Asamblea Apostólica?</li><li>¿Cuál ha sido su mayor quebrantamiento?</li><li>¿Por qué es importante sanar?</li><li>¿Por qué Colombia?</li><li>¿Cuál es la visión para Bogotá y en general para Colombia?</li><li>¿Cuál es su sentir hacia la Iglesia del Nombre de Jesucristo?</li><li>¿Qué viene para la Iglesia Global del Nombre de Jesús?</li><li>¿Cuál es su postura con respecto a las Iglesias del Nombre de Jesús?</li><li>¿Quién es el Pastor Álvaro Ocampo?</li><li>Un consejo para los pastores</li><li>¿Cuál debe ser la relación entre las Iglesias del Nombre de Jesús?</li><li>¿Cuál es el legado que usted le deja a las generaciones actuales?</li></ul> ¡Esperamos que la disfrutes!"
+            "title": "<br>Querida Iglesia Fuente de Verdad Global:<br><br>",
+            "content": "Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br><i>“Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960.</i><br><br>¡Id!<br><br>Es asombroso ver cuanto poder, propósito, y promesa puede tener una palabra tan pequeña de dos letras. Jesús usó la palabra cuando ordenó a sus discípulos hacer precisamente eso -id.<br><br>Id es un verbo que requiere acción, intención, iniciativa, y planeación. Significa tomar un curso, y proceder. <br><br> Id es lo opuesto de quedarse o esperar. Es un mandamiento, una orden expresada desde los propios labios de nuestro gentil Maestro. Procede de su corazón amoroso; embarca su razón de convertirse en hombre - El Hijo de Dios.     <br><br>Fuente de Verdad ha escuchado el mandato; hemos aceptado el reto y hemos movilizado nuestros recursos para id y haced discípulos a los confines de la tierra. Contamos con sus oraciones y generosidad.<br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'> Cada Corazón…  <br> Obispo Samuel Valverde</p>"
         }
     },
     {
-        "x": "48%",
-        "y": "62%",
+        "x": "2%",
+        "y": "90%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "50%",
+        "width": "35%",
         "height": "20%",
         "fontSize": "5em",
-        "tag": "print",
+        "tag": "btn-normal-2",
         "class": "actions",
         "text": "",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
                 "icon": "./assets/pics/icons/iconImprimir.png",
                 "url": ""
             }
         ]
+    },
+    {
+        "x": "50%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 3
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 3
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "x": "0%",
+        "y": "69%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/carta_obispo_foto.jpg'>"
     }
 ]
