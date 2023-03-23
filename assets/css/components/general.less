@@ -69,3 +69,62 @@ body{
         } 
     }
 }
+
+// estilos generales para el contenedor de los eventos
+.event-container{
+    display: flex;
+    align-items: center;
+    .image{
+        img{
+            width: 80px;
+            border-radius: 50%;
+        }
+    }
+    h3.text{
+        color: @white;
+        transform: translateX(-10px);
+        text-transform: capitalize;
+        max-width: 180px;
+    }
+
+    @media (max-width: 480px) {
+        .image{
+            img{
+                width: 70px;
+            }
+        }
+        h3.text{
+            font-size: 14px;
+            max-width: 150px;
+
+        }
+    }
+}
+
+// estilos generales para el titulo de los eventos
+.event-title{
+    p{
+        color: @white;
+        font-size: 20px;
+        strong{
+            margin-right: 8px;
+            font-size: 40px;
+        }
+    }
+}
+
+// estilos generales para los subtitulos de los eventos
+.event-subtitle{
+    max-width: 150px;
+    p{
+        color: @white;
+        font-size: 13px;
+        text-align: left;
+    }
+}
+
+.region.full-subtitle{
+    .event-subtitle{
+        max-width: none;
+    }
+}

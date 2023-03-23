@@ -1,70 +1,107 @@
 [
     {
-        "x": "62%",
-        "y": "19.7%",
+        "tag": "event-title",
+        "x": "11%",
+        "y": "10%",
+        "text1": "Brewster",
+        "text2": "New York"
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "21%",
+        "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
+        "text": "Día del Super Heroe 2022"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "20%",
+        "text": "Tuvimos la grata compañía de nuestro..."
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p12",
+        "tag": "modal-2",
+        "id": "modal-p11",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>FRESH INK<h6>Septiembre 30 de 2022</h6>",
-            "content": "Los jóvenes hicieron una actividad para la comunidad, con el fin de alcanzar la juventud del sector. El tema del servicio fue “Te queremos Aquí”"
+            "title": "<br>SERVICIO DE NIÑOS<h6>Día del Súper Héroe <br> Septiembre 2022</h6>",
+            "content": "",
+            "imagenes": "<div class='slider-container'><img class='slider-item' src='https://images.unsplash.com/photo-1580501170961-bb0dbf63a6df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80'/><img class='slider-item' src='https://images.unsplash.com/photo-1580501170888-80668882ca0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80'/><img class='slider-item' src='https://images.unsplash.com/photo-1572508589584-94d778209dd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80'/></div>"
         }
     },
     {
-        "x": "62%",
-        "y": "31.7%",
+        "tag": "event-title",
+        "x": "11%",
+        "y": "45%",
+        "text1": "Hurst",
+        "text2": "Texas"
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "53%",
+        "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-2ANIVERSARIO.webp",
+        "text": "Segundo Aniversario de la Iglesia"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "56%",
+        "text": "Tuvimos la grata compañía de nuestro..."
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "68%",
+        "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
+        "text": "Alborada Servicio de Amanecer"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "69%",
+        "text": "Celebramos junto con la iglesia de pipeline..."
+    },
+    {
+        "x": "61%",
+        "y": "61.7%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p12-2",
+        "id": "modal-p11-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>SERVICIO DE ACCIÓN DE GRACIAS",
+            "title": "<br>Segundo Aniversario de la Iglesia<h6>Julio 9 - 10 de 2022</h6>",
+            "content": "Tuvimos la grata compañía de nuestro Obispo Samuel Valverde y la 1ra. Dama nuestra hermana Raquel; agradecemos su cariño y apoyo. Gracias sean dadas al Señor Jesús por su respaldo y bendición en todo momento."
+        }
+    },
+    {
+        "x": "61%",
+        "y": "74.8%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p11-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO DE AMANECER<h6>Abril 17, 2022</h6>",
             "content": "Celebramos junto con la iglesia de Pipeline Church este servicio, afuera en el estacionamiento. Fue de gran bendición."
-        }
-    },
-    {
-        "x": "62%",
-        "y": "70.6%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p12-3",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>LANZAMIENTO OFICIAL FUENTE DE VERDAD PLANO, TEXAS<h6>Enero 22 de 2022</h6>",
-            "content": "Para nosotros fue un día especial, ya que nuestro Obispo hizo el lanzamiento oficial trayendo consigo una nueva etapa en nuestra congregación. En este día una familia completa se entregó al Señor, bautizándose el padre de familia y, su esposa reconciliándose con el Señor luego de casi 20 años de estar apartada; dedicaron sus hijas al Señor y fue un fin de semana increíble.<br><br>Escrito por el Pastor Edwin Camilo Moreno"
-        }
-    },
-    {
-        "x": "62%",
-        "y": "81.3%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p12-4",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>1er. ANIVERSARIO FDV PLANO, TEXAS<h6>Abril 11-12 de 2022<h6>",
-            "content": "¡Fin de semana de victoria! Este fin de semana tuvimos conferencia para parejas, 3 nuevos bautismos y celebración de Santa Cena por primera vez en nuestra congregación,  auspiciada por nuestro Obispo Samuel Valverde. Hubo llenura del Espíritu Santo para nuevos hermanos, definitivamente este fin de semana marcó otro periodo especial en la historia de nuestra congregación.<br><br>Pastor Edwin Camilo Moreno"
         }
     }
 ]

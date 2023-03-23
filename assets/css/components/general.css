@@ -37,7 +37,6 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   gap: 10px;
 }
 
-
 .main-text{
 
   font-size: 0.73em;
@@ -90,3 +89,47 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   text-align: right;
   line-height: 12px;
 }
+
+.event-container {
+  display: flex;
+  align-items: center;
+}
+.event-container .image img {
+  width: 80px;
+  border-radius: 50%;
+}
+.event-container h3.text {
+  color: #ffffff;
+  transform: translateX(-10px);
+  text-transform: capitalize;
+  max-width: 180px;
+}
+@media (max-width: 480px) {
+  .event-container .image img {
+    width: 70px;
+  }
+  .event-container h3.text {
+    font-size: 14px;
+    max-width: 150px;
+  }
+}
+.event-title p {
+  color: #ffffff;
+  font-size: 20px;
+}
+.event-title p strong {
+  margin-right: 8px;
+  font-size: 40px;
+}
+.event-subtitle {
+  max-width: 150px;
+}
+.event-subtitle p {
+  color: #ffffff;
+  font-size: 13px;
+  text-align: left;
+}
+.region.full-subtitle .event-subtitle {
+  max-width: none;
+}
+

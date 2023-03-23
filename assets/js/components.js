@@ -305,7 +305,26 @@ const addComponents = (region, lang) => {
                 element = '<a href="./index-en.html#pagina/'+region.data.pagina +'"> <img src=' + region.data.src + '></a>'
             }
             
-            break;       
+            break;         
+            
+        case 'event-container':
+            element = `<div class="event-container">
+                <div class="image">
+                    <img src="${region.src}">
+                </div>
+                <h3 class="text">${region.text}</h3>
+            </div>`;
+            break; 
+        case 'event-title':
+            element = `<div class="event-title">
+                <p><strong>${region.text1}</strong>${region.text2}</p>
+            </div>`;
+            break; 
+        case 'event-subtitle':
+            element = `<div class="event-subtitle">
+                <p>${region.text}</p>
+            </div>`;
+            break; 
         default:
             break;
             
