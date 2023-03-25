@@ -9,9 +9,9 @@
     {
         "tag": "event-container",
         "x": "8%",
-        "y": "21%",
+        "y": "18%",
         "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
-        "text": "Día del Super Heroe 2022"
+        "text": "Día del <br> Super Heroe 2022"
     },
     {
         "tag": "event-subtitle",
@@ -49,7 +49,7 @@
         "x": "8%",
         "y": "53%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-2ANIVERSARIO.webp",
-        "text": "Segundo Aniversario de la Iglesia"
+        "text": "Segundo Aniversario <br> de la Iglesia"
     },
     {
         "tag": "event-subtitle",
@@ -62,7 +62,7 @@
         "x": "8%",
         "y": "68%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
-        "text": "Alborada Servicio de Amanecer"
+        "text": "Alborada <br> Servicio <br> de Amanecer"
     },
     {
         "tag": "event-subtitle",
@@ -103,5 +103,32 @@
             "title": "<br>SERVICIO DE AMANECER<h6>Abril 17, 2022</h6>",
             "content": "Celebramos junto con la iglesia de Pipeline Church este servicio, afuera en el estacionamiento. Fue de gran bendición."
         }
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
     }
 ]

@@ -1,0 +1,105 @@
+[
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "17%",
+        "text1": "Mexicali",
+        "text2": "México"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "25%",
+        "src": "assets/pics/Eventos/mexico/mexicali/2-MEX-MEXICALI-EVENTORECIBIREIS.webp",
+        "text": "Seminario <br> de Liderazgo"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "26%",
+        "class": "full-subtitle",
+        "text": "En este evento<br> contamos con una..."
+    },
+    {
+        "x": "60%",
+        "y": "31%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p21",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>RECIBIRÉIS PODER<h5>Diciembre 2 al 4 de 2022</h5>",
+            "content": "En este evento contamos con una asistencia, los 3 días, de aproximadamente 120 personas<br><br>Las actividades fueron las siguientes:<br><br>2 de diciembre<ul><li>Servicio de Himnos Apostólicos.<br>Predicó el Obispo Samuel Valverde</li><ul>3 de diciembre <ul><li>Conferencias Matutinas. <br>Enseñó el Obispo Samuel Valverde y el Pastor Abraham Encinas.</li><li>Servicio de Lanzamiento y Ordenación Ministerial.<br>Predicó el Obispo Samuel Valverde<br>Recibió la ordenación el Hno. Saul Sarabia</li><li>Ceremonia de Lanzamiento y bendición.</li></ul>4 de diciembre<ul><li>Servicio de Celebración y Bautismos<br>Predicó el Evangelista Aldo Lopez de FDV Juchitán, Oaxaca.</li></ul>"
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "60%",
+        "text1": "Juchitán",
+        "text2": "México"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "70%",
+        "class": "full-subtitle",
+        "text": "Diácono Encargado: <br> Hermano..."
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "68%",
+        "src": "assets/pics/Eventos/mexico/juchitan/3-MEX-JUCHITAN-LANZAMIENTO.webp",
+        "text": "Seminario <br> de Unicidad"
+    },
+    {
+        "x": "60%",
+        "y": "75%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p21-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>LANZAMIENTO DE FUENTE DE VERDAD EN JUCHITÁN, OAXACA",
+            "content": "Diácono Encargado: Hermano Aldo López Solis <br>10 al 12 de Noviembre de 2022"
+        }
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]

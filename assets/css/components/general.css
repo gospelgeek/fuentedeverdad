@@ -60,7 +60,16 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   color: #301406;
   line-height: 16px;
 }
-
+.title-p20{
+  text-align: left;
+  font-size: 4em; 
+  color: white;
+  line-height: 60px;
+}
+.nombres-p20{
+  text-align: center;
+  line-height: 14px;
+}
 .text-pag-7{
   font-size: 0.8em;
   color: #301406;
@@ -76,13 +85,30 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   font-size: 0.90em;
 }
 
+.main-text-p12{
+  color: white;
+  text-align: center;
+  font-size: 0.90em;
+}
+
+.main-pais-p12{
+  color: white;
+  font-size: 1.6em;
+  text-align: left;
+}
+
 .main-text-p42{
   color: black;
   font-size: 0.75em;
   text-align: left;
   line-height: 12px;
 }
-
+.main-text-p20{
+  color: white;
+  font-size: 0.7em;
+  text-align: right;
+  line-height: 12px;
+}
 .main-text-p42-2{
   color: black;
   font-size: 0.5em;
@@ -93,16 +119,17 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-container {
   display: flex;
   align-items: center;
+  line-height: 20px;
 }
 .event-container .image img {
-  width: 80px;
+  width: 60px;
   border-radius: 50%;
 }
 .event-container h3.text {
   color: #ffffff;
   transform: translateX(-10px);
   text-transform: capitalize;
-  max-width: 180px;
+  max-width: 200px;
 }
 @media (max-width: 480px) {
   .event-container .image img {
@@ -126,10 +153,30 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 }
 .event-subtitle p {
   color: #ffffff;
-  font-size: 13px;
-  text-align: left;
+  font-size: 12px;
+  text-align: left; 
 }
 .region.full-subtitle .event-subtitle {
   max-width: none;
 }
 
+.text-pag-20{
+  font-size: 0.7em;
+  line-height: 12px;
+}
+
+.table-modal{
+  text-align: center;
+  width: 100%;
+  border: 2px solid #000;
+  border-spacing: 0;
+  border-collapse: collapse;
+  padding: 0.3em;
+}
+
+tr,td{
+  border: 1px solid #000;
+  border-collapse: collapse;
+  padding: 0.3em;
+  caption-side: bottom;
+}

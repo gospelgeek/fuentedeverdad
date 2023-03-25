@@ -1,0 +1,140 @@
+[
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "9%",
+        "text1": "Tijuana",
+        "text2": "México"
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "20%",
+        "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-SERVICIOAIRELIBRE.webp",
+        "text": "Servicio <br> al aire libre"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "23%",
+        "class": "full-subtitle",
+        "text": "Mostramos a la <br> comunidad de la iglesia..."
+    },
+    {
+        "x": "60%",
+        "y": "28%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p22",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO AL AIRE LIBRE<h5>25 de septiembre de 2022</h5>",
+            "content": "Mostramos a la comunidad la iglesia que somos. Tuvimos asistencia de la misma comunidad."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "31%",
+        "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-ANIVERSARIO.webp",
+        "text": "Aniversario <br> iglesia y <br> Dial del Amigo"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "35%",
+        "class": "full-subtitle",
+        "text": "Experimentamos gozo <br> al recibir a nuestros..."
+    },
+    {
+        "x": "60%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p22-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>DÍA DEL AMIGO - ANIVERSARIO IGLESIA FDV TIJUANA<h5>23 de octubre de 2022</h5>",
+            "content": "Experimentamos gozo al recibir a nuestros amigos por los cuales estuvimos en oración y seguimiento.  Los resultados fueron muy motivantes, para continuar con nuestra misión aquí en Tijuana B.C"
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "45%",
+        "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-RETIROPENIEL.webp",
+        "text": "Retiro <br> Peniel"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "47%",
+        "class": "full-subtitle",
+        "text": "Fue un evento <br> restaurador para..."
+    },
+    {
+        "x": "60%",
+        "y": "52%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p22-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>RETIRO PENIEL<h5>2 y 3 de Diciembre de 2022</h5>",
+            "content": "Fue un evento restaurador para nuestra alma. Brindó esperanza a cada asistente."
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "68%",
+        "text1": "Mazatlán",
+        "text2": "México"
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "78%",
+        "src": "assets/pics/Eventos/mexico/mazatlan/5-MEX-MAZATLAN-LANZAMIENTO.webp",
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "82%",
+        "class": "full-subtitle",
+        "text": "El día viernes 28 de <br> octubre de 2022..."
+    },
+    {
+        "x": "60%",
+        "y": "87%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p22-4",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "Lanzamiento Oficial de la Iglesia",
+            "content": "El día viernes 28 de octubre de 2022, se realizó el lanzamiento oficial de Fuente de Verdad Mazatlán. Un hermoso evento al que asistió el Obispo Samuel Valverde y la 1ra. Dama Raquel Valverde, así como el supervisor de FDV México, el pastor Domingo Carlos y su esposa Irene Carlos. <br><br>Ese día se celebró la ordenación ministerial del Pastor Eliezer Barboza en ese lugar.  Fue un servicio donde la presencia de Dios se derramó de una manera especial, y todos fueron inspirados con un hermoso mensaje de nuestro Obispo Valverde.<br><br>Al final convivieron unos con otros, disfrutando al compartir alimentos y la compañía de todos los invitados."
+        }
+    }
+]

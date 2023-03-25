@@ -1,0 +1,152 @@
+[   
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "9%",
+        "text1": "Tehuacán",
+        "text2": "México"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "25%",
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOMATRIMONIOS.webp",
+        "text": "Evento <br> de matrimonios"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "27%",
+        "class": "full-subtitle",
+        "text": "Cuando Dios une, ni el <br> hombre puede..."
+    },
+    {
+        "x": "62%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p23",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>EVENTO DE MATRIMONIOS<h5>12 de Febrero de 2022</h5>",
+            "content": "Cuando Dios une, ni el hombre puede separar. ¡Trabajando a nivel familiar!"
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "39%",
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-SERVICIOEVANGELISTICO.webp",
+        "text": "Servicio <br> Evangelístico <br> Celular"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "42%",
+        "class": "full-subtitle",
+        "text": "Tuvimos la grata <br> compañia de nuestro..."
+    },
+    {
+        "x": "62%",
+        "y": "47%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p23-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO EVANGELISTICO CELULAR<h5>9 de Abril de 2022</h5>",
+            "content": "Dios se manifestó de una manera poderosa. Nuestro Señor Jesucristo tocó corazones."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "56.5%",
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOFINDE.webp",
+        "text": "Evento de <br> Fin de Año"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "58%",
+        "class": "full-subtitle",
+        "text": "Aqui estamos reunidos,<br>Fuente de Verdad..."
+    },
+    {
+        "x": "62%",
+        "y": "63%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p23-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>EVENTO DE FIN DE AÑO<h5>31 de Diciembre de 2022</h5>",
+            "content": "Aquí estamos reunidos, Fuente de Verdad Tehuacán y nuestros tres lugares donde compartimos nuestra Visión.<br>Ajalpan, (45 minutos de Tehuacán)<br>San Juan Atzingo (45 minutos de Tehuacán)<br>Francisco Nogales (4 horas de Tehuacán)"
+        }
+    },
+    {
+        "x": "0",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]
