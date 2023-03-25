@@ -1,0 +1,61 @@
+[
+    {
+        "tag": "event-subtitle",
+        "x": "15%",
+        "y": "85%",
+        "class": "full-subtitle",
+        "text": "Confiando en las promesas del Señor..."
+    },
+    {
+        "x": "65%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p16",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>Maranatha… Cristo viene!",
+            "content": "Confiando en las promesas del Señor, seguiremos peleando la gran batalla para obtener una corona en los cielos con las obras en la tierra y así seguir edificando más almas que conozcan la verdad que es en Cristo Jesús. Fountain Silicon Valley es un claro testimonio de que, de la mano del Todopoderoso se obtienen victorias y, seguiremos arando el camino para los nuevos creyentes y servidores.<br><br>Bendiciones,<br><b>JOHN FREDY QUINTERO</b><br>Pastor"
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "15%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMINARIOLIDERAZGO.webp",
+        "text": "Seminario <br> de Liderazgo"
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "29%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMINARIOUNICIDAD.webp",
+        "text": "Seminario <br> de Unicidad"
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "42%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOPRIMICIAS.webp",
+        "text": "Servicio <br> de Primicias"
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "55%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOESPECIALNACIONES.webp",
+        "text": "Servicio <br> Especial <br> de Naciones"
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "70%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOESPECIALKIDS.webp",
+        "text": "Servicio <br> Especial Kids"
+    }
+]

@@ -8,14 +8,14 @@
     },
     {
         "tag": "event-subtitle",
-        "x": "10%",
-        "y": "19%",
+        "x": "11%",
+        "y": "20%",
         "class": "full-subtitle",
         "text": "''Y a Aquel que es poderoso para hacer..."
     },
     {
-        "x": "60.5%",
-        "y": "18.5%",
+        "x": "64%",
+        "y": "20%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",

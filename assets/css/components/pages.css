@@ -116,7 +116,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 80%;
     margin: 7% auto;
     border-radius: 3%;
     visibility: hidden;
@@ -424,8 +424,8 @@ audio {
     border-radius: 100%;
     box-shadow: 3px 3px 8px grey;
     top: 24px !important;
-    right: 26%!important;
-    background-image: url(/assets/pics/icons/x.png) !important;
+    right: 26% !important;
+    background-image: url("../pics/icons/x.png");
 }
 
 @media only screen and (max-width: 468px) {
