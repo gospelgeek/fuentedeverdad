@@ -37,7 +37,7 @@
         "x": "8%",
         "y": "60%",
         "src": "assets/pics/Eventos/eeuu/plano/3-EU-PLANO-LANZAMIENTO.webp",
-        "text": "Lanzamiento Oficial de la Iglesia"
+        "text": "Lanzamiento<br> Oficial<br> de la Iglesia"
     },
     {
         "tag": "event-subtitle",
@@ -125,5 +125,28 @@
             "title": "<br>1er. ANIVERSARIO FDV PLANO, TEXAS<h6>Abril 11-12 de 2022<h6>",
             "content": "¡Fin de semana de victoria! Este fin de semana tuvimos conferencia para parejas, 3 nuevos bautismos y celebración de Santa Cena por primera vez en nuestra congregación,  auspiciada por nuestro Obispo Samuel Valverde. Hubo llenura del Espíritu Santo para nuevos hermanos, definitivamente este fin de semana marcó otro periodo especial en la historia de nuestra congregación.<br><br>Pastor Edwin Camilo Moreno"
         }
+    },
+    {
+        "x": "43%",
+        "y": "90%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
     }
 ]

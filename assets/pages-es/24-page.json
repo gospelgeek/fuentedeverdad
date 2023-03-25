@@ -1,0 +1,101 @@
+[
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "17%",
+        "text1": "San Luis Potosi",
+        "text2": "México"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "25%",
+        "src": "assets/pics/Eventos/mexico/potosi/7-MEX-SANLUISPOTOSI-LANZAMIENTO.webp",
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "29%",
+        "class": "full-subtitle",
+        "text": "La Semana Santa del <br> 2022 fue un..."
+    },
+    {
+        "x": "62%",
+        "y": "34%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p24",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>LANZAMIENTO FDV SAN LUIS POTOSÍ<h5>Fecha: 17 Abril 2022</h5>",
+            "content": "<b>#Asistentes:</b> 40 Personas aproximadamente.<br><br><b>Resumen:</b><br>La Semana Santa del año 2022 fue un tiempo muy especial para FDV San Luis Potosí, ya que Dios nos concedió llevar a cabo nuestro Lanzamiento como parte de la Iglesia Apostólica de Fuente de Verdad.<br><br>Tuvimos la bendición de ser acompañados por el Pastor Ramón Mendoza (Líder de Zona Latinoamérica del Ministerio DCPI “Dynamic Church Planting International”), su esposa Elisa Mendoza, y su hijo, el Pastor Otoniel Mendoza (Director de Entrenamientos y Estrategias Digitales del Ministerio DCPI Latin America).<br><br>Previo a nuestra celebración de lanzamiento, los días Viernes 15 de Abril y Sábado 16 de Abril fuimos capacitados tomando el curso: Movimientos de Discipulado Dinámico, a través del cual se nos presentó de manera sencilla, práctica y dinámica la plantación de una nueva Iglesia de Casa a través del discipulado.<br><br>En este tiempo fuimos desafiados a seguir adelante con la gran comisión, tuvimos oportunidad de tener tiempos de aprendizaje, compartir experiencias, tiempos de oración, ser ministrados y también haber podido compartir de La Cena del Señor como Iglesia.<br><br>Durante nuestra celebración de Lanzamiento el Domingo 17 de Abril, el Señor nos permitió abrir nuestras puertas como Iglesia a nuestra comunidad ya con un lugar de reunión, tuvimos la bendición de escuchar un mensaje de bendición y saludos por parte de nuestro Obispo Samuel Valverde.<br><br>También recibimos una palabra muy inspiradora sobre el mensaje del Sermón del Monte “Las Bienaventuranzas” y cómo se relaciona para continuar con nuestra Visión de Ver Cada Corazón Sanado.<br><br>El Pastor Ramón Mendoza llevó a cabo una oración muy especial para declarar el Lanzamiento de FDV SLP, creemos que fue un tiempo muy especial que nos permitió consolidarnos como Iglesia y comenzar a ver cumplidas las promesas de Dios para con nosotros.<br><br><i>Escrito por Pastor Gabriel A. Gálvez F.</i>"
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "60%",
+        "text1": "Culiacán",
+        "text2": "México"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "70%",
+        "src": "assets/pics/Eventos/mexico/culiacan/8-MEX-CULIACAN-ABRETUSOJOS.webp",
+        "text": "Abre <br> tus ojos"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "71%",
+        "class": "full-subtitle",
+        "text": "El propósito de este <br> evento fuedar..."
+    },
+    {
+        "x": "62%",
+        "y": "76%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p24-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>ABRE TUS OJOS<h5>2 de Octubre de 2022 </h5>",
+            "content": "El propósito de este evento fue dar a conocer el mensaje del evangelio a nuevos creyentes, y que ellos conecten con la iglesia."
+        }
+    },
+    {
+        "x": "25%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    }
+]

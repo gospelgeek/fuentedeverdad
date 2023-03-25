@@ -1,0 +1,50 @@
+[
+    {
+        "tag": "event-container",
+        "x": "32%",
+        "y": "28%",
+        "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-NOCHEELLA.webp",
+        "text": "Noche Ella"
+    },
+    {
+        "tag": "event-container",
+        "x": "32%",
+        "y": "41%",
+        "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-SEGUNDOANIVERSARIO.webp",
+        "text": "Segundo <br> Aniversario"
+    },
+    {
+        "tag": "event-container",
+        "x": "32%",
+        "y": "56%",
+        "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-TALLERAUTORIDADESPIRITUAL.webp",
+        "text": "Taller <br> Autoridad Espiritual"
+    },
+    {
+        "x": "25%",
+        "y": "75%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]

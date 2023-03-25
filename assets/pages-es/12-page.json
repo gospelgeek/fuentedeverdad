@@ -1,7 +1,94 @@
 [
     {
+        "x": "67%",
+        "y": "10%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img width='200' height='200' src='assets/pics/eventos/eeuu/rancho_cucamonga/CONFERENCISTA-EU-PASTOR-VALVERDE.webp'>"
+    },
+    {
+        "x": "65%",
+        "y": "2%",
+        "width": "30%",
+        "height":"100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-12",
+        "text": "",
+        "data": {
+           "text": "<p class='main-pais-p12'><strong>California</strong></p>"
+        }
+    },
+    {
+        "x": "43%",
+        "y": "34%",
+        "width": "60%",
+        "height":"100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-12",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p12'><strong>OBISPO SAMUEL VALVERDE</strong></p>"
+        }
+    },
+    {
+        "x": "-10%",
+        "y": "16%",
+        "width": "80%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h1 class='monserrat-black' style='font-size: 3em; color: WHITE;'><strong>RANCHO</strong><h1>"
+        }
+                
+    },
+    {
+        "x": "7%",
+        "y": "22%",
+        "width": "82%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h1 class='monserrat-black' style='font-size: 3.5em; color: #05d3f8;'><strong>CUCAMONGA</strong><h1>"
+        }
+                
+    },
+    {
+        "x": "7%",
+        "y": "40%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img width='250' height='250' src='assets/pics/eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>"
+    },
+    {
+        "x": "49%",
+        "y": "40%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img width='250' height='250' src='assets/pics/eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>"
+    },
+    {
         "x": "23%",
-        "y": "89%",
+        "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -17,8 +104,40 @@
         }
     },
     {
+        "x": "10%",
+        "y": "85%",
+        "width": "40%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p12'><strong>CUMBRE CELULAR GLOBAL 2022</strong></p>"
+        }
+    },
+    {
+        "x": "52%",
+        "y": "85%",
+        "width": "40%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p12'><strong>EL DERRAMAMIENTO 2022</strong></p>"
+        }
+    },
+    {
         "x": "65%",
-        "y": "89%",
+        "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -32,5 +151,28 @@
             "title": "EL DERRAMAMIENTO",
             "content": "Los reportes del increíble fin de semana parecían no menguar. Unos hablaban emocionados acerca de un culto, y otros, con no menos emoción, acerca de otro. Para unos era tal predicación, y para otros el tiempo de altar que le siguió. Todos, desde experimentados ministros hasta nuevos convertidos, decían haber recibido algo muy especial. Vez tras vez se mencionaba un factor en común… Dios se hizo presente.<br><br><b>¿Qué es El Derramamiento?</b><br><br>La promesa de Dios en Joel 2:28 de que en los últimos días derramaría de Su Espíritu comenzó a cumplirse el Día de Pentecostés cuando por primera vez un grupo de creyentes recibió el don del Espíritu Santo (Hechos 2:1–4). Siendo que Jesucristo enseñó que la entrada al reino de los cielos requería “nacer de agua y del Espíritu” (Juan 3:5), y que la señal inicial de la recepción de Su Espíritu es el hablar en lenguas (Hechos 2, 10, 19), un evento que enfatice esta maravillosa experiencia no podía faltar en una iglesia apostólica.<br><br>El Derramamiento, entonces, tiene el propósito de posibilitar tres objetivos sumamente importantes, considerando el primero como esencial a la existencia de esta conferencia:<ol><li>Que los que nunca han recibido el bautismo del Espíritu Santo hablando en lenguas lo reciban (Hechos 2:1–4).</li><li>Que los creyentes que ya recibieron el Espíritu puedan renovar su experiencia, siendo llenos del Espíritu Santo otra vez (Hechos 4:29–31).</li><li>Promover una atmósfera donde los milagrosos dones del Espíritu puedan manifestarse y operar para el beneficio de la iglesia como cuerpo de Cristo (1 Corintios 12:4–11).</li></ol><b>El Derramamiento 2022</b><br><br>Por supuesto, una conferencia donde se dé prioridad a la presencia del Espíritu Santo tendrá otros beneficios: la confraternidad con hermanos de diversas iglesias, de varios estados de la unión americana, así como visitantes de otros países; el celo misionero que nació en varios corazones; la juventud que visitó el altar noche tras noche y se fueron llenos de la presencia de Dios; visitantes que sintieron por primera vez la presencia de un Dios real y vivo; los ministros y ministerios que fueron energizados para alcanzar este mundo con el evangelio.<br><br>Tal vez la característica principal del Derramamiento 2022 fue el claro llamado de Dios a un retorno a la santidad, a honrar la presencia de un Dios santo en espíritu, conducta, y aún vestimenta, así como era en los albores de nuestro movimiento pentecostal. Nuestros líderes respondieron afirmativamente, con un compromiso de predicar y enseñar la Palabra sin disoluciones.<br><br>Por todo ello, anticipamos un mover de Dios aún más poderoso en el futuro, y todos los que estuvieron presentes este año ya hicieron planes para no perderse el siguiente Derramamiento."
         }
+    },
+    {
+        "x": "25%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
     }
 ]
