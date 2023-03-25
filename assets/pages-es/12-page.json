@@ -4,7 +4,7 @@
         "y": "10%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img width='200' height='200' src='assets/pics/eventos/eeuu/rancho_cucamonga/CONFERENCISTA-EU-PASTOR-VALVERDE.webp'>"
+        "image": "<img width='200' height='200' src='assets/pics/Eventos/eeuu/rancho_cucamonga/CONFERENCISTA-EU-PASTOR-VALVERDE.webp'>"
     },
     {
         "x": "65%",
@@ -49,7 +49,7 @@
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-indece-page-5",
+        "id_unique": "text-indece-page-12",
         "data": {
             "text": "<h1 class='monserrat-black' style='font-size: 3em; color: WHITE;'><strong>RANCHO</strong><h1>"
         }
@@ -66,7 +66,7 @@
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-indece-page-5",
+        "id_unique": "text-indece-page-12-1",
         "data": {
             "text": "<h1 class='monserrat-black' style='font-size: 3.5em; color: #05d3f8;'><strong>CUCAMONGA</strong><h1>"
         }
@@ -77,14 +77,14 @@
         "y": "40%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img width='250' height='250' src='assets/pics/eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>"
+        "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>"
     },
     {
-        "x": "49%",
+        "x": "48%",
         "y": "40%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img width='250' height='250' src='assets/pics/eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>"
+        "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>"
     },
     {
         "x": "23%",

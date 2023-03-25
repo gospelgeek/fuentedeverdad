@@ -180,3 +180,28 @@ tr,td{
   padding: 0.3em;
   caption-side: bottom;
 }
+
+.title-pag-37{
+  font-size: 4em;
+  text-align: left;
+  color: white;
+  line-height: 60px;
+}
+
+.fecha-pag-37{
+  color: white;
+}
+
+.text-pag-34{
+  color: white;
+  line-height: 14px;
+  font-size: 0.6em;
+  text-align: center;
+}
+
+.main-text-p34{
+  color: white;
+  line-height: 25px;
+  font-size: 1.5em;
+  text-align: left;
+}
