@@ -1,0 +1,11 @@
+[
+
+     {
+        "y": 10,
+        "tag": "img_container",
+        "src": "./assets/pics/general-images/tit_agradecimientos_eng_47.png",
+         "styles": "position: relative; top: 16em; left: 0;  display: grid; place-items: center;",
+         "style_img": "width: 85%; height: 90%;"
+     }
+    
+]
