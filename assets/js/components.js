@@ -325,6 +325,11 @@ const addComponents = (region, lang) => {
                 <p>${region.text}</p>
             </div>`;
             break; 
+        case  'img_container':
+            element = `<div style="${region.styles}" class="img_container"> 
+                            <img style="${region.style_img}" src="${region.src}">
+                      </div>`
+            break;
         default:
             break;
             

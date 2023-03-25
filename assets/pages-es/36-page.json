@@ -1,0 +1,145 @@
+[
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "18%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-SERVICIOESPECIALN.webp",
+        "text": "Servicio <br> Especial de <br> Niños"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "21%",
+        "class": "full-subtitle",
+        "text": "El ministerio kids realizó un <br>precioso culto..."
+    },
+    {
+        "x": "62%",
+        "y": "26%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p23",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO ESPECIAL DE NIÑOS<h5>24 de septiembre de 2022</h5>",
+            "content": "El Ministerio Kids realizó un precioso culto dedicado a nuestros hermosos niños, donde ellos fueron los protagonistas de esa noche. Se realizaron dinámicas, juegos, canciones, conocieron a nuestro amigo Pingüi quién llenó su noche de felicidad. Fuimos testigos de cómo esos pequeños corazones anhelan servir al Señor."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "38%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-SERVICIOCAMPAL.webp",
+        "text": "Servicio Campal <br> y Santa Cena"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "40%",
+        "class": "full-subtitle",
+        "text": "En una hermosa <br> celebración campal..."
+    },
+    {
+        "x": "62%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p36-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO CAMPAL Y SANTA CENA<h5>11 de diciembre de 2022</h5>",
+            "content": "En una hermosa celebración campal pudimos disfrutar de un tiempo a solas con el Señor lejos del bullicio de la ciudad, nos adentramos a un lugar muy especial; además  fuimos participes del Servicio de Santa Cena. <br><br>También nuestros niños disfrutaron de una hermosa fiesta realizada por el Ministerio Kids."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "56.5%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-BAUTISMOS.webp",
+        "text": "Bautismos<br>2022"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "58%",
+        "class": "full-subtitle",
+        "text": "Para honra y gloria del <br> Señor Jesús durante..."
+    },
+    {
+        "x": "62%",
+        "y": "63%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p36-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>BAUTISMOS 2022",
+            "content": "Para honra y gloria del Señor Jesús durante este primer año en Fuente de Verdad el Señor nos regaló la valiosa oportunidad de bautizar 37 personas en el nombre de Jesús. Ha sido un año lleno de victoria y respaldo de Dios, y estamos seguros de que no descansaremos hasta ver ¡Cada corazón sanado!"
+        }
+    },
+    {
+        "x": "0",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "45%",
+        "y": "80%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]
