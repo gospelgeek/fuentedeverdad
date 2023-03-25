@@ -14,7 +14,7 @@
         "text": "''Y a Aquel que es poderoso para hacer..."
     },
     {
-        "x": "64%",
+        "x": "75%",
         "y": "20%",
         "viewX": 1800,
         "viewY": 100,
@@ -40,28 +40,28 @@
     {
         "tag": "event-container",
         "x": "25%",
-        "y": "36%",
+        "y": "37%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-DEVOCIONALES.webp",
         "text": "Devocionales Teens en la Playa"
     },
     {
         "tag": "event-container",
         "x": "25%",
-        "y": "48%",
+        "y": "49%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-DIAACCIONGRACIAS.webp",
         "text": "Día de Acción de Gracias"
     },
     {
         "tag": "event-container",
         "x": "25%",
-        "y": "60%",
+        "y": "61%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-MASBAUTISMOS.webp",
         "text": "Más Bautismos"
     },
     {
         "tag": "event-container",
         "x": "25%",
-        "y": "72%",
+        "y": "73%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMANAFAMILIA.webp",
         "text": "Semana de la Familia"
     }

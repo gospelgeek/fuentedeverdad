@@ -108,7 +108,7 @@ body{
         font-size: 20px;
         strong{
             margin-right: 8px;
-            font-size: 40px;
+            font-size: 35px;
         }
     }
 }
@@ -118,7 +118,7 @@ body{
     max-width: 150px;
     p{
         color: @white;
-        font-size: 13px;
+        font-size: 12px;
         text-align: left;
     }
 }
@@ -126,5 +126,63 @@ body{
 .region.full-subtitle{
     .event-subtitle{
         max-width: none;
+    }
+}
+
+// estilos dropdown de idiomas
+#canvas{
+    position: absolute;
+    top: 20px;
+    right: 20px; 
+    background-color: #ffffff90;
+    border-radius: 8px;
+    padding: 5px 30px 5px 20px;
+    z-index: 9000;
+    &.active{
+        .action{
+            svg{
+                transform: rotate(180deg);
+            }
+        }
+        .dropdown{
+            max-height: 500px;
+            transition: all ease-in-out .8s;
+        }
+    }
+    .action{
+        color: @white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        position: relative;
+        svg{
+            transition: all ease-in-out .4s;
+            position: absolute;
+            right: -20px;
+        }
+    }
+    .dropdown{
+        max-height: 0;
+        transition: all ease-in-out .8s;
+        overflow: hidden;
+        &.active{
+            max-height: 500px;
+            transition: all ease-in-out .8s;
+        }
+        ul{
+            padding: 0;
+            margin-bottom: 0;
+            li{
+                list-style: none;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                button{
+                    background: none;
+                    border: none;
+                }
+            }
+        }
     }
 }
