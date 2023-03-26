@@ -1,0 +1,171 @@
+[   
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "5%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-NOCHEVIGILIA.webp",
+        "text": "Noche <br> de Vigilia"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "7%",
+        "class": "full-subtitle",
+        "text": "Camboya fue un lugar <br> donde Dios..."
+    },
+    {
+        "x": "65%",
+        "y": "12%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CUMBRE CELULAR GLOBAL ENSANCHA<h6>3 de septiembre de 2022<br>Noche de vigilia en directo con todas las iglesias de FDV Global. <br>Lugar: casa pastoral.</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "15%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
+        "text": "Derramamiento <br> Ministración <br> desde FVD Rancho"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "19%",
+        "class": "full-subtitle",
+        "text": "Nuestra hermana <br> marthe recibió el..."
+    },
+    {
+        "x": "65%",
+        "y": "24%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>DERRAMAMIENTO<br>MINISTRACIÓN DESDE FDV RANCHO<h6>9 de octubre de 2022<br>Nuestra hermana Martha recibió el bautismo del Espíritu Santo.<br>Salón de Tadanoumi, Hiroshima.</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "29%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
+        "text": "Clamor <br> por Japón"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "31%",
+        "class": "full-subtitle",
+        "text": "Lugar: Salón de <br> Tadanoumi, Hiroshima..."
+    },
+    {
+        "x": "65%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CLAMOR POR JAPÓN<h6>6 de noviembre de 2022<br>Lugar: Salón de Tadanoumi, Hiroshima.<br>Ministración desde FDV Rancho, para FDV Japón</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "40%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-SERVICIOCELEBRACION.webp",
+        "text": "Servicio de <br> Celebracion <br> y Santa Cena"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "43%",
+        "class": "full-subtitle",
+        "text": "Casa de los hermanos Barroso..."
+    },
+    {
+        "x": "65%",
+        "y": "48%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31-4",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO DE CELEBRACIÓN Y SANTA CENA<h6>31 de diciembre de  2022<br>Casa de los hermanos Barroso</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "52%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-PASTORISHIGURO.webp",
+        "text": "Pastor Ishiguro <br> cambio lugar <br> templo"
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "75%",
+        "text1": "Tokio",
+        "text2": "Japón"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "84%",
+        "src": "assets/pics/Eventos/japon/3-JPN-TOKIO-INFORME.webp",
+        "text": "Informe 2022 <br> FDV Tokio"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "85%",
+        "class": "full-subtitle",
+        "text": "Paz de Cristo. Damos <br> gracias al Señor..."
+    },
+    {
+        "x": "62%",
+        "y": "90%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31-5",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>INFORME 2022 FDV TOKIO",
+            "content": "Paz de Cristo. Damos gracias al señor por su misericordia y por cada programa celebrado en 2022.  En mayo 27,28 y 29 tuvimos un campamento en Nikko, monte de los olivos con el tema “Maranata Cristo viene”. Vinieron hermanos de todo Japón, fue de gran bendición para todos. Hemos celebrado servicios y reuniones en casas, salones, y visitas a otras iglesias con el propósito de predicar y enseñar la Unicidad de Cristo.<br><br>Muchas gracias ¡Bendiciones!"
+        }
+    }
+]

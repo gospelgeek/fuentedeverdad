@@ -225,3 +225,134 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .region.formulario-obra-misionera form button[type="submit"]:hover {
   background-color: #0898bd;
 }
+ul#answer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-height: 530px;
+  overflow: auto;
+}
+@media (max-width: 480px) {
+  ul#answer-container {
+    max-height: 450px;
+  }
+}
+ul#answer-container * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul#answer-container li {
+  background-color: #ffffff80;
+  border-radius: 40px;
+  padding: 10px 20px;
+  list-style: none;
+}
+ul#answer-container li .top {
+  padding-bottom: 10px;
+}
+ul#answer-container li .top h3 {
+  color: #000000;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1;
+}
+ul#answer-container li .top strong {
+  line-height: 1;
+}
+ul#answer-container li .bottom-container {
+  font-size: 14px;
+  padding-top: 10px;
+  border: 1px solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to left, #ffffff00, #181675, #ffffff00);
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+ul#answer-container li .bottom-container p {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+ul#answer-container li .action {
+  display: flex;
+  justify-content: end;
+}
+ul#answer-container li .action button {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.region.sopa-de-letras-title {
+  text-align: center;
+}
+
+.main-text-p34{
+  color: white;
+  line-height: 25px;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.nombres-p26{
+  color: white;
+  font-size: 0.7em;
+  text-align: center;
+  line-height: 14px;
+}
+
+.region.sopa-de-letras-title span {
+  color: #003b73;
+  font-size: 30px;
+}
+.region.sopa-de-letras #puzzle {
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.region.sopa-de-letras #puzzle > div {
+  display: flex;
+}
+.region.sopa-de-letras #puzzle > div button {
+  width: 7%;
+  background-color: #cde4f4;
+  color: #003b73;
+  font-weight: 400;
+}
+.region.sopa-de-letras #words {
+  column-gap: unset;
+  column-count: unset;
+  width: 90%;
+}
+.region.sopa-de-letras #words ul {
+  display: grid;
+  padding: 0;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  grid-template-rows: repeat(4, 1fr);
+}
+.region.sopa-de-letras #words ul li {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+}
+.region.sopa-de-letras #wordsButton button {
+  border-radius: 40px;
+  background-color: #01b7e6;
+  border: none;
+  transition: all ease 0.5s;
+}
+.region.sopa-de-letras #wordsButton button:hover {
+  background-color: #1baacf;
+  transform: scale(1.05);
+}

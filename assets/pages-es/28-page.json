@@ -1,0 +1,195 @@
+[
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "5%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-NOCHEVIGILIA.webp",
+        "text": "Retiro <br> Cara a Cara <br> con Dios"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "7%",
+        "class": "full-subtitle",
+        "text": "Hermoso tiempo en el <br> que se tuvo un..."
+    },
+    {
+        "x": "65%",
+        "y": "12%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>RETIRO “CARA A CARA CON DIOS”<h6>27 y 28 de agosto de 2022</h6>",
+            "content": "Hermoso tiempo en el que se tuvo un encuentro con el padre y se contó con la bendición de 2 bautismos, así como de disfrutar de un tiempo de convivencia entre hermanos."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "17%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
+        "text": "Noche <br> de Paz"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "19%",
+        "class": "full-subtitle",
+        "text": "se celebró una noche <br> de paz en lo que se..."
+    },
+    {
+        "x": "65%",
+        "y": "24%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p31-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>NOCHE DE PAZ<h6>17 de diciembre de 2022</h6>",
+            "content": "Se celebró una noche de paz en la que se invitó al pastor de la iglesia de Barichara y hubo un compartir de la Palabra del Señor, teniendo la participación de los niños que asistieron al ministerio de Misión Kids, así como también hermosas alabanzas por parte del Ministerio de Alabanza."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "29%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
+        "text": "Regalando<br>Sonrisas"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "31%",
+        "class": "full-subtitle",
+        "text": "Contamos con una <br> hermosa donación de..."
+    },
+    {
+        "x": "65%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p28-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>REGALANDO SONRISAS <h6>MERCADOS Y JUGUETES<br>22 de diciembre de 2022 </h6>",
+            "content": "Contamos con una hermosa donación de 2 hermanos de nuestra iglesia, los cuales hicieron entrega de mercados y regalos para los niños del ministerio Misión Kids, además de hacerles una fiesta de despedida donde se les dió perros calientes, con gaseosas y helados. ¡Fue un tiempo hermoso!"
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "40%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-SERVICIOCELEBRACION.webp",
+        "text": "Celebración <br> de Servicios"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "43%",
+        "class": "full-subtitle",
+        "text": "Se celebraron cada <br> uno de los servicios..."
+    },
+    {
+        "x": "65%",
+        "y": "48%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p28-4",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CELEBRACIÓN DE SERVICIOS<h6>MIÉRCOLES, SÁBADOS Y DOMINGOS <br>Todo el año 2022 </h6>",
+            "content": "Se celebraron cada uno de los servicios planificados dentro de la iglesia, dando gracias a Dios que en cada uno de ellos vimos cómo el Señor se fue manifestando con su poder, logrando llevar nuevas almas a Cristo.  Seguiremos trabajando y llevando las buenas nuevas de salvación."
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "62%",
+        "text1": "Cali",
+        "text2": "Colombia"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "69%",
+        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-CONFERENCIASDECANOJORGE.webp",
+        "text": "Conferencias <br> Decano <br> Jorge Medina"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "72%",
+        "class": "full-subtitle",
+        "text": "“Preparándonos para <br> servir con..."
+    },
+    {
+        "x": "65%",
+        "y": "77%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p28-5",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CONFERENCIAS<br>DECANO JORGE MEDINA<br>“Preparándonos para servir con excelencia”<h6>Enero 2022</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "83%",
+        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-SERVICIOKIDS.webp",
+        "text": "Servicio <br> Kids"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "85%",
+        "class": "full-subtitle",
+        "text": "Se realizó un servicio <br> evangelístico dirigido..."
+    },
+    {
+        "x": "65%",
+        "y": "90%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p28-6",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO KIDS<br>“LA GRANDEZA DE LOS NIÑOS EN LAS MANOS DE DIOS”<h6>Agosto 2022</h6>",
+            "content": "Se realizó un servicio evangelístico dirigido por los jóvenes para niños. Incluyó predicación ambientada con obra de teatro, sobre el llamamiento de Dios al profeta Samuel; animaciones, actividades, ministración y refrigerio.<br><br>VIDEOS<br><br><a Target='_blank' href='https://onedrive.live.com/?authkey=%21ALP5dWnY8rY35rw&id=791DAA84C36200C7%216013&cid=791DAA84C36200C7&parId=root&parQt=sharedby&parCid=7A2DC38EECEB0276&o=OneUp'>IMG_0813 1.MOV</a>"
+        }
+    }
+]

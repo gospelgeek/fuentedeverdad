@@ -284,3 +284,134 @@ body{
         }
     }
 }
+
+// seccion de respuestas
+ul#answer-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-height: 530px;
+    overflow: auto;
+
+    @media (max-width: 480px) {
+        max-height: 450px;   
+    }
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    li{
+        background-color: #ffffff80;
+        border-radius: 40px;
+        padding: 10px 20px;
+        list-style: none;
+        .top{
+            padding-bottom: 10px;
+            h3{
+                color: @black;
+                font-weight: 300;
+                font-size: 15px;
+                line-height: 1;
+            }
+            strong{
+                line-height: 1;
+            }
+        }
+        .bottom-container{
+            font-size: 14px;
+            padding-top: 10px;
+            border: 1px solid;
+            border-image-slice: 1;
+            border-image-source: linear-gradient(to left, #ffffff00, #181675, #ffffff00);
+            border-bottom: none;
+            border-left: none;
+            border-right: none;
+            p{
+                overflow: hidden;
+                text-overflow: ellipsis;
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+            }
+        }
+
+        .action{
+            display: flex;
+            justify-content: end;
+
+            button{
+                background: none;
+                border: none;
+                outline: none;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+// estilos sopa de letras
+.region.sopa-de-letras-title{
+    text-align: center;
+    span{
+        color: #003b73;
+        font-size: 30px;
+
+    }
+}
+.region.sopa-de-letras{
+    #puzzle{
+        padding: 10px;
+        background-color: @white;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+
+        >div{
+            display: flex;
+            button{
+                width: 7%;
+                background-color: #cde4f4;
+                color: #003b73;
+                font-weight: 400;
+            }
+        }
+    }
+
+    #words{
+        column-gap: unset;
+        column-count: unset;
+        width: 90%;
+        ul{
+            display: grid;
+            padding: 0;
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 10px;
+            grid-template-rows: repeat(4, 1fr);
+            li{
+                color: @white;
+                font-weight: 500;
+                font-size: 16px;
+            }
+        }
+    }
+
+    #wordsButton{
+        button{
+            border-radius: 40px;
+            background-color: @blue-light;
+            border: none;
+            transition: all ease .5s;
+            &:hover{
+                background-color: #1baacf;
+                transform: scale(1.05);
+            }
+        }
+    }
+}

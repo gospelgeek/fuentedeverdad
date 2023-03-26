@@ -1,0 +1,254 @@
+[
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "10%",
+        "text1": "Hiroshima",
+        "text2": "Japón"
+    },
+    {
+        "x": "10%",
+        "y": "25%",
+        "width": "50%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p34'><strong>Dia <br>del Amigo</strong></p>"
+        }
+    },
+    {
+        "x": "63%",
+        "y": "22%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>20</strong></h3>"
+        }   
+    },
+    {
+        "x": "63%",
+        "y": "25.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+        }   
+    },
+    {
+        "x": "15%",
+        "y": "33%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p30",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>DÍA DEL AMIGO EN EL BAMBOO ATHLETIC PARK <h6>20 de Marzo de 2022<br>Actividad Evangelística y tarde de confraternidad</h6>",
+            "content": ""
+        }
+    },
+    {
+        "x": "11%",
+        "y": "47%",
+        "width": "40%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p34'><strong>Paseo <br> dia del niño</strong></p>"
+        }
+    },
+    {
+        "x": "15%",
+        "y": "55%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p30-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>PASEO DEL DÍA DEL NIÑO FDV KIDS HIROSHIMA<h6>5 de Mayo de 2022<br>En Hiroshima Asa Zoological Park<br>Tarde de enseñanza y paseo sobre la creación de Dios</h6>",
+            "content": ""
+        }
+    },
+    {
+        "x": "63%",
+        "y": "43%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>5</strong></h3>"
+        }   
+    },
+    {
+        "x": "63%",
+        "y": "46.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Mayo</h5>"
+        }   
+    },
+    {
+        "x": "11%",
+        "y": "67%",
+        "width": "45%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p34'><strong>Campamento <br> de Verano</strong></p>"
+        }
+    },
+    {
+        "x": "15%",
+        "y": "75%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p30-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CAMPAMENTO DE VERANO<h6>12 al 14 de agosto de 2022<br>Lugar Fukuyama Yamanocho Camp.<br>3 días en medio de las montañas estudiando la Palabra de Dios.</h6>",
+            "content": ""
+        }
+    },
+    {
+        "x": "63%",
+        "y": "63%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>12 al 14</strong></h3>"
+        }   
+    },
+    {
+        "x": "63%",
+        "y": "66%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Agosto</h5>"
+        }   
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "0%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]
