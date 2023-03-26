@@ -355,3 +355,63 @@ ul#answer-container{
     }
 }
 
+// estilos sopa de letras
+.region.sopa-de-letras-title{
+    text-align: center;
+    span{
+        color: #003b73;
+        font-size: 30px;
+
+    }
+}
+.region.sopa-de-letras{
+    #puzzle{
+        padding: 10px;
+        background-color: @white;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+
+        >div{
+            display: flex;
+            button{
+                width: 7%;
+                background-color: #cde4f4;
+                color: #003b73;
+                font-weight: 400;
+            }
+        }
+    }
+
+    #words{
+        column-gap: unset;
+        column-count: unset;
+        width: 90%;
+        ul{
+            display: grid;
+            padding: 0;
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 10px;
+            grid-template-rows: repeat(4, 1fr);
+            li{
+                color: @white;
+                font-weight: 500;
+                font-size: 16px;
+            }
+        }
+    }
+
+    #wordsButton{
+        button{
+            border-radius: 40px;
+            background-color: @blue-light;
+            border: none;
+            transition: all ease .5s;
+            &:hover{
+                background-color: #1baacf;
+                transform: scale(1.05);
+            }
+        }
+    }
+}

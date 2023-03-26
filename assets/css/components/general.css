@@ -290,3 +290,54 @@ ul#answer-container li .action button {
   outline: none;
   cursor: pointer;
 }
+.region.sopa-de-letras-title {
+  text-align: center;
+}
+.region.sopa-de-letras-title span {
+  color: #003b73;
+  font-size: 30px;
+}
+.region.sopa-de-letras #puzzle {
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.region.sopa-de-letras #puzzle > div {
+  display: flex;
+}
+.region.sopa-de-letras #puzzle > div button {
+  width: 7%;
+  background-color: #cde4f4;
+  color: #003b73;
+  font-weight: 400;
+}
+.region.sopa-de-letras #words {
+  column-gap: unset;
+  column-count: unset;
+  width: 90%;
+}
+.region.sopa-de-letras #words ul {
+  display: grid;
+  padding: 0;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  grid-template-rows: repeat(4, 1fr);
+}
+.region.sopa-de-letras #words ul li {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+}
+.region.sopa-de-letras #wordsButton button {
+  border-radius: 40px;
+  background-color: #01b7e6;
+  border: none;
+  transition: all ease 0.5s;
+}
+.region.sopa-de-letras #wordsButton button:hover {
+  background-color: #1baacf;
+  transform: scale(1.05);
+}
