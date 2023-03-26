@@ -293,8 +293,13 @@ ul#answer-container{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    max-height: 570px;
+    max-height: 530px;
     overflow: auto;
+
+    @media (max-width: 480px) {
+        max-height: 450px;   
+    }
+
     *{
         margin: 0;
         padding: 0;
@@ -304,7 +309,7 @@ ul#answer-container{
     li{
         background-color: #ffffff80;
         border-radius: 40px;
-        padding: 20px;
+        padding: 10px 20px;
         list-style: none;
         .top{
             padding-bottom: 10px;
@@ -349,3 +354,4 @@ ul#answer-container{
         }
     }
 }
+
