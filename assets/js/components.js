@@ -331,6 +331,66 @@ const addComponents = (region, lang) => {
                             <img style="${region.style_img}" src="${region.src}">
                       </div>`
             break;
+        case  'answer-container':
+            element = `<ul id="answer-container"> 
+                            <li class="item">
+                                <div class="top">
+                                    <h3>Kevin Sánchez</h3>
+                                    <strong>Lorem ipsum tempor incididunt?</strong>
+                                </div>
+                                <div class="bottom-container">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
+                                </div>
+                                <div class="action">
+                                    <button class="answer-button">
+                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
+                                    </button>
+                                </div>
+                            </li>
+                            <li class="item">
+                                <div class="top">
+                                    <h3>Kevin Sánchez</h3>
+                                    <strong>Lorem ipsum tempor incididunt?</strong>
+                                </div>
+                                <div class="bottom-container">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
+                                </div>
+                                <div class="action">
+                                    <button class="answer-button">
+                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
+                                    </button>
+                                </div>
+                            </li>
+                            <li class="item">
+                                <div class="top">
+                                    <h3>Kevin Sánchez</h3>
+                                    <strong>Lorem ipsum tempor incididunt?</strong>
+                                </div>
+                                <div class="bottom-container">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
+                                </div>
+                                <div class="action">
+                                    <button class="answer-button">
+                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
+                                    </button>
+                                </div>
+                            </li>
+                            <li class="item">
+                                <div class="top">
+                                    <h3>Kevin Sánchez</h3>
+                                    <strong>Lorem ipsum tempor incididunt?</strong>
+                                </div>
+                                <div class="bottom-container">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
+                                </div>
+                                <div class="action">
+                                    <button class="answer-button">
+                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
+                                    </button>
+                                </div>
+                            </li>  
+                       </ul>`
+            break;
         default:
             break;
             
@@ -343,3 +403,5 @@ const addComponents = (region, lang) => {
 const addSVG = (content, region) => {
     return "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 " + region.viewX + " " + region.viewY + "' style='overflow: visible;' xml:space=''><foreignObject  width='100%' height='100%' style='overflow:visible;'>" + content + "</foreignObject></svg>"
 }
+
+
