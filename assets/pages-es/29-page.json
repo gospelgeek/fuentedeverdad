@@ -1,0 +1,173 @@
+[
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "5%",
+        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-BAUTISMOSNOMBRE.webp",
+        "text": "Bautismos <br> en el Nombre <br> de Jesús"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "63%",
+        "y": "7%",
+        "class": "full-subtitle",
+        "text": "“Preparandonos para <br> servir con..."
+    },
+    {
+        "x": "63%",
+        "y": "12.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p29",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>BAUTISMOS EN EL NOMBRE DE JESÚS<br> “Avanzando hacia el reino”<h6>Agosto 2022</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "19%",
+        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-MINISTERIOELLA.webp",
+        "text": "Ministerio <br> Ella"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "63%",
+        "y": "20%",
+        "class": "full-subtitle",
+        "text": "Celebramos un servicio <br> bajo el tema..."
+    },
+    {
+        "x": "63%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p29-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>MINISTERIO “ELLA”<br>Un corazón transformado, es un hogar renovado<h6>Noviembre 2022</h6>",
+            "content": "Celebramos un servicio bajo el tema: ¿Cómo está tu corazón? Dios ministro el corazón de cada mujer. Al final, entregamos algunos detalles a las asistentes."
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "39%",
+        "text1": "Santa Marta",
+        "text2": "Colombia"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "48%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-ALMUERZOPARQUE.webp",
+        "text": "Almuerzo <br> en el parque"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "63%",
+        "y": "50%",
+        "class": "full-subtitle",
+        "text": "Es más bienaventurado <br>dar que recibir..."
+    },
+    {
+        "x": "63%",
+        "y": "55.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p29-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>ALMUERZO EN EL PARQUE<h6>Marzo 2022</h6>",
+            "content": "Es más bienaventurado dar que recibir “Amamos a los jóvenes”"
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "58%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-DIAACCIONGRACIAS.webp",
+        "text": "Dia de <br> Acción <br> de Gracias"
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "72%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-REUNIONHERMANOS.webp",
+        "text": "Reunión <br> con hermanos"
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "85%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-REUNIONJOVENES.webp",
+        "text": "Reunión <br> de Jóvenes"
+    },
+    {
+        "x": "60%",
+        "y": "87%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "60%",
+        "y": "92%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]

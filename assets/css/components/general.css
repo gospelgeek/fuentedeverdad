@@ -293,6 +293,21 @@ ul#answer-container li .action button {
 .region.sopa-de-letras-title {
   text-align: center;
 }
+
+.main-text-p34{
+  color: white;
+  line-height: 25px;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.nombres-p26{
+  color: white;
+  font-size: 0.7em;
+  text-align: center;
+  line-height: 14px;
+}
+
 .region.sopa-de-letras-title span {
   color: #003b73;
   font-size: 30px;
