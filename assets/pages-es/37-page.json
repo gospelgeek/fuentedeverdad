@@ -1,0 +1,114 @@
+[
+    {
+        "x": "10%",
+        "y": "12%",
+        "width": "80%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h1 class='title-pag-37'><strong>VIAJE MISIONERO NACIONAL</strong><h1>"
+        }
+            
+    },
+    {
+        "x": "35%",
+        "y": "48%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img width='150' height='150' src='assets/pics/Eventos/costa_rica/Recurso 2.webp'>"
+    },
+    {
+        "x": "50%",
+        "y": "59%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "68%",
+        "y": "60.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>29</strong></h3>"
+        }   
+    },
+    {
+        "x": "68%",
+        "y": "64%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de<br>Nov. 2022</h5>"
+        }   
+    },
+    {
+        "x": "0",
+        "y": "80%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-20",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='text-pag-20'>Nuestro viaje misionero tuvo dos objetivos concretos. Primero, confirmar la fe de una pareja de hermanos...</p>"
+        }
+    },
+    {
+        "x": "64%",
+        "y": "82%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p37",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CUMBRE NACIONAL MÉXICO 2022<h5><b>Fecha:</b> 04 al 07 Febrero 2022</h5>",
+            "content": "<b>Invitados:</b><ul><li>Obispo Samuel Valverde & Hna. Raquel Valverde</li><li>Pastor Martín Pérez</li></ul><b>Pastores asistentes:</b><ul><li>Juan Domínguez & Lidia Juárez</li><li>Abraham Encinas & Perla Escalante</li><li>Isaac Nabte & Faride Casanova</li><li>Jairo Escobar & Paola Maldonado</li><li>Gabriel Gálvez & Egla Acosta</li><li>Francisco Díaz & Miriam Cid</li><li>Juan González & Claudia Prado</li><li>Domingo Carlos & Irene Carlos</li></ul><b>DÍA 1 – VIERNES 04 FEBRERO</b><table class='table-modal'><tr><td>Tiempo de Oracion</td><td>Todos</td></tr><tr><td>Mensaje de Lanzamiento</td><td>Pastor Domingo Carlos</td></tr><tr><td>Sesión 1. Bajada secreta del monte</td><td>Obispo Samuel Valverde</td></tr><tr><td>Sesión 2. 5 Características de la Intercesión</td><td>Pastor Martín Pérez</td></tr><tr><td colspan='2'>Sesiones simultáneas (Pastores & Ella México)</td></tr><tr><td>Cena-Conferencia matrimonial Y MI VIÑA QUE ERA MÍA…</td><td>Obispo Samuel Valverde & Hna. Raquel Valverde</td></tr></table><br><br><b>DÍA 2 – SÁBADO 05 FEBRERO</b><table class='table-modal'><tr><td>Sesión 3. Oraciones que mueven el Cielo y la Tierra</td><td>Pastor Domingo Carlos</td></tr><tr><td>Intercesión por el mundo</td><td>Obispo Samuel Valverde</td></tr><tr><td>Intercesión por nuestra nación</td><td>Pastor Martín Pérez</td></tr><tr><td>Intercesión por nuestra capital</td><td>Pastor Gabriel Gálvez</td></tr><tr><td colspan='2'>Sesiones simultáneas (Pastores & Ella México)</td></tr><tr><td colspan='2'>Culto de ordenación e iniciación Diáconos: Rubén Candanosa (SLP), Ramiro Ocampo (SLP), Orlando Valdez (SLP)Ministros: Antonio Medina (CDMX), Daniel Mascareño (Mexicali)</td></tr></table><br><br><b>DÍA 3 – DOMINGO 06 FEBRERO</b><table class='table-modal'><tr><td colspan='2'>Oración por México(ZÓCALO CDMX)</td></tr><tr><td colspan='2'>Culto de lanzamiento FDV CDMX</td></tr></table>"
+        }
+    }
+]

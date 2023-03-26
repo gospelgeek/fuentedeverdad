@@ -50,29 +50,42 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
-
     <div id="canvas">
-        <!-- Boton idioma-->
-        <div>
-            <a  onclick="click_boton_a_spanish()">
-                <button class="idioma">
-                    <img src="./assets/pics/icons/spain.png">
-                </button>
-            </a>
-        </div> 
-
-        <div class="magazine-viewport">
-            <!-- Next button -->
-            <div ignore="1" class="next-button"></div>
-
-            <!--Container of the flipbook-->
-            <div class="container">
-                <div class="magazine"></div>
-            </div>
-
-            <!-- Previous button -->
-            <div ignore="1" class="previous-button"></div>
+        <div class="action">
+            <img src="./assets/pics/icons/united-states.png">
+            <span class="iconify" data-icon="material-symbols:keyboard-arrow-down-rounded" style="color: #fff;" data-width="24" data-height="24"></span>
         </div>
+        <div class="dropdown">
+            <ul>
+                <li>
+                    <a  onclick="click_boton_a_spanish()">
+                        <button class="idioma">
+                            <img src="./assets/pics/icons/spain.png">
+                        </button>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    <!--<div class="dropdown">
+        <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
+        <div id="myDropdown" class="dropdown-content">
+            <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
+        </div>
+        </div>
+    <div>-->
+    </div>
+
+    <div class="magazine-viewport">
+        <!-- Next button -->
+        <div ignore="1" class="next-button"></div>
+
+        <!--Container of the flipbook-->
+        <div class="container">
+            <div class="magazine"></div>
+        </div>
+
+        <!-- Previous button -->
+        <div ignore="1" class="previous-button"></div>
     </div>
 
     <!-- Read more Component -->
@@ -292,7 +305,14 @@
 
 
             </script>
+            <script type="text/javascript">
+                $("#canvas .action").click(function() {
+                    $("#canvas").toggleClass("active")
+                })
+            </script>  
         </div>
     </div>    
+
+    <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
 </body>
 </html>

@@ -146,7 +146,9 @@ const addComponents = (region, lang) => {
             element = `${region.components}`;
             break;
         case 'formulario':
-            element = (`<form action="https://formsubmit.co/d65870144b043385d9cf46c3cb060e33" method="post">
+            element = (`
+            <img class="form-icon" src="assets/pics/icons/preguntas_icono.webp">
+            <form action="https://formsubmit.co/d65870144b043385d9cf46c3cb060e33" method="post">
             <ul>
              <li>
                <label for="name">Nombre:</label>
@@ -165,10 +167,9 @@ const addComponents = (region, lang) => {
                <textarea id="msg" name="user_message"></textarea>
              </li>
              <div id="html_element"></div>
-             <br/>
              <input type="hidden" name="_captcha" value="false">         
+             </ul>
              <button  type="submit">Enviar</button>
-            </ul>
            </form>
            <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>`)
             break;
