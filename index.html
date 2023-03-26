@@ -56,22 +56,34 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
-
+    
     <div id="canvas">
-        
-        <!--<div class="dropdown">
-            <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
-           <div id="myDropdown" class="dropdown-content">
-             <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
-           </div>
-         </div>
-        <div>-->
-            <a onclick="click_boton_a_english()">
-                <button class="idioma">
-                    <img src="./assets/pics/icons/united-states.png">
-                </button>
-            </a>
+        <div class="action">
+            <img src="./assets/pics/icons/spain.png">
+            <span class="iconify" data-icon="material-symbols:keyboard-arrow-down-rounded" style="color: #fff;" data-width="24" data-height="24"></span>
         </div>
+        <div class="dropdown">
+            <ul>
+                <li>
+                    <a onclick="click_boton_a_english()">
+                        <button class="idioma">
+                            <img src="./assets/pics/icons/united-states.png">
+                        </button>
+                    </a>
+                </li>
+                <li>
+
+                </li>
+            </ul>
+        </div>
+    <!--<div class="dropdown">
+        <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
+        <div id="myDropdown" class="dropdown-content">
+            <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
+        </div>
+        </div>
+    <div>-->
+    </div>
 
         <div class="magazine-viewport">
             <!-- Next button -->
@@ -302,7 +314,13 @@
                 });
 
 
-            </script>        
+            </script>  
+            
+            <script type="text/javascript">
+                $("#canvas .action").click(function() {
+                    $("#canvas").toggleClass("active")
+                })
+            </script>  
         </div>
     </div>   
     

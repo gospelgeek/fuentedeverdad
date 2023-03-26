@@ -191,12 +191,3 @@ body {
     width: 100%;
 }
 
-.idioma{
-    position:absolute;
-    z-index:1;
-    cursor: pointer;
-    top:8px;
-    left: 8px;
-    border: none;
-    background-color: #081420;
-}
