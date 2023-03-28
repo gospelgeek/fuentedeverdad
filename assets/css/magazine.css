@@ -227,6 +227,32 @@ body {
 }
 
 
+._content_text_greeting_pag_47 {
+    width: 100%;
+    display: grid;
+    place-content: center;
+    width: 100%;
+    text-align: center;
+    font-size: 0.95em;
+    color: #081420;
+}
+
+._content_text_greeting_pag_47 > p > strong {
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.29em;
+}
+
+._content_text_greeting_pag_47._eng {
+    font-size: 1em;
+}
+
+._content_text_greeting_pag_47._eng > p > strong  {
+    font-size: 1.3em;
+}
+
+
+
 @media screen and (max-width: 768px) {
    
     #img_48_page_esp,
@@ -241,6 +267,24 @@ body {
 
     ._text_center_container_ > h1 {
         font-size: 1.5em;
+    }
+
+        
+
+    ._content_text_greeting_pag_47 {
+        font-size: 0.7em;
+    }
+
+    ._content_text_greeting_pag_47 > p > strong {
+        font-size: 1em;
+    }
+
+    ._content_text_greeting_pag_47._eng {
+        font-size: 1em;
+    }
+
+    ._content_text_greeting_pag_47._eng > p > strong  {
+        font-size: 1.3em;
     }
     
 }
