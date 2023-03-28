@@ -43,11 +43,10 @@ const addComponents = (region, lang) => {
         case 'modal-2':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
                     $('<div/>', { id: region.id, class: 'modal' }).append(
-                        $('<div/>', { class: 'print-modal' }).html(region.data.print),
-                        $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
-                        $('<img>', { src: region.data.src, class: 'title-modal' }),
-                        $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.imagenes))),
-                    addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+                        $('<div/>', {class:'carousel-container'}).html(region.data.imagenes),
+                        $('<button/>', { class: 'prev-btn-modal' }).html("anterior"),
+                        $('<button/>', { class: 'next-btn-modal' }).html("siguiente"),
+                        ))
         
             break;    
         case 'audio':
@@ -310,7 +309,7 @@ const addComponents = (region, lang) => {
         case 'event-container':
             element = `<div class="event-container">
                 <div class="image">
-                    <img src="${region.src}">
+                    <button  class="evento_abrir" data-id="${region.id}" onclick="evento(this)"><img src="${region.src}"></button>
                 </div>
                 <h3 class="text">${region.text}</h3>
             </div>`;

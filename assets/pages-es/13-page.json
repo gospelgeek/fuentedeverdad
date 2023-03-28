@@ -8,6 +8,7 @@
     },
     {
         "tag": "event-container",
+        "id" :"modal-p13-01",
         "x": "8%",
         "y": "18%",
         "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
@@ -24,17 +25,52 @@
         "y": "25.5%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "85%",
-        "height": "80%",
+        "width": "100%",
+        "height": "100%",
         "fontSize": "2em",
         "tag": "modal-2",
-        "id": "modal-p11",
+        "id": "modal-p13-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": "<div class='carousel-slide'><img  class='active' src='assets/pics/Eventos/eeuu/brewster/1.jpg' alt='1'><img  src='assets/pics/Eventos/eeuu/brewster/2.jpg' alt='2'><img  src='assets/pics/Eventos/eeuu/brewster/3.jpg' alt='3'><img  src='assets/pics/Eventos/eeuu/brewster/4.jpg' alt='4'><img  src='assets/pics/Eventos/eeuu/brewster/5.jpg' alt='5'><img  src='assets/pics/Eventos/eeuu/brewster/6.jpg' alt='6'><img  src='assets/pics/Eventos/eeuu/brewster/7.jpg' alt='7'><img  src='assets/pics/Eventos/eeuu/brewster/8.jpg' alt='8'><img  src='assets/pics/Eventos/eeuu/brewster/9.jpg' alt='9'>"
+        }
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p13-02",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": "<div class='carousel-slide'><img  class='active' src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/1.jpg' alt='1'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/2.jpg' alt='2'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/3.jpg' alt='3'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/4.jpg' alt='4'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/5.jpg' alt='5'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/6.jpg' alt='6'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/7.jpg' alt='7'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/8.jpg' alt='8'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/9.jpg' alt='9'>"
+        }
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p13-1",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>SERVICIO DE NIÑOS<h6>Día del Súper Héroe <br> Septiembre 2022</h6>",
-            "content": "",
-            "imagenes": "<div class='slider-container'><img class='slider-item' src='https://images.unsplash.com/photo-1580501170961-bb0dbf63a6df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80'/><img class='slider-item' src='https://images.unsplash.com/photo-1580501170888-80668882ca0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80'/><img class='slider-item' src='https://images.unsplash.com/photo-1572508589584-94d778209dd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80'/></div>"
+            "content": ""
         }
     },
     {
@@ -45,6 +81,7 @@
         "text2": "Texas"
     },
     {
+        "id":"modal-p13-02",
         "tag": "event-container",
         "x": "8%",
         "y": "53%",
@@ -58,11 +95,30 @@
         "text": "Tuvimos la grata compañía de nuestro..."
     },
     {
+        "id": "modal-p13-03",
         "tag": "event-container",
         "x": "8%",
         "y": "68%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
         "text": "Alborada <br> Servicio <br> de Amanecer"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p13-03",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": "<div class='carousel-slide'><img  class='active' src='assets/pics/Eventos/eeuu/texas/alborada/1.jpg' alt='1'><img  src='assets/pics/Eventos/eeuu/texas/alborada/2.jpg' alt='2'><img  src='assets/pics/Eventos/eeuu/texas/alborada/3.jpg' alt='3'>"
+        }
     },
     {
         "tag": "event-subtitle",
@@ -79,7 +135,7 @@
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p11-2",
+        "id": "modal-p13-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
@@ -96,7 +152,7 @@
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p11-3",
+        "id": "modal-p13-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {

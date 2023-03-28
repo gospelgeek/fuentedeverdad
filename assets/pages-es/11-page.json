@@ -44,12 +44,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "23%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-cr.gif",
@@ -57,12 +57,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "30%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-cb.gif",
@@ -70,12 +70,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "38%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-jp.gif",
@@ -83,12 +83,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "46%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-co.gif",
@@ -96,12 +96,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "54%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-mx.gif",
@@ -109,12 +109,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "63%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-usa.gif",
@@ -122,12 +122,12 @@
         }
     },
     {
-        "x": "90%",
+        "x": "80%",
         "y": "72%",
         "tag": "img-2",
         "class": "",
-        "width": "50",
-        "height":"50",
+        "width": "100",
+        "height":"100",
         "lang":"esp",
         "data":{
         "src": "assets/pics/icons/fl-ch.gif",
