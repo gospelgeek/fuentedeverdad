@@ -220,87 +220,6 @@ span {
     animation: pulse-2 2s 4;
 }
 
-.carrusel-img-box {
-    display: grid;
-    place-content: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    z-index: 1024;
-}
-
-.background-out-carrusel {
-    position: fixed;
-    left: 0;
-    top: 0;
-    background-color: #797676a4;
-    width: 100%;
-    height: 100vh;
-}
-
-.box-carrsusel-content {
-    display: grid;
-    position: relative;
-    width: 60em;
-    height: 35em;
-    background-color: #fff;
-    border-radius: 1em;
-    overflow: hidden;
-    z-index: 1026;
-}
-
-.imagen-carrusel {
-    display: grid;
-    grid-template-rows: 100%;
-    grid-auto-columns: 100%;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 2;
-}
-
-.display-none {
-    display: none !important;
-}
-
-.imagen-carrusel>img {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-#arrow-left {
-    position: absolute;
-    top: 50%;
-    left: 1em;
-    fill: #702ac1;
-    height: 5em;
-    width: 5em;
-    transform: translateY(-50%);
-    cursor: pointer;
-    z-index: 5;
-}
-
-#arrow-right {
-    position: absolute;
-    top: 50%;
-    right: 1em;
-    fill: #702ac1;
-    height: 5em;
-    width: 5em;
-    transform: translateY(-50%);
-    cursor: pointer;
-    z-index: 5;
-}
-
 @media only screen and (max-width: 468px) {
     .number-page {
         bottom: 28px;
@@ -3358,32 +3277,42 @@ button::-moz-focus-inner {
     border: 2px solid rgb(32, 80, 184);
 }
 
-.slider-container {
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    overflow-x: scroll;
-  }
-  
-  .slider-container img {
-    flex: 0 0 100%;
-    width: 100%;
-    object-fit: cover;
-  }
 
-  .slider-container {
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    overflow-x: scroll;
-    scroll-snap-type: x mandatory;
+/*carrusel*/
+
+.carousel-container {
+    position: relative;
+    
   }
   
-  .slider-container img {
-    flex: 0 0 100%;
+  .carousel-slide {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-auto-columns: 100%;
     width: 100%;
-    object-fit: cover;
+    height: 400px;
+    top: 0;
+    left: 0;
+    z-index: 2;
+  }
   
-    /* Vamos a añadir esto 👇 */
-    scroll-snap-align: center;
+  .carousel-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .carousel-container img.active {
+    opacity: 1;
+  }
+  
+  .evento_abrir{
+    cursor: pointer;
+    background-color: transparent; 
+    outline:none;
+    border: none;
   }
