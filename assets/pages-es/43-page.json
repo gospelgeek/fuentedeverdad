@@ -1,3 +1,124 @@
 [
-    
+    {
+        "tag": "title-content",
+        "x": "0%",
+        "y": "10%",
+        "class": "corazon-sanado-title",
+        "width": "100%",
+        "data": {
+            "text": "<p>CADA</p><p>CORAZÓN</p><strong>SANADO</strong>"
+        }
+    },
+    {
+        "x": "50%",
+        "y": "10%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "40%",
+        "height": "4%",
+        "fontSize": "6em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Martín Perez",
+            "position": "Pastor",
+            "year": "2023",
+            "src": ""
+        }
+    },
+    {
+        "x": "65%",
+        "y": "17%",
+        "width": "25%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "class": "pastor-corazon-sanado",
+        "font-size": "10em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p42-2'>Por el<br><strong>PASTOR ÁLVARO OCAMPO</strong></p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "65%",
+        "width": "100%",
+        "class": "corazon-sanado-content",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h4>Isaías profetizó, no solo el nacimiento del mesias, además, la labor que desempeñaría el mas grande e importantemisionero que el mundo haya conocido...</h3>"
+        }
+                
+    },
+    {
+        "x": "10%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "90%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "",
+            "content": ""
+        }
+    },
+    {
+        "x": "-1%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "48%",
+        "y": "86%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

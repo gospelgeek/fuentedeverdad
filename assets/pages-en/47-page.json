@@ -1,0 +1,33 @@
+[
+{
+    "x": "0",
+    "y": "10%",
+    "width": "100%",
+    "tag": "html_pure",
+    "html": "<div class='_content_text_greeting_pag_47 _eng'> <p>How can I make myself a monthly </p> <p><strong>FDV mission partitioner?</strong></p></div>"
+    },
+    {
+    "x": "0",
+    "y": "67%",
+    "width": "100%",
+    "tag": "html_pure",
+    "html": "<div class='_content_text_greeting_pag_47 _eng_text'> <p>How beautiful on the mountains are the feet of those</p> <p>who bring good news, who proclaim peace, who bring</p><p>good tidings, who proclaim salvation, who say to Zion,</p><p>'Your God reigns!'</p></div>"
+    },
+    {
+    "x": "7%",
+    "y": "85%",
+    "viewX": 1800,
+    "viewY": 100,
+    "width": "90%",
+    "height": "10%",
+    "fontSize": "3.3em",
+    "tag": "modal",
+    "id": "modal-p47",
+    "class": "",
+    "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+    "data": {
+    "title": "<br><br><br>",
+    "content": ""
+    }
+    }
+]    

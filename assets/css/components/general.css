@@ -212,3 +212,87 @@ tr,td{
   text-align: center;
   line-height: 14px;
 }
+
+.region.sopa-de-letras-title span {
+  color: #003b73;
+  font-size: 30px;
+}
+.region.sopa-de-letras #puzzle {
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.region.sopa-de-letras #puzzle > div {
+  display: flex;
+}
+.region.sopa-de-letras #puzzle > div button {
+  width: 7%;
+  background-color: #cde4f4;
+  color: #003b73;
+  font-weight: 400;
+}
+.region.sopa-de-letras #words {
+  column-gap: unset;
+  column-count: unset;
+  width: 90%;
+}
+.region.sopa-de-letras #words ul {
+  display: grid;
+  padding: 0;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  grid-template-rows: repeat(4, 1fr);
+}
+.region.sopa-de-letras #words ul li {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+}
+.region.sopa-de-letras #wordsButton button {
+  border-radius: 40px;
+  background-color: #01b7e6;
+  border: none;
+  transition: all ease 0.5s;
+}
+.region.sopa-de-letras #wordsButton button:hover {
+  background-color: #1baacf;
+  transform: scale(1.05);
+}
+.region.corazon-sanado-title .div-center-ubication-responsive {
+  display: flex;
+  justify-content: start;
+}
+.region.corazon-sanado-title .div-center-ubication-responsive .responsive-font {
+  margin-left: 40px;
+  color: #fe5457;
+  font-size: 40px;
+  font-style: italic;
+}
+.region.corazon-sanado-title .div-center-ubication-responsive .responsive-font p {
+  font-weight: 300;
+}
+.region.tooltip-author {
+  z-index: 10;
+}
+.region.pastor-corazon-sanado {
+  z-index: 3;
+}
+.region.pastor-corazon-sanado .div-center-ubication-responsive .aux-class-content {
+  width: 100% !important;
+}
+.region.pastor-corazon-sanado .div-center-ubication-responsive .aux-class-content .responsive-font-content p {
+  font-size: 12px;
+  text-align: end;
+}
+.region.corazon-sanado-content h4 {
+  font-size: 14px;
+  font-weight: 300;
+  color: #ffffff;
+}
+.modal a.close-modal {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAM5JREFUSEvtlMsNwkAMRJ87oJNQAnQAlYYOSAnQCR0YWXKkZPH+DisuyTHyzlvP2CsM/mSwPgeg6vB/LVLVG7CIyCe6qqqegIuIPHKtZDtw8Rl4AdcU4uJP4Azcc5ASwG63AFMKScTf3kXYZTEDF9pB3Ir15kVxq62GHEDsnNlSFW8CWFECsV9N4r2A1RY7FwYfTVKrRVvPTecn+O4x3VizC9SFwunq6qA0itF05ZaxZdHCQBNI/6K5ReOeiuoz2VhQnaJGnWzZAag6ONyiL3UxahlGNu2NAAAAAElFTkSuQmCC');
+}
+

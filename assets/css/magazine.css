@@ -191,3 +191,101 @@ body {
     width: 100%;
 }
 
+.idioma{
+    position:absolute;
+    z-index:1;
+    cursor: pointer;
+    top:8px;
+    left: 8px;
+    border: none;
+    background-color: #081420;
+}
+
+._content_text_greeting_ {
+    position: relative;
+    display: grid;
+    justify-items: flex-end;
+    width: 100%;
+    top: 2em;
+    right: 2em;
+}
+
+._content_text_greeting_.aux_ {
+    right: 2em;
+}
+
+._content_text_greeting_ > p {
+    text-align: left;
+}
+
+._text_center_container_ > h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #02295c;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+._content_text_greeting_pag_47 {
+    width: 100%;
+    display: grid;
+    place-content: center;
+    width: 100%;
+    text-align: center;
+    font-size: 0.95em;
+    color: #081420;
+}
+
+._content_text_greeting_pag_47 > p > strong {
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.29em;
+}
+
+._content_text_greeting_pag_47._eng {
+    font-size: 1em;
+}
+
+._content_text_greeting_pag_47._eng > p > strong  {
+    font-size: 1.3em;
+}
+
+
+
+@media screen and (max-width: 768px) {
+   
+    #img_48_page_esp,
+    #img_48_page_eng {
+        top: 6em !important;
+    }
+
+    #img_48_page_esp > img,
+    #img_48_page_eng > img{
+        width: 80% !important;
+    }
+
+    ._text_center_container_ > h1 {
+        font-size: 1.5em;
+    }
+
+        
+
+    ._content_text_greeting_pag_47 {
+        font-size: 0.7em;
+    }
+
+    ._content_text_greeting_pag_47 > p > strong {
+        font-size: 1em;
+    }
+
+    ._content_text_greeting_pag_47._eng {
+        font-size: 1em;
+    }
+
+    ._content_text_greeting_pag_47._eng > p > strong  {
+        font-size: 1.3em;
+    }
+    
+}
+

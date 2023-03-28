@@ -1,3 +1,33 @@
 [
-    
+    {
+        "x": "0",
+        "y": "10%",
+        "width": "100%",
+        "tag": "html_pure",
+        "html": "<div class='_content_text_greeting_pag_47'> <p>¿Como puedo hacerme un patricionador</p> <p><strong>Mensual de las misiones FDV?</strong></p></div>"
+   },
+   {
+    "x": "0",
+    "y": "70%",
+    "width": "100%",
+    "tag": "html_pure",
+    "html": "<div class='_content_text_greeting_pag_47'> <p>Cuan Hermosos son sobre los montes los pies de los</p> <p>que anuncian la paz, cuan necesarias las rodillas</p><p>los que oran e interatuan por ellos...</p></div>"
+   },
+   {
+    "x": "7%",
+    "y": "85%",
+    "viewX": 1800,
+    "viewY": 100,
+    "width": "90%",
+    "height": "10%",
+    "fontSize": "3.3em",
+    "tag": "modal",
+    "id": "modal-p47",
+    "class": "",
+    "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+    "data": {
+        "title": "<br><br><br>",
+        "content": ""
+    }
+}
 ]
