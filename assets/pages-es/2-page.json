@@ -5,7 +5,7 @@
         "y": "0%"
     },
     {
-        "x": "5%",
+        "x": "0%",
         "y": "15%",
         "width": "100%",
         "styleBox": "width: 65%; height: auto !important;",
@@ -22,7 +22,7 @@
     },
     {
         "x": "10%",
-        "y": "25%",
+        "y": "29    %",
         "width": "80%",
         "styleBox": "width: 85%; height: auto !important;",
         "background-color": "#b41015",
