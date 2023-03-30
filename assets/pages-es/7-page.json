@@ -12,12 +12,12 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='title-p7'><strong>Quisiera que mi<br> epitafio dijera:</strong></p>"
+           "text": "<p class='title-p7'><strong>Quisiera que mi epitafio dijera:</strong></p>"
         }
     },
     {
         "x": "2%",
-        "y": "17%",
+        "y": "15%",
         "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",

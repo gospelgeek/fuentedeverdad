@@ -1,24 +1,209 @@
 [
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p18-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        
         "tag": "event-container",
         "x": "32%",
         "y": "28%",
         "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-NOCHEELLA.webp",
-        "text": "Noche Ella"
+        "text": "Noche Ella",
+        "id":"modal-p18-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/noche_ella/17.jpg"
+            }
+        ]    
     },
     {
         "tag": "event-container",
         "x": "32%",
         "y": "41%",
         "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-SEGUNDOANIVERSARIO.webp",
-        "text": "Segundo <br> Aniversario"
+        "text": "Segundo <br> Aniversario",
+        "id":"modal-p18-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/11.jpg"
+            },
+            {
+                "tipo": "video",
+                "src":"assets/pics/Eventos/eeuu/columbia/segundo_aniversario/12.mp4"
+            }
+        ]
+
     },
     {
         "tag": "event-container",
         "x": "32%",
         "y": "56%",
         "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-TALLERAUTORIDADESPIRITUAL.webp",
-        "text": "Taller <br> Autoridad Espiritual"
+        "text": "Taller <br> Autoridad Espiritual",
+        "id":"modal-p18-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/taller/10.jpg"
+            }
+        ]
     },
     {
         "x": "25%",

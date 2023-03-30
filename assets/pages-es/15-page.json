@@ -31,38 +31,127 @@
         }
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p15-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "25%",
         "y": "24%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-AYUNOYALBORADA.webp",
-        "text": "Ayunos y Alboradas"
+        "text": "Ayunos y Alboradas",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/alboradas/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/alboradas/2.jpg"
+            }
+        ]    
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "37%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-DEVOCIONALES.webp",
-        "text": "Devocionales Teens en la Playa"
+        "text": "Devocionales Teens en la Playa",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/playa/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/playa/2.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "49%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-DIAACCIONGRACIAS.webp",
-        "text": "Día de Acción de Gracias"
+        "text": "Día de Acción de Gracias",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/accion_gracias/1.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "61%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-MASBAUTISMOS.webp",
-        "text": "Más Bautismos"
+        "text": "Más Bautismos",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/bautismos/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/bautismos/2.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "73%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMANAFAMILIA.webp",
-        "text": "Semana de la Familia"
+        "text": "Semana de la Familia",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/7.jpg"
+            }
+        ] 
     }
 ]

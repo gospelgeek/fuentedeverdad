@@ -7,11 +7,72 @@
         "text2": "Arizona"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p19-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "25%",
         "y": "19%",
         "src": "assets/pics/Eventos/eeuu/phoenix/6-EU-PHOENIX-SERVICIOORDENACION.webp",
-        "text": "Servicio <br> de Ordenación"
+        "text": "Servicio <br> de Ordenación",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/10.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-title",
@@ -25,7 +86,38 @@
         "x": "10%",
         "y": "52%",
         "src": "assets/pics/Eventos/eeuu/san_antonio/7-EU-SANANTONIO-LANZAMIENTO.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/8.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -39,7 +131,42 @@
         "x": "10%",
         "y": "65%",
         "src": "assets/pics/Eventos/eeuu/san_antonio/7-EU-SANANTONIO-CONCIERTO.webp",
-        "text": "Concierto  <br> Recordando <br> Nuestro canto II"
+        "text": "Concierto  <br> Recordando <br> Nuestro canto II",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/9.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",

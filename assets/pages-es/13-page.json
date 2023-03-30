@@ -12,7 +12,46 @@
         "x": "8%",
         "y": "18%",
         "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
-        "text": "Día del <br> Super Heroe 2022"
+        "text": "Día del <br> Super Heroe 2022",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/9.jpg"
+            }
+            
+        ]    
     },
     {
         "tag": "event-subtitle",
@@ -35,25 +74,7 @@
         "data": {
             "title": "",
             "content": "",
-            "imagenes": "<div class='carousel-slide'><img  class='active' src='assets/pics/Eventos/eeuu/brewster/1.jpg' alt='1'><img  src='assets/pics/Eventos/eeuu/brewster/2.jpg' alt='2'><img  src='assets/pics/Eventos/eeuu/brewster/3.jpg' alt='3'><img  src='assets/pics/Eventos/eeuu/brewster/4.jpg' alt='4'><img  src='assets/pics/Eventos/eeuu/brewster/5.jpg' alt='5'><img  src='assets/pics/Eventos/eeuu/brewster/6.jpg' alt='6'><img  src='assets/pics/Eventos/eeuu/brewster/7.jpg' alt='7'><img  src='assets/pics/Eventos/eeuu/brewster/8.jpg' alt='8'><img  src='assets/pics/Eventos/eeuu/brewster/9.jpg' alt='9'>"
-        }
-    },
-    {
-        "x": "61%",
-        "y": "25.5%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "100%",
-        "height": "100%",
-        "fontSize": "2em",
-        "tag": "modal-2",
-        "id": "modal-p13-02",
-        "class": "",
-        "src": "",
-        "data": {
-            "title": "",
-            "content": "",
-            "imagenes": "<div class='carousel-slide'><img  class='active' src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/1.jpg' alt='1'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/2.jpg' alt='2'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/3.jpg' alt='3'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/4.jpg' alt='4'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/5.jpg' alt='5'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/6.jpg' alt='6'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/7.jpg' alt='7'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/8.jpg' alt='8'><img  src='assets/pics/Eventos/eeuu/texas/segundo_aniversario/9.jpg' alt='9'>"
+            "imagenes": ""
         }
     },
     {
@@ -81,12 +102,51 @@
         "text2": "Texas"
     },
     {
-        "id":"modal-p13-02",
+        "id":"modal-p13-01",
         "tag": "event-container",
         "x": "8%",
         "y": "53%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-2ANIVERSARIO.webp",
-        "text": "Segundo Aniversario <br> de la Iglesia"
+        "text": "Segundo Aniversario <br> de la Iglesia",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/9.jpg"
+            }
+            
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -95,30 +155,27 @@
         "text": "Tuvimos la grata compañía de nuestro..."
     },
     {
-        "id": "modal-p13-03",
+        "id": "modal-p13-01",
         "tag": "event-container",
         "x": "8%",
         "y": "68%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
-        "text": "Alborada <br> Servicio <br> de Amanecer"
-    },
-    {
-        "x": "61%",
-        "y": "25.5%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "100%",
-        "height": "100%",
-        "fontSize": "2em",
-        "tag": "modal-2",
-        "id": "modal-p13-03",
-        "class": "",
-        "src": "",
-        "data": {
-            "title": "",
-            "content": "",
-            "imagenes": "<div class='carousel-slide'><img  class='active' src='assets/pics/Eventos/eeuu/texas/alborada/1.jpg' alt='1'><img  src='assets/pics/Eventos/eeuu/texas/alborada/2.jpg' alt='2'><img  src='assets/pics/Eventos/eeuu/texas/alborada/3.jpg' alt='3'>"
-        }
+        "text": "Alborada <br> Servicio <br> de Amanecer",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/alborada/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/alborada/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/alborada/3.jpg"
+            }
+            
+        ]
     },
     {
         "tag": "event-subtitle",

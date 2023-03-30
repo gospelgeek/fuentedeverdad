@@ -7,25 +7,236 @@
         "text2": "Maryland"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p17-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "32%",
         "y": "28%",
         "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-ACTIVIDADJOVENES.webp",
-        "text": "Actividad <br> de Jovenes"
+        "text": "Actividad <br> de Jovenes",
+        "id":"modal-p17-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/7.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "32%",
         "y": "41%",
         "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-CONFERENCIAMATRIMONIAL.webp",
-        "text": "Conferencia <br> Matrimonial"
+        "text": "Conferencia <br> Matrimonial",
+        "id":"modal-p17-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/28.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "32%",
         "y": "56%",
         "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-DIADELAMIGO.webp",
-        "text": "Día  <br> del Amigo"
+        "text": "Día  <br> del Amigo",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/10.jpg"
+            },
+            {
+                "tipo":"video",
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/11 BAUTISMOS 2022.mp4"
+            }
+        ] 
     },
     {
         "x": "-5%",
