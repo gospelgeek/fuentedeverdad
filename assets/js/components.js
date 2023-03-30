@@ -43,9 +43,9 @@ const addComponents = (region, lang) => {
         case 'modal-2':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
                     $('<div/>', { id: region.id, class: 'modal' }).append(
-                        $('<div/>', {class:'carousel-container'}).html(region.data.imagenes),
-                        $('<button/>', { class: 'prev-btn-modal' }).html("anterior"),
-                        $('<button/>', { class: 'next-btn-modal' }).html("siguiente"),
+                        $('<div/>', {class:'carousel-container'}),
+                        $('<button/>', { id:region.id+'1', class: 'prev-btn-modal' }),
+                        $('<button/>', { id:region.id+'2', class: 'next-btn-modal' }),
                         ))
         
             break;    
@@ -83,7 +83,7 @@ const addComponents = (region, lang) => {
             element = (`<div class="div-center-ubication-responsive"> <a id="${region.id}" onclick="clickReadMore('+${region.id}+')" style="background-color: ${region['background-color']}; z-index: 1000;" class='btn-normal-23'   target="_blank" id="${region.id}"><span style="color: ${region.color}; font-size: ${region['font-size']}" class="boton-normal-text-23">${(region.data).text}</span></a> </div>`)
             break;
         case 'btn-normal-2':
-            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a style="cursor: pointer;" onClick="playAudio('${(region.data)[0].url}')"><img class='audio-img-content' src="${(region.data)[0].icon}" ></a> <a class='img-tag-imprimir' href="${(region.data)[1].url}" target='_blank' ><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
+            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a  style="cursor: pointer;" onClick="playAudio('${(region.data)[0].url},${(region.data[0].id)}')"><img id="${(region.data[0].id)}" class='audio-img-content' src="${(region.data)[0].icon}" ></a> <a class='img-tag-imprimir' href="${(region.data)[1].url}" target='_blank' ><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
             break;
         case 'title-content':
             element = (`<div class="div-center-ubication-responsive"><span class="responsive-font" style="${region.style}" >${(region.data).text}</span></div>`)
@@ -308,12 +308,17 @@ const addComponents = (region, lang) => {
             break;         
             
         case 'event-container':
-            element = `<div class="event-container">
-                <div class="image">
-                    <button  class="evento_abrir" data-id="${region.id}" onclick="evento(this)"><img src="${region.src}"></button>
-                </div>
-                <h3 class="text">${region.text}</h3>
-            </div>`;
+                let imagenes = region.imagenes_evento
+                if(imagenes != undefined){
+                    imagenes = JSON.stringify(region.imagenes_evento)
+                }
+                element = `<div class="event-container">
+                    <div class="image">
+                        <button  class="evento_abrir" data-id="${region.id}" data-imagenes='${imagenes}' onclick="evento(this)"><img src="${region.src}"></button>
+                    </div>
+                    <h3 class="text">${region.text}</h3>
+                </div>`;
+            
             break; 
         case 'event-title':
             element = `<div class="event-title">

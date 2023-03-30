@@ -4,7 +4,22 @@
         "x": "8%",
         "y": "13%",
         "src": "assets/pics/Eventos/eeuu/plano/2-EU-HURST-FRESHINK.webp",
-        "text": "Fresh Inc"
+        "text": "Fresh Inc",
+        "id":"modal-p14-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -17,7 +32,26 @@
         "x": "8%",
         "y": "24%",
         "src": "assets/pics/Eventos/eeuu/plano/2-EU-HURST-SERVICIO.webp",
-        "text": "Servicios de Acción de Gracias"
+        "text": "Servicios de Acción de Gracias",
+        "id":"modal-p14-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/3.jpg"
+            },
+            {
+        
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/4.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -33,11 +67,50 @@
         "text2": "Texas"
     },
     {
+        "id":"modal-p14-01",
         "tag": "event-container",
         "x": "8%",
         "y": "60%",
         "src": "assets/pics/Eventos/eeuu/plano/3-EU-PLANO-LANZAMIENTO.webp",
-        "text": "Lanzamiento<br> Oficial<br> de la Iglesia"
+        "text": "Lanzamiento<br> Oficial<br> de la Iglesia",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/5.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/lanzamiento_oficial/9.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -46,17 +119,70 @@
         "text": "Para nosotros fue un dia especial, ya que..."
     },
     {
+        "id":"modal-p14-01",
         "tag": "event-container",
         "x": "8%",
         "y": "73%",
         "src": "assets/pics/Eventos/eeuu/plano/3-EU-PLANO-ANIVERSARIO.webp",
-        "text": "1er Aniversario"
+        "text": "1er Aniversario",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/1.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/7.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/plano/primer_aniversario/8.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "61%",
         "y": "74%",
         "text": "¡Fin de semana de victoria! Este fin..."
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p14-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
     },
     {
         "x": "61%",

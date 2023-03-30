@@ -64,8 +64,8 @@
         }
     },
     {
-        "x": "10%",
-        "y": "48%",
+        "x": "70%",
+        "y": "52%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "x": "50%",
+        "x": "-5%",
         "y": "80%",
         "width": "50%",
         "background-color": "#b41015",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "x": "-5%",
+        "x": "50%",
         "y": "80%",
         "viewX": 1800,
         "viewY": 100,
@@ -118,9 +118,10 @@
         "tag": "btn-normal-2",
         "class": "actions",
         "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
+        "icon": "",
         "data": [
             {
+                "id": "page7",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
                 "url": "./assets/audios/"
             },

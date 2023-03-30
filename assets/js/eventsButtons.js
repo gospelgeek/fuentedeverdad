@@ -212,7 +212,12 @@ async function add_components_page(element, page, lang) {
 }
 
 const playAudio = (e) => {
-
+    
+    
+    id_pag = e.split(",", 2);
+    id_page = '#'+id_pag[1];
+    e = id_pag[0];
+    console.log(e)
     if (audio_array.length > 0) {
 
         audio_array.map((audio) => {
@@ -221,7 +226,7 @@ const playAudio = (e) => {
         //eventos para quitar el audio
         audio_array = [];
         band_audio = true;
-        $('.audio-img-content').removeClass('opacity-audio')
+        $(id_page).removeClass('opacity-audio')
 
     }
     else if (band_audio) {
@@ -233,18 +238,16 @@ const playAudio = (e) => {
         band_audio = false;
 
         audio_array.push(audio)
-        $('.audio-img-content').addClass('opacity-audio')
+        $(id_page).addClass('opacity-audio')
 
         //saber si el audio no ha terminado
         audio.addEventListener('ended', function () {
-            $('.audio-img-content').removeClass('opacity-audio')
+            $(id_page).removeClass('opacity-audio')
             band_audio = true;
             audio_array = [];
         }, false);
 
     }
-
-
 
 }
 
@@ -305,69 +308,81 @@ function click_boton_a_english() {
   
     function evento(e){
 
-        var div1 = document.createElement("div");
-        div1.className += 'content-modal modal-lg';
-
-        var div2 = document.createElement("div");
-        div2.className += "modal";
-
-        var div3 = document.createElement("div");
-        div3.className += "carousel-container";
-
-        var button1= document.createElement("button");
-        var button2= document.createElement("button");
-
-        button1.className += "prev-btn-modal";
-        button2.className += "next-btn-modal";
-
-        const mostrar = $(e).data("id");
-        const div = document.querySelector('#'+mostrar);
-        const carousel = div.querySelector(".carousel-slide");
-        const images = carousel.querySelectorAll('img');
-        const prevBtn = document.querySelector('.prev-btn-modal');
-        const nextBtn = document.querySelector('.next-btn-modal');
-
-        const close = document.querySelector('.close-modal');
-
-        div1.appendChild(div2);
-        div1.appendChild(button1);
-        div1.appendChild(button2);
-
-        document.body.appendChild(div1);
-
-        console.log(images);
+        $(".carousel-container").html("");
+        const modal = $(e).data("id");
+        const imagenes  = $(e).data("imagenes");
+        const div = document.querySelector('#'+modal);
+        const carousel = div.querySelector(".carousel-container");
         
-        
-        let index = 0;
-        
-        $("#"+mostrar).modal('show');
-        
-        function changeImage(n) {
-            console.log(n);
-            images[index].classList.remove('active');
-            index = (n + images.length) % images.length;
-            images[index].classList.add('active');
-        } 
-
-        prevBtn.addEventListener('click', () => {
-            if(index>0){
-                changeImage(index - 1);
-            }
+        if(imagenes != "undefined" && imagenes != undefined){
             
-        });
+            const div2 = document.createElement('div');
+            div2.setAttribute('class','carousel-slide')
+            carousel.appendChild(div2);
 
-        nextBtn.addEventListener('click', () => {
+            for (let step = 0; step < imagenes.length; step++) {
+                if(imagenes[step].tipo == "video"){
+                    /*const video = document.createElement('video');
 
-            if(index<images.length-1){
-                changeImage(index + 1);
+                    video.src = imagenes[step].src;
+                    video.setAttribute('alt', step+1)
+                    div2.appendChild(image);*/
+
+                }else{
+
+                    const image = document.createElement('img');
+    
+                    if(step==0){
+                        image.setAttribute('class','active');
+                    }
+        
+                    image.src = imagenes[step].src;
+                    image.setAttribute('alt', step+1)
+                    div2.appendChild(image);
+                }
+                
             }
+        
+            const images = carousel.querySelectorAll('img');
+            const video = carousel.querySelectorAll('video');
+            var prevBtn = document.querySelector('#'+modal+'1');
+            var nextBtn = document.querySelector('#'+modal+'2');
             
-        });
-
-        /*close.addEventListener('click', () => {
-
-            $('.content-modal').html("");
-        });*/
+            let index = 0;
+    
+            function changeImage(n) {
+                if(imagenes[n].tipo == "video"){
+                    /*images[index].classList.remove('active');
+                    index = (n + imagenes.length) % imagenes.length;
+                    video[index].classList.add('active');*/
+                }
+                else{
+                    images[index].classList.remove('active');
+                    index = (n + images.length) % images.length;
+                    images[index].classList.add('active');
+                }
+                
+            } 
+    
+            prevBtn.addEventListener('click', () => {
+                if(index>0){
+                    changeImage(index - 1);
+                }
+                
+            });
+    
+            nextBtn.addEventListener('click', () => {
+    
+                if(index<images.length-1){
+                    changeImage(index + 1);
+                }
+                
+            });
+            
+            $("#"+modal).modal('show');
+        }else{
+            alert("El Evento no posee imagenes");
+        }
 
     }
 

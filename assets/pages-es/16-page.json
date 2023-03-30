@@ -24,38 +24,131 @@
         }
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p16-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "25%",
         "y": "15%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMINARIOLIDERAZGO.webp",
-        "text": "Seminario <br> de Liderazgo"
+        "text": "Seminario <br> de Liderazgo",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/4.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "29%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMINARIOUNICIDAD.webp",
-        "text": "Seminario <br> de Unicidad"
+        "text": "Seminario <br> de Unicidad",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/unicidad/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/unicidad/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "42%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOPRIMICIAS.webp",
-        "text": "Servicio <br> de Primicias"
+        "text": "Servicio <br> de Primicias",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/primicias/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/primicias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/primicias/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "55%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOESPECIALNACIONES.webp",
-        "text": "Servicio <br> Especial <br> de Naciones"
+        "text": "Servicio <br> Especial <br> de Naciones",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/servicio_naciones/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/servicio_naciones/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/servicio_naciones/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "70%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOESPECIALKIDS.webp",
-        "text": "Servicio <br> Especial Kids"
+        "text": "Servicio <br> Especial Kids",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/kids/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/kids/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/kids/3.jpg"
+            }
+        ]
     }
 ]
