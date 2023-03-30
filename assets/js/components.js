@@ -326,9 +326,12 @@ const addComponents = (region, lang) => {
             </div>`;
             break; 
         case  'img_container':
-            element = `<div style="${region.styles}" class="img_container"> 
+            element = `<div id='${region.id}' style="${region.styles}" class="img_container"> 
                             <img style="${region.style_img}" src="${region.src}">
                       </div>`
+            break;
+        case 'html_pure': 
+            element = region.html
             break;
         case  'answer-container':
             element = `<ul id="answer-container"> 

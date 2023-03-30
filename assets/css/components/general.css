@@ -39,17 +39,16 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-container {
   display: flex;
   align-items: center;
-  line-height: 20px;
 }
 .event-container .image img {
-  width: 60px;
+  width: 80px;
   border-radius: 50%;
 }
 .event-container h3.text {
   color: #ffffff;
   transform: translateX(-10px);
   text-transform: capitalize;
-  max-width: 200px;
+  max-width: 180px;
 }
 @media (max-width: 480px) {
   .event-container .image img {
@@ -66,7 +65,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 }
 .event-title p strong {
   margin-right: 8px;
-  font-size: 40px;
+  font-size: 35px;
 }
 .event-subtitle {
   max-width: 150px;
@@ -74,7 +73,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-subtitle p {
   color: #ffffff;
   font-size: 12px;
-  text-align: left; 
+  text-align: left;
 }
 .region.full-subtitle .event-subtitle {
   max-width: none;
@@ -484,52 +483,4 @@ ul#answer-container li .action button {
 .text-pag-20{
   font-size: 0.7em;
   line-height: 12px;
-}
-
-.table-modal{
-  text-align: center;
-  width: 100%;
-  border: 2px solid #000;
-  border-spacing: 0;
-  border-collapse: collapse;
-  padding: 0.3em;
-}
-
-tr,td{
-  border: 1px solid #000;
-  border-collapse: collapse;
-  padding: 0.3em;
-  caption-side: bottom;
-}
-
-.title-pag-37{
-  font-size: 4em;
-  text-align: left;
-  color: white;
-  line-height: 60px;
-}
-
-.fecha-pag-37{
-  color: white;
-}
-
-.text-pag-34{
-  color: white;
-  line-height: 14px;
-  font-size: 0.6em;
-  text-align: center;
-}
-
-.main-text-p34{
-  color: white;
-  line-height: 25px;
-  font-size: 1.5em;
-  text-align: left;
-}
-
-.nombres-p26{
-  color: white;
-  font-size: 0.7em;
-  text-align: center;
-  line-height: 14px;
 }
