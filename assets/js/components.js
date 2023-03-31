@@ -294,6 +294,15 @@ const addComponents = (region, lang) => {
                     ${region.image}
             </div>`);
             break;
+        case 'author-pic-2':
+            let imagens = region.imagenes_evento
+                if(imagens != undefined){
+                    imagens = JSON.stringify(region.imagenes_evento)
+                }
+            element = (`<div class="page-3-title">
+                <button  class="evento_abrir" data-id="${region.id}" data-imagenes='${imagens}' onclick="evento(this)">${region.image}</button>
+            </div>`);
+            break;
         case 'video-emb':
             element = (`${region.url}`);
             break;

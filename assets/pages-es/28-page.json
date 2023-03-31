@@ -1,10 +1,35 @@
 [
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p28-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "5%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-NOCHEVIGILIA.webp",
-        "text": "Retiro <br> Cara a Cara <br> con Dios"
+        "src": "assets/pics/Eventos/colombia/medellin/retiro/3-CO-MEDELLIN-RETIROCARAACARA.webp",
+        "text": "Retiro <br> Cara a Cara <br> con Dios",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/retiro/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -34,8 +59,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "17%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "Noche <br> de Paz"
+        "src": "assets/pics/Eventos/colombia/medellin/noche_paz/3-CO-MEDELLIN-NOCHEDEPAZ.webp",
+        "text": "Noche <br> de Paz",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/noche_paz/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -65,8 +97,19 @@
         "tag": "event-container",
         "x": "12%",
         "y": "29%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Regalando<br>Sonrisas"
+        "src": "assets/pics/Eventos/colombia/medellin/sonrisas/3-CO-MEDELLIN-REGALANDOSONRISAS.webp",
+        "text": "Regalando<br>Sonrisas",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/sonrisas/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/sonrisas/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -96,8 +139,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "40%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-SERVICIOCELEBRACION.webp",
-        "text": "Celebración <br> de Servicios"
+        "src": "assets/pics/Eventos/colombia/medellin/servicios/3-CO-MEDELLIN-CELEBRACIONSERVICIOS.webp",
+        "text": "Celebración <br> de Servicios",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/servicios/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -134,8 +184,36 @@
         "tag": "event-container",
         "x": "12%",
         "y": "69%",
-        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-CONFERENCIASDECANOJORGE.webp",
-        "text": "Conferencias <br> Decano <br> Jorge Medina"
+        "src": "assets/pics/Eventos/colombia/cali/conferencias/4-CO-CALI-CONFERENCIASDECANOJORGE.webp",
+        "text": "Conferencias <br> Decano <br> Jorge Medina",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/7.jpg"
+            }
+        ]
+
     },
     {
         "tag": "event-subtitle",
@@ -165,8 +243,47 @@
         "tag": "event-container",
         "x": "12%",
         "y": "83%",
-        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-SERVICIOKIDS.webp",
-        "text": "Servicio <br> Kids"
+        "src": "assets/pics/Eventos/colombia/cali/kids/4-CO-CALI-SERVICIOKIDS.webp",
+        "text": "Servicio <br> Kids",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/10.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",

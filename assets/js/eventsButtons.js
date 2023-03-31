@@ -217,7 +217,7 @@ const playAudio = (e) => {
     id_pag = e.split(",", 2);
     id_page = '#'+id_pag[1];
     e = id_pag[0];
-    console.log(e)
+    
     if (audio_array.length > 0) {
 
         audio_array.map((audio) => {
@@ -347,7 +347,8 @@ function click_boton_a_english() {
             const video = carousel.querySelectorAll('video');
             var prevBtn = document.querySelector('#'+modal+'1');
             var nextBtn = document.querySelector('#'+modal+'2');
-            
+            const fondo = document.querySelector('#'+modal);
+            fondo.style.background = "none";
             let index = 0;
     
             function changeImage(n) {
@@ -378,7 +379,7 @@ function click_boton_a_english() {
                 }
                 
             });
-            
+
             $("#"+modal).modal('show');
         }else{
             alert("El Evento no posee imagenes");

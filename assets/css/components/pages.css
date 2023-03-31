@@ -457,6 +457,7 @@ audio {
     align-items: center;
     justify-items: center;
     width: 4.5em;
+    gap: 10px;
 }
 
 
@@ -3184,7 +3185,7 @@ button::-moz-focus-inner {
 /* indicates when a square has been selected */
 
 #puzzle .selected {
-    background-color: rgba(0, 0, 255, 0.445);
+    background-color: rgba(0, 0, 255, 0.445) !important;
 }
 
 
@@ -3192,13 +3193,13 @@ button::-moz-focus-inner {
 
 #puzzle .found {
     border: 1px solid blue;
-    background-color: rgba(0, 0, 255, 0.445);
+    background-color: rgba(0, 0, 255, 0.445) !important;
     color: white;
 }
 
 #puzzle .solved {
     border: 1px dashed purple;
-    background-color: rgba(128, 0, 128, 0.493);
+    background-color: rgba(128, 0, 128, 0.493) !important;
     color: white;
     transition: 1.5s;
 }
@@ -3298,6 +3299,7 @@ button::-moz-focus-inner {
     width: auto;
     height: auto;
     max-height: 500px;
+    max-width: 660px;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
@@ -3386,4 +3388,16 @@ button::-moz-focus-inner {
     background-position: 60% center;
     background-size: 40% 20%;
     background-repeat: no-repeat;
+}
+
+.video-entrevista{
+    width: 410px;
+    height: 250px;
+}
+
+@media only screen and (max-width: 468px) {
+    .video-entrevista{
+        width: 320px;
+        height: 200px;
+    }
 }

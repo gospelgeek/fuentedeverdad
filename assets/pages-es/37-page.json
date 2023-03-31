@@ -17,11 +17,64 @@
             
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p37-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "x": "35%",
         "y": "48%",
-        "tag": "author-pic",
+        "tag": "author-pic-2",
         "class": "author-image",
-        "image": "<img width='150' height='150' src='assets/pics/Eventos/costa_rica/Recurso 2.webp'>"
+        "image": "<img width='150' height='150' src='assets/pics/Eventos/chile/2.webp'>",
+        "id":"modal-p37-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/chile/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/9.jpg"
+            }
+        ]
     },
     {
         "x": "50%",

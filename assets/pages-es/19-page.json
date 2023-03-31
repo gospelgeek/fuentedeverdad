@@ -34,35 +34,35 @@
         "imagenes_evento":[
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/1.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/1.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/2.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/2.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/3.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/3.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/4.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/4.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/5.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/5.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/6.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/6.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/7.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/7.JPG"
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/8.jpg"
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/8.JPG"
             },
             {
 
@@ -208,29 +208,6 @@
             "title": "Concierto “Recordando nuestro canto II”",
             "content": "La iglesia local Fuente de Verdad San Antonio, organizó un concierto apostólico llamado Recordando Nuestro Canto II.<br><br>Nuestro invitado de honor fue el Pastor Samuel Valverde Jr, quien asistió en nombre del Obispo Samuel Valverde. El cantante Joseph Espinoza nos dirigió en himnos antiguos que tocaron nuestro corazón, y fue de mucha bendición. Se llevó a cabo el día sábado 11 de junio a las 6:30 p.m. en 12280 Alamo Ranch Pkwy, San Antonio, TX 78253."
         }
-    },
-    {
-        "x": "25%",
-        "y": "85%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
-            }
-        ]
     },
     {
         "x": "50%",

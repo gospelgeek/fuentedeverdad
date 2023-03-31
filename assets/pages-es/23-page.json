@@ -7,11 +7,100 @@
         "text2": "México"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p23-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "25%",
         "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOMATRIMONIOS.webp",
-        "text": "Evento <br> de matrimonios"
+        "text": "Evento <br> de matrimonios",
+        "id":"modal-p23-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/2.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/3.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/4.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/10.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/11.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/12.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/13.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/14.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/15.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/16.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/17.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/18.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -42,7 +131,46 @@
         "x": "12%",
         "y": "39%",
         "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-SERVICIOEVANGELISTICO.webp",
-        "text": "Servicio <br> Evangelístico <br> Celular"
+        "text": "Servicio <br> Evangelístico <br> Celular",
+        "id":"modal-p23-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/10.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -73,7 +201,22 @@
         "x": "12%",
         "y": "56.5%",
         "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOFINDE.webp",
-        "text": "Evento de <br> Fin de Año"
+        "text": "Evento de <br> Fin de Año",
+        "id":"modal-p23-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/fin_ano/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/fin_ano/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/fin_ano/4.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -98,29 +241,6 @@
             "title": "<br>EVENTO DE FIN DE AÑO<h5>31 de Diciembre de 2022</h5>",
             "content": "Aquí estamos reunidos, Fuente de Verdad Tehuacán y nuestros tres lugares donde compartimos nuestra Visión.<br>Ajalpan, (45 minutos de Tehuacán)<br>San Juan Atzingo (45 minutos de Tehuacán)<br>Francisco Nogales (4 horas de Tehuacán)"
         }
-    },
-    {
-        "x": "0",
-        "y": "85%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
-            }
-        ]
     },
     {
         "x": "45%",

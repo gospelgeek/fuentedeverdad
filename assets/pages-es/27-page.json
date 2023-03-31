@@ -7,11 +7,64 @@
         "text2": "Colombia"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p27-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "17%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "Lanzamiento <br> 1er Pastor"
+        "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOPASTOR.webp",
+        "text": "Lanzamiento <br> 1er Pastor",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/10.jpg"
+            }
+        ]  
     },
     {
         "tag": "event-subtitle",
@@ -41,8 +94,35 @@
         "tag": "event-container",
         "x": "12%",
         "y": "28%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la iglesia"
+        "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOIGLESIA.webp",
+        "text": "Lanzamiento <br> Oficial <br> de la iglesia",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/7.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -79,8 +159,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "65%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "inicio <br> Misión Kids"
+        "src": "assets/pics/Eventos/colombia/medellin/kids/3-CO-MEDELLIN-INICIOMISIONKIDS.webp",
+        "text": "inicio <br> Misión Kids",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/kids/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -110,8 +197,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "78%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Semana <br> de Renovación <br> Vuelve a casa"
+        "src": "assets/pics/Eventos/colombia/medellin/vuelve_a_casa/3-CO-MEDELLIN-SEMANARENOVACION.webp",
+        "text": "Semana <br> de Renovación <br> Vuelve a casa",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/vuelve_a_casa/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
