@@ -67,6 +67,30 @@
              "title": "<br><br><br>",
              "content": ""
          }
+    },
+    {
+        "x": "60%",
+        "y": "70.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "19%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "id": "page47",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_agradecimientos.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
     }
    
 ]

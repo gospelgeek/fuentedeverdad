@@ -52,9 +52,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   max-width: 200px;
 }
 @media (max-width: 480px) {
-  .event-container .image img {
-    width: 70px;
-  }
+  
   .event-container h3.text {
     font-size: 14px;
     max-width: 150px;
@@ -365,7 +363,7 @@ ul#answer-container li .action button {
   width: 100% !important;
 }
 .region.pastor-corazon-sanado .div-center-ubication-responsive .aux-class-content .responsive-font-content p {
-  font-size: 12px;
+  font-size: 0.7em;
   text-align: end;
 }
 .region.corazon-sanado-content h4 {
@@ -438,6 +436,13 @@ ul#answer-container li .action button {
   color: #301406;
 }
 
+@media only screen and (max-width: 468px) {
+  .text-pag-7{
+    font-size: 1.3em;
+    color: #301406;
+  }
+}
+
 .main-text-p9-1{
   font-size: 0.7em;
   text-align: center;
@@ -476,7 +481,7 @@ ul#answer-container li .action button {
 
 .main-text-p42-2{
   color: black;
-  font-size: 0.5em;
+  font-size: 0.6em;
   text-align: right;
   line-height: 12px;
 }

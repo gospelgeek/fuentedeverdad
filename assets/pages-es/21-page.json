@@ -7,11 +7,140 @@
         "text2": "México"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p21-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "25%",
         "src": "assets/pics/Eventos/mexico/mexicali/2-MEX-MEXICALI-EVENTORECIBIREIS.webp",
-        "text": "Seminario <br> de Liderazgo"
+        "text": "Seminario <br> de Liderazgo",
+        "id":"modal-p21-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/28.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -56,7 +185,22 @@
         "x": "12%",
         "y": "68%",
         "src": "assets/pics/Eventos/mexico/juchitan/3-MEX-JUCHITAN-LANZAMIENTO.webp",
-        "text": "Seminario <br> de Unicidad"
+        "text": "Seminario <br> de Unicidad",
+        "id":"modal-p21-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/4.jpg"
+            }
+        ]
     },
     {
         "x": "60%",

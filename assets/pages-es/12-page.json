@@ -80,14 +80,14 @@
         "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>"
     },
     {
-        "x": "48%",
+        "x": "47%",
         "y": "40%",
         "tag": "author-pic",
         "class": "author-image",
         "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>"
     },
     {
-        "x": "23%",
+        "x": "18%",
         "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
@@ -104,7 +104,7 @@
         }
     },
     {
-        "x": "10%",
+        "x": "5%",
         "y": "85%",
         "width": "40%",
         "styleBox": "",
@@ -120,7 +120,7 @@
         }
     },
     {
-        "x": "52%",
+        "x": "47%",
         "y": "85%",
         "width": "40%",
         "styleBox": "",
@@ -136,7 +136,7 @@
         }
     },
     {
-        "x": "65%",
+        "x": "59%",
         "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
@@ -153,7 +153,7 @@
         }
     },
     {
-        "x": "25%",
+        "x": "21%",
         "y": "80%",
         "viewX": 1800,
         "viewY": 100,
@@ -165,9 +165,10 @@
         "text": "",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
-            {
+            {   
+                "id": "page11",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "url": "./assets/audios/esp_eu_derramamiento.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

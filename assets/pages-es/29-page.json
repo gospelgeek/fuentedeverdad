@@ -1,10 +1,59 @@
 [
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p29-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "5%",
-        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-BAUTISMOSNOMBRE.webp",
-        "text": "Bautismos <br> en el Nombre <br> de Jesús"
+        "src": "assets/pics/Eventos/colombia/cali/bautismos/4-CO-CALI-BAUTISMOSNOMBRE.webp",
+        "text": "Bautismos <br> en el Nombre <br> de Jesús",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/8.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -34,8 +83,27 @@
         "tag": "event-container",
         "x": "12%",
         "y": "19%",
-        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-MINISTERIOELLA.webp",
-        "text": "Ministerio <br> Ella"
+        "src": "assets/pics/Eventos/colombia/cali/ella/4-CO-CALI-MINISTERIOELLA.webp",
+        "text": "Ministerio <br> Ella",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/5.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -72,8 +140,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "48%",
-        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-ALMUERZOPARQUE.webp",
-        "text": "Almuerzo <br> en el parque"
+        "src": "assets/pics/Eventos/colombia/santa_marta/almuerzo/5-CO-CALI-ALMUERZOPARQUE.webp",
+        "text": "Almuerzo <br> en el parque",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/almuerzo/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -103,43 +178,46 @@
         "tag": "event-container",
         "x": "30%",
         "y": "58%",
-        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-DIAACCIONGRACIAS.webp",
+        "src": "assets/pics/Eventos/colombia/santa_marta/accion_gracias/5-CO-CALI-DIAACCIONGRACIAS.webp",
         "text": "Dia de <br> Acción <br> de Gracias"
     },
     {
         "tag": "event-container",
         "x": "30%",
         "y": "72%",
-        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-REUNIONHERMANOS.webp",
-        "text": "Reunión <br> con hermanos"
+        "src": "assets/pics/Eventos/colombia/santa_marta/reunion/5-CO-CALI-REUNIONHERMANOS.webp",
+        "text": "Reunión <br> con hermanos",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/4.jpg"
+            }
+        ]
     },
     {
         "tag": "event-container",
         "x": "30%",
         "y": "85%",
-        "src": "assets/pics/Eventos/colombia/santa_marta/5-CO-CALI-REUNIONJOVENES.webp",
-        "text": "Reunión <br> de Jóvenes"
-    },
-    {
-        "x": "60%",
-        "y": "87%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
+        "src": "assets/pics/Eventos/colombia/santa_marta/jovenes/5-CO-CALI-REUNIONJOVENES.webp",
+        "text": "Reunión <br> de Jóvenes",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
             {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/jovenes/2.jpg"
             }
         ]
     },

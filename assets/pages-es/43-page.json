@@ -1,5 +1,18 @@
 [
     {
+        "x": "0%",
+        "y": "65%",
+        "width": "100%",
+        "class": "corazon-sanado-content",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h4>Isaías profetizó, no solo el nacimiento del mesias, además, la labor que desempeñaría el mas grande e importantemisionero que el mundo haya conocido...</h4>"
+        }
+                
+    },
+    {
         "tag": "title-content",
         "x": "0%",
         "y": "10%",
@@ -10,21 +23,21 @@
         }
     },
     {
-        "x": "50%",
-        "y": "10%",
+        "x": "41%",
+        "y": "7%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "40%",
+        "width": "50%",
         "height": "4%",
         "fontSize": "6em",
         "tag": "tooltip",
         "class": "tooltip-author",
         "id": "author8",
         "data": {
-            "author": "Martín Perez",
+            "author": "Alvaro Ocampo",
             "position": "Pastor",
             "year": "2023",
-            "src": ""
+            "src": "assets/pics/photos/alvaro_ocampo.jpg"
         }
     },
     {
@@ -43,35 +56,6 @@
         }
     },
     {
-        "x": "0%",
-        "y": "65%",
-        "width": "100%",
-        "class": "corazon-sanado-content",
-        "font-size": "1em",
-        "tag": "contenido",
-        "text": "",
-        "data": {
-            "text": "<h4>Isaías profetizó, no solo el nacimiento del mesias, además, la labor que desempeñaría el mas grande e importantemisionero que el mundo haya conocido...</h4>"
-        }
-                
-    },
-    {
-        "x": "10%",
-        "y": "80%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "90%",
-        "height": "10%",
-        "fontSize": "3.3em",
-        "tag": "modal",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "",
-            "content": ""
-        }
-    },
-    {
         "x": "-1%",
         "y": "86%",
         "viewX": 1800,
@@ -85,12 +69,13 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
+                "id":"page42",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "url": "./assets/audios/esp_corazon_sanado.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+                "url": ""
             }
         ]
     },

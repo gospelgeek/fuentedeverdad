@@ -7,11 +7,100 @@
         "text2": "México"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p25-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "24%",
         "src": "assets/pics/Eventos/mexico/muna/9-MEX-MUNA-RETIROESPIRITUAL.webp",
-        "text": "retiro Espiritual <br>Somos Iglesia"
+        "text": "retiro Espiritual <br>Somos Iglesia",
+        "id":"modal-p25-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/20.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -49,7 +138,34 @@
         "x": "12%",
         "y": "68%",
         "src": "assets/pics/Eventos/mexico/jomulco/10-MEX-JOMULCO-LANZAMIENTO.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia",
+        "id":"modal-p25-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/1.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/6.jpeg"
+            }
+        ]   
     },
     {
         "tag": "event-subtitle",

@@ -51,9 +51,10 @@
         "text": "",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
-            {
+            {   
+                "id": "page3",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "url": "./assets/audios/carta_obispo/esp_carta_obispo.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

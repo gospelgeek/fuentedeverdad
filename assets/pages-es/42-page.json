@@ -76,12 +76,13 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
+                "id": "page41",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "url": "./assets/audios/esp_misionero_por_excelencia.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+                "url": ""
             }
         ]
     },
@@ -113,11 +114,11 @@
         ]
     },
     {
-        "x": "42%",
+        "x": "35%",
         "y": "30%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "40%",
+        "width": "50%",
         "height": "4%",
         "fontSize": "6em",
         "tag": "tooltip",
@@ -131,9 +132,9 @@
         }
     },
     {
-        "x": "50%",
+        "x": "48%",
         "y": "33%",
-        "width": "25%",
+        "width": "30%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#fff",

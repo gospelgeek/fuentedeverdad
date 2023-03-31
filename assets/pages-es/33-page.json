@@ -7,11 +7,36 @@
         "text2": "Camboya"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p33-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "25%",
-        "src": "assets/pics/Eventos/camboya/testimonios/2-CY-TESTIMONIO-ANNETTE.webp",
-        "text": "Testimonio <br> Hna. <br> Annette Herrera"
+        "src": "assets/pics/Eventos/camboya/testimonios/1/2-CY-TESTIMONIO-ANNETTE.webp",
+        "text": "Testimonio <br> Hna. <br> Annette Herrera",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/1/2.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -38,11 +63,46 @@
         }
     },
     {
+        "x": "75%",
+        "y": "34%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page32-1",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/spa_testimonio_hna _annette.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "39%",
-        "src": "assets/pics/Eventos/camboya/testimonios/2-CY-TESTIMONIO-NANCY.webp",
-        "text": "Testimonio <br> Hna. <br> Nancy Pagán"
+        "src": "assets/pics/Eventos/camboya/testimonios/2/2-CY-TESTIMONIO-NANCY.webp",
+        "text": "Testimonio <br> Hna. <br> Nancy Pagán",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/2/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/2/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -69,11 +129,62 @@
         }
     },
     {
+        "x": "75%",
+        "y": "48%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page32-2",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_testimonio_hna_nancy_pagan.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "56.5%",
-        "src": "assets/pics/Eventos/camboya/testimonios/2-CY-TESTIMONIO-ESPOSOSCLARK.webp",
-        "text": "Testimonio <br> esposos Clark"
+        "src": "assets/pics/Eventos/camboya/testimonios/3/2-CY-TESTIMONIO-ESPOSOSCLARK.webp",
+        "text": "Testimonio <br> esposos Clark",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/7.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -98,6 +209,30 @@
             "title": "<br>VIAJE MISIONERO A CAMBOYA<br><br>TESTIMONIO ESPOSOS CLARK<br><br>",
             "content": "¡Paz de Cristo!  Mi nombre es Billie y el de mi esposa Arielle.  Tuvimos el placer de trabajar y reclutar al grupo de FDV Rancho para visitar el campo misionero en Camboya.<i>“Nuestras vidas han cambiado para siempre”.</i>Pensamos que íbamos a ayudar, a bendecir, a edificar, pero fue al contrario, ellos nos cambiaron a nosotros. Nunca olvidaremos los sonidos, los olores, todo lo que vimos, vivimos y experimentamos.  Lo más importante fueron las sonrisas de las personas de allí, que siempre estarán en nuestros corazones. ¡Son personas maravillosas que están llenas del Espíritu de Dios!  Siempre estaremos agradecidos por la experiencia que vivimos y animamos a todos los hermanos y hermanas que puedan unirse a nosotros la próxima vez en el campo misionero.  ¡Dios les bendiga!"
         }
+    },
+    {
+        "x": "75%",
+        "y": "63%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page32-3",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_testimonio_esposos_clark.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
