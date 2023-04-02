@@ -1,5 +1,20 @@
 [
     {
+        "x": "0%",
+        "y": "0%",
+        "width": "100%",
+        "tag": "video-fondo",
+        "class": "video-entrevista",
+        "src": "assets/pics/backgrounds/entrevista.mp4"
+    },
+    {
+        "x": "0%",
+        "y": "20%",
+        "tag": "img_container",
+        "src": "assets/pics/photos/foto_entrevista3.webp",
+        "styles": "width: 70%;margin: auto;"
+    },
+    {
         "x": "16%",
         "y": "8%",
         "width": "90%",
