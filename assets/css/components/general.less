@@ -87,7 +87,7 @@ body{
         max-width: 180px;
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 530px) {
         .image{
             img{
                 width: 70px;
@@ -296,7 +296,7 @@ ul#answer-container{
     max-height: 530px;
     overflow: auto;
 
-    @media (max-width: 480px) {
+    @media (max-width: 530px) {
         max-height: 450px;   
     }
 
@@ -486,5 +486,169 @@ ul#answer-container{
         p{
             text-align: center;
         }
+    }
+}
+
+// paginas de fuentes de verdad
+// fondo tipo video
+div[page="38"] {
+  background: url('assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.region.fdv-title{
+    h1{
+        color: @white;
+        font-size: 58px;
+        @media (max-width: 530px) {
+            font-size: 48px;
+        }
+    }
+}
+.region.fdv-subtitle{
+    
+    h1{
+        color: @white;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1;
+    }
+    h2{
+        color: @white;
+        font-size: 17px;
+        font-weight: 200;
+        line-height: 1;
+    }
+
+    @media (max-width: 530px) {
+        h1{
+            font-size: 16px;
+        }
+        h2{
+            font-size: 14px;
+        }
+    }
+}
+// estilos fdv-element1
+.region.fdv-element1{
+    >div{
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        .left{
+            width: 55%;
+            
+            h1{
+                color: @white;
+                font-size: 14px;
+                text-align: left;
+            }
+            p{
+                color: @white;
+                font-weight: 200;
+                text-align: initial;
+                font-size: 13px;
+            }
+            @media (max-width: 530px) {
+                h1{
+                    font-size: 12px;
+                }
+                p{
+                    font-size: 11px;
+                }
+            }
+
+        }
+        .right{
+            width: 45%;
+            h3{
+                color: @white;
+                font-size: 13px;
+                text-align: end;
+            }
+            .action{
+                display: flex;
+                justify-content: end;
+                button{
+                    border-radius: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 5px;
+                    border: none;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
+
+.region.fondo-azul{
+    background-color: #003b7370;
+    height: 90%;
+}
+
+// estilos de los videos de fondo
+#video-background {
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+
+// estilos fdv elemento2
+.region.fdv-element2{
+    >div{
+        display: flex;
+        gap: 40px;
+        .left{
+            color: @white;
+            width: 55%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            h1{
+                font-size: 14px;
+                text-align: left;
+            }
+
+            p{
+                font-weight: 200;
+                text-align: initial;
+                font-size: 13px;
+                margin-bottom: 10px;
+            }
+            .action{
+                button{
+                    border-radius: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 5px;
+                    cursor: pointer;
+                    border: none;
+                }
+            }
+        }
+
+        .right{
+            width: 45%;
+            img{
+                border-radius: 50%;
+                height: 220px;
+                width: 220px;
+            }
+        }
+    }
+}
+
+// estilos logos
+.region.logo > div{
+    display: flex;
+    justify-content: space-between;
+
+    p{
+        color: @white;
+        font-size: 12px;
     }
 }

@@ -39,20 +39,21 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-container {
   display: flex;
   align-items: center;
-  line-height: 20px;
 }
 .event-container .image img {
-  width: 60px;
+  width: 80px;
   border-radius: 50%;
 }
 .event-container h3.text {
   color: #ffffff;
   transform: translateX(-10px);
   text-transform: capitalize;
-  max-width: 200px;
+  max-width: 180px;
 }
-@media (max-width: 480px) {
-  
+@media (max-width: 530px) {
+  .event-container .image img {
+    width: 70px;
+  }
   .event-container h3.text {
     font-size: 14px;
     max-width: 150px;
@@ -64,7 +65,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 }
 .event-title p strong {
   margin-right: 8px;
-  font-size: 40px;
+  font-size: 35px;
 }
 .event-subtitle {
   max-width: 150px;
@@ -72,7 +73,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-subtitle p {
   color: #ffffff;
   font-size: 12px;
-  text-align: left; 
+  text-align: left;
 }
 .region.full-subtitle .event-subtitle {
   max-width: none;
@@ -234,7 +235,7 @@ ul#answer-container {
   max-height: 530px;
   overflow: auto;
 }
-@media (max-width: 480px) {
+@media (max-width: 530px) {
   ul#answer-container {
     max-height: 450px;
   }
@@ -363,7 +364,7 @@ ul#answer-container li .action button {
   width: 100% !important;
 }
 .region.pastor-corazon-sanado .div-center-ubication-responsive .aux-class-content .responsive-font-content p {
-  font-size: 0.7em;
+  font-size: 12px;
   text-align: end;
 }
 .region.corazon-sanado-content h4 {
@@ -392,149 +393,141 @@ ul#answer-container li .action button {
 .region.legal-page-paragraph .responsive-font-content p {
   text-align: center;
 }
-
-
-/*CSS RAMA DESARROLLO */
-.main-text{
-
-  font-size: 0.73em;
+div[page="38"] {
+  background: url('assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
-
-.main-text-p9{
-  font-size: 0.75em;
-  text-align: right;
-  line-height: 12px;
-  color: rgb(209, 206, 206);
+.region.fdv-title h1 {
+  color: #ffffff;
+  font-size: 58px;
 }
-
-
-.main-text-p8{
-  font-size: 0.73em;
-}
-
-
-.title-p7{
-  font-size: 1.2em;
-  color: #301406;
-  line-height: 16px;
-}
-
-.title-p20{
-  text-align: left;
-  font-size: 4em; 
-  color: white;
-  line-height: 60px;
-}
-
-.nombres-p20{
-  text-align: center;
-  line-height: 14px;
-}
-
-.text-pag-7{
-  font-size: 0.8em;
-  color: #301406;
-}
-
-@media only screen and (max-width: 468px) {
-  .text-pag-7{
-    font-size: 1.3em;
-    color: #301406;
+@media (max-width: 530px) {
+  .region.fdv-title h1 {
+    font-size: 48px;
   }
 }
-
-.main-text-p9-1{
-  font-size: 0.7em;
-  text-align: center;
+.region.fdv-subtitle h1 {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1;
 }
-
-.main-text-p11{
+.region.fdv-subtitle h2 {
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 200;
+  line-height: 1;
+}
+@media (max-width: 530px) {
+  .region.fdv-subtitle h1 {
+    font-size: 16px;
+  }
+  .region.fdv-subtitle h2 {
+    font-size: 14px;
+  }
+}
+.region.fdv-element1 > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.region.fdv-element1 > div .left {
+  width: 55%;
+}
+.region.fdv-element1 > div .left h1 {
+  color: #ffffff;
+  font-size: 14px;
   text-align: left;
-  font-size: 0.90em;
 }
-
-.main-text-p12{
-  color: white;
-  text-align: center;
-  font-size: 0.90em;
+.region.fdv-element1 > div .left p {
+  color: #ffffff;
+  font-weight: 200;
+  text-align: initial;
+  font-size: 13px;
 }
-
-.main-pais-p12{
-  color: white;
-  font-size: 1.6em;
-  text-align: left;
+@media (max-width: 530px) {
+  .region.fdv-element1 > div .left h1 {
+    font-size: 12px;
+  }
+  .region.fdv-element1 > div .left p {
+    font-size: 11px;
+  }
 }
-
-.main-text-p42{
-  color: black;
-  font-size: 0.75em;
-  text-align: left;
-  line-height: 12px;
+.region.fdv-element1 > div .right {
+  width: 45%;
 }
-
-.main-text-p20{
-  color: white;
-  font-size: 0.7em;
-  text-align: right;
-  line-height: 12px;
+.region.fdv-element1 > div .right h3 {
+  color: #ffffff;
+  font-size: 13px;
+  text-align: end;
 }
-
-.main-text-p42-2{
-  color: black;
-  font-size: 0.6em;
-  text-align: right;
-  line-height: 12px;
+.region.fdv-element1 > div .right .action {
+  display: flex;
+  justify-content: end;
 }
-
-.text-pag-20{
-  font-size: 0.7em;
-  line-height: 12px;
+.region.fdv-element1 > div .right .action button {
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
 }
-
-.table-modal{
-  text-align: center;
+.region.fondo-azul {
+  background-color: #003b7370;
+  height: 90%;
+}
+#video-background {
   width: 100%;
-  border: 2px solid #000;
-  border-spacing: 0;
-  border-collapse: collapse;
-  padding: 0.3em;
+  height: 100%;
+  z-index: -1;
 }
-
-tr,td{
-  border: 1px solid #000;
-  border-collapse: collapse;
-  padding: 0.3em;
-  caption-side: bottom;
+.region.fdv-element2 > div {
+  display: flex;
+  gap: 40px;
 }
-
-.title-pag-37{
-  font-size: 4em;
-  text-align: left;
-  color: white;
-  line-height: 60px;
+.region.fdv-element2 > div .left {
+  color: #ffffff;
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
-
-.fecha-pag-37{
-  color: white;
-}
-
-.text-pag-34{
-  color: white;
-  line-height: 14px;
-  font-size: 0.6em;
-  text-align: center;
-}
-
-.main-text-p34{
-  color: white;
-  line-height: 25px;
-  font-size: 1.5em;
+.region.fdv-element2 > div .left h1 {
+  font-size: 14px;
   text-align: left;
 }
-
-.nombres-p26{
-  color: white;
-  font-size: 0.7em;
-  text-align: center;
-  line-height: 14px;
+.region.fdv-element2 > div .left p {
+  font-weight: 200;
+  text-align: initial;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.region.fdv-element2 > div .left .action button {
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+  border: none;
+}
+.region.fdv-element2 > div .right {
+  width: 45%;
+}
+.region.fdv-element2 > div .right img {
+  border-radius: 50%;
+  height: 220px;
+  width: 220px;
+}
+.region.logo > div {
+  display: flex;
+  justify-content: space-between;
+}
+.region.logo > div p {
+  color: #ffffff;
+  font-size: 12px;
 }
