@@ -531,3 +531,15 @@ div[page="38"] {
   color: #ffffff;
   font-size: 12px;
 }
+.region.desde-el-corazon-title h1 {
+  color: #003b73;
+  font-weight: 400;
+}
+.region.desde-el-corazon-title h1 strong {
+  font-weight: 800;
+}
+.region.desde-el-corazon-text p.main-text {
+  color: #ffffff;
+  text-align: initial;
+  font-size: 13px;
+}
