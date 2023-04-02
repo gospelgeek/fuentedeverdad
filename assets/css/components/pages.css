@@ -640,6 +640,7 @@ audio {
 .monserrat-black {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
+    cursor: pointer;
 }
 
 #text-content-2-46-aux::first-letter {
