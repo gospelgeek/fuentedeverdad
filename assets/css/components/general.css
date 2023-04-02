@@ -481,15 +481,13 @@ div[page="38"] {
   height: 90%;
 }
 #video-background {
-  width: 100%;
+  width: 200%;
   height: 100%;
   z-index: -1;
+  object-fit: cover;
 }
 .video-entrevista {
   height: 100vh;
-}
-.video-entrevista video {
-  transform: scale(2.9);
 }
 @media (max-width: 530px) {
   .video-entrevista video {
@@ -594,4 +592,7 @@ div[page="38"] {
 }
 .region.agradecimiento-text p strong {
   font-weight: 800;
+}
+div[page="7"] .page.p7 .region.video-entrevista video {
+  transform: translateX(-50%);
 }

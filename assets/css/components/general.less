@@ -591,14 +591,14 @@ div[page="38"] {
 
 // estilos de los videos de fondo
 #video-background {
-    width: 100%;
+    width: 200%;
     height: 100%;
     z-index: -1;
+    object-fit: cover;
 }
 .video-entrevista{
     height: 100vh;
     video{
-        transform: scale(2.9);
         @media (max-width: 530px) {
             transform: scale(3.9) translateY(-30px);
         }
@@ -726,3 +726,16 @@ div[page="38"] {
         }
     }
 }
+
+
+// arregla fondo de video para pagina 6 y 7
+div[page="7"]{
+    .page.p7{
+        .region.video-entrevista{
+            video{
+                transform: translateX(-50%);
+            }
+        }
+    } 
+}
+
