@@ -485,6 +485,17 @@ div[page="38"] {
   height: 100%;
   z-index: -1;
 }
+.video-entrevista {
+  height: 100vh;
+}
+.video-entrevista video {
+  transform: scale(2.9);
+}
+@media (max-width: 530px) {
+  .video-entrevista video {
+    transform: scale(3.9) translateY(-30px);
+  }
+}
 .region.fdv-element2 > div {
   display: flex;
   gap: 40px;
@@ -542,4 +553,26 @@ div[page="38"] {
   color: #ffffff;
   text-align: initial;
   font-size: 13px;
+}
+.region.top-entrevista {
+  background-color: #135072;
+  border-radius: 0 0 40px 40px;
+  padding: 15px;
+  padding-top: 60px;
+  border: 2px solid #8d6631;
+  border-top: none;
+  color: #ffffff;
+}
+.region.top-entrevista strong {
+  font-size: 14px;
+}
+.region.texto-entrevista p {
+  font-weight: 400;
+  color: #003b73;
+  text-align: left;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+.region.texto-entrevista p strong {
+  font-weight: 800;
 }

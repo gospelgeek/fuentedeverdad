@@ -1,39 +1,32 @@
 [
     {
-        "x": "4%",
-        "y": "8%",
-        "width": "80%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='title-p7'><strong>Quisiera que mi epitafio dijera:</strong></p>"
-        }
-    },
-    {
-        "x": "2%",
-        "y": "15%",
+        "x": "0%",
+        "y": "0%",
         "width": "100%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
+        "tag": "video-fondo",
+        "class": "video-entrevista",
+        "src": "assets/pics/backgrounds/entrevista.mp4"
+    },
+    {
+        "x": "30%",
+        "y": "0%",
+        "width": "40%",
+        "class": "top-entrevista",
+        "tag": "top-entrevista"
+    },
+    {
+        "x": "25%",
+        "y": "45%",
+        "width": "60%",
+        "class": "texto-entrevista",
         "tag": "contenido",
-        "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
         "data": {
-           "text": "<p class='text-pag-7'>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.</p>"
+           "text": "<p>¿Por qué  <strong>'Cada corazón sanado'?</strong></p><p>¿Por qué independizarse de la <strong>Asamblea Apostólica?</strong></p><p>Cúal ha sido su <strong>mayor quebrantamiento?</strong></p>"
         }
     },
     {
-        "x": "12%",
-        "y": "36%",
+        "x": "31%",
+        "y": "66%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -45,12 +38,12 @@
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "",
-            "content": "<strong>Quisiera que mi epitafio dijera:</strong><br><br>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.<br><br>Yo tengo un principio en mi vida: Que cuando tengo que juzgar algún asunto, y no estoy seguro ciento por ciento, siempre prefiero errar hacia el lado de la gracia, siempre! si Dios me reclama eso yo le diría: “Señor, es lo que aprendí de ti: La misericordia en el juicio”.<br><br>En una ocasión prediqué en una convención juvenil, habían miles de jóvenes, y el joven que me introdujo dijo: “Con nosotros una gran hombre de Dios, el Obispo Valverde”, entonces cuando tomé el lugar abracé al joven y le dije: “Yo no soy un gran hombre de Dios, yo soy un hombre de ¡Un Gran Dios!”<br><br><b>Obispo Samuel Valverde</b>"
+            "content": "<strong>Quisiera que mi epitafio dijera:</strong><br><br>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.<br><br>Yo tengo un principio en mi vida: Que cuando tengo que juzgar algún asunto, y no estoy seguro ciento por ciento, siempre prefiero errar hacia el lado de la gracia, siempre! si Dios me reclama eso yo le diría: “Señor, es lo que aprendí de ti: La misericordia en el juicio”.<br><br>En una ocasión prediqué en una convención juvenil, habían miles de jóvenes, y el joven que me introdujo dijo: “Con nosotros una gran hombre de Dios, el Obispo Valverde”, entonces cuando tomé el lugar abracé al joven y le dije: “Yo no soy un gran hombre de Dios, yo soy un hombre de ¡Un Gran Dios!”<br><br><b>Obispo Samuel Valverde</b><iframe  class='video-entrevista' src='https://www.youtube.com/embed/HiCYyUhrurQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
         }
     },
     {
-        "x": "12%",
-        "y": "42%",
+        "x": "31%",
+        "y": "70%",
         "viewX": 1800,
         "viewY": 100,
         "width": "50%",
@@ -68,9 +61,30 @@
         ]
     },
     {
-        "x": "10%",
-        "y": "50%",
-        "tag":"video-emb",
-        "url": "<iframe  class='video-entrevista' src='https://www.youtube.com/embed/HiCYyUhrurQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
+        "x": "55%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 5
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 5
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 5
+            }
+        ]
     }
 ]   

@@ -594,7 +594,16 @@ div[page="38"] {
     width: 100%;
     height: 100%;
     z-index: -1;
-  }
+}
+.video-entrevista{
+    height: 100vh;
+    video{
+        transform: scale(2.9);
+        @media (max-width: 530px) {
+            transform: scale(3.9) translateY(-30px);
+        }
+    }
+}
 
 // estilos fdv elemento2
 .region.fdv-element2{
@@ -674,7 +683,25 @@ div[page="38"] {
 .region.top-entrevista{
     background-color: #135072;
     border-radius: 0 0 40px 40px;
-    padding: 20px;
+    padding: 15px;
+    padding-top: 60px;
     border: 2px solid #8d6631;
+    border-top: none;
     color: @white;
+    strong{
+        font-size: 14px;
+    }
+}
+
+.region.texto-entrevista{
+    p{
+        font-weight: 400;
+        color: #003b73;
+        text-align: left;
+        font-size: 13px;
+        margin-bottom: 20px;
+        strong{
+            font-weight: 800;
+        }
+    }
 }

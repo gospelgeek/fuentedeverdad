@@ -460,6 +460,12 @@ const addComponents = (region, lang) => {
         case 'fdv-background': 
             element = `<div class="fondo-azul"></div>`
             break;
+
+        case 'top-entrevista': 
+            element = `<div class="top-entrevista">
+                <strong>Preguntas inteligentes y respuestas profundas, enriquesedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí: </strong>
+            </div>`
+            break;
         default:
             break;
             
