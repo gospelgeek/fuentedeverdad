@@ -358,6 +358,65 @@ const addComponents = (region, lang) => {
             element = `<ul id="answer-container">
                        </ul>`
             break;
+        case 'video-fondo': 
+            element = `<video autoplay muted loop id="video-background">
+                            <source src="${region.src}" type="video/webm">
+                        </video>`
+            break;
+        case 'fdv-element1': 
+            element = `<div>
+                            <div class="left">
+                                <h1>${region.title}</h1>
+                                ${region.texthtml}
+                            
+                            </div>
+                            <div class="right">
+                                <h3>${region.date}</h3>
+                                <div class="action">
+                                    <button class="video-button">
+                                        <img style="width: 65px; border-radius: 30px;" src="assets/pics/icons/iconos_leermas2.png">
+                                    </button>
+                                </div>
+                            
+                            </div>
+                        </div>
+            `
+            break;
+            case 'fdv-element2': 
+            element = `<div>
+                            <div class="left">
+                                <h1>${region.title}</h1>
+                                ${region.texthtml}
+                                <div class="action">
+                                    <button class="video-button">
+                                        <img style="width: 65px; border-radius: 30px;" src="assets/pics/icons/iconos_leermas2.png">
+                                    </button>
+                                </div>
+                            
+                            </div>
+                            <div class="right">
+                                <img src="${region.src}">
+                            </div>
+                        </div>
+            `
+            break;
+        case 'fdv-logo': 
+            element = `<div>
+                            <img style="width: 20px" src="assets/pics/icons/fdvLogo.png">
+                            <p> FDV GLOBAL</p>
+                        </div>
+            `
+            break;
+
+        case 'fdv-background': 
+            element = `<div class="fondo-azul"></div>`
+            break;
+
+        case 'top-entrevista': 
+            element = `<div class="top-entrevista">
+                <strong>Preguntas inteligentes y respuestas profundas, enriquesedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí: </strong>
+            </div>`
+            break;
         default:
             break;
             

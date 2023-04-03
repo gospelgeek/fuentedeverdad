@@ -17,7 +17,7 @@
                 
     },
     {
-        "x": "17%",
+        "x": "8%",
         "y": "11%",
         "width": "80%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -25,7 +25,7 @@
         "color": "#fff",
         "font-size": "1.5em",
         "tag": "contenido",
-        "style": "font-weight: normal;",
+        "style": "font-weight: normal; text-align: center;",
         "text": "",
         "id_unique": "text-sub-page-6",
         "data": {
@@ -51,7 +51,7 @@
     },
     {
         "x": "10%",
-        "y": "63%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -74,9 +74,9 @@
         "image": "<img src='assets/pics/photos/img_fondo_martin.webp'>"
     },
     {
-        "x": "10%",
-        "y": "75%",
-        "width": "40%",
+        "x": "5%",
+        "y": "87%",
+        "width": "100%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
@@ -86,12 +86,12 @@
         "text": "",
         "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;'>Por el<br><strong>PASTOR MARTÍN PÉREZ</strong></h4>"
+            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;'>Por el <strong>PASTOR MARTÍN PÉREZ</strong></h4>"
         }   
     },
     {
         "x": "20%",
-        "y": "63%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "35%",

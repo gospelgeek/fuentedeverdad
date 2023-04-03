@@ -87,7 +87,7 @@ body{
         max-width: 180px;
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 530px) {
         .image{
             img{
                 width: 60px;
@@ -296,7 +296,7 @@ ul#answer-container{
     max-height: 530px;
     overflow: auto;
 
-    @media (max-width: 480px) {
+    @media (max-width: 530px) {
         max-height: 450px;   
     }
 
@@ -488,3 +488,254 @@ ul#answer-container{
         }
     }
 }
+
+// paginas de fuentes de verdad
+// fondo tipo video
+div[page="38"] {
+  background: url('assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.region.fdv-title{
+    h1{
+        color: @white;
+        font-size: 58px;
+        @media (max-width: 530px) {
+            font-size: 48px;
+        }
+    }
+}
+.region.fdv-subtitle{
+    
+    h1{
+        color: @white;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1;
+    }
+    h2{
+        color: @white;
+        font-size: 17px;
+        font-weight: 200;
+        line-height: 1;
+    }
+
+    @media (max-width: 530px) {
+        h1{
+            font-size: 16px;
+        }
+        h2{
+            font-size: 14px;
+        }
+    }
+}
+// estilos fdv-element1
+.region.fdv-element1{
+    >div{
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        .left{
+            width: 55%;
+            
+            h1{
+                color: @white;
+                font-size: 14px;
+                text-align: left;
+            }
+            p{
+                color: @white;
+                font-weight: 200;
+                text-align: initial;
+                font-size: 13px;
+            }
+            @media (max-width: 530px) {
+                h1{
+                    font-size: 12px;
+                }
+                p{
+                    font-size: 11px;
+                }
+            }
+
+        }
+        .right{
+            width: 45%;
+            h3{
+                color: @white;
+                font-size: 13px;
+                text-align: end;
+            }
+            .action{
+                display: flex;
+                justify-content: end;
+                button{
+                    border-radius: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 5px;
+                    border: none;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
+
+.region.fondo-azul{
+    background-color: #003b7370;
+    height: 90%;
+}
+
+// estilos de los videos de fondo
+#video-background {
+    width: 200%;
+    height: 100%;
+    z-index: -1;
+    object-fit: cover;
+}
+.video-entrevista{
+    height: 100vh;
+    video{
+        @media (max-width: 530px) {
+            transform: scale(3.9) translateY(-30px);
+        }
+    }
+}
+
+// estilos fdv elemento2
+.region.fdv-element2{
+    >div{
+        display: flex;
+        gap: 40px;
+        .left{
+            color: @white;
+            width: 55%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            h1{
+                font-size: 14px;
+                text-align: left;
+            }
+
+            p{
+                font-weight: 200;
+                text-align: initial;
+                font-size: 13px;
+                margin-bottom: 10px;
+            }
+            .action{
+                button{
+                    border-radius: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 5px;
+                    cursor: pointer;
+                    border: none;
+                }
+            }
+        }
+
+        .right{
+            width: 45%;
+            img{
+                border-radius: 50%;
+                height: 220px;
+                width: 220px;
+            }
+        }
+    }
+}
+
+// estilos logos
+.region.logo > div{
+    display: flex;
+    justify-content: space-between;
+
+    p{
+        color: @white;
+        font-size: 12px;
+    }
+}
+
+// estilos desde el corazon del obispo
+.region.desde-el-corazon-title{
+    h1{
+        color: #003b73;
+        font-weight: 400;
+        strong{
+            font-weight: 800;
+        }
+    }
+}
+.region.desde-el-corazon-text{
+    p.main-text{
+        color: @white;
+        text-align: initial;
+        font-size: 13px;
+    }
+}
+
+.region.top-entrevista{
+    background-color: #135072;
+    border-radius: 0 0 40px 40px;
+    padding: 15px;
+    padding-top: 60px;
+    border: 2px solid #8d6631;
+    border-top: none;
+    color: @white;
+    strong{
+        font-size: 14px;
+    }
+}
+
+.region.texto-entrevista{
+    p{
+        font-weight: 400;
+        color: #003b73;
+        text-align: left;
+        font-size: 13px;
+        margin-bottom: 20px;
+        strong{
+            font-weight: 800;
+        }
+    }
+}
+
+.region.agradecimiento-title{
+    color: #bc4860;
+    text-align: center;
+    h4{
+        font-size: 20px;
+    }
+}
+
+.region.agradecimiento-text{
+    color: #bc4860;
+    font-size: 13px;
+    p{
+        font-weight: 500;
+        text-align: left;
+        font-size: 13px;
+        strong{
+            font-weight: 800;
+        }
+    }
+}
+
+
+// arregla fondo de video para pagina 6 y 7
+div[page="7"]{
+    .page.p7{
+        .region.video-entrevista{
+            video{
+                transform: translateX(-50%);
+            }
+        }
+    } 
+}
+

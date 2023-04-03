@@ -310,8 +310,10 @@ audio {
     max-width: unset !important;
     width: 50% !important;
     height: 100%;
+    max-height: 90%;
     overflow-y: auto;
     overflow-x: hidden;
+    padding: 30px;
 }
 
 @media only screen and (max-width: 468px) {
@@ -339,11 +341,11 @@ audio {
     background-color: red;
     width: 25px !important;
     height: 25px !important;
-    position: fixed !important;
+    position: absolute !important;
     border-radius: 100%;
     box-shadow: 3px 3px 8px grey;
-    top: 24px !important;
-    right: 26% !important;
+    top: 10px !important;
+    right: 10px !important;
     background-image: url("../pics/icons/x.png");
 }
 
@@ -351,12 +353,6 @@ audio {
     .button-read {
         top: 54% !important;
         left: 69% !important;
-    }
-    .modal a.close-modal {
-        width: 25px !important;
-        height: 25px !important;
-        top: 115px !important;
-        right: 6%!important;
     }
 }
 

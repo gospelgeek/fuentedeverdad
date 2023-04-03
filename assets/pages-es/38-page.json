@@ -1,0 +1,101 @@
+[
+    {
+        "x": "0%",
+        "y": "0%",
+        "width": "100%",
+        "tag": "video-fondo",
+        "src": "assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm"
+    },
+    {
+        "x": "5%",
+        "y": "5%",
+        "width": "90%",
+        "tag": "fdv-background",
+        "class": "fondo-azul"
+    },
+    {
+        "x": "7%",
+        "y": "7%",
+        "width": "86%",
+        "tag": "fdv-logo",
+        "class": "logo"
+
+    },
+    {
+        "x": "0%",
+        "y": "7%",
+        "width": "100%",
+        "tag": "contenido",
+        "class": "fdv-title",
+        "data": {
+            "text": "<h1 class='title-pag-37'>FDV GLOBAL<h1>"
+        }    
+    },
+    {
+        "x": "0%",
+        "y": "19%",
+        "width": "100%",
+        "tag": "contenido",
+        "class": "fdv-subtitle",
+        "data": {
+            "text": "<h1>ENTRENAMIENTO MINISTERIAL</h1><h2>'DIGNOS DE DOBLE HONOR'</h2>"
+        }    
+    },
+    {
+        "x": "10%",
+        "y": "28%",
+        "width": "80%",
+        "date": "MARZO 26, 2022",
+        "tag": "fdv-element1",
+        "class": "fdv-element1",
+        "title": "SEMINARIO IV",
+        "texthtml": "<p>Como dar consejo sabio (Parte 2)</p><p>Como bautizar correctamente</p>"  
+    },
+    {
+        "x": "10%",
+        "y": "43%",
+        "width": "80%",
+        "date": "JULIO 16, 2022",
+        "tag": "fdv-element1",
+        "class": "fdv-element1",
+        "title": "SEMINARIO V",
+        "texthtml": "<p>Más allá de lo básico</p><p>Como servir la santa sena</p><p>Cabos sueltos</p>"  
+    },
+    {
+        "x": "10%",
+        "y": "60%",
+        "width": "80%",
+        "date": "OCTUBRE 7 Y 8, 2022",
+        "tag": "fdv-element1",
+        "class": "fdv-element1",
+        "title": "SEMINARIO IV",
+        "texthtml": "<p>(IMPARTIDO DURANTE 'EL DERRAMAMIENTO')</p><p>¡Cambiar o morir!</p><p>Lideres saludables</p><p>Familias saludables</p><p>Intimidad con Dios</p>"  
+    },
+    {
+        "x": "-8%",
+        "y": "80%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
+]

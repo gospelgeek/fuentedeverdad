@@ -1,0 +1,68 @@
+[
+    {
+        "x": "0%",
+        "y": "0%",
+        "width": "100%",
+        "tag": "video-fondo",
+        "src": "assets/pics/backgrounds/ladob_FDV_GLOBAL.webm"
+    },
+    {
+        "x": "5%",
+        "y": "5%",
+        "width": "90%",
+        "tag": "fdv-background",
+        "class": "fondo-azul"
+    },
+    {
+        "x": "7%",
+        "y": "7%",
+        "width": "86%",
+        "tag": "fdv-logo",
+        "class": "logo"
+
+    },
+    {
+        "x": "10%",
+        "y": "12%",
+        "width": "110%",
+        "src": "assets/pics/Eventos/chile/6.jpg",
+        "tag": "fdv-element2",
+        "class": "fdv-element2",
+        "title": "ORACIONES GLOBALES",
+        "texthtml": "<p>En el 2o semestre del año 2022 se celebraron 6 reuniones globales de oración de FDV a nivel global:</p><p>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre... </p>"  
+    },
+    {
+        "x": "10%",
+        "y": "52%",
+        "width": "110%",
+        "src": "assets/pics/Eventos/chile/6.jpg",
+        "tag": "fdv-element2",
+        "class": "fdv-element2",
+        "title": "REUNION GLOBAL DE PASTORES",
+        "texthtml": "<p>En el año 2022 se celebraron 9 reuniones de pastores de FDV a nivel global:</p><p>29 de Enero, 26 de Febrero, 26 de Marzo, 30 de Abril, 28 de Mayo, 30 de Julio, 27 de Agosto, 29 de Octubre y 26 deNoviembre...</p>"  
+    },
+    {
+        "x": "60%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page4",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_pastor_misiones.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    }
+]

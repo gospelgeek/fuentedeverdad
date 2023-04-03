@@ -39,20 +39,21 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-container {
   display: flex;
   align-items: center;
-  line-height: 20px;
 }
 .event-container .image img {
-  width: 60px;
+  width: 80px;
   border-radius: 50%;
 }
 .event-container h3.text {
   color: #ffffff;
   transform: translateX(-10px);
   text-transform: capitalize;
-  max-width: 200px;
+  max-width: 180px;
 }
-@media (max-width: 480px) {
-  
+@media (max-width: 530px) {
+  .event-container .image img {
+    width: 70px;
+  }
   .event-container h3.text {
     font-size: 14px;
     max-width: 150px;
@@ -64,7 +65,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 }
 .event-title p strong {
   margin-right: 8px;
-  font-size: 40px;
+  font-size: 35px;
 }
 .event-subtitle {
   max-width: 150px;
@@ -72,7 +73,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .event-subtitle p {
   color: #ffffff;
   font-size: 12px;
-  text-align: left; 
+  text-align: left;
 }
 .region.full-subtitle .event-subtitle {
   max-width: none;
@@ -234,7 +235,7 @@ ul#answer-container {
   max-height: 530px;
   overflow: auto;
 }
-@media (max-width: 480px) {
+@media (max-width: 530px) {
   ul#answer-container {
     max-height: 450px;
   }
@@ -363,7 +364,7 @@ ul#answer-container li .action button {
   width: 100% !important;
 }
 .region.pastor-corazon-sanado .div-center-ubication-responsive .aux-class-content .responsive-font-content p {
-  font-size: 0.7em;
+  font-size: 12px;
   text-align: end;
 }
 .region.corazon-sanado-content h4 {
@@ -391,4 +392,208 @@ ul#answer-container li .action button {
 }
 .region.legal-page-paragraph .responsive-font-content p {
   text-align: center;
+}
+}
+div[page="38"] {
+  background: url('assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.region.fdv-title h1 {
+  color: #ffffff;
+  font-size: 58px;
+}
+@media (max-width: 530px) {
+  .region.fdv-title h1 {
+    font-size: 48px;
+  }
+}
+.region.fdv-subtitle h1 {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1;
+}
+.region.fdv-subtitle h2 {
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 200;
+  line-height: 1;
+}
+@media (max-width: 530px) {
+  .region.fdv-subtitle h1 {
+    font-size: 16px;
+  }
+  .region.fdv-subtitle h2 {
+    font-size: 14px;
+  }
+}
+.region.fdv-element1 > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.region.fdv-element1 > div .left {
+  width: 55%;
+}
+.region.fdv-element1 > div .left h1 {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+}
+.region.fdv-element1 > div .left p {
+  color: #ffffff;
+  font-weight: 200;
+  text-align: initial;
+  font-size: 13px;
+}
+@media (max-width: 530px) {
+  .region.fdv-element1 > div .left h1 {
+    font-size: 12px;
+  }
+  .region.fdv-element1 > div .left p {
+    font-size: 11px;
+  }
+}
+.region.fdv-element1 > div .right {
+  width: 45%;
+}
+.region.fdv-element1 > div .right h3 {
+  color: #ffffff;
+  font-size: 13px;
+  text-align: end;
+}
+.region.fdv-element1 > div .right .action {
+  display: flex;
+  justify-content: end;
+}
+.region.fdv-element1 > div .right .action button {
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+}
+.region.fondo-azul {
+  background-color: #003b7370;
+  height: 90%;
+}
+#video-background {
+  width: 200%;
+  height: 100%;
+  z-index: -1;
+  object-fit: cover;
+}
+.video-entrevista {
+  height: 100vh;
+}
+@media (max-width: 530px) {
+  .video-entrevista video {
+    transform: scale(3.9) translateY(-30px);
+  }
+}
+.region.fdv-element2 > div {
+  display: flex;
+  gap: 40px;
+}
+.region.fdv-element2 > div .left {
+  color: #ffffff;
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.region.fdv-element2 > div .left h1 {
+  font-size: 14px;
+  text-align: left;
+}
+.region.fdv-element2 > div .left p {
+  font-weight: 200;
+  text-align: initial;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.region.fdv-element2 > div .left .action button {
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+  border: none;
+}
+.region.fdv-element2 > div .right {
+  width: 45%;
+}
+.region.fdv-element2 > div .right img {
+  border-radius: 50%;
+  height: 220px;
+  width: 220px;
+}
+.region.logo > div {
+  display: flex;
+  justify-content: space-between;
+}
+.region.logo > div p {
+  color: #ffffff;
+  font-size: 12px;
+}
+.region.desde-el-corazon-title h1 {
+  color: #003b73;
+  font-weight: 400;
+}
+.region.desde-el-corazon-title h1 strong {
+  font-weight: 800;
+}
+.region.desde-el-corazon-text p.main-text {
+  color: #ffffff;
+  text-align: initial;
+  font-size: 13px;
+}
+.region.top-entrevista {
+  background-color: #135072;
+  border-radius: 0 0 40px 40px;
+  padding: 15px;
+  padding-top: 60px;
+  border: 2px solid #8d6631;
+  border-top: none;
+  color: #ffffff;
+}
+.region.top-entrevista strong {
+  font-size: 14px;
+}
+.region.texto-entrevista p {
+  font-weight: 400;
+  color: #003b73;
+  text-align: left;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+.region.texto-entrevista p strong {
+  font-weight: 800;
+}
+.region.agradecimiento-title {
+  color: #bc4860;
+  text-align: center;
+}
+.region.agradecimiento-title h4 {
+  font-size: 20px;
+}
+.region.agradecimiento-text {
+  color: #bc4860;
+  font-size: 13px;
+}
+.region.agradecimiento-text p {
+  font-weight: 500;
+  text-align: left;
+  font-size: 13px;
+}
+.region.agradecimiento-text p strong {
+  font-weight: 800;
+}
+div[page="7"] .page.p7 .region.video-entrevista video {
+  transform: translateX(-50%);
 }
