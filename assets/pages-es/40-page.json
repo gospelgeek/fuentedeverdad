@@ -23,5 +23,21 @@
         "width": "100%",
         "id_unique": "sopa-letras-39",
         "tag": "wordsGame"
+    },
+    {
+        "x": "46%",
+        "y": "93%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "5em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": {
+            "url": "#"
+        }
     }
 ]

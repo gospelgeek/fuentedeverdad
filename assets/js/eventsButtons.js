@@ -306,90 +306,398 @@ function click_boton_a_english() {
 
 /*CARUSEL*/
   
-    function evento(e){
+function evento(e){
 
-        $(".carousel-container").html("");
-        const modal = $(e).data("id");
-        const imagenes  = $(e).data("imagenes");
-        const div = document.querySelector('#'+modal);
-        const carousel = div.querySelector(".carousel-container");
-        
-        if(imagenes != "undefined" && imagenes != undefined){
-            
-            const div2 = document.createElement('div');
-            div2.setAttribute('class','carousel-slide')
-            carousel.appendChild(div2);
-
-            for (let step = 0; step < imagenes.length; step++) {
-                if(imagenes[step].tipo == "video"){
-                    /*const video = document.createElement('video');
-
-                    video.src = imagenes[step].src;
-                    video.setAttribute('alt', step+1)
-                    div2.appendChild(image);*/
-
-                }else{
-
-                    const image = document.createElement('img');
+    $(".carousel-container").html("");
+    const modal = $(e).data("id");
+    const imagenes  = $(e).data("imagenes");
+    const div = document.querySelector('#'+modal);
+    const carousel = div.querySelector(".carousel-container");
     
-                    if(step==0){
-                        image.setAttribute('class','active');
-                    }
+    if(imagenes != "undefined" && imagenes != undefined){
         
-                    image.src = imagenes[step].src;
-                    image.setAttribute('alt', step+1)
-                    div2.appendChild(image);
+        const div2 = document.createElement('div');
+        div2.setAttribute('class','carousel-slide')
+        carousel.appendChild(div2);
+
+        for (let step = 0; step < imagenes.length; step++) {
+            if(imagenes[step].tipo == "video"){
+                /*const video = document.createElement('video');
+
+                video.src = imagenes[step].src;
+                video.setAttribute('alt', step+1)
+                div2.appendChild(image);*/
+
+            }else{
+
+                const image = document.createElement('img');
+
+                if(step==0){
+                    image.setAttribute('class','active');
                 }
-                
+    
+                image.src = imagenes[step].src;
+                image.setAttribute('alt', step+1)
+                div2.appendChild(image);
             }
-        
-            const images = carousel.querySelectorAll('img');
-            const video = carousel.querySelectorAll('video');
-            var prevBtn = document.querySelector('#'+modal+'1');
-            var nextBtn = document.querySelector('#'+modal+'2');
-            const fondo = document.querySelector('#'+modal);
-            fondo.style.background = "none";
-            let index = 0;
-    
-            function changeImage(n) {
-                if(imagenes[n].tipo == "video"){
-                    /*images[index].classList.remove('active');
-                    index = (n + imagenes.length) % imagenes.length;
-                    video[index].classList.add('active');*/
-                }
-                else{
-                    images[index].classList.remove('active');
-                    index = (n + images.length) % images.length;
-                    images[index].classList.add('active');
-                }
-                
-            } 
-    
-            prevBtn.addEventListener('click', () => {
-                if(index>0){
-                    changeImage(index - 1);
-                }
-                
-            });
-    
-            nextBtn.addEventListener('click', () => {
-    
-                if(index<images.length-1){
-                    changeImage(index + 1);
-                }
-                
-            });
-
-            $("#"+modal).modal('show');
-        }else{
-            alert("El Evento no posee imagenes");
+            
         }
+    
+        const images = carousel.querySelectorAll('img');
+        const video = carousel.querySelectorAll('video');
+        var prevBtn = document.querySelector('#'+modal+'1');
+        var nextBtn = document.querySelector('#'+modal+'2');
+        const fondo = document.querySelector('#'+modal);
+        fondo.style.background = "none";
+        let index = 0;
 
+        function changeImage(n) {
+            if(imagenes[n].tipo == "video"){
+                /*images[index].classList.remove('active');
+                index = (n + imagenes.length) % imagenes.length;
+                video[index].classList.add('active');*/
+            }
+            else{
+                images[index].classList.remove('active');
+                index = (n + images.length) % images.length;
+                images[index].classList.add('active');
+            }
+            
+        } 
+
+        prevBtn.addEventListener('click', () => {
+            if(index>0){
+                changeImage(index - 1);
+            }
+            
+        });
+
+        nextBtn.addEventListener('click', () => {
+
+            if(index<images.length-1){
+                changeImage(index + 1);
+            }
+            
+        });
+
+        $("#"+modal).modal('show');
+    }else{
+        alert("El Evento no posee imagenes");
     }
 
-    
-    
+}
 
+    
+    
+/* PAISES - PASTORES */  
+
+
+function conectar_mexico(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    if(mexico.value == "6"){
+        const audio = new Audio("./assets/audios/correct.wav");
+        sonido = audio;
+        mexico.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+        sonido.play();
+    }else{
+        if(mexico.value == "0"){
+            mexico.setAttribute("style","rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+        }else{
+            const audio = new Audio("./assets/audios/incorrecto.wav");
+            sonido = audio;
+            mexico.setAttribute("style","box-shadow: #f00 2px 0px 25px 2px inset;");
+            sonido.play();
+        }
+        
+    }
+
+    if(mexico.value == "6" && colombia.value == "3" && japon.value == "1" && cambodia.value == "4" && costa_rica.value == "2" && chile.value == "5"){
+        //alert("FILICITACIONES")
+    }
+}
+
+function conectar_colombia(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    if(colombia.value == "3"){
+        const audio = new Audio("./assets/audios/correct.wav");
+        sonido = audio;
+        colombia.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+        sonido.play();
+    }else{
+        if(colombia.value == "0"){
+            colombia.setAttribute("style","rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+        }else{
+            const audio = new Audio("./assets/audios/incorrecto.wav");
+            sonido = audio;
+            colombia.setAttribute("style","box-shadow: #f00 2px 0px 25px 2px inset;");
+            sonido.play();
+        }
+        
+    }
+
+    if(mexico.value == "6" && colombia.value == "3" && japon.value == "1" && cambodia.value == "4" && costa_rica.value == "2" && chile.value == "5"){
+        //alert("FILICITACIONES")
+    }
+}
+
+function conectar_japon(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    if(japon.value == "1"){
+        const audio = new Audio("./assets/audios/correct.wav");
+        sonido = audio;
+        japon.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+        sonido.play();
+    }else{
+        if(japon.value == "0"){
+            japon.setAttribute("style","rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+        }else{
+            const audio = new Audio("./assets/audios/incorrecto.wav");
+            sonido = audio;
+            japon.setAttribute("style","box-shadow: #f00 2px 0px 25px 2px inset;");
+            sonido.play();
+        }
+        
+    }
+
+    if(mexico.value == "6" && colombia.value == "3" && japon.value == "1" && cambodia.value == "4" && costa_rica.value == "2" && chile.value == "5"){
+        //alert("FILICITACIONES")
+    }
+}
+
+function conectar_cambodia(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    if(cambodia.value == "4"){
+        const audio = new Audio("./assets/audios/correct.wav");
+        sonido = audio;
+        cambodia.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+        sonido.play();
+    }else{
+        if(cambodia.value == "0"){
+            cambodia.setAttribute("style","rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+        }else{
+            const audio = new Audio("./assets/audios/incorrecto.wav");
+            sonido = audio;
+            cambodia.setAttribute("style","box-shadow: #f00 2px 0px 25px 2px inset;");
+            sonido.play();
+        }
+        
+    }
+
+    if(mexico.value == "6" && colombia.value == "3" && japon.value == "1" && cambodia.value == "4" && costa_rica.value == "2" && chile.value == "5"){
+        //alert("FILICITACIONES")
+    }
+}
+
+function conectar_costa_rica(){
+    
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    if(costa_rica.value == "2"){
+        const audio = new Audio("./assets/audios/correct.wav");
+        sonido = audio;
+        costa_rica.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+        sonido.play();
+    }else{
+        if(costa_rica.value == "0"){
+            costa_rica.setAttribute("style","rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+        }else{
+            const audio = new Audio("./assets/audios/incorrecto.wav");
+            sonido = audio;
+            costa_rica.setAttribute("style","box-shadow: #f00 2px 0px 25px 2px inset;");
+            sonido.play();
+        }
+        
+    }
+
+    if(mexico.value == "6" && colombia.value == "3" && japon.value == "1" && cambodia.value == "4" && costa_rica.value == "2" && chile.value == "5"){
+        //alert("FILICITACIONES")
+    }
+}
+
+function conectar_chile(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    if(chile.value == "5"){
+        const audio = new Audio("./assets/audios/correct.wav");
+        sonido = audio;
+        chile.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+        sonido.play();
+    }else{
+        if(chile.value == "0"){
+            chile.setAttribute("style","rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+        }else{
+            const audio = new Audio("./assets/audios/incorrecto.wav");
+            sonido = audio;
+            chile.setAttribute("style","box-shadow: #f00 2px 0px 25px 2px inset;");
+            sonido.play();
+        }
+        
+    }
+
+    if(mexico.value == "6" && colombia.value == "3" && japon.value == "1" && cambodia.value == "4" && costa_rica.value == "2" && chile.value == "5"){
+        //alert("FILICITACIONES")
+    }
+}
+
+function conectar_resolver(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    mexico.value = "6";
+    colombia.value = "3";
+    japon.value = "1";
+    cambodia.value = "4";
+    costa_rica.value = "2";
+    chile.value = "5";
+
+    chile.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+    colombia.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+    japon.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+    cambodia.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+    costa_rica.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+    mexico.setAttribute("style","box-shadow: rgba(107, 237, 8) 2px 0px 25px 2px inset;");
+}
+
+function conectar_reiniciar(){
+
+    const mexico = document.getElementById("word1");
+    const colombia = document.getElementById("word2");
+    const japon = document.getElementById("word3");
+    const cambodia = document.getElementById("word4");
+    const costa_rica = document.getElementById("word5");
+    const chile = document.getElementById("word6");
+
+    mexico.value = "0";
+    colombia.value = "0";
+    japon.value = "0";
+    cambodia.value = "0";
+    costa_rica.value = "0";
+    chile.value = "0";
+
+    chile.setAttribute("style","box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+    colombia.setAttribute("style","box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+    japon.setAttribute("style","box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+    cambodia.setAttribute("style","box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+    costa_rica.setAttribute("style","box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+    mexico.setAttribute("style","box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;");
+}
+
+
+function texto_completo(e){
+    const leermas = document.querySelector('#button-'+e);
+    leermas.setAttribute('style',"display: block !important");
+    const ocultar = document.querySelector('#boton-ocultar'+e);
+    ocultar.setAttribute('style','display: none');
+}
+
+/*CAPTURAR EXCEL DE PREGUNTAS Y RESPUESTAS*/
+
+fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQvhB_lZwOdrPfmu2HOmkQAr66b3RTX_WkU_Xqv7WglwyokeNfQZG7h5GuD4V-pH0AwlQyUoQRkWmnG/pubhtml?gid=162053975&single=true')
+.then(response => response.text())
+.then(html => {
+    var parser = new DOMParser();
+    var doc = parser.parseFromString(html, 'text/html');
+    var table = doc.querySelector('table tbody');
+    var tr = table.querySelectorAll('tr');
+
+    const div_principal = document.querySelector('.answer-container');
+    
+    const ul = document.createElement('ul');
+    ul.setAttribute('id','answer-container');
+    for(i=2;i<tr.length;i++){
+        
+        var td = tr[i].querySelectorAll('td');
+
+        const li = document.createElement('li');
+        li.setAttribute('class','item');
+
+        const div = document.createElement('div');
+        div.setAttribute('class','top');
+
+        const strong = document.createElement('strong');
+        strong.innerHTML = td[1].innerText;
+
+
+        const div2 = document.createElement('div');
+        div2.setAttribute('class','bottom-container');
+        
+        const p = document.createElement('p');
+        p.setAttribute('id','button-'+i);
+        p.innerHTML = td[3].innerText;
+
+        const div3 = document.createElement('div');
+        div3.setAttribute('class', 'action');
+
+        const button = document.createElement('button');
+        button.setAttribute('class', 'answer-button');
+        button.setAttribute('id','boton-ocultar'+i);
+        button.setAttribute('onclick', "texto_completo("+i+")");
+
+        const img = document.createElement('img');
+        img.setAttribute('style','width: 100px');
+        img.setAttribute('src','assets/pics/icons/iconos_leermas2.png');
+
+        button.appendChild(img);
+        div3.appendChild(button);
+
+        div2.appendChild(p);
+        div.appendChild(strong);
+        li.appendChild(div);
+        li.appendChild(div2);
+        li.appendChild(div3);
+        ul.appendChild(li);
+    }
+
+    div_principal.appendChild(ul);
+
+})
+.catch(error => {
+console.error('Error:', error);
+});
 
 
 

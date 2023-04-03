@@ -208,63 +208,70 @@ const addComponents = (region, lang) => {
                                 <div class="columnB">
                                     <h1>${region.data[1].titulo}</h1>
                                 </div>
-                                <select id="word1" class="selectGame">
+                                <select id="word1" class="selectGame" onchange="conectar_mexico()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word3">${region.data[1].respuesta1}</option>
-                                    <option value="word5">${region.data[1].respuesta2}</option>
-                                    <option value="word4">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word1">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word2" class="selectGame">
+                                <select id="word2" class="selectGame" onchange="conectar_colombia()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word1">${region.data[1].respuesta1}</option>
-                                    <option value="word2">${region.data[1].respuesta2}</option>
-                                    <option value="word4">${region.data[1].respuesta3}</option>
-                                    <option value="word3">${region.data[1].respuesta4}</option>
-                                    <option value="word5">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word3" class="selectGame">
+                                <select id="word3" class="selectGame" onchange="conectar_japon()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word4">${region.data[1].respuesta1}</option>
-                                    <option value="word2">${region.data[1].respuesta2}</option>
-                                    <option value="word1">${region.data[1].respuesta3}</option>
-                                    <option value="word3">${region.data[1].respuesta4}</option>
-                                    <option value="word5">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word4" class="selectGame">
+                                <select id="word4" class="selectGame" onchange="conectar_cambodia()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word5">${region.data[1].respuesta1}</option>
-                                    <option value="word1">${region.data[1].respuesta2}</option>
-                                    <option value="word4">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word3">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word5" class="selectGame">
+                                <select id="word5" class="selectGame" onchange="conectar_costa_rica()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word3">${region.data[1].respuesta1}</option>
-                                    <option value="word1">${region.data[1].respuesta2}</option>
-                                    <option value="word5">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word4">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word6" class="selectGame">
+                                <select id="word6" class="selectGame" onchange="conectar_chile()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word3">${region.data[1].respuesta1}</option>
-                                    <option value="word1">${region.data[1].respuesta2}</option>
-                                    <option value="word5">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word4">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
                             </div>
-                        </div>`)
+                        </div>
+                        `)
             break;
+        case 'botones-conectar':
+                element = (`<div id='select-game'>
+                            <button class='select-Game' onclick="conectar_resolver()">RESOLVER</button>
+                            <button class='select-Game' onclick="conectar_reiniciar()">REINICIAR</button>
+                        </div>`);
+            break;    
         case 'tooltip':
             element = $('<a/>', {}).append(
                     addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
@@ -348,63 +355,7 @@ const addComponents = (region, lang) => {
             element = region.html
             break;
         case  'answer-container':
-            element = `<ul id="answer-container"> 
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
-                                <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
-                                    </button>
-                                </div>
-                            </li>
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
-                                <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
-                                    </button>
-                                </div>
-                            </li>
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
-                                <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
-                                    </button>
-                                </div>
-                            </li>
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
-                                <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
-                                    </button>
-                                </div>
-                            </li>  
+            element = `<ul id="answer-container">
                        </ul>`
             break;
         case 'video-fondo': 
