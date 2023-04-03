@@ -414,8 +414,8 @@ const addComponents = (region, lang) => {
 
         case 'top-entrevista': 
             element = `<div class="top-entrevista">
-                <strong>Preguntas inteligentes y respuestas profundas, enriquesedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí: </strong>
-            </div>`
+                    ${region.text}            
+                </div>`
             break;
         default:
             break;

@@ -178,5 +178,120 @@
         "data": {
             "text": "<p>Banco de Imágenes Pastores FDV</p><p>Banco de Imágenes Misiones FDV</p>"
         }
+    },
+    {
+        "x": "7%",
+        "y": "85%",
+        "width":"6%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/icons/fdvLogo.png'>"
+    },
+    {
+        "x": "14%",
+        "y": "86%",
+        "width":"40%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/icons/fondo_txt_encuentranos.png'>"
+    },
+    {
+        "x": "55.5%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-insta",
+        "data": {
+            "href": "https://www.instagram.com/FTCRancho/",
+            "content": "<img src='./assets/pics/icons/icon_ig_b.png'>"
+        }
+    },
+    {
+        "x": "61.5%",
+        "y": "86.5%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-youtube",
+        "data": {
+            "href": "https://www.youtube.com/iglesiafuentedeverdad",
+            "content": "<img src='./assets/pics/icons/icon_yt_b.png'>"
+        }
+    },
+    {
+        "x": "67.5%",
+        "y": "86.5%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-souncloud",
+        "data": {
+            "href": "https://soundcloud.com/ftc-church",
+            "content": "<img src='./assets/pics/icons/icon_sc.png'>"
+        }
+    },
+    {
+        "x": "73.5%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "4%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-sitioweb",
+        "data": {
+            "href": "https://fuentedeverdad.org/",
+            "content": "<img src='./assets/pics/icons/icon_lk.png'>"
+        }
+    },
+    {
+        "x": "78.5%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "2%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-facebook",
+        "data": {
+            "href": "https://www.facebook.com/ftcranchocucamonga",
+            "content": "<img src='./assets/pics/icons/icon_fb_b.png'>"
+        }
+    },
+    {
+        "x": "82%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-email",
+        "data": {
+            "href": "mailto:info@fuentedeverdad.com",
+            "content": "<img src='./assets/pics/icons/icon_mg.png'>"
+        }
+    },
+    {
+        "x": "88%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-twitter",
+        "data": {
+            "href": "https://twitter.com/FTCRancho",
+            "content": "<img src='./assets/pics/icons/icon_tw_b.png'>"
+        }
     }
 ]
