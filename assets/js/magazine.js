@@ -117,7 +117,7 @@ function addRegion(region, pageElement, lang, page) {
        
        if (page == 40) {
         $('.p'+40).append(reg);
-        var words = ['Arrepentimiento','Conversión', 'NuevoNacimiento', 'Unicidad', 'ElNombreDeJesús', 'Adopción', 'Justificación', 'Redención', 'Santidad', 'Fe', 'Resurrección']
+        var words = ['Misiones','Fuentedeverdad', 'Fuentedeverdad', 'Dar', 'GranComision', 'Corazon', 'Viaje', 'Noticias', 'BuenasNuevas', 'Pastores', 'Ofrenda']
         createWordsGame(words);
        }
 
@@ -322,3 +322,7 @@ function addRegion(region, pageElement, lang, page) {
 
        return bound;
    }
+
+
+
+   

@@ -170,7 +170,7 @@
                 "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 44</span> </a> </span>"           
             },
             {
-                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(48)' class='a-aux-indice'>Agradecimiento Especial a nuestros Patrocinadores de Misiones FDV</a></span>",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(48)' class='a-aux-indice'>Agradecimiento Especial a nuestros “Patrocinadores de Misiones FDV”</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(48)' class='a-aux-indice'> ",
                 "cargo":  " ",  
                 "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 47</span> </a> </span>"           
