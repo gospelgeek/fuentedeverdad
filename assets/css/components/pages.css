@@ -3387,15 +3387,29 @@ button::-moz-focus-inner {
     background-repeat: no-repeat;
 }
 
-.video-entrevista{
-    width: 410px;
+.video-entrevista-pastor{
+    width: 420px;
     height: 250px;
 }
 
 @media only screen and (max-width: 468px) {
-    .video-entrevista{
-        width: 320px;
-        height: 200px;
+    .video-entrevista-pastor{
+        top: 61% !important;
+        width: 330px;
+        height: 190px;
+    }
+
+    .leermas-pag7{
+        top: 56% !important;
+    }
+
+    .imprimir-pag7{
+        top: 55% !important;
+    }
+
+    .social-media-pag47{
+        top: 95% !important;
+
     }
 }
 
@@ -3573,4 +3587,23 @@ line-height: 14px;
 
 #select-game{
     text-align: center;
+}
+
+
+.link-face img,
+.link-insta img {
+    width: 10% !important;
+    margin-left: -6%;
+    animation: zoomImg 2s 3;
+}
+
+.link-face p,
+.link-insta p,
+.link-youtube p {
+    width: 10%;
+    color: #ffffff;
+    font-size: 4em;
+    border-radius: 60px 60px / 60px 60px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }

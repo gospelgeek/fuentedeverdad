@@ -28,39 +28,8 @@
         "text": "",
         "id_unique": "text-indece-page-6",
         "data": {
-            "text": "<h1 class='monserrat-black' style='font-size: 1em; '><strong>DESDE EL CORAZÓN</strong> DEL OBISPO<h1>"
+            "text": "<h1 class='monserrat-black' style='font-size: 1.3em; '><strong>DESDE EL CORAZÓN</strong> DEL OBISPO<h1>"
         }
                 
-    },
-    {
-        "x": "48%",
-        "y": "79%",
-        "width": "45%",
-        "font-size": "2em",
-        "class": "desde-el-corazon-text",
-        "tag": "contenido",
-        "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text'>Esta hermosa entrevista hecha por FDV Bogotá a nuestro Obispo...</p>"
-        }
-    },
-    {
-        "x": "73%",
-        "y": "89%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "100%",
-        "height": "100%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p4",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>DESDE EL CORAZÓN DEL OBISPO SAMUEL VALVERDE<br><br>",
-            "content": "Esta hermosa entrevista hecha por FDV Bogotá a nuestro Obispo Valverde, deja al descubierto su sincero y transparente corazón.  Preguntas inteligentes y respuestas profundas, enriquecedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí:<ul><li>¿Por qué “Cada Corazón Sanado”?</li><li>¿Por qué independizarse de la Asamblea Apostólica?</li><li>¿Cuál ha sido su mayor quebrantamiento?</li><li>¿Por qué es importante sanar?</li><li>¿Por qué Colombia?</li><li>¿Cuál es la visión para Bogotá y en general para Colombia?</li><li>¿Cuál es su sentir hacia la Iglesia del Nombre de Jesucristo?</li><li>¿Qué viene para la Iglesia Global del Nombre de Jesús?</li><li>¿Cuál es su postura con respecto a las Iglesias del Nombre de Jesús?</li><li>¿Quién es el Pastor Álvaro Ocampo?</li><li>Un consejo para los pastores</li><li>¿Cuál debe ser la relación entre las Iglesias del Nombre de Jesús?</li><li>¿Cuál es el legado que usted le deja a las generaciones actuales?</li></ul> ¡Esperamos que la disfrutes!"
-        }
     }
 ]
