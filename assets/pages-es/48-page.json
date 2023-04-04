@@ -50,26 +50,9 @@
          "width": "100%",
          "tag": "html_pure",
          "html": "<div class='_text_center_container_'> <h1>!gracias!</h1> </div>"
-    },  
-    {
-         "x": "45%",
-         "y": "70%",
-         "viewX": 1800,
-         "viewY": 100,
-         "width": "90%",
-         "height": "10%",
-         "fontSize": "3.3em",
-         "tag": "modal",
-         "id": "modal-p48",
-         "class": "",
-         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-         "data": {
-             "title": "<br><br><br>",
-             "content": ""
-         }
     },
     {
-        "x": "60%",
+        "x": "40%",
         "y": "70.5%",
         "viewX": 1800,
         "viewY": 100,
@@ -91,6 +74,5 @@
                 "url": ""
             }
         ]
-    }
-   
+    }  
 ]

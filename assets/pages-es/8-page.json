@@ -60,12 +60,12 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p8'>Por la gracia de Dios, seguimos adelante con un deseo ferviente de servir cada vez mejor a nuestro Señor, de sembrar la palabra de Dios y de cosechar almas para el reino de Cristo, y de hacer discípulos por toda la nación. Actualmente hay 13 obras en 9 estados.</p>"
+           "text": "<p class='main-text-p8'>Por la gracia de Dios, seguimos adelante con un deseo ferviente de servir cada vez mejor a nuestro Señor, de sembrar la palabra de Dios y de cosechar almas para el reino de Cristo, y de hacer discípulos por toda la nación. Actualmente hay 13 obras en 9 estados...</p>"
         }
     },
     {
-        "x": "70%",
-        "y": "52%",
+        "x": "75%",
+        "y": "54%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",

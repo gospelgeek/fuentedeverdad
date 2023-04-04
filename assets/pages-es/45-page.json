@@ -20,6 +20,7 @@
         "tag": "answer-container",
         "x": "10%",
         "y": "15%",
-        "width": "80%"
+        "width": "80%",
+        "class": "answer-container"
     }
 ]

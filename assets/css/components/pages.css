@@ -3387,14 +3387,223 @@ button::-moz-focus-inner {
     background-repeat: no-repeat;
 }
 
-.video-entrevista{
-    width: 410px;
+.video-entrevista-pastor{
+    width: 420px;
     height: 250px;
 }
 
 @media only screen and (max-width: 468px) {
-    .video-entrevista{
-        width: 320px;
-        height: 200px;
+    .video-entrevista-pastor{
+        top: 61% !important;
+        width: 330px;
+        height: 190px;
     }
+
+    .leermas-pag7{
+        top: 56% !important;
+    }
+
+    .imprimir-pag7{
+        top: 55% !important;
+    }
+
+    .social-media-pag47{
+        top: 95% !important;
+
+    }
+}
+
+/*leer mas Pag 42*/
+
+@media only screen and (max-width: 468px) {
+    .leermas-pag42{
+        top: 83% !important;
+        left: 50% !important;
+    }
+}
+
+.text-pag-46{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+/*CSS RAMA DESARROLLO */
+.main-text{
+
+font-size: 0.73em;
+}
+
+.main-text-p9{
+font-size: 0.75em;
+text-align: right;
+line-height: 12px;
+color: rgb(209, 206, 206);
+}
+
+
+.main-text-p8{
+font-size: 1em;
+}
+
+
+.title-p7{
+font-size: 1.2em;
+color: #301406;
+line-height: 16px;
+}
+
+.title-p20{
+text-align: left;
+font-size: 4em; 
+color: white;
+line-height: 60px;
+}
+
+.nombres-p20{
+text-align: center;
+line-height: 14px;
+}
+
+.text-pag-7{
+font-size: 0.8em;
+color: #301406;
+}
+
+@media only screen and (max-width: 468px) {
+.text-pag-7{
+    font-size: 1.3em;
+    color: #301406;
+}
+}
+
+.main-text-p9-1{
+font-size: 0.7em;
+text-align: center;
+}
+
+.main-text-p11{
+text-align: left;
+font-size: 0.90em;
+}
+
+.main-text-p12{
+color: white;
+text-align: center;
+font-size: 0.90em;
+}
+
+.main-pais-p12{
+color: white;
+font-size: 1.6em;
+text-align: left;
+}
+
+.main-text-p42{
+color: black;
+font-size: 0.75em;
+text-align: left;
+line-height: 12px;
+}
+
+.main-text-p20{
+color: white;
+font-size: 0.7em;
+text-align: right;
+line-height: 12px;
+}
+
+.main-text-p42-2{
+color: black;
+font-size: 0.6em;
+text-align: right;
+line-height: 12px;
+}
+
+.text-pag-20{
+font-size: 0.7em;
+line-height: 12px;
+}
+
+.table-modal{
+text-align: center;
+width: 100%;
+border: 2px solid #000;
+border-spacing: 0;
+border-collapse: collapse;
+padding: 0.3em;
+}
+
+tr,td{
+border: 1px solid #000;
+border-collapse: collapse;
+padding: 0.3em;
+caption-side: bottom;
+}
+
+.title-pag-37{
+font-size: 4em;
+text-align: left;
+color: white;
+line-height: 60px;
+}
+
+.fecha-pag-37{
+color: white;
+}
+
+.text-pag-34{
+color: white;
+line-height: 14px;
+font-size: 0.6em;
+text-align: center;
+}
+
+.main-text-p34{
+color: white;
+line-height: 25px;
+font-size: 1.5em;
+text-align: left;
+}
+
+.nombres-p26{
+color: white;
+font-size: 0.7em;
+text-align: center;
+line-height: 14px;
+}
+
+.select-Game{
+    padding: 8px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 8px;
+    width: 10vw;
+    height: 5vh;
+    box-shadow: rgba(127, 215, 219, 255) 2px 0px 25px 2px inset;
+    border-radius: 10px;
+    border:none;
+    text-align: center;
+}
+
+#select-game{
+    text-align: center;
+}
+
+
+.link-face img,
+.link-insta img {
+    width: 10% !important;
+    margin-left: -6%;
+    animation: zoomImg 2s 3;
+}
+
+.link-face p,
+.link-insta p,
+.link-youtube p {
+    width: 10%;
+    color: #ffffff;
+    font-size: 4em;
+    border-radius: 60px 60px / 60px 60px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
