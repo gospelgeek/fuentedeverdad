@@ -596,3 +596,7 @@ div[page="38"] {
 div[page="7"] .page.p7 .region.video-entrevista video {
   transform: translateX(-50%);
 }
+.region.video-page9 #video-background {
+  width: 100%;
+  height: 100vh;
+}
