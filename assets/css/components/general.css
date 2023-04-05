@@ -41,7 +41,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   align-items: center;
 }
 .event-container .image img {
-  width: 80px;
+  width: 60px;
   border-radius: 50%;
 }
 .event-container h3.text {
@@ -588,7 +588,7 @@ div[page="38"] {
 }
 .region.agradecimiento-text p {
   font-weight: 500;
-  text-align: left;
+  text-align: justify;
   font-size: 13px;
 }
 .region.agradecimiento-text p strong {

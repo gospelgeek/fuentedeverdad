@@ -11,9 +11,9 @@
         }        
     }, 
     {
-        "x": "15%",
+        "x": "20%",
         "y": "78%",
-        "width": "70%",
+        "width": "65%",
         "tag": "contenido",
         "class": "agradecimiento-text",
         "data": {
@@ -23,7 +23,7 @@
     }, 
     {
          "x": "45%",
-         "y": "70%",
+         "y": "87%",
          "viewX": 1800,
          "viewY": 100,
          "width": "90%",

@@ -65,7 +65,9 @@
 
        let background_diferent = [3,8, 10,38,39,48,49]
 
-       checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
+       let background_jpg = [50]
+
+       checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
        loadRegions(page, pageElement, lang);
 
    }
