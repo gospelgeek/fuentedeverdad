@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
@@ -47,7 +55,7 @@
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p31",
+        "id": "modal-p28",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
@@ -85,7 +93,7 @@
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p31-2",
+        "id": "modal-p28-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {

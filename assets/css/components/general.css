@@ -49,6 +49,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   transform: translateX(-10px);
   text-transform: capitalize;
   max-width: 180px;
+  line-height: 20px;
 }
 @media (max-width: 530px) {
   .event-container .image img {

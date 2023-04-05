@@ -1,8 +1,16 @@
 [
     {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "5%",
-        "y": "5%",
+        "y": "10%",
         "text1": "Bogota",
         "text2": "Colombia"
     },
