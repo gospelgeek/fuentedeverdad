@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
