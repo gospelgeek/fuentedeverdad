@@ -11,33 +11,6 @@
        "id": "img_48_page_esp"
     },
     {
-         "x": "48%",
-         "y": "92%",
-         "width": "50%",
-         "background-color": "#b41015",
-         "color": "#fff",
-         "font-size": "1em",
-         "tag": "social-media",
-         "text": "",
-         "data": [
-             {
-                 "icon": "./assets/pics/icons/facebook.png",
-                 "url": "http://www.facebook.com/",
-                 "page": 48
-             },
-             {
-                 "icon": "./assets/pics/icons/gorjeo.png",
-                 "url": "http://twitter.com/",
-                 "page": 48
-             },
-             {
-                 "icon": "./assets/pics/icons/whatsapp.png",
-                 "url": "http://api.whatsapp.com/",
-                 "page": 48
-             }
-         ]
-    },
-    {
          "x": "0",
          "y": "0",
          "width": "100%",
@@ -45,20 +18,13 @@
          "html": "<div class='_content_text_greeting_'> <p>Agradecimiento Especial</p> <p>para todos nuestros</p> <p><strong>Patrocinadores de Misiones</strong></p> </div>"
     },
     {
-         "x": "0",
-         "y": "79%",
-         "width": "100%",
-         "tag": "html_pure",
-         "html": "<div class='_text_center_container_'> <h1>!gracias!</h1> </div>"
-    },
-    {
         "x": "40%",
-        "y": "70.5%",
+        "y": "69%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "19%",
+        "width": "20%",
         "height": "20%",
-        "fontSize": "5em",
+        "fontSize": "6em",
         "tag": "btn-normal-2",
         "class": "",
         "text": "",
@@ -70,9 +36,52 @@
                 "url": "./assets/audios/esp_agradecimientos.m4a"
             },
             {
-                "icon": "./assets/pics/icons/iconImprimir.png",
+                "icon": "",
                 "url": ""
             }
         ]
-    }  
+    },
+    {
+        "x": "2%",
+        "y": "77%",
+        "width": "100%",
+        "height":"100%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img class='image-gracias' src='assets/pics/general-images/agradecimientos_gracias.webp'>"
+    },
+    {
+         "x": "0",
+         "y": "80%",
+         "width": "100%",
+         "tag": "html_pure",
+         "html": "<div class='_text_center_container_'> <h1>!gracias!</h1> </div>"
+    },
+    {
+        "x": "60%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 48
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 48
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 48
+            }
+        ]
+   }
 ]
