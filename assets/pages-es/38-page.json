@@ -22,8 +22,8 @@
 
     },
     {
-        "x": "0%",
-        "y": "7%",
+        "x": "3%",
+        "y": "10%",
         "width": "100%",
         "tag": "contenido",
         "class": "fdv-title",
@@ -50,6 +50,23 @@
         "class": "fdv-element1",
         "title": "SEMINARIO IV",
         "texthtml": "<p>Como dar consejo sabio (Parte 2)</p><p>Como bautizar correctamente</p>"  
+    },
+    {
+        "x": "10%",
+        "y": "82%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p38",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "",
+            "content": ""
+        }
     },
     {
         "x": "10%",

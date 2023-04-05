@@ -374,7 +374,7 @@ const addComponents = (region, lang) => {
                                 <h3>${region.date}</h3>
                                 <div class="action">
                                     <button class="video-button">
-                                        <img style="width: 65px; border-radius: 30px;" src="assets/pics/icons/iconos_leermas2.png">
+                                        Ver Video
                                     </button>
                                 </div>
                             
@@ -389,7 +389,7 @@ const addComponents = (region, lang) => {
                                 ${region.texthtml}
                                 <div class="action">
                                     <button class="video-button">
-                                        <img style="width: 65px; border-radius: 30px;" src="assets/pics/icons/iconos_leermas2.png">
+                                        Ver Video
                                     </button>
                                 </div>
                             

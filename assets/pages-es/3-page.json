@@ -85,7 +85,7 @@
     },
     {
         "x": "0%",
-        "y": "44%",
+        "y": "43%",
         "width": "100%",
         "class": "legal-page-subtitle",
         "font-size": "1em",
@@ -97,19 +97,19 @@
     },
     {
         "x": "0%",
-        "y": "50%",
+        "y": "49%",
         "width": "100%",
         "class": "legal-page-paragraph",
         "font-size": "1em",
         "tag": "contenido",
         "text": "",
         "data": {
-            "text": "<p>Angie N. Luque</p><p>Juan Diego Luque</p>"
+            "text": "<p>Angie N. Luque</p><p>Juan Diego Luque</p><p>Jorge Adair Leyva</p>"
         }
     },
     {
         "x": "0%",
-        "y": "52%",
+        "y": "54%",
         "width": "100%",
         "class": "legal-page-subtitle",
         "font-size": "1em",
@@ -121,7 +121,7 @@
     },
     {
         "x": "0%",
-        "y": "58%",
+        "y": "59.5%",
         "width": "100%",
         "class": "legal-page-paragraph",
         "font-size": "1em",
@@ -157,7 +157,7 @@
     },
     {
         "x": "0%",
-        "y": "72%",
+        "y": "73%",
         "width": "100%",
         "class": "legal-page-subtitle",
         "font-size": "1em",
@@ -169,7 +169,7 @@
     },
     {
         "x": "0%",
-        "y": "78%",
+        "y": "79%",
         "width": "100%",
         "class": "legal-page-paragraph",
         "font-size": "1em",
@@ -181,27 +181,27 @@
     },
     {
         "x": "7%",
-        "y": "85%",
-        "width":"6%",
+        "y": "86%",
+        "width":"86%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/icons/fdvLogo.png'>"
+        "image": "<img src='assets/pics/icons/baner_legal.png'>"
     },
     {
-        "x": "14%",
-        "y": "86%",
-        "width":"40%",
+        "x": "18%",
+        "y": "86.5%",
+        "width":"36%",
         "tag": "author-pic",
         "class": "author-image",
         "image": "<img src='assets/pics/icons/fondo_txt_encuentranos.png'>"
     },
     {
-        "x": "55.5%",
-        "y": "86%",
+        "x": "54.5%",
+        "y": "86.5%",
         "viewX": 1800,
         "viewY": 1800,
-        "width": "50%",
-        "height": "4%",
+        "width": "35%",
+        "height": "5%",
         "fontSize": "5em",
         "tag": "a",
         "class": "link-insta",
@@ -211,11 +211,12 @@
         }
     },
     {
-        "x": "61.5%",
-        "y": "86.5%",
+        "x": "59%",
+        "y": "86.6%",
         "viewX": 1800,
         "viewY": 1800,
-        "width": "5%",
+        "width": "4.5%",
+        "height": "5%",
         "fontSize": "5em",
         "tag": "a",
         "class": "link-youtube",
@@ -225,8 +226,8 @@
         }
     },
     {
-        "x": "67.5%",
-        "y": "86.5%",
+        "x": "65%",
+        "y": "86.7%",
         "viewX": 1800,
         "viewY": 1800,
         "width": "5%",
@@ -239,11 +240,11 @@
         }
     },
     {
-        "x": "73.5%",
-        "y": "86%",
+        "x": "71%",
+        "y": "86.4%",
         "viewX": 1800,
         "viewY": 1800,
-        "width": "4%",
+        "width": "3.5%",
         "fontSize": "5em",
         "tag": "a",
         "class": "link-sitioweb",
@@ -253,11 +254,11 @@
         }
     },
     {
-        "x": "78.5%",
+        "x": "76%",
         "y": "85%",
         "viewX": 1800,
         "viewY": 1800,
-        "width": "2%",
+        "width": "1.8%",
         "fontSize": "5em",
         "tag": "a",
         "class": "link-facebook",
@@ -267,11 +268,11 @@
         }
     },
     {
-        "x": "82%",
-        "y": "86%",
+        "x": "79.5%",
+        "y": "86.4%",
         "viewX": 1800,
         "viewY": 1800,
-        "width": "5%",
+        "width": "4.3%",
         "fontSize": "5em",
         "tag": "a",
         "class": "link-email",
@@ -281,11 +282,11 @@
         }
     },
     {
-        "x": "88%",
-        "y": "86%",
+        "x": "86%",
+        "y": "86.3%",
         "viewX": 1800,
         "viewY": 1800,
-        "width": "5%",
+        "width": "4.2%",
         "fontSize": "5em",
         "tag": "a",
         "class": "link-twitter",

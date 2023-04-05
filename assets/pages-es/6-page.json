@@ -12,11 +12,11 @@
         "y": "20%",
         "tag": "img_container",
         "src": "assets/pics/photos/foto_entrevista3.webp",
-        "styles": "width: 70%;margin: auto;"
+        "styles": "width: 84%;margin: auto;"
     },
     {
-        "x": "16%",
-        "y": "8%",
+        "x": "10%",
+        "y": "9%",
         "width": "90%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -28,7 +28,7 @@
         "text": "",
         "id_unique": "text-indece-page-6",
         "data": {
-            "text": "<h1 class='monserrat-black' style='font-size: 1.3em; '><strong>DESDE EL CORAZÓN</strong> DEL OBISPO<h1>"
+            "text": "<h1 class='monserrat-black' style='font-size: 1.5em; '><strong>DESDE EL CORAZÓN</strong> DEL OBISPO<h1>"
         }
                 
     }
