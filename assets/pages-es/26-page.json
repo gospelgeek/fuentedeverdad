@@ -1,6 +1,14 @@
 [
     {
         "x": "10%",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
+        "x": "10%",
         "y": "13%",
         "width": "50%",
         "styleBox": "",

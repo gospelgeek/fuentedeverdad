@@ -1,5 +1,12 @@
-[
-
+[   {
+    "x": "2%",
+    "y": "2%",
+    "width": "100%",
+    "height":"100%",
+    "tag": "author-pic",
+    "class": "author-image",
+    "image": "<img class='image-gracias' src='assets/pics/general-images/agradecimientos_gracias.webp'>"
+    },
     {
        "y": 10,
        "x": 0,

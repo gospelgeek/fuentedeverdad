@@ -36,150 +36,150 @@
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(4)' class='a-aux-indice'>Carta del Obispo Presidente</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(4)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 3</span> </a> </span>"        
+                "pagina": " | <span style='font-weight: normal;'>Pág. 3</span> </a> </span>"        
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(5)' class='a-aux-indice'>Saludo e Informe Pastor de Misiones FDV</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(5)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 4</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 4</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(6)' class='a-aux-indice'>Entrevista al Obispo Valverde</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(6)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 5</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 5</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(8)' class='a-aux-indice'>Saludo e Informe FDV México</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(8)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 7</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 7</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(9)' class='a-aux-indice'>Saludo e Informe FDV Colombia</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(9)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 8</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 8</span> </a> </span>"           
             },
             {
-                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(10)' class='a-aux-indice'>Video Obispo</a></span>",
+                "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(10)' class='a-aux-indice'>Acerca de FDV</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(10)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 9</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 9</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(11)' class='a-aux-indice'>Grandes Noticias desde el campo misionero</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(11)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 10</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 10</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(12)' class='a-aux-indice'>FDV EE. UU.</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(12)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 11</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 11</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(20)' class='a-aux-indice'>FDV México</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(20)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 19</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 19</span> </a> </span>"           
             },{
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(26)' class='a-aux-indice'>FDV Colombia</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(26)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 25</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 25</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(30)' class='a-aux-indice'>FDV Japón</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(30)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 29</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 29</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(32)' class='a-aux-indice'>FDV Camboya</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(32)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 31</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 31</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(34)' class='a-aux-indice'>FDV Costa Rica</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(34)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 33</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 33</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(37)' class='a-aux-indice'>FDV Chile</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(37)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 36</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 36</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(38)' class='a-aux-indice'>FDV GLOBAL</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(38)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 37</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 37</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(40)' class='a-aux-indice'>Sección Interactiva > Sopa de letras</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(40)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 39</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 39</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(41)' class='a-aux-indice'>Aquí está un muchacho</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(41)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 40</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 40</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(42)' class='a-aux-indice'>Jesucristo, el Misionero por excelencia</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(42)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 41</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 41</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(43)' class='a-aux-indice'>Cada Corazón Sanado</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(43)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 42</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 42</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(44)' class='a-aux-indice'>Preguntas sobre la obra misionera</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(44)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 43</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 43</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(45)' class='a-aux-indice'>Respuestas a preguntas</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(45)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 44</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 44</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(46)' class='a-aux-indice'>Sección Interactiva > Emparejar</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(46)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 45</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 45</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(47)' class='a-aux-indice'>¿Cómo puedo hacerme un patrocinador?</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(47)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 44</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 46</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(48)' class='a-aux-indice'>Agradecimiento Especial a nuestros “Patrocinadores de Misiones FDV”</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(48)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 47</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 47</span> </a> </span>"           
             },
             {
                 "titulo" : "<span class='monserrat-black indice-text' style='font-size: 0.8em;'><a type='button' onclick='indice_event(49)' class='a-aux-indice'>Agradecimiento a la 1ra. Dama FDV</a></span>",
                 "autor":   "<span class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'> <a type='button' onclick='indice_event(49)' class='a-aux-indice'> ",
                 "cargo":  " ",  
-                "pagina": " | <span style='font-weight: normal; color: #9a211f;'>Pág. 48</span> </a> </span>"           
+                "pagina": " | <span style='font-weight: normal;'>Pág. 48</span> </a> </span>"           
             }  
         ]
     }

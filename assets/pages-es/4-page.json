@@ -95,5 +95,21 @@
         "tag": "author-pic",
         "class": "author-image",
         "image": "<img src='assets/pics/photos/samuel.jpg'>"
+    },
+    {
+        "x": "32.5%",
+        "y": "84.5%",
+        "width": "66%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h4 class='monserrat-black' style='font-size:1.6em;font-family:Allura;cursor:text; color: white;'>Desde el Escritorio de nuestro Obispo</h4>"
+        }   
     }
 ]

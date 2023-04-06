@@ -1,6 +1,6 @@
 [
     {
-        "x": "33%",
+        "x": "20%",
         "y": "4%",
         "width": "90%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -12,7 +12,7 @@
         "text": "",
         "id_unique": "text-indece-page-2",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1.3em; color: black;'>AQUÍ ESTÁ UN MUCHACHO</h4>"
+            "text": "<h4 class='monserrat-black' style='text-align:center; font-size: 1.3em; color: black;'>AQUÍ ESTÁ UN MUCHACHO</h4>"
         }
                 
     },

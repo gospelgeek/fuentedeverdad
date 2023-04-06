@@ -86,7 +86,7 @@
         "text": "",
         "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;'>Por el <strong>PASTOR MARTÍN PÉREZ</strong></h4>"
+            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;cursor:text;'>Por el <strong>PASTOR MARTÍN PÉREZ</strong></h4>"
         }   
     },
     {

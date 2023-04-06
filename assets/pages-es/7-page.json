@@ -8,16 +8,16 @@
         "src": "assets/pics/backgrounds/entrevista.mp4"
     },
     {
-        "x": "30%",
+        "x": "25%",
         "y": "0%",
         "width": "40%",
         "class": "top-entrevista",
         "tag": "top-entrevista",
-        "text": "<strong>Preguntas inteligentes y respuestas profundas, enriquesedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí</strong>"
+        "text": "<p><strong>Preguntas inteligentes y respuestas profundas, enriquesedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí</strong></p>"
     },
     {
-        "x": "35%",
-        "y": "40%",
+        "x": "30%",
+        "y": "37%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -33,18 +33,23 @@
         }
     },
     {
-        "x": "53%",
-        "y": "40%",
+        "x": "45%",
+        "y": "37.5%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "50%",
+        "width": "20%",
         "height": "20%",
         "fontSize": "5em",
-        "tag": "print",
+        "tag": "btn-normal-2",
         "class": "actions imprimir-pag7",
         "text": "",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
+            {   
+                "id": "page6",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_entrevista_obispo.m4a"
+            },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
                 "url": ""
