@@ -8,17 +8,8 @@
         "src": "assets/pics/videos/0401_min.mp4"
     },
     {
-        "tag": "event-title",
-        "width":"100%",
-        "x": "20%",
-        "y": "65%",
-        "class":"titulo-p10",
-        "text1": "ACERCA DE FDV",
-        "text2": ""
-    },
-    {
         "x": "5%",
-        "y": "73%",
+        "y": "63%",
         "width": "90%",
         "styleBox": "",
         "background-color": "#b41015",
@@ -26,10 +17,11 @@
         "font-size": "2em",
         "tag": "contenido",
         "id_unique": "box-text-page-9",
+        "class":"texto-p10",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p10'>La Iglesia Apostólica Fuente de Verdad es un lugar donde Dios transforma tu dolor en Su propósito y no descansaremos hasta ver “Cada Corazón Sanado”...</p>"
+           "text": "<h1>ACERCA DE FDV</h1><p class='main-text-p10'>La Iglesia Apostólica Fuente de Verdad es un lugar donde Dios transforma tu dolor en Su propósito y no descansaremos hasta ver “Cada Corazón Sanado”...</p>"
         }
     },
     {
