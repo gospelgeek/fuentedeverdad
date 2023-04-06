@@ -6,5 +6,71 @@
         "tag": "video-fondo",
         "class": "video-page9",
         "src": "assets/pics/videos/0401_min.mp4"
+    },
+    {
+        "tag": "event-title",
+        "width":"100%",
+        "x": "20%",
+        "y": "65%",
+        "class":"titulo-p10",
+        "text1": "ACERCA DE FDV",
+        "text2": ""
+    },
+    {
+        "x": "5%",
+        "y": "73%",
+        "width": "90%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p10'>La Iglesia Apostólica Fuente de Verdad es un lugar donde Dios transforma tu dolor en Su propósito y no descansaremos hasta ver “Cada Corazón Sanado”...</p>"
+        }
+    },
+    {
+        "x": "14%",
+        "y": "87%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p10",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "ACERCA DE FDV <br><br>Nuestra Misión y Visión <br> <i style='font-size: 13px;text-align: center;font-weight: normal;'>La Iglesia Apostólica Fuente de Verdad es un lugar <br>donde Dios transforma tu dolor en Su propósito <br> y no descansaremos hasta ver <br> “Cada Corazón Sanado”</i>",
+            "content": "<b>Nuestra Historia</b><br>Esta trayectoria comenzó más de 30 años atrás en la Avenida Slover en Fontana, California. Nuestra dirección física ha cambiado, pero nuestro corazón permanece el mismo, el deseo de ver a los heridos sanados a través de Jesucristo.<br><br><b>Lo que creemos</b><br>Creemos en <b>UN SOLO DIOS</b>, y en su nombre que es Jesucristo. Porque la Biblia dice: <i>“Jesucristo… este es el verdadero Dios y la vida eterna.”</i> 1 Juan 5:20<br><br>Creemos en la <b>SALVACIÓN POR GRACIA</b>, mediante la fe en Jesucristo. Porque la Biblia dice: <i>“Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios”</i> Efesios 2:8<br><br>Creemos en el <b>ARREPENTIMIENTO Y EL BAUTISMO</b> en el nombre de Jesucristo. Porque la Biblia dice: <i>“Arrepentíos y sea bautizado cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados”</i> Hechos 2:38<br><br>Nosotros creemos en la llenura del <b>ESPÍRITU SANTO</b>, con la evidencia de HABLAR EN LENGUAS. Porque la Biblia dice: <i>“Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.”</i> Hechos 2:38-39 <br><br>Nosotros creemos y predicamos que el creyente debe <b>VIVIR EN SANTIDAD.</b> Porque la Biblia dice: <i>“Seguid la paz con todos y la santidad, sin la cual nadie verá al Señor.”</i> Hebreos 12:14 <br><br>Nosotros <b>CANTAMOS CON GOZO Y PALMEAMOS NUESTRAS MANOS</b> porque la Biblia dice: <i>“Pueblos todos, batid las manos; Aclamad a Dios con voz de júbilo.”</i> Salmos 47:1 <br><br>Creemos en el poder de Dios para <b>SANAR A LOS ENFERMOS.</b> Porque la Biblia dice: <i>“pondrán las manos sobre los enfermos y sanarán.”</i> Marcos 16:18 <br><br>Creemos en la <b>RESURRECCIÓN DE LOS MUERTOS Y EL JUICIO.</b> Porque la Biblia dice: <i>“Y vi un gran trono blanco y al que estaba sentado en él… Y vi a los muertos, grandes y pequeños, de pie ante Dios… y fueron juzgados los muertos por las cosas que estaban escritas en los libros, según sus obras… y fueron juzgados cada uno según sus obras. Y la muerte y el Hades fueron lanzados al lago de fuego.”</i> Apocalipsis 20:11-15 <br><br>Creemos que <b>JESUCRISTO REGRESARÁ PRONTO POR SU IGLESIA.</b> Porque la Biblia dice: <i>“Luego nosotros los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.”</i> 1 Tesalonicenses 4:17"
+        }
+    },  
+    {
+        "x": "29%",
+        "y": "87.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page9",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/spa_acerca_fdv.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
     }
 ]

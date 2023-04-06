@@ -15,8 +15,8 @@
         "styles": "width: 84%;margin: auto;"
     },
     {
-        "x": "10%",
-        "y": "9%",
+        "x": "5%",
+        "y": "6%",
         "width": "90%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -28,7 +28,7 @@
         "text": "",
         "id_unique": "text-indece-page-6",
         "data": {
-            "text": "<h1 class='monserrat-black' style='font-size: 1.5em; '><strong>DESDE EL CORAZÓN</strong> DEL OBISPO<h1>"
+            "text": "<h1 class='monserrat-black' style='font-size: 2em; '><strong>DESDE EL CORAZÓN</strong> <br>DEL OBISPO<h1>"
         }
                 
     }

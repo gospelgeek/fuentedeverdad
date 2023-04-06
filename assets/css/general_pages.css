@@ -57,7 +57,7 @@ div[page="2"] .page.p2 .region.undefined .div-center-ubication-responsive span p
     text-align: center;
 }
 
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2{
+div  .page.p2 .region.undefined#text-indece-page-2{
     background-color: #000;
     border-top: 4px solid #53bff1;
     padding: 10px 0;
@@ -73,29 +73,30 @@ div[page="2"] .page.p2 .index-image{
     position: relative;
 }
 div[page="2"] .page.p2 .index-image img{
-    animation: mover-circulo 40s linear infinite alternate;
+    animation: mover-circulo 20s linear infinite alternate;
 }
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content{
+div .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     row-gap: 5px;
 }
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content :nth-child(odd){
+div .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content :nth-child(odd){
     width: 70%;
 }
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content :nth-child(even){
+div .page.p2 .region.undefined#text-indece-page-2 .responsive-font-content :nth-child(even){
     width: 30%;
 }
 
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text{
+div .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text{
     color: #53bff1;
+    font-weight: normal !important;
 }
 
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text-aux{
+div .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text-aux{
     color: #ffffff;
 }
-div[page="2"] .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text-aux span{
+div .page.p2 .region.undefined#text-indece-page-2 span.monserrat-black.indice-text-aux span{
     color: #ffffff !important;
 }
 

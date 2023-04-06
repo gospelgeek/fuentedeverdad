@@ -37,7 +37,7 @@ const addComponents = (region, lang) => {
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+                addSVG('<a href="#' + region.id + '" id="a-'+region.id+'" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
     
             break;
         case 'modal-2':
@@ -61,7 +61,7 @@ const addComponents = (region, lang) => {
             }
             
             element = '<div class="div-center-ubication-responsive">'+
-                            '<div class="aux-class-content" style="width: 80%; heiht: 80%;' + region.styleBox +'">'+ 
+                            '<div class="aux-class-content" style="width: 80%; height: 100%;' + region.styleBox +'">'+ 
                                 '<span class="responsive-font-content" style="' + region.style + '">'+ recorrer +
                                 '</span>'+
                             '</div>'+ 
@@ -69,7 +69,7 @@ const addComponents = (region, lang) => {
             break;
         case 'contenido':
             element = (`<div class="div-center-ubication-responsive">
-                            <div class='aux-class-content' style="width: 80%; heiht: 80%; ${region.styleBox}"> 
+                            <div class='aux-class-content' style="width: 80%; height: 100%; ${region.styleBox}"> 
                                 <span class="responsive-font-content" style="${region.style}" >
                                     ${(region.data).text}
                                 </span> 

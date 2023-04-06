@@ -1,5 +1,13 @@
 [
     {
+        "x": "12%",
+        "y": "2%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_esp.png'>"
+    },
+    {
         "x": "67%",
         "y": "10%",
         "tag": "author-pic",
@@ -7,8 +15,8 @@
         "image": "<img width='200' height='200' src='assets/pics/Eventos/eeuu/rancho_cucamonga/CONFERENCISTA-EU-PASTOR-VALVERDE.webp'>"
     },
     {
-        "x": "65%",
-        "y": "2%",
+        "x": "56%",
+        "y": "3%",
         "width": "30%",
         "height":"100%",
         "styleBox": "",
@@ -73,21 +81,123 @@
                 
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p12-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "x": "7%",
         "y": "40%",
-        "tag": "author-pic",
+        "tag": "author-pic-2",
         "class": "author-image",
-        "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>"
+        "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>",
+        "id":"modal-p12-01"
     },
     {
         "x": "47%",
         "y": "40%",
-        "tag": "author-pic",
+        "tag": "author-pic-2",
         "class": "author-image",
-        "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>"
+        "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>",
+        "id":"modal-p12-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/derramamiento/20.jpg"
+            }
+        ]
     },
     {
-        "x": "18%",
+        "x": "12%",
         "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
@@ -95,7 +205,7 @@
         "height": "100%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p10",
+        "id": "modal-p12",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
@@ -104,7 +214,7 @@
         }
     },
     {
-        "x": "5%",
+        "x": "0",
         "y": "85%",
         "width": "40%",
         "styleBox": "",
@@ -120,7 +230,7 @@
         }
     },
     {
-        "x": "47%",
+        "x": "31%",
         "y": "85%",
         "width": "40%",
         "styleBox": "",
@@ -136,7 +246,7 @@
         }
     },
     {
-        "x": "59%",
+        "x": "38%",
         "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
@@ -144,20 +254,20 @@
         "height": "100%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p10-2",
+        "id": "modal-p12-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "EL DERRAMAMIENTO",
-            "content": "Los reportes del increíble fin de semana parecían no menguar. Unos hablaban emocionados acerca de un culto, y otros, con no menos emoción, acerca de otro. Para unos era tal predicación, y para otros el tiempo de altar que le siguió. Todos, desde experimentados ministros hasta nuevos convertidos, decían haber recibido algo muy especial. Vez tras vez se mencionaba un factor en común… Dios se hizo presente.<br><br><b>¿Qué es El Derramamiento?</b><br><br>La promesa de Dios en Joel 2:28 de que en los últimos días derramaría de Su Espíritu comenzó a cumplirse el Día de Pentecostés cuando por primera vez un grupo de creyentes recibió el don del Espíritu Santo (Hechos 2:1–4). Siendo que Jesucristo enseñó que la entrada al reino de los cielos requería “nacer de agua y del Espíritu” (Juan 3:5), y que la señal inicial de la recepción de Su Espíritu es el hablar en lenguas (Hechos 2, 10, 19), un evento que enfatice esta maravillosa experiencia no podía faltar en una iglesia apostólica.<br><br>El Derramamiento, entonces, tiene el propósito de posibilitar tres objetivos sumamente importantes, considerando el primero como esencial a la existencia de esta conferencia:<ol><li>Que los que nunca han recibido el bautismo del Espíritu Santo hablando en lenguas lo reciban (Hechos 2:1–4).</li><li>Que los creyentes que ya recibieron el Espíritu puedan renovar su experiencia, siendo llenos del Espíritu Santo otra vez (Hechos 4:29–31).</li><li>Promover una atmósfera donde los milagrosos dones del Espíritu puedan manifestarse y operar para el beneficio de la iglesia como cuerpo de Cristo (1 Corintios 12:4–11).</li></ol><b>El Derramamiento 2022</b><br><br>Por supuesto, una conferencia donde se dé prioridad a la presencia del Espíritu Santo tendrá otros beneficios: la confraternidad con hermanos de diversas iglesias, de varios estados de la unión americana, así como visitantes de otros países; el celo misionero que nació en varios corazones; la juventud que visitó el altar noche tras noche y se fueron llenos de la presencia de Dios; visitantes que sintieron por primera vez la presencia de un Dios real y vivo; los ministros y ministerios que fueron energizados para alcanzar este mundo con el evangelio.<br><br>Tal vez la característica principal del Derramamiento 2022 fue el claro llamado de Dios a un retorno a la santidad, a honrar la presencia de un Dios santo en espíritu, conducta, y aún vestimenta, así como era en los albores de nuestro movimiento pentecostal. Nuestros líderes respondieron afirmativamente, con un compromiso de predicar y enseñar la Palabra sin disoluciones.<br><br>Por todo ello, anticipamos un mover de Dios aún más poderoso en el futuro, y todos los que estuvieron presentes este año ya hicieron planes para no perderse el siguiente Derramamiento."
+            "content": "Los reportes del increíble fin de semana parecían no menguar. Unos hablaban emocionados acerca de un culto, y otros, con no menos emoción, acerca de otro. Para unos era tal predicación, y para otros el tiempo de altar que le siguió. Todos, desde experimentados ministros hasta nuevos convertidos, decían haber recibido algo muy especial. Vez tras vez se mencionaba un factor en común… Dios se hizo presente.<br><br><b>¿Qué es El Derramamiento?</b><br><br>La promesa de Dios en Joel 2:28 de que en los últimos días derramaría de Su Espíritu comenzó a cumplirse el Día de Pentecostés cuando por primera vez un grupo de creyentes recibió el don del Espíritu Santo (Hechos 2:1–4). Siendo que Jesucristo enseñó que la entrada al reino de los cielos requería “nacer de agua y del Espíritu” (Juan 3:5), y que la señal inicial de la recepción de Su Espíritu es el hablar en lenguas (Hechos 2, 10, 19), un evento que enfatice esta maravillosa experiencia no podía faltar en una iglesia apostólica.<br><br>El Derramamiento, entonces, tiene el propósito de posibilitar tres objetivos sumamente importantes, considerando el primero como esencial a la existencia de esta conferencia:<ol><li>Que los que nunca han recibido el bautismo del Espíritu Santo hablando en lenguas lo reciban (Hechos 2:1–4).</li><li>Que los creyentes que ya recibieron el Espíritu puedan renovar su experiencia, siendo llenos del Espíritu Santo otra vez (Hechos 4:29–31).</li><li>Promover una atmósfera donde los milagrosos dones del Espíritu puedan manifestarse y operar para el beneficio de la iglesia como cuerpo de Cristo (1 Corintios 12:4–11).</li></ol><b>El Derramamiento 2022</b><br><br>Por supuesto, una conferencia donde se dé prioridad a la presencia del Espíritu Santo tendrá otros beneficios: la confraternidad con hermanos de diversas iglesias, de varios estados de la unión americana, así como visitantes de otros países; el celo misionero que nació en varios corazones; la juventud que visitó el altar noche tras noche y se fueron llenos de la presencia de Dios; visitantes que sintieron por primera vez la presencia de un Dios real y vivo; los ministros y ministerios que fueron energizados para alcanzar este mundo con el evangelio.<br><br>Tal vez la característica principal del Derramamiento 2022 fue el claro llamado de Dios a un retorno a la santidad, a honrar la presencia de un Dios santo en espíritu, conducta, y aún vestimenta, así como era en los albores de nuestro movimiento pentecostal. Nuestros líderes respondieron afirmativamente, con un compromiso de predicar y enseñar la Palabra sin disoluciones.<br><br>Por todo ello, anticipamos un mover de Dios aún más poderoso en el futuro, y todos los que estuvieron presentes este año ya hicieron planes para no perderse el siguiente Derramamiento.<br><br><b><i>Escrito por el Decano y Ministro Jorge Medina </i></b>"
         }
     },
     {
-        "x": "21%",
-        "y": "80%",
+        "x": "52%",
+        "y": "92%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "50%",
+        "width": "20%",
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
@@ -171,7 +281,64 @@
                 "url": "./assets/audios/esp_eu_derramamiento.m4a"
             },
             {
-                "icon": "./assets/pics/icons/iconImprimir.png",
+                "icon": "",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "60%",
+        "y": "85%",
+        "width": "40%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p12'><strong>PALABRAS DEL PREDICADOR</strong></p>"
+        }
+    },
+    {
+        "x": "67%",
+        "y": "91.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p12-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "Palabras del Predicador: <br>Pastor y Evangelista LOAMMI DÍAZ ",
+            "content": "“El Derramamiento 2022” fue un evento increíble lleno de fe, compañerismo, entrenamiento y ánimo. Uno de los aspectos más destacados de la conferencia para mí, fue ver la unidad mostrada entre el ministerio. Cada ministro estaba presente, no solo en cuerpo, sino también en enfoque. Además, había un deseo en cada ministro con el que tuve la bendición de comunicarme, de ver el ministerio de la Fuente de la Verdad desarrollarse en una gran plataforma que traiga gloria a Dios.<br><br>El entusiasmo era palpable y, habían personas que llegaban a los servicios de la noche, todavía con los ojos rojos de derramar sus corazones en las sesiones de la mañana.<br><br>En general, esta fue una experiencia increíble, y espero tener la bendición de ser parte de ella de nuevo este año.<br><br><b><i>Escrito por el Pastor y Evangelista Loammi Díaz</i></b>"
+        }
+    },
+    {
+        "x": "81%",
+        "y": "92%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page11-1",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_palabras_predicador.m4a"
+            },
+            {
+                "icon": "",
                 "url": ""
             }
         ]
