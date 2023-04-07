@@ -62,17 +62,7 @@
         "y": "24%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-AYUNOYALBORADA.webp",
         "text": "Ayunos y Alboradas",
-        "id":"modal-p15-01",
-        "imagenes_evento":[
-            {
-
-                "src":"assets/pics/Eventos/eeuu/silicon_valley/alboradas/1.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/silicon_valley/alboradas/2.jpg"
-            }
-        ]    
+        "id":"modal-p15-01"   
     },
     {
         "tag": "event-container",

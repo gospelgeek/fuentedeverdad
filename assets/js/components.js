@@ -37,7 +37,7 @@ const addComponents = (region, lang) => {
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a href="#' + region.id + '" id="a-'+region.id+'" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+                addSVG('<a ' + region.id + '" id="a-'+region.id+'" data-modal="'+region.id+'" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
     
             break;
         case 'modal-2':
@@ -176,7 +176,8 @@ const addComponents = (region, lang) => {
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
                 "<div id='words'></div>" +
-                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
+                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"
+                +"<div id='wordsButtonImprimir'><a href='#' target='_blank'><img src='./assets/pics/icons/iconImprimir.png'></a></div>"))
             break;  
         case 'select-juego':
 
@@ -355,8 +356,25 @@ const addComponents = (region, lang) => {
             element = region.html
             break;
         case  'answer-container':
-            element = `<ul id="answer-container">
-                       </ul>`
+            /*var datos="";
+            var contador=2;
+            for(x of region.respuestas){
+                datos += '<li class="item">'+
+                            '<div class="top">'+
+                                '<strong>'+x.pregunta+'</strong>'+
+                            '</div>'+
+                            '<div class="bottom-container">'+
+                                '<p id="button-'+contador+'">'+x.respuesta+'</p>'+
+                            '</div>'+
+                           '<div class="action">'+
+                                    '<button id="boton-ocultar'+contador+'" class="answer-button" onclick="texto_completo('+contador+')">'+
+                                        '<img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">'+
+                                    '</button>'+
+                                '</div>'+    
+                        '</li>';
+                contador++;        
+            }*/      
+            element = `<ul id="answer-container"></ul>`
             break;
         case 'video-fondo': 
             element = `<video autoplay muted loop id="video-background">

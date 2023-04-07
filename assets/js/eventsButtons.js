@@ -2,9 +2,9 @@
 const doClick = (page, lang) => {
     var url = ''
     if (lang == 'es') {
-        url = 'https://heraldo2022.vercel.app/#pagina/' + page;
+        url = 'https://gospelgeek.github.io/fuentedeverdad/#pagina/' + page;
     } else {
-        url = 'https://heraldo2022.vercel.app/#page/' + page;
+        url = 'https://gospelgeek.github.io/fuentedeverdad/#page/' + page;
     }
 
     url = url.replace('#', '%23')
@@ -217,7 +217,8 @@ const playAudio = (e) => {
     id_pag = e.split(",", 2);
     id_page = '#'+id_pag[1];
     e = id_pag[0];
-    
+    $('.backVideo10').trigger('pause')
+    $(".backVideo10").prop('muted', true);
     if (audio_array.length > 0) {
 
         audio_array.map((audio) => {
@@ -227,6 +228,10 @@ const playAudio = (e) => {
         audio_array = [];
         band_audio = true;
         $(id_page).removeClass('opacity-audio')
+        if(id_pag[1] == "page9" || id_pag[1] == "page10"){
+            $('.backVideo10').trigger('play')
+            $(".backVideo10").prop('muted', false);  
+        }
 
     }
     else if (band_audio) {
@@ -628,76 +633,35 @@ function conectar_reiniciar(){
 
 
 function texto_completo(e){
+    console.log(e);
     const leermas = document.querySelector('#button-'+e);
-    leermas.setAttribute('style',"display: block !important");
+    leermas.setAttribute('style',"display:block !important");
     const ocultar = document.querySelector('#boton-ocultar'+e);
     ocultar.setAttribute('style','display: none');
 }
 
-/*CAPTURAR EXCEL DE PREGUNTAS Y RESPUESTAS*/
+/*const mostrar_leer_mas = document.querySelector('#page-wrapper-45');
+        mostrar_leer_mas.addEventListener("click", ()=>{
+            const ocultar = document.querySelector(".bottom-container p");
+            ocultar.setAttribute("style","display: -webkit-box;");
+            const mostrar_boton = document.querySelector('#boton-ocultar2');
+            mostrar_boton.setAttribute("style","display: block")
+            console.log(mostrar_boton);
+ })*/
 
-fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQvhB_lZwOdrPfmu2HOmkQAr66b3RTX_WkU_Xqv7WglwyokeNfQZG7h5GuD4V-pH0AwlQyUoQRkWmnG/pubhtml?gid=162053975&single=true')
-.then(response => response.text())
-.then(html => {
-    var parser = new DOMParser();
-    var doc = parser.parseFromString(html, 'text/html');
-    var table = doc.querySelector('table tbody');
-    var tr = table.querySelectorAll('tr');
-
-    const div_principal = document.querySelector('.answer-container');
-    
-    const ul = document.createElement('ul');
-    ul.setAttribute('id','answer-container');
-    for(i=2;i<tr.length;i++){
-        
-        var td = tr[i].querySelectorAll('td');
-
-        const li = document.createElement('li');
-        li.setAttribute('class','item');
-
-        const div = document.createElement('div');
-        div.setAttribute('class','top');
-
-        const strong = document.createElement('strong');
-        strong.innerHTML = td[1].innerText;
-
-
-        const div2 = document.createElement('div');
-        div2.setAttribute('class','bottom-container');
-        
-        const p = document.createElement('p');
-        p.setAttribute('id','button-'+i);
-        p.innerHTML = td[3].innerText;
-
-        const div3 = document.createElement('div');
-        div3.setAttribute('class', 'action');
-
-        const button = document.createElement('button');
-        button.setAttribute('class', 'answer-button');
-        button.setAttribute('id','boton-ocultar'+i);
-        button.setAttribute('onclick', "texto_completo("+i+")");
-
-        const img = document.createElement('img');
-        img.setAttribute('style','width: 100px');
-        img.setAttribute('src','assets/pics/icons/iconos_leermas2.png');
-
-        button.appendChild(img);
-        div3.appendChild(button);
-
-        div2.appendChild(p);
-        div.appendChild(strong);
-        li.appendChild(div);
-        li.appendChild(div2);
-        li.appendChild(div3);
-        ul.appendChild(li);
+function abrirmodal(e){
+    var modal = $(e).data('modal');
+    if(modal == "modal-p11" || modal == "modal-p10"){
+        $('.backVideo10').trigger('pause');
+        $(".backVideo10").prop('muted', true);
     }
 
-    div_principal.appendChild(ul);
+    $("#"+modal).modal('show');
+}
 
-})
-.catch(error => {
-console.error('Error:', error);
-});
+
+
+
 
 
 
