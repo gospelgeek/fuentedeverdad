@@ -3273,9 +3273,8 @@ button::-moz-focus-inner {
     position: absolute;
     top: 0;
     left: 0;
-    width: auto;
-    height: auto;
-    max-height: 500px;
+    width: 100%;
+    height: 100%;
     max-width: 660px;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
