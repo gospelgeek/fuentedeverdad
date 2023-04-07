@@ -90,10 +90,10 @@
 
                 }else{
                     if(page == 44 || page == 45 ){
-                        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: '/assets/pics/backgrounds/' + page + '.webm', loop: true, 'class': 'backVideo' + page }));
+                        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '.webm', loop: true, 'class': 'backVideo' + page }));
                         video.appendTo(element)
                     }else{
-                        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { muted: true, playsinline: true, autoplay: true, src: '/assets/pics/backgrounds/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
+                        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { muted: true, playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
                         video.appendTo(element)
                     }
                 }               
