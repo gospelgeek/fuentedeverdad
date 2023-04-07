@@ -67,7 +67,7 @@
 
        let background_jpg = [37,50]
        if(page == 10){
-            video = $('<div/>', { 'class': 'videoPages' }).append($('<video />', { muted: "muted", id: "page-10-video", src: '/assets/pics/backgrounds/' + page + '.mp4', 'class': 'backVideo' + page }));
+            video = $('<div/>', { 'class': 'videoPages' }).append($('<video />', { muted: "muted", id: "page-10-video", src: 'assets/pics/backgrounds/' + page + '.mp4', 'class': 'backVideo' + page }));
             video.appendTo(pageElement)
        }else{
         checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
