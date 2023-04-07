@@ -56,8 +56,8 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
     width: 60px;
   }
   .event-container h3.text {
-    font-size: 14px;
-    max-width: 150px;
+    font-size: 13px;
+    max-width: 130px;
   }
 }
 .event-title p {
@@ -70,10 +70,10 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 }
 @media (max-width: 600px) {
   .event-title p {
-    font-size: 17px;
+    font-size: 16px;
   }
   .event-title p strong {
-    font-size: 32px;
+    font-size: 33px;
   }
 }
 .event-subtitle {
@@ -83,6 +83,12 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   color: #ffffff;
   font-size: 12px;
   text-align: left;
+}
+@media (max-width: 600px) {
+  .event-subtitle p {
+    font-size: 11px;
+    line-height: 1.2;
+  }
 }
 .region.full-subtitle .event-subtitle {
   max-width: none;
