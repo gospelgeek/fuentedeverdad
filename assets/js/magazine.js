@@ -287,7 +287,7 @@ function addRegion(region, pageElement, lang, page) {
        $('.magazine').removeClass('animated');
 
        if ( width <= 600 ) {
-           height += ($(window).height() * 0.163) ;
+           height += ($(window).height() * 0.410) ;
        }
          
 

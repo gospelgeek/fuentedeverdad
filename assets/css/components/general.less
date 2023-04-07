@@ -111,6 +111,13 @@ body{
             margin-right: 8px;
             font-size: 35px;
         }
+
+        @media (max-width:600px) {
+            font-size: 17px;
+            strong{
+                font-size: 32px;
+            }
+        }
     }
 }
 
@@ -133,8 +140,8 @@ body{
 // estilos dropdown de idiomas
 #canvas{
     position: absolute;
-    top: 20px;
-    right: 20px; 
+    top: 0px;
+    right: 0px; 
     background-color: #ffffff90;
     border-radius: 8px;
     padding: 5px 30px 5px 20px;
@@ -764,5 +771,21 @@ div[page="7"]{
     padding: 10px 0;
     h1{
         font-size: 34px;
+    }
+}
+
+// pagina 11
+@media (max-width: 600px) {
+    .region.text-page11{
+        p{
+            font-size: 10px;
+        }
+    }
+    .region.image-page11{
+        img{
+            width: 90%;
+            margin: auto;
+            display: block;
+        }
     }
 }

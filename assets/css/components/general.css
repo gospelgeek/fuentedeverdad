@@ -68,6 +68,14 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   margin-right: 8px;
   font-size: 35px;
 }
+@media (max-width: 600px) {
+  .event-title p {
+    font-size: 17px;
+  }
+  .event-title p strong {
+    font-size: 32px;
+  }
+}
 .event-subtitle {
   max-width: 150px;
 }
@@ -81,8 +89,8 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 }
 #canvas {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 0px;
+  right: 0px;
   background-color: #ffffff90;
   border-radius: 8px;
   padding: 5px 30px 5px 20px;
@@ -368,6 +376,7 @@ ul#answer-container li .action button {
 .region.pastor-corazon-sanado .div-center-ubication-responsive .aux-class-content .responsive-font-content p {
   font-size: 12px;
   text-align: end;
+  cursor: text;
 }
 .region.corazon-sanado-content h4 {
   font-size: 14px;
@@ -615,4 +624,14 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 .region.texto-p10 h1 {
   font-size: 34px;
+}
+@media (max-width: 600px) {
+  .region.text-page11 p {
+    font-size: 10px;
+  }
+  .region.image-page11 img {
+    width: 90%;
+    margin: auto;
+    display: block;
+  }
 }
