@@ -77,11 +77,11 @@
         ]
     },
     {
-        "x": "50%",
+        "x": "56%",
         "y": "59%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "50%",
+        "width": "20%",
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
@@ -90,7 +90,7 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "icon": "",
                 "url": "./assets/audios/"
             },
             {

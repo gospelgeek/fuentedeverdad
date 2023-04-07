@@ -5,7 +5,7 @@
     "height":"100%",
     "tag": "author-pic",
     "class": "author-image",
-    "image": "<img class='image-gracias' src='assets/pics/general-images/agradecimientos_gracias.webp'>"
+    "image": "<img class='image-gracias-1' src='assets/pics/general-images/agradecimientos_gracias.webp'>"
     },
     {
        "y": 10,
@@ -62,7 +62,7 @@
          "y": "80%",
          "width": "100%",
          "tag": "html_pure",
-         "html": "<div class='_text_center_container_'> <h1>!gracias!</h1> </div>"
+         "html": "<div class='_text_center_container_'> <h1>¡gracias!</h1> </div>"
     },
     {
         "x": "60%",

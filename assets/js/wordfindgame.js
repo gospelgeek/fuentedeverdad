@@ -288,7 +288,7 @@
              */
             create: function(words, puzzleEl, wordsEl, options) {
 
-                wordList = words.slice(0).sort();
+                wordList = words;
                 wordListPrueba = words
                 var puzzle = wordfind.newPuzzle(words, options);
 

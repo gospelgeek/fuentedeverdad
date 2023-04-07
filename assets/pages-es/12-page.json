@@ -15,8 +15,8 @@
         "image": "<img width='200' height='200' src='assets/pics/Eventos/eeuu/rancho_cucamonga/CONFERENCISTA-EU-PASTOR-VALVERDE.webp'>"
     },
     {
-        "x": "56%",
-        "y": "3%",
+        "x": "5.5%",
+        "y": "12%",
         "width": "30%",
         "height":"100%",
         "styleBox": "",
@@ -24,7 +24,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "contenido",
-        "id_unique": "box-text-page-12",
+        "id_unique": "box-text-page-12-01",
         "text": "",
         "data": {
            "text": "<p class='main-pais-p12'><strong>California</strong></p>"
@@ -242,7 +242,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p12'><strong>EL DERRAMAMIENTO 2022</strong></p>"
+           "text": "<p class='main-text-p12'><strong>Qué es “El derramamiento”</strong></p>"
         }
     },
     {
@@ -315,7 +315,7 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "Palabras del Predicador: <br>Pastor y Evangelista LOAMMI DÍAZ ",
+            "title": "Palabras del Predicador",
             "content": "“El Derramamiento 2022” fue un evento increíble lleno de fe, compañerismo, entrenamiento y ánimo. Uno de los aspectos más destacados de la conferencia para mí, fue ver la unidad mostrada entre el ministerio. Cada ministro estaba presente, no solo en cuerpo, sino también en enfoque. Además, había un deseo en cada ministro con el que tuve la bendición de comunicarme, de ver el ministerio de la Fuente de la Verdad desarrollarse en una gran plataforma que traiga gloria a Dios.<br><br>El entusiasmo era palpable y, habían personas que llegaban a los servicios de la noche, todavía con los ojos rojos de derramar sus corazones en las sesiones de la mañana.<br><br>En general, esta fue una experiencia increíble, y espero tener la bendición de ser parte de ella de nuevo este año.<br><br><b><i>Escrito por el Pastor y Evangelista Loammi Díaz</i></b>"
         }
     },

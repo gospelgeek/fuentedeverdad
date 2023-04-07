@@ -18,7 +18,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1.2em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text'>Querida Iglesia Fuente de Verdad Global:<br>Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br>Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960<br></p>"
+           "text": "<p class='main-text'>Querida Iglesia Fuente de Verdad Global,<br>Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br>Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960<br></p>"
         }
     },
     {
@@ -34,8 +34,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>Querida Iglesia Fuente de Verdad Global:<br><br>",
-            "content": "Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br><i>“Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960.</i><br><br>¡Id!<br><br>Es asombroso ver cuanto poder, propósito, y promesa puede tener una palabra tan pequeña de dos letras. Jesús usó la palabra cuando ordenó a sus discípulos hacer precisamente eso -id.<br><br>Id es un verbo que requiere acción, intención, iniciativa, y planeación. Significa tomar un curso, y proceder. <br><br> Id es lo opuesto de quedarse o esperar. Es un mandamiento, una orden expresada desde los propios labios de nuestro gentil Maestro. Procede de su corazón amoroso; embarca su razón de convertirse en hombre - El Hijo de Dios.     <br><br>Fuente de Verdad ha escuchado el mandato; hemos aceptado el reto y hemos movilizado nuestros recursos para id y haced discípulos a los confines de la tierra. Contamos con sus oraciones y generosidad.<br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'> Cada Corazón…  <br> Obispo Samuel Valverde</p>"
+            "title": "<br>Carta del Obispo Samuel Valverde<br><br>",
+            "content": "Querida Iglesia Fuente de Verdad Global,<br><br>Bienvenidos a nuestra primera Publicación de Misiones Globales 2023. Les invito a disfrutar de nuestro nuevo formato interactivo que incluye noticias de nuestro campo misionero, artículos, fotografías, videos, y otro contenido. Estoy seguro que disfrutarán cada sección que ustedes accedan al presionar, o hacer clic, a una pestaña en particular.<br><br><i>“Jesús dijo: “Por tanto, id…” (Mateo 28:19) RVR 1960.</i><br><br>¡Id!<br><br>Es asombroso ver cuanto poder, propósito, y promesa puede tener una palabra tan pequeña de dos letras. Jesús usó la palabra cuando ordenó a sus discípulos hacer precisamente eso -id.<br><br>Id es un verbo que requiere acción, intención, iniciativa, y planeación. Significa tomar un curso, y proceder. <br><br> Id es lo opuesto de quedarse o esperar. Es un mandamiento, una orden expresada desde los propios labios de nuestro gentil Maestro. Procede de su corazón amoroso; embarca su razón de convertirse en hombre - El Hijo de Dios.     <br><br>Fuente de Verdad ha escuchado el mandato; hemos aceptado el reto y hemos movilizado nuestros recursos para id y haced discípulos a los confines de la tierra. Contamos con sus oraciones y generosidad.<br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'> Cada Corazón…  <br> Obispo Samuel Valverde</p>"
         }
     },
     {
@@ -97,7 +97,7 @@
         "image": "<img src='assets/pics/photos/samuel.jpg'>"
     },
     {
-        "x": "32.5%",
+        "x": "30%",
         "y": "84.5%",
         "width": "66%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -109,7 +109,7 @@
         "text": "",
         "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size:1.6em;font-family:Allura;cursor:text; color: white;'>Desde el Escritorio de nuestro Obispo</h4>"
+            "text": "<h4 class='monserrat-black' id='obispo-4'>...desde el escritorio de nuestro Obispo</h4>"
         }   
     }
 ]

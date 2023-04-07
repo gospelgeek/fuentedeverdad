@@ -145,6 +145,7 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
 .region.formulario-title span.responsive-font-content p {
   font-size: 17px;
   font-weight: 300;
+  cursor: text;
 }
 .region.formulario-title span.responsive-font-content strong {
   font-size: 25px;
@@ -322,7 +323,6 @@ ul#answer-container li .action button {
 }
 .region.sopa-de-letras #words ul {
   display: grid;
-  padding: 0;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 10px;
   grid-template-rows: repeat(4, 1fr);
@@ -331,6 +331,7 @@ ul#answer-container li .action button {
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
+  padding: 1px;
 }
 .region.sopa-de-letras #wordsButton button {
   border-radius: 40px;

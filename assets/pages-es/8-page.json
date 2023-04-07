@@ -123,7 +123,7 @@
             {
                 "id": "page7",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "url": "./assets/audios/esp_saludo_mx.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

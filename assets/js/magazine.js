@@ -63,11 +63,15 @@
            pageElement.find('.loader').remove();
        });
 
-       let background_diferent = [3,8, 10,38,39,48,49]
+       let background_diferent = [3,8,38,39,48,49]
 
        let background_jpg = [37,50]
-
-       checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
+       if(page == 10){
+            video = $('<div/>', { 'class': 'videoPages' }).append($('<video />', { muted: "muted", id: "page-10-video", src: '/assets/pics/backgrounds/' + page + '.mp4', 'class': 'backVideo' + page }));
+            video.appendTo(pageElement)
+       }else{
+        checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
+       }
        loadRegions(page, pageElement, lang);
 
    }
@@ -81,9 +85,19 @@
            if (request.status == 200) //if(statusText == OK)
            {
                img.attr('src', url);
-           } else {
-               var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: '../assets/pics/videos/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
-               video.appendTo(element)
+           } else{
+                if(page == 1 || page == 6 || page ==2){
+
+                }else{
+                    if(page == 44 || page == 45 ){
+                        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: '/assets/pics/backgrounds/' + page + '.webm', loop: true, 'class': 'backVideo' + page }));
+                        video.appendTo(element)
+                    }else{
+                        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { muted: true, playsinline: true, autoplay: true, src: '/assets/pics/backgrounds/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
+                        video.appendTo(element)
+                    }
+                }               
+                
            }
        }
    }
@@ -100,6 +114,71 @@
                addRegion(region, element, lang, page);
            });
        });
+       /*CAPTURAR EXCEL DE PREGUNTAS Y RESPUESTAS*/
+       if(page==45){
+            fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQvhB_lZwOdrPfmu2HOmkQAr66b3RTX_WkU_Xqv7WglwyokeNfQZG7h5GuD4V-pH0AwlQyUoQRkWmnG/pubhtml?gid=162053975&single=true')
+            .then(response => response.text())
+            .then(html => {
+                var parser = new DOMParser();
+                var doc = parser.parseFromString(html, 'text/html');
+                var table = doc.querySelector('table tbody');
+                var tr = table.querySelectorAll('tr');
+
+                const div_principal = document.querySelector('.answer-container');
+                
+                const ul = document.createElement('ul');
+                ul.setAttribute('id','answer-container');
+                for(i=2;i<tr.length;i++){
+                    
+                    var td = tr[i].querySelectorAll('td');
+
+                    const li = document.createElement('li');
+                    li.setAttribute('class','item');
+
+                    const div = document.createElement('div');
+                    div.setAttribute('class','top');
+
+                    const strong = document.createElement('strong');
+                    strong.innerHTML = td[1].innerText;
+
+
+                    const div2 = document.createElement('div');
+                    div2.setAttribute('class','bottom-container');
+                    
+                    const p = document.createElement('p');
+                    p.setAttribute('id','button-'+i);
+                    p.innerHTML = td[3].innerText;
+
+                    const div3 = document.createElement('div');
+                    div3.setAttribute('class', 'action');
+
+                    const button = document.createElement('button');
+                    button.setAttribute('class', 'answer-button');
+                    button.setAttribute('id','boton-ocultar'+i);
+                    button.setAttribute('onclick', "texto_completo("+i+")");
+
+                    const img = document.createElement('img');
+                    img.setAttribute('style','width: 100px');
+                    img.setAttribute('src','assets/pics/icons/iconos_leermas2.png');
+
+                    button.appendChild(img);
+                    div3.appendChild(button);
+
+                    div2.appendChild(p);
+                    div.appendChild(strong);
+                    li.appendChild(div);
+                    li.appendChild(div2);
+                    li.appendChild(div3);
+                    ul.appendChild(li);
+                }
+
+                div_principal.appendChild(ul);
+
+            })
+            .catch(error => {
+            console.error('Error:', error);
+            });
+       }
     }
    
 //createWordsGame allows create the alphabet soup
@@ -119,10 +198,9 @@ function addRegion(region, pageElement, lang, page) {
        
        if (page == 40) {
         $('.p'+40).append(reg);
-        var words = ['Misiones','Fuentedeverdad', 'Fuentedeverdad', 'Dar', 'GranComision', 'Corazon', 'Viaje', 'Noticias', 'BuenasNuevas', 'Pastores', 'Ofrenda']
+        var words = ['Fuentedeverdad', 'BuenasNuevas', 'Pastores', 'GranComision','Corazon','Viaje', 'Misiones','Noticias',  'Dar','Ofrenda']
         createWordsGame(words);
        }
-
        $(reg).attr('id', region.id_unique);
 
        reg.css({
@@ -138,7 +216,8 @@ function addRegion(region, pageElement, lang, page) {
    // Process click on a region
 
    function regionClick(event) {
-
+        /*ocultar leer mas de la pag 45 Respuestas obra Misionera*/
+           
        var region = $(event.target).closest('div');
 
        if (region.hasClass('region')) {
@@ -324,6 +403,18 @@ function addRegion(region, pageElement, lang, page) {
 
        return bound;
    }
+
+   $('.magazine').bind("turning", function(event, page, view) {
+
+        if (page == 10 || page == 11) {
+            $('.backVideo10').trigger('play');
+            $(".backVideo10").prop('muted', false);
+        } else {
+            $('.backVideo10').trigger('pause')
+            $(".backVideo10").prop('muted', true);
+        }
+
+    });
 
 
 

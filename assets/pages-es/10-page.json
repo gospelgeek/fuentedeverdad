@@ -1,13 +1,5 @@
 [
     {
-        "x": "0%",
-        "y": "0%",
-        "width": "100%",
-        "tag": "video-fondo",
-        "class": "video-page9",
-        "src": "assets/pics/videos/0401_min.mp4"
-    },
-    {
         "tag": "event-title",
         "width":"100%",
         "x": "20%",
