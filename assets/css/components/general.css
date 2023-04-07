@@ -563,8 +563,7 @@ div[page="38"] {
 .region.top-entrevista {
   background-color: #135072;
   border-radius: 0 0 40px 40px;
-  padding: 15px;
-  padding-top: 60px;
+  padding: 60px 15px 15px 15px;
   border: 2px solid #8d6631;
   border-top: none;
   color: #ffffff;
@@ -573,8 +572,14 @@ div[page="38"] {
   font-size: 14px;
 }
 @media (max-width: 600px) {
+  .region.top-entrevista {
+    left: 21% !important;
+    width: 50% !important;
+    padding: 40px 15px 15px 15px;
+  }
   .region.top-entrevista strong {
     font-weight: 200;
+    font-size: 12px;
   }
 }
 .region.texto-entrevista p {
@@ -607,7 +612,8 @@ div[page="38"] {
   font-weight: 800;
 }
 @media (max-width: 600px) {
-  .region.text-page4 p {
+  .region.text-page4 p,
+  .region.text-page5 p {
     font-size: 10px;
   }
 }
@@ -629,6 +635,11 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 .region.texto-p10 h1 {
   font-size: 34px;
+}
+@media (max-width: 600px) {
+  .page.p10 .region.actions {
+    top: 87% !important;
+  }
 }
 @media (max-width: 600px) {
   .region.text-page11 p {

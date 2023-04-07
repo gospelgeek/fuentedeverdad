@@ -693,8 +693,7 @@ div[page="38"] {
 .region.top-entrevista{
     background-color: #135072;
     border-radius: 0 0 40px 40px;
-    padding: 15px;
-    padding-top: 60px;
+    padding: 60px 15px 15px 15px;
     border: 2px solid #8d6631;
     border-top: none;
     color: @white;
@@ -702,8 +701,13 @@ div[page="38"] {
         font-size: 14px;
     }
     @media (max-width: 600px) {
+        left: 21% !important;
+        width: 50% !important;
+        padding: 40px 15px 15px 15px;
+
         strong{
             font-weight: 200;
+            font-size: 12px;
         }
     }
 }
@@ -742,9 +746,9 @@ div[page="38"] {
     }
 }
 
-// pagina 4 mobile
+// pagina 4 y 5 mobile
 @media (max-width: 600px) {
-    .region.text-page4{
+    .region.text-page4, .region.text-page5{
         p{
             font-size: 10px;
         }
@@ -779,6 +783,13 @@ div[page="7"]{
     padding: 10px 0;
     h1{
         font-size: 34px;
+    }
+}
+@media (max-width: 600px) {
+    .page.p10 {
+        .region.actions{
+            top: 87% !important;
+        }
     }
 }
 
