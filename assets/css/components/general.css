@@ -51,9 +51,9 @@ body div[page="4"] .page.p4 .region.actions .div-center-two-icons-responsive {
   max-width: 180px;
   line-height: 20px;
 }
-@media (max-width: 530px) {
+@media (max-width: 600px) {
   .event-container .image img {
-    width: 70px;
+    width: 60px;
   }
   .event-container h3.text {
     font-size: 14px;
@@ -237,7 +237,7 @@ ul#answer-container {
   max-height: 530px;
   overflow: auto;
 }
-@media (max-width: 530px) {
+@media (max-width: 600px) {
   ul#answer-container {
     max-height: 450px;
   }
@@ -395,7 +395,6 @@ ul#answer-container li .action button {
 .region.legal-page-paragraph .responsive-font-content p {
   text-align: center;
 }
-}
 div[page="38"] {
   background: url('assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm');
   background-repeat: no-repeat;
@@ -406,7 +405,7 @@ div[page="38"] {
   color: #ffffff;
   font-size: 58px;
 }
-@media (max-width: 530px) {
+@media (max-width: 600px) {
   .region.fdv-title h1 {
     font-size: 48px;
   }
@@ -423,7 +422,7 @@ div[page="38"] {
   font-weight: 200;
   line-height: 1;
 }
-@media (max-width: 530px) {
+@media (max-width: 600px) {
   .region.fdv-subtitle h1 {
     font-size: 16px;
   }
@@ -450,7 +449,7 @@ div[page="38"] {
   text-align: initial;
   font-size: 13px;
 }
-@media (max-width: 530px) {
+@media (max-width: 600px) {
   .region.fdv-element1 > div .left h1 {
     font-size: 12px;
   }
@@ -492,10 +491,7 @@ div[page="38"] {
 .video-entrevista {
   height: 100vh;
 }
-@media (max-width: 530px) {
-  .video-entrevista video {
-    transform: scale(3.9) translateY(-30px);
-  }
+@media (max-width: 600px) {
 }
 .region.fdv-element2 > div {
   display: flex;
@@ -567,6 +563,11 @@ div[page="38"] {
 .region.top-entrevista strong {
   font-size: 14px;
 }
+@media (max-width: 600px) {
+  .region.top-entrevista strong {
+    font-weight: 200;
+  }
+}
 .region.texto-entrevista p {
   font-weight: 400;
   color: #003b73;
@@ -602,4 +603,16 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 .region.video-page9 #video-background {
   width: 100%;
   height: 100vh;
+}
+@media (max-width: 600px) {
+  .region.video-page9 #video-background {
+    height: 72vh;
+  }
+}
+.region.texto-p10 {
+  background-color: #ffffff80;
+  padding: 10px 0;
+}
+.region.texto-p10 h1 {
+  font-size: 34px;
 }
