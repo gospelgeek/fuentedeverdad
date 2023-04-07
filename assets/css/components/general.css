@@ -606,6 +606,11 @@ div[page="38"] {
 .region.agradecimiento-text p strong {
   font-weight: 800;
 }
+@media (max-width: 600px) {
+  .region.text-page4 p {
+    font-size: 10px;
+  }
+}
 div[page="7"] .page.p7 .region.video-entrevista video {
   transform: translateX(-50%);
 }
