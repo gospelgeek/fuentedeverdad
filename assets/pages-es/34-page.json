@@ -15,15 +15,33 @@
         "text2": "Costa Rica"
     },
     {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p34-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "pastor-name",
         "x": "10%",
         "y": "16%",
         "text": "Gerson Fernández Ocampo, Pastor"
     },
     {
-        "x": "10%",
-        "y": "22%",
-        "width": "50%",
+        "x": "11%",
+        "y": "23%",
+        "width": "40%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
@@ -86,7 +104,7 @@
     },
     {
         "x": "15%",
-        "y": "34%",
+        "y": "35%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",

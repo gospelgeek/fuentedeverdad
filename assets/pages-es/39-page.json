@@ -29,7 +29,47 @@
         "tag": "fdv-element2",
         "class": "fdv-element2",
         "title": "ORACIONES GLOBALES",
-        "texthtml": "<p>En el 2o semestre del año 2022 se celebraron 6 reuniones globales de oración de FDV a nivel global:</p><p>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre... </p>"  
+        "texthtml": "<p>En el 2o semestre del año 2022 se celebraron 6 reuniones globales de oración de FDV a nivel global:</p><p>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre... </p>",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/5.jpg"
+            }
+        ]
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p12-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
     },
     {
         "x": "10%",
@@ -39,7 +79,22 @@
         "tag": "fdv-element2",
         "class": "fdv-element2",
         "title": "REUNION GLOBAL DE PASTORES",
-        "texthtml": "<p>En el año 2022 se celebraron 9 reuniones de pastores de FDV a nivel global:</p><p>29 de Enero, 26 de Febrero, 26 de Marzo, 30 de Abril, 28 de Mayo, 30 de Julio, 27 de Agosto, 29 de Octubre y 26 deNoviembre...</p>"  
+        "texthtml": "<p>En el año 2022 se celebraron 9 reuniones de pastores de FDV a nivel global:</p><p>29 de Enero, 26 de Febrero, 26 de Marzo, 30 de Abril, 28 de Mayo, 30 de Julio, 27 de Agosto, 29 de Octubre y 26 deNoviembre...</p>",
+        "id": "modal-p39-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/reunion_pastores/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/reunion_pastores/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/reunion_pastores/3.jpg"
+            }
+        ]  
     },
     {
         "x": "60%",
