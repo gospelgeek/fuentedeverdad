@@ -1,11 +1,11 @@
 [
     {
-        "x": "10%",
-        "y": "15%",
-        "width":"85%",
-        "tag": "author-pic",
-        "class": "author-image",
-        "image": "<img  src='assets/pics/general-images/esp_cierre.png'>"
+        "x": "0%",
+        "y": "0%",
+        "width": "100%",
+        "tag": "video-fondo",
+        "class": "video-page50",
+        "src": "assets/pics/backgrounds/fondo_legal_banderas_esp.mp4"
     },
     {
         "x": "2%",

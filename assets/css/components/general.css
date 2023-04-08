@@ -661,3 +661,9 @@ div[page="7"] .page.p7 .region.video-entrevista video {
   color: #ffffff;
   font-size: 14px;
 }
+.region.video-page50 {
+  height: 100%;
+}
+.region.video-page50 #video-background {
+  width: 100%;
+}
