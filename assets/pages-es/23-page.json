@@ -15,6 +15,12 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "14%",
+        "text": "Francisco Javier Díaz Morales, Diácono Encargado"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,

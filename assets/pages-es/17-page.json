@@ -15,6 +15,12 @@
         "text2": "Maryland"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "16%",
+        "text": "Jose Santos Osorio, Pastor"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,

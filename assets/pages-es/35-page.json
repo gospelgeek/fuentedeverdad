@@ -15,6 +15,12 @@
         "text2": "Costa Rica"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "12%",
+        "text": "José Hernando López Vera, Pastor"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
