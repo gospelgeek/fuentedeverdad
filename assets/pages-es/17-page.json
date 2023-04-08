@@ -1,8 +1,8 @@
 [
     {
-        "x": "12%",
+        "x": "5%",
         "y": "2%",
-        "width":"80%",
+        "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
         "image": "<img src='assets/pics/photos/USA_esp.png'>"

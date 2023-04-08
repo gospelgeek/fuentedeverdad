@@ -313,7 +313,7 @@ function click_boton_a_english() {
   
 function evento(e){
 
-    $(".carousel-container").html("");
+    $(".carousel-slide").remove();
     const modal = $(e).data("id");
     const imagenes  = $(e).data("imagenes");
     const div = document.querySelector('#'+modal);
@@ -322,8 +322,7 @@ function evento(e){
     if(imagenes != "undefined" && imagenes != undefined){
         
         const div2 = document.createElement('div');
-        div2.setAttribute('class','carousel-slide')
-        carousel.appendChild(div2);
+        div2.setAttribute('class','carousel-slide');
 
         for (let step = 0; step < imagenes.length; step++) {
             if(imagenes[step].tipo == "video"){
@@ -347,15 +346,17 @@ function evento(e){
             }
             
         }
-    
-        const images = carousel.querySelectorAll('img');
+
+        carousel.appendChild(div2);
+
+        const images = div2.querySelectorAll('img');
         const video = carousel.querySelectorAll('video');
         var prevBtn = document.querySelector('#'+modal+'1');
         var nextBtn = document.querySelector('#'+modal+'2');
         const fondo = document.querySelector('#'+modal);
         fondo.style.background = "none";
-        let index = 0;
-
+        var index = 0;
+        nextBtn.setAttribute('style',"display:block"); 
         function changeImage(n) {
             if(imagenes[n].tipo == "video"){
                 /*images[index].classList.remove('active');
@@ -367,7 +368,6 @@ function evento(e){
                 index = (n + images.length) % images.length;
                 images[index].classList.add('active');
             }
-            
         } 
 
         prevBtn.addEventListener('click', () => {
@@ -378,13 +378,11 @@ function evento(e){
         });
 
         nextBtn.addEventListener('click', () => {
-
             if(index<images.length-1){
-                changeImage(index + 1);
+                changeImage(index + 1);   
             }
-            
         });
-
+ 
         $("#"+modal).modal('show');
     }else{
         alert("El Evento no posee imagenes");

@@ -206,18 +206,46 @@ span {
     z-index: 20;
     cursor: pointer;
     border-radius: 5px;
+    top: 96.5%;
 }
 
 .even .number-page {
-    left: 55px;
+    left: 5%;
     transform: scale(1);
     animation: pulse 2s 3;
+    color: black;
 }
 
 .odd .number-page {
-    right: 55px;
+    right: 5%;
     transform: scale(1);
     animation: pulse-2 2s 4;
+    color: black;
+}
+
+.p36 .number-page,
+.p35 .number-page,
+.p33 .number-page,
+.p31 .number-page,
+.p29 .number-page,
+.p28 .number-page,
+.p27 .number-page,
+.p25 .number-page,
+.p24 .number-page,
+.p23 .number-page,
+.p22 .number-page,
+.p21 .number-page,
+.p19 .number-page,
+.p18 .number-page,
+.p17 .number-page,
+.p16 .number-page,
+.p15 .number-page,
+.p14 .number-page,
+.p13 .number-page,
+.p12 .number-page,
+.p4 .number-page,
+.p5 .number-page{
+    color: white;
 }
 
 @media only screen and (max-width: 468px) {
@@ -3715,3 +3743,7 @@ line-height: 14px;
     width: 100%;
 }
 
+.main-text-p12-p{
+    font-size: 1.2em;
+    color: white;
+}

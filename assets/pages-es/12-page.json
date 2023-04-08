@@ -1,8 +1,8 @@
 [
     {
-        "x": "12%",
+        "x": "5%",
         "y": "2%",
-        "width":"80%",
+        "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
         "image": "<img src='assets/pics/photos/USA_esp.png'>"
@@ -192,7 +192,7 @@
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/22.jpeg"
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/22.jpg"
             },
             {
 
@@ -224,7 +224,7 @@
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/30.jpeg"
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/30.jpg"
             },
             {
 
@@ -272,7 +272,7 @@
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/42.jpeg"
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/42.jpg"
             },
             {
 
@@ -304,7 +304,7 @@
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/50.jpeg"
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/50.jpg"
             },
             {
 
@@ -352,7 +352,7 @@
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/66.jpeg"
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/66.jpg"
             },
             {
 
@@ -384,7 +384,7 @@
             },
             {
 
-                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/70.jpeg"
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/70.jpg"
             },
             {
 
@@ -513,6 +513,22 @@
         "text": "",
         "data": {
            "text": "<p class='main-text-p12'><strong>CUMBRE CELULAR GLOBAL 2022</strong></p>"
+        }
+    },
+    {
+        "x": "37%",
+        "y": "80.5%",
+        "width": "60%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p12-p'><strong>El derramamiento 2022</strong></p>"
         }
     },
     {
