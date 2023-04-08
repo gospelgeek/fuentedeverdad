@@ -675,10 +675,21 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 .modal.texto.modal-grande a.close-modal {
   position: fixed;
-  right: 27%;
-  top: 9%;
+  right: 25.2%;
+  top: 6.5%;
+}
+.modal.texto.modal-pequeno {
+  overflow: visible;
 }
 .modal.texto.modal-pequeno a.close-modal {
-  top: 20px;
-  right: 20px;
+  top: -10px;
+  right: -10px;
+}
+.modal.imagenes {
+  background-color: #081420 !important;
+}
+.modal.imagenes a.close-modal {
+  right: 25.2%;
+  top: 6.5%;
+  position: fixed;
 }
