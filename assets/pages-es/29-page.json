@@ -145,6 +145,12 @@
         "text2": "Colombia"
     },
     {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "44%",
+        "text": "Zemarcos Miller Díaz Scott, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "48%",

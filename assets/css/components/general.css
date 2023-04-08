@@ -657,3 +657,6 @@ div[page="7"] .page.p7 .region.video-entrevista video {
     display: block;
   }
 }
+.pastor-name p {
+  color: #ffffff;
+}

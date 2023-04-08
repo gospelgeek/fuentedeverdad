@@ -435,6 +435,11 @@ const addComponents = (region, lang) => {
                     ${region.text}            
                 </div>`
             break;
+        case 'pastor-name': 
+            element = `<div class="pastor-name">
+                    <p>${region.text}</p>            
+                </div>`
+            break;
         default:
             break;
             
