@@ -104,7 +104,293 @@
         "tag": "author-pic-2",
         "class": "author-image",
         "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>",
-        "id":"modal-p12-01"
+        "id":"modal-p12-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/10.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/22.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/28.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/29.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/30.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/31.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/32.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/33.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/34.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/35.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/36.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/37.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/38.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/39.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/40.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/41.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/42.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/43.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/44.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/45.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/46.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/47.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/48.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/49.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/50.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/51.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/52.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/53.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/54.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/55.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/56.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/57.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/58.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/59.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/60.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/61.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/66.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/63.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/64.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/65.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/66.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/67.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/68.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/69.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/70.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/71.jpg"
+            }
+        ]
     },
     {
         "x": "47%",
