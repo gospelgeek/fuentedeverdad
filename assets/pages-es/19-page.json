@@ -15,6 +15,12 @@
         "text2": "Arizona"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "16%",
+        "text": "Roberto Flores, Pastor"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
@@ -88,6 +94,12 @@
         "y": "41%",
         "text1": "San Antonio",
         "text2": "Texas"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "46%",
+        "text": "Saul Santos, Pastor"
     },
     {
         "tag": "event-container",

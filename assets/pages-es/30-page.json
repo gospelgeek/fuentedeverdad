@@ -15,6 +15,12 @@
         "text2": "Japón"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "15%",
+        "text": "Ishiguro Leonardo, Pastor"
+    },
+    {
         "x": "10%",
         "y": "25%",
         "width": "50%",
