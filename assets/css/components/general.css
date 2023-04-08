@@ -667,3 +667,18 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 .region.video-page50 #video-background {
   width: 100%;
 }
+.modal.texto {
+  height: fit-content;
+}
+.modal.texto.modal-grande {
+  height: 90%;
+}
+.modal.texto.modal-grande a.close-modal {
+  position: fixed;
+  right: 27%;
+  top: 9%;
+}
+.modal.texto.modal-pequeno a.close-modal {
+  top: 20px;
+  right: 20px;
+}

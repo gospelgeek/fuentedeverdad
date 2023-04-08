@@ -21,7 +21,7 @@
           "width": "100%",
           "height": "10%",
           "fontSize": "3.3em",
-          "tag": "modal",
+          "tag": "modal-pequeno",
           "id": "modal-p47-1",
           "class": "leermas-pag47",
           "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
