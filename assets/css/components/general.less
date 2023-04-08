@@ -95,9 +95,8 @@ body{
             }
         }
         h3.text{
-            font-size: 14px;
-            max-width: 150px;
-
+            font-size: 13px;
+            max-width: 130px;
         }
     }
 }
@@ -111,6 +110,13 @@ body{
             margin-right: 8px;
             font-size: 35px;
         }
+
+        @media (max-width:600px) {
+            font-size: 16px;
+            strong{
+                font-size: 33px;
+            }
+        }
     }
 }
 
@@ -121,6 +127,12 @@ body{
         color: @white;
         font-size: 12px;
         text-align: left;
+    }
+    @media (max-width: 600px) {
+        p{
+            font-size: 11px;
+            line-height: 1.2;
+        }
     }
 }
 
@@ -133,8 +145,8 @@ body{
 // estilos dropdown de idiomas
 #canvas{
     position: absolute;
-    top: 20px;
-    right: 20px; 
+    top: 0px;
+    right: 0px; 
     background-color: #ffffff90;
     border-radius: 8px;
     padding: 5px 30px 5px 20px;
@@ -686,8 +698,7 @@ div[page="38"] {
 .region.top-entrevista{
     background-color: #135072;
     border-radius: 0 0 40px 40px;
-    padding: 15px;
-    padding-top: 60px;
+    padding: 60px 15px 15px 15px;
     border: 2px solid #8d6631;
     border-top: none;
     color: @white;
@@ -695,8 +706,13 @@ div[page="38"] {
         font-size: 14px;
     }
     @media (max-width: 600px) {
+        left: 21% !important;
+        width: 50% !important;
+        padding: 40px 15px 15px 15px;
+
         strong{
             font-weight: 200;
+            font-size: 12px;
         }
     }
 }
@@ -735,6 +751,14 @@ div[page="38"] {
     }
 }
 
+// pagina 4 y 5 mobile
+@media (max-width: 600px) {
+    .region.text-page4, .region.text-page5{
+        p{
+            font-size: 10px;
+        }
+    }
+}
 
 // arregla fondo de video para pagina 6 y 7
 div[page="7"]{
@@ -764,5 +788,28 @@ div[page="7"]{
     padding: 10px 0;
     h1{
         font-size: 34px;
+    }
+}
+@media (max-width: 600px) {
+    .page.p10 {
+        .region.actions{
+            top: 87% !important;
+        }
+    }
+}
+
+// pagina 11
+@media (max-width: 600px) {
+    .region.text-page11{
+        p{
+            font-size: 10px;
+        }
+    }
+    .region.image-page11{
+        img{
+            width: 90%;
+            margin: auto;
+            display: block;
+        }
     }
 }

@@ -6,6 +6,7 @@
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
+        "class": "text-page11",
         "font-size": "2em",
         "tag": "contenido",
         "id_unique": "box-text-page-9",
@@ -33,11 +34,11 @@
         }
     },  
     {
-        "x": "10%",
+        "x": "5%",
         "y": "20%",
         "tag": "img",
-        "class": "",
-        "width": "350",
+        "class": "image-page11",
+        "width": "75%",
         "height":"300",
         "data":{
         "src": "assets/pics/general-images/tit_grandes_noticias_esp.webp"

@@ -11,6 +11,7 @@
         "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",
+        "class": "text-page4",
         "color": "#fff",
         "font-size": "2em",
         "tag": "contenido",
@@ -23,7 +24,7 @@
     },
     {
         "x": "10%",
-        "y": "62%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -31,7 +32,6 @@
         "fontSize": "1.5em",
         "tag": "modal",
         "id": "modal-p3",
-        "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>Carta del Obispo Samuel Valverde<br><br>",
@@ -40,7 +40,7 @@
     },
     {
         "x": "20%",
-        "y": "62.5%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "35%",
