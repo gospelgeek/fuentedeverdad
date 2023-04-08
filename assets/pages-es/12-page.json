@@ -516,9 +516,9 @@
         }
     },
     {
-        "x": "37%",
+        "x": "33%",
         "y": "80.5%",
-        "width": "60%",
+        "width": "80%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
@@ -528,7 +528,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p12-p'><strong>El derramamiento 2022</strong></p>"
+           "text": "<p class='main-text-p12-p'><strong>EL DERRAMAMIENTO 2022</strong></p>"
         }
     },
     {
@@ -544,7 +544,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p12'><strong>Qué es “El derramamiento”</strong></p>"
+           "text": "<p class='main-text-p12'><strong>QUÉ ES “EL DERRAMAMIENTO”</strong></p>"
         }
     },
     {
