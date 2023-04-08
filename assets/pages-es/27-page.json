@@ -10,9 +10,15 @@
     {
         "tag": "event-title",
         "x": "5%",
-        "y": "10%",
+        "y": "9%",
         "text1": "Bogota",
         "text2": "Colombia"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "15%",
+        "text": "Álvaro Alexander Ocampo Cañas, Pastor"
     },
     {
         "x": "61%",
@@ -162,6 +168,12 @@
         "y": "55%",
         "text1": "Medellín",
         "text2": "Colombia"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "60%",
+        "text": "Anderson Sneyder Londoño López, Pastor"
     },
     {
         "tag": "event-container",

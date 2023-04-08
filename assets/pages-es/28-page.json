@@ -189,6 +189,12 @@
         "text2": "Colombia"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "67%",
+        "text": "José Andrés Mejía Luque, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "69%",
