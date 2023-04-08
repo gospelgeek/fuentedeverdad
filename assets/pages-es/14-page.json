@@ -75,6 +75,12 @@
         "text2": "Texas"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "56%",
+        "text": "Edwin Camilo Moreno Suarez, Pastor"
+    },
+    {
         "id":"modal-p14-01",
         "tag": "event-container",
         "x": "8%",

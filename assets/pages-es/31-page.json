@@ -245,6 +245,12 @@
         "text2": "Japón"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "80%",
+        "text": "Nasu Norihisa, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "84%",

@@ -33,6 +33,12 @@
         }
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "16%",
+        "text": "Gerson Fernández Ocampo, Pastor"
+    },
+    {
         "x": "11%",
         "y": "23%",
         "width": "40%",

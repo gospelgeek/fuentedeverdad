@@ -15,6 +15,12 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "22%",
+        "text": "Abraham Eduardo Encinas Espinoza, Pastor"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
@@ -180,6 +186,12 @@
         "y": "60%",
         "text1": "Juchitán",
         "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "65%",
+        "text": "Aldo Aurelio López Solís, Diácono Encargado"
     },
     {
         "tag": "event-subtitle",
