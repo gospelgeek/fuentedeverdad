@@ -15,6 +15,12 @@
         "text2": "Costa Rica"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "16%",
+        "text": "Gerson Fernández Ocampo, Pastor"
+    },
+    {
         "x": "10%",
         "y": "22%",
         "width": "50%",

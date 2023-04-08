@@ -15,6 +15,12 @@
         "text2": ""
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "14%",
+        "text": "UNG Ratheany, Pastor"
+    },
+    {
         "x": "8%",
         "y": "20%",
         "width": "60%",
