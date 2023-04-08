@@ -400,23 +400,26 @@ const addComponents = (region, lang) => {
                         </div>
             `
             break;
-            case 'fdv-element2': 
-            element = `<div>
-                            <div class="left">
-                                <h1>${region.title}</h1>
-                                ${region.texthtml}
-                                <div class="action">
-                                    <button class="video-button">
-                                        Ver Video
-                                    </button>
+            case 'fdv-element2':
+                let imagenesfdv = region.imagenes_evento
+                if(imagenesfdv != undefined){
+                    imagenesfdv = JSON.stringify(region.imagenes_evento)
+                } 
+                element = `<div>
+                                <div class="left">
+                                    <h1>${region.title}</h1>
+                                    ${region.texthtml}
+                                    <div class="action">
+                                        <button data-id="${region.id}" class="video-button" data-imagenes="${imagenesfdv}" onclick="evento(this)">
+                                            Ver Fotos
+                                        </button>
+                                    </div>
+                                
                                 </div>
-                            
-                            </div>
-                            <div class="right">
-                                <img src="${region.src}">
-                            </div>
-                        </div>
-            `
+                                <div class="right">
+                                    <img src="${region.src}">
+                                </div>
+                            </div>`
             break;
         case 'fdv-logo': 
             element = `<div>

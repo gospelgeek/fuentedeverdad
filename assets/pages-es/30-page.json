@@ -32,9 +32,59 @@
         "id_unique": "box-text-page-30",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p30-01",
+        "class": "",
+        "src": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>Dia <br>del Amigo</strong></p>"
+            "title": "",
+            "content": "",
+            "imagenes": ""
         }
+    },
+    {
+        "tag": "event-container",
+        "x": "13%",
+        "y": "22%",
+        "src": "assets/pics/Eventos/japon/hiroshima/dia_amigo/modal.jpeg",
+        "text": "<strong>Dia <br>del Amigo</strong>",
+        "id":"modal-p30-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/7.jpeg"
+            }
+        ]
+
     },
     {
         "x": "63%",
@@ -86,20 +136,31 @@
         }
     },
     {
-        "x": "11%",
-        "y": "47%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Paseo <br> dia del niño</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "44%",
+        "src": "assets/pics/Eventos/japon/hiroshima/dia_paseo/modal.jpg",
+        "text": "<strong>Paseo <br> dia del niño</strong>",
+        "id":"modal-p30-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/5.jpg"
+            }
+        ]
+
     },
     {
         "x": "15%",
@@ -151,20 +212,39 @@
         }   
     },
     {
-        "x": "11%",
-        "y": "67%",
-        "width": "45%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Campamento <br> de Verano</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "64%",
+        "src": "assets/pics/Eventos/japon/hiroshima/campamento/modal.jpg",
+        "text": "<strong>Campamento <br> de Verano</strong>",
+        "id":"modal-p30-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/7.JPG"
+            }
+        ]
+
     },
     {
         "x": "15%",
