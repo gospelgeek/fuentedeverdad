@@ -91,7 +91,7 @@ const addComponents = (region, lang) => {
             element = '<a href="' + region.data.url + "" + doClick(region.data.page, lang) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
             break;
         case 'btn-normal':
-            element = (`<div class="div-center-ubication-responsive"> <a id="${region.id}" onclick="clickReadMore('+${region.id}+')" style="background-color: ${region['background-color']}; z-index: 1000;" class='btn-normal-23'   target="_blank" id="${region.id}"><span style="color: ${region.color}; font-size: ${region['font-size']}" class="boton-normal-text-23">${(region.data).text}</span></a> </div>`)
+            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a id="pause-video" style="cursor: pointer;" onClick="playvideo()">${region.icono}</a>`} </div> </div>`)
             break;
         case 'btn-normal-2':
             element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a  style="cursor: pointer;" onClick="playAudio('${(region.data)[0].url},${(region.data[0].id)}')"><img id="${(region.data[0].id)}" class='audio-img-content' src="${(region.data)[0].icon}" ></a> <a class='img-tag-imprimir' href="${(region.data)[1].url}" target='_blank' ><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
@@ -347,7 +347,16 @@ const addComponents = (region, lang) => {
                     <h3 class="text">${region.text}</h3>
                 </div>`;
             
-            break; 
+            break;
+        case 'event-container-2':
+            element = `<div class="event-container">
+                <div class="image">
+                    <img src="${region.src}">
+                </div>
+                <h3 class="text">${region.text}</h3>
+            </div>`;
+        
+        break;      
         case 'event-title':
             element = `<div class="event-title">
                 <p><strong>${region.text1}</strong>${region.text2}</p>
@@ -392,7 +401,11 @@ const addComponents = (region, lang) => {
                             <source src="${region.src}" type="video/webm">
                         </video>`
             break;
-        case 'fdv-element1': 
+        case 'fdv-element1':
+            let videos = region.imagenes_evento
+            if(videos != undefined){
+                videos = JSON.stringify(region.imagenes_evento)
+            } 
             element = `<div>
                             <div class="left">
                                 <h1>${region.title}</h1>
@@ -402,35 +415,50 @@ const addComponents = (region, lang) => {
                             <div class="right">
                                 <h3>${region.date}</h3>
                                 <div class="action">
-                                    <button class="video-button">
+                                    <button data-id="${region.id}" data-imagenes='${videos}' onclick="evento(this)" class="video-button">
                                         Ver Video
                                     </button>
+                                    
                                 </div>
-                            
                             </div>
                         </div>
             `
             break;
-            case 'fdv-element2':
-                let imagenesfdv = region.imagenes_evento
-                if(imagenesfdv != undefined){
-                    imagenesfdv = JSON.stringify(region.imagenes_evento)
-                } 
-                element = `<div>
-                                <div class="left">
-                                    <h1>${region.title}</h1>
-                                    ${region.texthtml}
-                                    <div class="action">
-                                        <button data-id="${region.id}" class="video-button" data-imagenes="${imagenesfdv}" onclick="evento(this)">
-                                            Ver Fotos
-                                        </button>
-                                    </div>
-                                
+        case 'fdv-element1-2': 
+            element = `<div>
+                        <div class="left">
+                            <h1>${region.title}</h1>
+                            ${region.texthtml}
+                        </div>
+                        <div class="right">
+                            <h3>${region.date}</h3>
+                        </div>
+                    </div>`
+                break;
+        case 'fdv-element2':
+            let imagenesfdv = region.imagenes_evento
+            if(imagenesfdv != undefined){
+                imagenesfdv = JSON.stringify(region.imagenes_evento)
+            }
+            let boton = ""; 
+            if(region.leermas != undefined){
+                boton = `<button  data-modal="${region.idtext}" onclick="abrirmodal(this)">${region.leermas}</button>`;
+            }
+            element = `<div>
+                            <div class="left">
+                                <h1>${region.title}</h1>
+                                ${region.texthtml}
+                                <div class="action">
+                                    <button data-id="${region.id}" class="video-button" data-imagenes='${imagenesfdv}' onclick="evento(this)">
+                                        Ver Fotos
+                                    </button>
+                                    ${boton}
                                 </div>
-                                <div class="right">
-                                    <img src="${region.src}">
-                                </div>
-                            </div>`
+                            </div>
+                            <div class="right">
+                                <img src="${region.src}">
+                            </div>
+                        </div>`
             break;
         case 'fdv-logo': 
             element = `<div>

@@ -39,20 +39,120 @@
         "text": "Gerson Fernández Ocampo, Pastor"
     },
     {
-        "x": "11%",
-        "y": "23%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p34-01",
+        "class": "",
+        "src": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>Celebración del 1er aniversario</strong></p>"
+            "title": "",
+            "content": "",
+            "imagenes": ""
         }
+    },
+    {
+        "tag": "event-container",
+        "x": "13%",
+        "y": "24%",
+        "src": "assets/pics/Eventos/costa_rica/aniversario/modal.jpg",
+        "text": "<strong>Celebración del 1er aniversario</strong>",
+        "id":"modal-p34-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/23.jpg"
+            }
+        ] 
     },
     {
         "x": "63%",
@@ -120,20 +220,22 @@
         }
     },
     {
-        "x": "11%",
-        "y": "49%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Grupos Casa</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "47%",
+        "src": "assets/pics/Eventos/costa_rica/grupo_casa/modal.jpg",
+        "text": "<strong>Grupos Casa</strong>",
+        "id":"modal-p34-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/grupo_casa/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/grupo_casa/3.jpg"
+            }
+        ] 
     },
     {
         "x": "15%",
@@ -153,20 +255,30 @@
         }
     },
     {
-        "x": "11%",
-        "y": "67%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Bautismo Primicia</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "65%",
+        "src": "assets/pics/Eventos/costa_rica/bautismo/modal.jpg",
+        "text": "<strong>Bautismo Primicia</strong>",
+        "id":"modal-p34-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/5.JPG"
+            }
+        ] 
     },
     {
         "x": "15%",
@@ -199,8 +311,8 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "icon": "",
+                "url": ""
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

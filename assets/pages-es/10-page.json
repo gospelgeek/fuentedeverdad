@@ -44,7 +44,7 @@
         "tag": "btn-normal-2",
         "class": "actions",
         "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
+        "icon": "",
         "data": [
             {   
                 "id": "page9",
@@ -56,5 +56,18 @@
                 "url": ""
             }
         ]
+    },
+    {
+        "x": "38%",
+        "y": "87.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "10%",
+        "fontSize": "5em",
+        "tag": "btn-normal",
+        "class": "reproducir",
+        "text": "",
+        "icono": "<img id='play-video' class='play-video' style='width:65%' src='assets/pics/icons/play.svg'>"
     }
 ]

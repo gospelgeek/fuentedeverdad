@@ -217,8 +217,8 @@ const playAudio = (e) => {
     id_pag = e.split(",", 2);
     id_page = '#'+id_pag[1];
     e = id_pag[0];
-    $('.backVideo10').trigger('pause')
-    $(".backVideo10").prop('muted', true);
+    
+    
     if (audio_array.length > 0) {
 
         audio_array.map((audio) => {
@@ -228,14 +228,31 @@ const playAudio = (e) => {
         audio_array = [];
         band_audio = true;
         $(id_page).removeClass('opacity-audio')
-        if(id_pag[1] == "page9" || id_pag[1] == "page10"){
-            $('.backVideo10').trigger('play')
-            $(".backVideo10").prop('muted', false);  
-        }
+        /*if(id_pag[1] == "page9" || id_pag[1] == "page10"){
+
+            var video = document.querySelector("#pause-video").getAttribute("onclick");
+            if(video == "pausevideo()"){
+                $('.backVideo10').trigger('pause')
+                $(".backVideo10").prop('muted', true);
+                $('#play-video').attr('src','assets/pics/icons/play.svg');
+                $('#pause-video').attr('onclick',"playvideo()");   
+            }else{
+                $('.backVideo10').trigger('play')
+                $(".backVideo10").prop('muted', false);
+                $('#play-video').attr('src','assets/pics/icons/pause.svg');
+                $('#pause-video').attr('onclick',"pausevideo()");  
+            }
+               
+        }*/
 
     }
     else if (band_audio) {
 
+        $('.backVideo10').trigger('pause')
+        $(".backVideo10").prop('muted', true);
+        $('#play-video').attr('src','assets/pics/icons/play.svg');
+        $('#pause-video').attr('onclick',"playvideo()");
+          
         var audio = new Audio(e);
         audio_actual = audio;
         $(audio).attr('id', 'audio-page')
@@ -312,25 +329,27 @@ function click_boton_a_english() {
 /*CARUSEL*/
   
 function evento(e){
-
+    console.log("si");
     $(".carousel-slide").remove();
     const modal = $(e).data("id");
     const imagenes  = $(e).data("imagenes");
     const div = document.querySelector('#'+modal);
     const carousel = div.querySelector(".carousel-container");
-    
+
     if(imagenes != "undefined" && imagenes != undefined){
         
         const div2 = document.createElement('div');
         div2.setAttribute('class','carousel-slide');
 
         for (let step = 0; step < imagenes.length; step++) {
+                
             if(imagenes[step].tipo == "video"){
-                /*const video = document.createElement('video');
+                const video = document.createElement('iframe');
 
                 video.src = imagenes[step].src;
                 video.setAttribute('alt', step+1)
-                div2.appendChild(image);*/
+                video.setAttribute('class', 'video-entrevista-fdv')
+                div2.appendChild(video);
 
             }else{
 
@@ -384,8 +403,6 @@ function evento(e){
         });
  
         $("#"+modal).modal('show');
-    }else{
-        alert("El Evento no posee imagenes");
     }
 
 }
@@ -649,12 +666,30 @@ function texto_completo(e){
 
 function abrirmodal(e){
     var modal = $(e).data('modal');
+    console.log(modal);
     if(modal == "modal-p11" || modal == "modal-p10"){
         $('.backVideo10').trigger('pause');
         $(".backVideo10").prop('muted', true);
+        $('#play-video').attr('src','assets/pics/icons/play.svg');
+        $('#pause-video').attr('onclick',"playvideo()");
     }
 
     $("#"+modal).modal('show');
+}
+
+
+function playvideo(){
+    $('#play-video').attr('src','assets/pics/icons/pause.svg');
+    $('#pause-video').attr('onclick',"pausevideo()");
+    $('.backVideo10').trigger('play');
+    $(".backVideo10").prop('muted', false);
+}
+
+function pausevideo(){
+    $('#play-video').attr('src','assets/pics/icons/play.svg');
+    $('#pause-video').attr('onclick',"playvideo()");
+    $('.backVideo10').trigger('pause');
+    $(".backVideo10").prop('muted', true);
 }
 
 
