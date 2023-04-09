@@ -32,7 +32,18 @@ const addComponents = (region, lang) => {
 
         case 'modal':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
-                $('<div/>', { id: region.id, class: 'modal' }).append(
+                $('<div/>', { id: region.id, class: 'modal texto modal-grande' }).append(
+                    $('<div/>', { class: 'print-modal' }).html(region.data.print),
+                    $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
+                    $('<img>', { src: region.data.src, class: 'title-modal' }),
+                    $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
+                addSVG('<a ' + region.id + '" id="a-'+region.id+'" data-modal="'+region.id+'" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+    
+            break;
+
+        case 'modal-pequeno':
+            element = $('<div/>', { class: 'content-modal modal-lg' }).append(
+                $('<div/>', { id: region.id, class: 'modal texto modal-pequeno' }).append(
                     $('<div/>', { class: 'print-modal' }).html(region.data.print),
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
@@ -42,7 +53,7 @@ const addComponents = (region, lang) => {
             break;
         case 'modal-2':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
-                    $('<div/>', { id: region.id, class: 'modal' }).append(
+                    $('<div/>', { id: region.id, class: 'modal imagenes' }).append(
                         $('<div/>', {class:'carousel-container'}),
                         $('<button/>', { id:region.id+'1', class: 'prev-btn-modal' }),
                         $('<button/>', { id:region.id+'2', class: 'next-btn-modal' }),

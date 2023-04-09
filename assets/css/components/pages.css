@@ -369,11 +369,11 @@ audio {
     background-color: red;
     width: 25px !important;
     height: 25px !important;
-    position: absolute !important;
+    position: absolute;
     border-radius: 100%;
     box-shadow: 3px 3px 8px grey;
-    top: 10px !important;
-    right: 10px !important;
+    top: 10px;
+    right: 10px;
     background-image: url("../pics/icons/x.png");
 }
 
@@ -3301,10 +3301,14 @@ button::-moz-focus-inner {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
 }
 
 .carousel-slide video {
