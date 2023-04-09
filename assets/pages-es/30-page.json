@@ -21,19 +21,6 @@
         "text": "Ishiguro Leonardo, Pastor"
     },
     {
-        "x": "10%",
-        "y": "25%",
-        "width": "50%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-30",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-    },
-    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,

@@ -42,7 +42,7 @@
                 
     }, 
     {
-         "x": "45%",
+         "x": "40%",
          "y": "87%",
          "viewX": 1800,
          "viewY": 100,
@@ -57,6 +57,30 @@
              "title": "<br>AGRADECIMIENTO A NUESTRA 1RA. DAMA EN FDV",
              "content": "Hna. Raquel Valverde, nos honramos en expresarle nuestro más sincero agradecimiento en virtud de su gran labor como pilar espiritual en esta bella familia, Fuente de Verdad. Su vida misma es un destello de gloria que impacta de luz a los que la rodeamos. El fruto de sus obras ha trascendido a las naciones, una sonrisa, un mensaje, una invitación, un consejo, no son solo detalles, sino pequeñas semillas que dan fruto en tierra fértil. Ella Ministerial Global agradece su sabía dirección en cada reunión, su liderazgo en el acompañamiento y consejería a cada esposa de pastor, su empeño en vivir nuestra visión de ser un lugar seguro y su mentoría para formarnos como líderes de este bello ministerio."
          }
-    }
+    },
+    {
+        "x": "53%",
+        "y": "87.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "",
+        "data": [
+            {
+                "id": "page48",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_primera_dama.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    } 
    
 ]

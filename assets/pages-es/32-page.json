@@ -14,15 +14,16 @@
         "text1": "Cambodia",
         "text2": ""
     },
+    {
         "tag": "pastor-name",
         "x": "10%",
         "y": "14%",
         "text": "UNG Ratheany, Pastor"
     },
     {
-        "x": "8%",
+        "x": "5%",
         "y": "20%",
-        "width": "60%",
+        "width": "80%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
@@ -31,231 +32,13 @@
         "id_unique": "box-text-page-32",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
-   },
-   {
-
-        "x": "61%",
-        "y": "25.5%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "100%",
-        "height": "100%",
-        "fontSize": "2em",
-        "tag": "modal-2",
-        "id": "modal-p32-01",
-        "class": "",
-        "src": "",
         "data": {
-            "title": "",
-            "content": "",
-            "imagenes": ""
+           "text": "<p class='main-text-p34'><strong>Mi experiencia <br> en cambodia <br> Pastor Supervisor Domingo Carlos</strong></p>"
         }
     },
     {
-        "tag": "event-container",
-        "x": "12%",
-        "y": "20%",
-        "src": "assets/pics/Eventos/camboya/experiencia/modal.jpg",
-        "text": "<strong>Mi experiencia <br> en cambodia <br> Pastor Supervisor Domingo Carlos</strong>",
-        "id":"modal-p32-01",
-        "imagenes_evento":[
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/1.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/2.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/3.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/4.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/5.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/6.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/7.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/8.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/9.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/10.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/11.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/12.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/13.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/14.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/15.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/16.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/17.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/18.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/19.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/20.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/21.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/22.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/23.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/24.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/25.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/26.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/27.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/28.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/29.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/30.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/31.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/32.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/33.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/34.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/35.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/36.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/37.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/38.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/39.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/40.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/41.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/42.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/43.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/44.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/45.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/46.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/47.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/camboya/experiencia/48.jpg"
-            }
-        ]
-    },
-    {
-        "x": "24%",
-        "y": "37%",
+        "x": "13%",
+        "y": "36%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -271,8 +54,8 @@
         }
     },
     {
-        "x": "36%",
-        "y": "37%",
+        "x": "25%",
+        "y": "36%",
         "viewX": 1800,
         "viewY": 100,
         "width": "20%",

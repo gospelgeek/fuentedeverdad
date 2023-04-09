@@ -43,16 +43,6 @@
     },
     {
         "x": "10%",
-        "y": "28%",
-        "width": "80%",
-        "date": "MARZO 26, 2022",
-        "tag": "fdv-element1",
-        "class": "fdv-element1",
-        "title": "SEMINARIO IV",
-        "texthtml": "<p>Como dar consejo sabio (Parte 2)</p><p>Como bautizar correctamente</p>"  
-    },
-    {
-        "x": "10%",
         "y": "82%",
         "viewX": 1800,
         "viewY": 100,
@@ -60,7 +50,7 @@
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal-2",
-        "id": "modal-p38",
+        "id": "modal-p38-01",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
@@ -70,23 +60,48 @@
     },
     {
         "x": "10%",
+        "y": "28%",
+        "width": "80%",
+        "date": "MARZO 26, 2022",
+        "tag": "fdv-element1",
+        "class": "fdv-element1",
+        "title": "SEMINARIO IV",
+        "texthtml": "<p>Como dar consejo sabio (Parte 2)</p><p>Como bautizar correctamente</p>",
+        "id":"modal-p38-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/8wMdksDEMn8"
+            }
+        ] 
+    },
+    {
+        "x": "10%",
         "y": "43%",
         "width": "80%",
         "date": "JULIO 16, 2022",
         "tag": "fdv-element1",
         "class": "fdv-element1",
         "title": "SEMINARIO V",
-        "texthtml": "<p>Más allá de lo básico</p><p>Como servir la santa sena</p><p>Cabos sueltos</p>"  
+        "texthtml": "<p>Más allá de lo básico</p><p>Como servir la santa sena</p><p>Cabos sueltos</p>",
+        "id":"modal-p38-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/VPgEHIxRGJ0"
+            }
+        ] 
     },
     {
         "x": "10%",
         "y": "60%",
         "width": "80%",
         "date": "OCTUBRE 7 Y 8, 2022",
-        "tag": "fdv-element1",
+        "tag": "fdv-element1-2",
         "class": "fdv-element1",
         "title": "SEMINARIO IV",
-        "texthtml": "<p>(IMPARTIDO DURANTE 'EL DERRAMAMIENTO')</p><p>¡Cambiar o morir!</p><p>Lideres saludables</p><p>Familias saludables</p><p>Intimidad con Dios</p>"  
+        "texthtml": "<p>(IMPARTIDO DURANTE 'EL DERRAMAMIENTO')</p><p>¡Cambiar o morir!</p><p>Lideres saludables</p><p>Familias saludables</p><p>Intimidad con Dios</p>",
+        "boton":""  
     },
     {
         "x": "-8%",
