@@ -157,20 +157,30 @@
         }   
     },
     {
-        "x": "11%",
-        "y": "58%",
-        "width": "45%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>SEMINARIO AUTORIDAD ESPIRITUAL</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "10%",
+        "y": "57%",
+        "src": "assets/pics/Eventos/colombia/seminario/modal.jpg",
+        "text": "<strong>SEMINARIO AUTORIDAD ESPIRITUAL</strong>",
+        "id":"modal-p26-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/4.jpg"
+            }
+        ] 
     },
     {
         "x": "15%",

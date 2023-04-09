@@ -89,7 +89,7 @@
                 if(page == 1 || page == 6 || page ==2){
 
                 }else{
-                    if(page == 44 || page == 45 ){
+                    if(page == 44 || page == 45 || page == 4 || page == 5){
                         var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '.webm', loop: true, 'class': 'backVideo' + page }));
                         video.appendTo(element)
                     }else{
@@ -409,9 +409,13 @@ function addRegion(region, pageElement, lang, page) {
         if (page == 10 || page == 11) {
             $('.backVideo10').trigger('play');
             $(".backVideo10").prop('muted', false);
+            $('#play-video').attr('src','assets/pics/icons/pause.svg');
+            $('#pause-video').attr('onclick',"pausevideo()"); 
         } else {
             $('.backVideo10').trigger('pause')
             $(".backVideo10").prop('muted', true);
+            $('#play-video').attr('src','assets/pics/icons/play.svg');
+            $('#pause-video').attr('onclick',"playvideo()"); 
         }
 
     });
