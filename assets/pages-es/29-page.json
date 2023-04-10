@@ -93,6 +93,14 @@
             {
 
                 "src":"assets/pics/Eventos/colombia/cali/ella/5.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/6tjzAvLNS64"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/ywn_hAWIaHU"
             }
         ]
     },
@@ -159,7 +167,30 @@
         "x": "30%",
         "y": "58%",
         "src": "assets/pics/Eventos/colombia/santa_marta/accion_gracias/5-CO-CALI-DIAACCIONGRACIAS.webp",
-        "text": "Dia de <br> Acción <br> de Gracias"
+        "text": "Dia de <br> Acción <br> de Gracias",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/sXNAUSP-J8U"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/EJ96HjR27Vk"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/uFXnPMaQYIM"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/AM05C25KEGY"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/_D5m2whUCLM"
+            }
+        ]    
     },
     {
         "tag": "event-container",
@@ -198,6 +229,10 @@
             {
 
                 "src":"assets/pics/Eventos/colombia/santa_marta/jovenes/2.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://drive.google.com/file/d/1_YQUEeoBqThUQfolFY5Gwv8nWRanEvKq/preview"
             }
         ]
     },

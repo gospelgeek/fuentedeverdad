@@ -349,7 +349,12 @@ function evento(e){
                 video.src = imagenes[step].src;
                 video.setAttribute('alt', step+1)
                 video.setAttribute('class', 'video-entrevista-fdv')
+                if(step==0){
+                    video.setAttribute('class','active video-entrevista-fdv');
+                }
                 div2.appendChild(video);
+
+                
 
             }else{
 
@@ -368,8 +373,7 @@ function evento(e){
 
         carousel.appendChild(div2);
 
-        const images = div2.querySelectorAll('img');
-        const video = carousel.querySelectorAll('video');
+        const images = div2.querySelectorAll('img,iframe');
         var prevBtn = document.querySelector('#'+modal+'1');
         var nextBtn = document.querySelector('#'+modal+'2');
         const fondo = document.querySelector('#'+modal);
@@ -378,10 +382,11 @@ function evento(e){
         nextBtn.setAttribute('style',"display:block");
         prevBtn.setAttribute("style","display:none");
         function changeImage(n) {
+            console.log(n);
             if(imagenes[n].tipo == "video"){
-                /*images[index].classList.remove('active');
+                images[index].classList.remove('active');
                 index = (n + imagenes.length) % imagenes.length;
-                video[index].classList.add('active');*/
+                images[index].classList.add('active');
             }
             else{
                 images[index].classList.remove('active');
