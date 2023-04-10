@@ -410,12 +410,7 @@ ul#answer-container li .action button {
 .region.legal-page-paragraph .responsive-font-content p {
   text-align: center;
 }
-div[page="38"] {
-  background: url('assets/pics/backgrounds/ladoa_FDV_GLOBAL.webm');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
+
 .region.fdv-title h1 {
   color: #ffffff;
   font-size: 58px;
