@@ -3658,8 +3658,10 @@ line-height: 14px;
 
 #modal-p47{
     background: none;
-    width: 700px !important;
     box-shadow: 0 0 0px #000;
+    @media (min-width: 600px) {
+        width: 700px !important;
+    }
 }
 
 @media only screen and (max-width: 468px) {
@@ -3803,6 +3805,7 @@ line-height: 14px;
     z-index: 1;
     position: absolute;
 }
+
 .carousel-slide iframe {
     display: none;
     transition: opacity 0.5s ease-in-out;
