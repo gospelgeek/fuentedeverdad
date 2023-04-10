@@ -701,30 +701,34 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p5 {
   position: relative;
   /* Importante para que el pseudo-elemento se ubique correctamente */
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/modal-pg6.png");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/modal-pg6.png");
   background-size: cover;
+  padding: 0;
 }
 #modal-p5 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p8 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/modal-pg8.png");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/modal-pg8.png");
   background-size: cover;
+  padding: 0;
 }
 #modal-p8 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p9 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/modal-pg9.png");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/modal-pg9.png");
   background-size: cover;
+  padding: 0;
 }
 #modal-p9 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p10 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/general-images/top-index.jpg");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/general-images/top-index.jpg");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p10 > *:not(.close-modal ) {
   padding: 13px 30px;
@@ -778,7 +782,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
   color: #ffffff;
 }
 #modal-p20 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/20.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/20.webp");
   background-size: cover;
   padding: 0;
 }
@@ -830,9 +834,10 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 #modal-p26,
 #modal-p26-2 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/26.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/26.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p26 > *:not(.close-modal ),
 #modal-p26-2 > *:not(.close-modal ) {
@@ -842,9 +847,10 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p27-2,
 #modal-p27-3,
 #modal-p27-4 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/27.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/27.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p27 > *:not(.close-modal ),
 #modal-p27-2 > *:not(.close-modal ),
@@ -858,9 +864,10 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p28-4,
 #modal-p28-5,
 #modal-p28-6 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/28.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/28.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p28 > *:not(.close-modal ),
 #modal-p28-2 > *:not(.close-modal ),
@@ -873,45 +880,77 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p29,
 #modal-p29-2,
 #modal-p29-3 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/29.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/29.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p29 > *:not(.close-modal ),
 #modal-p29-2 > *:not(.close-modal ),
 #modal-p29-3 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
-#modal-p31,
-#modal-p31-2,
-#modal-p31-3 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/31.webp");
+#modal-p30,
+#modal-p30-2,
+#modal-p30-3 {
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/30.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
+}
+#modal-p30 > *:not(.close-modal ),
+#modal-p30-2 > *:not(.close-modal ),
+#modal-p30-3 > *:not(.close-modal ) {
+  padding: 13px 30px;
+}
+#modal-p31,
+#modal-p31-2,
+#modal-p31-3,
+#modal-p31-4,
+#modal-p31-5 {
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/31.webp");
+  background-size: cover;
+  background-position: center;
+  padding: 0;
 }
 #modal-p31 > *:not(.close-modal ),
 #modal-p31-2 > *:not(.close-modal ),
-#modal-p31-3 > *:not(.close-modal ) {
+#modal-p31-3 > *:not(.close-modal ),
+#modal-p31-4 > *:not(.close-modal ),
+#modal-p31-5 > *:not(.close-modal ) {
+  padding: 13px 30px;
+}
+#modal-p32 {
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/32.webp");
+  background-size: cover;
+  background-position: center;
+  padding: 0;
+}
+#modal-p32 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p33,
 #modal-p33-2,
-#modal-p33-3 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/33.webp");
+#modal-p33-3,
+#modal-p33-4 {
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/33.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p33 > *:not(.close-modal ),
 #modal-p33-2 > *:not(.close-modal ),
-#modal-p33-3 > *:not(.close-modal ) {
+#modal-p33-3 > *:not(.close-modal ),
+#modal-p33-4 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p34,
 #modal-p34-2,
 #modal-p34-3 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/34.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/34.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p34 > *:not(.close-modal ),
 #modal-p34-2 > *:not(.close-modal ),
@@ -922,9 +961,10 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p35-2,
 #modal-p35-3,
 #modal-p35-4 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/35.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/35.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p35 > *:not(.close-modal ),
 #modal-p35-2 > *:not(.close-modal ),
@@ -935,9 +975,10 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p36,
 #modal-p36-2,
 #modal-p36-3 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/36.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/36.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p36 > *:not(.close-modal ),
 #modal-p36-2 > *:not(.close-modal ),
@@ -945,49 +986,55 @@ div[page="7"] .page.p7 .region.video-entrevista video {
   padding: 13px 30px;
 }
 #modal-p37 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/37.jpg");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/37.jpg");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p37 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p41 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/41.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/41.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p41 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p42 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/modal-pg41.png");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/modal-pg41.png");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p42 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p43 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/43.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/43.webp");
   background-size: cover;
   background-position: bottom;
+  padding: 0;
 }
 #modal-p43 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p47-1 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/47.webp");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/47.webp");
   background-size: cover;
   background-position: center;
+  padding: 0;
 }
 #modal-p47-1 > *:not(.close-modal ) {
   padding: 13px 30px;
 }
 #modal-p48 {
-  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../../pics/backgrounds/49.png");
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("../../pics/backgrounds/49.png");
   background-size: cover;
   background-position: bottom;
+  padding: 0;
 }
 #modal-p48 > *:not(.close-modal ) {
   padding: 13px 30px;
