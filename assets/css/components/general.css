@@ -695,92 +695,48 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 #modal-p6,
 #modal-p3 {
-  background-image: url("../../pics/backgrounds/4.webp");
+  background: url("../../pics/backgrounds/4.webp");
   background-size: cover;
 }
 #modal-p5 {
   position: relative;
   /* Importante para que el pseudo-elemento se ubique correctamente */
-  background-image: url("../../pics/backgrounds/modal-pg6.png");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/modal-pg6.png");
   background-size: cover;
 }
-#modal-p5::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
-#modal-p5 > *:not(.close-modal) {
-  z-index: 2;
-  position: relative;
+#modal-p5 > *:not(.close-modal ) {
+  padding: 13px 30px;
 }
 #modal-p8 {
-  background-image: url("../../pics/backgrounds/modal-pg8.png");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/modal-pg8.png");
   background-size: cover;
 }
-#modal-p8::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
-#modal-p8 > *:not(.close-modal) {
-  z-index: 2;
-  position: relative;
+#modal-p8 > *:not(.close-modal ) {
+  padding: 13px 30px;
 }
 #modal-p9 {
-  background-image: url("../../pics/backgrounds/modal-pg9.png");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/modal-pg9.png");
   background-size: cover;
 }
-#modal-p9::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
-#modal-p9 > *:not(.close-modal) {
-  z-index: 2;
-  position: relative;
+#modal-p9 > *:not(.close-modal ) {
+  padding: 13px 30px;
 }
 #modal-p10 {
-  background-image: url("../../pics/general-images/top-index.jpg");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/general-images/top-index.jpg");
   background-size: cover;
   background-position: center;
 }
-#modal-p10::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
-#modal-p10 > *:not(.close-modal) {
-  z-index: 2;
-  position: relative;
+#modal-p10 > *:not(.close-modal ) {
+  padding: 13px 30px;
 }
 #modal-p11 {
-  background-image: url("../../pics/backgrounds/11.webp");
+  background: url("../../pics/backgrounds/11.webp");
   background-size: cover;
 }
 #modal-p12,
 #modal-p12-2,
 #modal-p12-3 {
-  background-image: url("../../pics/backgrounds/12.webp");
+  background: url("../../pics/backgrounds/12.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
@@ -788,7 +744,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p13-1,
 #modal-p13-2,
 #modal-p13-3 {
-  background-image: url("../../pics/backgrounds/13.webp");
+  background: url("../../pics/backgrounds/13.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
@@ -797,51 +753,41 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p14-2,
 #modal-p14-3,
 #modal-p14-4 {
-  background-image: url("../../pics/backgrounds/14.webp");
+  background: url("../../pics/backgrounds/14.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
 }
 #modal-p15 {
-  background-image: url("../../pics/backgrounds/15.webp");
+  background: url("../../pics/backgrounds/15.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
 }
 #modal-p16 {
-  background-image: url("../../pics/backgrounds/16.webp");
+  background: url("../../pics/backgrounds/16.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
 }
 #modal-p17,
 #modal-p17-2 {
-  background-image: url("../../pics/backgrounds/19.webp");
+  background: url("../../pics/backgrounds/19.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
 }
 #modal-p20 {
-  background-image: url("../../pics/backgrounds/20.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/20.webp");
   background-size: cover;
+  padding: 0;
 }
-#modal-p20::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
-#modal-p20 > *:not(.close-modal) {
-  z-index: 2;
-  position: relative;
+#modal-p20 > *:not(.close-modal ) {
+  padding: 13px 30px;
 }
 #modal-p21,
 #modal-p21-2 {
-  background-image: url("../../pics/backgrounds/21.webp");
+  background: url("../../pics/backgrounds/21.webp");
   background-size: cover;
   background-color: #081420;
   color: #ffffff;
@@ -851,7 +797,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p22-2,
 #modal-p22-3,
 #modal-p22-4 {
-  background-image: url("../../pics/backgrounds/22.webp");
+  background: url("../../pics/backgrounds/22.webp");
   background-size: cover;
   background-position: center;
   background-color: #081420;
@@ -860,7 +806,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p23,
 #modal-p23-2,
 #modal-p23-3 {
-  background-image: url("../../pics/backgrounds/23.webp");
+  background: url("../../pics/backgrounds/23.webp");
   background-size: cover;
   background-position: center;
   background-color: #081420;
@@ -868,7 +814,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 #modal-p24,
 #modal-p24-2 {
-  background-image: url("../../pics/backgrounds/24.webp");
+  background: url("../../pics/backgrounds/24.webp");
   background-size: cover;
   background-position: center;
   background-color: #081420;
@@ -876,7 +822,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 #modal-p25,
 #modal-p25-2 {
-  background-image: url("../../pics/backgrounds/25.webp");
+  background: url("../../pics/backgrounds/25.webp");
   background-size: cover;
   background-position: center;
   background-color: #081420;
@@ -884,53 +830,27 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 #modal-p26,
 #modal-p26-2 {
-  background-image: url("../../pics/backgrounds/26.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/26.webp");
   background-size: cover;
   background-position: center;
 }
-#modal-p26::before,
-#modal-p26-2::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
 #modal-p26 > *:not(.close-modal ),
 #modal-p26-2 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p27,
 #modal-p27-2,
 #modal-p27-3,
 #modal-p27-4 {
-  background-image: url("../../pics/backgrounds/27.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/27.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p27::before,
-#modal-p27-2::before,
-#modal-p27-3::before,
-#modal-p27-4::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p27 > *:not(.close-modal ),
 #modal-p27-2 > *:not(.close-modal ),
 #modal-p27-3 > *:not(.close-modal ),
 #modal-p27-4 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p28,
 #modal-p28-2,
@@ -938,24 +858,9 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p28-4,
 #modal-p28-5,
 #modal-p28-6 {
-  background-image: url("../../pics/backgrounds/28.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/28.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p28::before,
-#modal-p28-2::before,
-#modal-p28-3::before,
-#modal-p28-4::before,
-#modal-p28-5::before,
-#modal-p28-6::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p28 > *:not(.close-modal ),
 #modal-p28-2 > *:not(.close-modal ),
@@ -963,273 +868,127 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 #modal-p28-4 > *:not(.close-modal ),
 #modal-p28-5 > *:not(.close-modal ),
 #modal-p28-6 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p29,
 #modal-p29-2,
 #modal-p29-3 {
-  background-image: url("../../pics/backgrounds/29.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/29.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p29::before,
-#modal-p29-2::before,
-#modal-p29-3::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p29 > *:not(.close-modal ),
 #modal-p29-2 > *:not(.close-modal ),
 #modal-p29-3 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p31,
 #modal-p31-2,
 #modal-p31-3 {
-  background-image: url("../../pics/backgrounds/31.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/31.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p31::before,
-#modal-p31-2::before,
-#modal-p31-3::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p31 > *:not(.close-modal ),
 #modal-p31-2 > *:not(.close-modal ),
 #modal-p31-3 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p33,
 #modal-p33-2,
 #modal-p33-3 {
-  background-image: url("../../pics/backgrounds/33.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/33.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p33::before,
-#modal-p33-2::before,
-#modal-p33-3::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
-  /* 50% de opacidad */
 }
 #modal-p33 > *:not(.close-modal ),
 #modal-p33-2 > *:not(.close-modal ),
 #modal-p33-3 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p34,
 #modal-p34-2,
 #modal-p34-3 {
-  background-image: url("../../pics/backgrounds/34.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/34.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p34::before,
-#modal-p34-2::before,
-#modal-p34-3::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
-  /* 50% de opacidad */
 }
 #modal-p34 > *:not(.close-modal ),
 #modal-p34-2 > *:not(.close-modal ),
 #modal-p34-3 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p35,
 #modal-p35-2,
 #modal-p35-3,
 #modal-p35-4 {
-  background-image: url("../../pics/backgrounds/35.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/35.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p35::before,
-#modal-p35-2::before,
-#modal-p35-3::before,
-#modal-p35-4::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
-  /* 50% de opacidad */
 }
 #modal-p35 > *:not(.close-modal ),
 #modal-p35-2 > *:not(.close-modal ),
 #modal-p35-3 > *:not(.close-modal ),
 #modal-p35-4 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p36,
 #modal-p36-2,
 #modal-p36-3 {
-  background-image: url("../../pics/backgrounds/36.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/36.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p36::before,
-#modal-p36-2::before,
-#modal-p36-3::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.3);
-  /* 50% de opacidad */
 }
 #modal-p36 > *:not(.close-modal ),
 #modal-p36-2 > *:not(.close-modal ),
 #modal-p36-3 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p37 {
-  background-image: url("../../pics/backgrounds/37.jpg");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/37.jpg");
   background-size: cover;
   background-position: center;
-}
-#modal-p37::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p37 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p41 {
-  background-image: url("../../pics/backgrounds/41.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/41.webp");
   background-size: cover;
   background-position: center;
-}
-#modal-p41::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p41 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p42 {
-  background-image: url("../../pics/backgrounds/modal-pg41.png");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/modal-pg41.png");
   background-size: cover;
   background-position: center;
-}
-#modal-p42::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
 }
 #modal-p42 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p43 {
-  background-image: url("../../pics/backgrounds/43.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/43.webp");
   background-size: cover;
   background-position: bottom;
 }
-#modal-p43::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
 #modal-p43 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p47-1 {
-  background-image: url("../../pics/backgrounds/47.webp");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/47.webp");
   background-size: cover;
   background-position: center;
 }
-#modal-p47-1::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
 #modal-p47-1 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
 #modal-p48 {
-  background-image: url("../../pics/backgrounds/49.png");
+  background: linear-gradient(#ffffff, rgba(0, 0, 0, 0.5)), url("../../pics/backgrounds/49.png");
   background-size: cover;
   background-position: bottom;
 }
-#modal-p48::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  /* 50% de opacidad */
-}
 #modal-p48 > *:not(.close-modal ) {
-  z-index: 2;
-  position: relative;
+  padding: 13px 30px;
 }
