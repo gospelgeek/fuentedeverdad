@@ -107,6 +107,10 @@
         "id":"modal-p12-01",
         "imagenes_evento":[
             {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/I5ly_o2tJxA"
+            },
+            {
 
                 "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/1.jpg"
             },
@@ -245,6 +249,10 @@
             {
 
                 "src":"assets/pics/Eventos/eeuu/rancho_cucamonga/cumbre_celular/35.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/GyQe5kG8obU"
             },
             {
 

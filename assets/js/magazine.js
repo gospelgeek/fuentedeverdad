@@ -90,7 +90,7 @@
            {
                img.attr('src', url);
            } else{
-                if(page == 1 || page == 6 || page ==2){
+                if(page == 1 || page == 6 || page ==2 || page == 7){
 
                 }else{
                     if(page == 44 || page == 45 || page == 4 || page == 5 || page == 38 || page == 39){

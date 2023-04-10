@@ -3403,7 +3403,7 @@ button::-moz-focus-inner {
 }
 
 .video-entrevista-fdv{
-    width: 100%;
+    width: 90%;
     height: 315px;
 }
 
@@ -3798,4 +3798,16 @@ line-height: 14px;
 .backVideo39 {
     height: 100%;
     width: 100%;
+}
+
+.carousel-container iframe.active {
+    display: block;
+    z-index: 1;
+    position: absolute;
+}
+
+.carousel-slide iframe {
+    display: none;
+    transition: opacity 0.5s ease-in-out;
+    transform: translate(0, 30%);
 }
