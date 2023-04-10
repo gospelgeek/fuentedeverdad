@@ -43,7 +43,7 @@
         "x": "12%",
         "y": "25%",
         "src": "assets/pics/Eventos/mexico/mexicali/2-MEX-MEXICALI-EVENTORECIBIREIS.webp",
-        "text": "Seminario <br> de Liderazgo",
+        "text": "Evento <br> Recibiréis poder",
         "id":"modal-p21-01",
         "imagenes_evento":[
             {
@@ -196,16 +196,16 @@
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "70%",
+        "y": "71.5%",
         "class": "full-subtitle",
-        "text": "Diácono Encargado: <br> Hermano..."
+        "text": "Diácono Encargado: <br> Hermano Aldo López Solis <br>10 al 12 de Noviembre de 2022"
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "68%",
         "src": "assets/pics/Eventos/mexico/juchitan/3-MEX-JUCHITAN-LANZAMIENTO.webp",
-        "text": "Seminario <br> de Unicidad",
+        "text": "Lanzamiento<br>Oficial<br>de la Iglesia",
         "id":"modal-p21-01",
         "imagenes_evento":[
             {
@@ -221,23 +221,6 @@
                 "src":"assets/pics/Eventos/mexico/juchitan/4.jpg"
             }
         ]
-    },
-    {
-        "x": "60%",
-        "y": "75%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p21-2",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>LANZAMIENTO DE FUENTE DE VERDAD EN JUCHITÁN, OAXACA",
-            "content": "Diácono Encargado: Hermano Aldo López Solis <br>10 al 12 de Noviembre de 2022"
-        }
     },
     {
         "x": "45%",

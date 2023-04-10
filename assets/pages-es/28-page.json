@@ -234,24 +234,7 @@
         "x": "65%",
         "y": "72%",
         "class": "full-subtitle",
-        "text": "“Preparándonos para <br> servir con..."
-    },
-    {
-        "x": "65%",
-        "y": "77%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p28-5",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>CONFERENCIAS<br>DECANO JORGE MEDINA<br>“Preparándonos para servir con excelencia”<h6>Enero 2022</h6>",
-            "content": ""
-        }
+        "text": "“Preparándonos para <br> servir con excelencia <br> Enero 2022"
     },
     {
         "tag": "event-container",

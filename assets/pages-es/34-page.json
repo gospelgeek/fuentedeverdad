@@ -210,13 +210,13 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p34",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>",
-            "content": ""
+            "title": "<br>CELEBRACIÓN DEL PRIMER ANIVERSARIO Y VISITA DE NUESTRO OBISPO SAMUEL VALVERDE",
+            "content": "En el mes de mayo del 2022 tuvimos la bendición de recibir a nuestro apreciado obispo Samuel Valverde y a la primera dama Raquel Valverde. Su visita fue de mucha bendición para nosotros y más aún por la oportunidad de poder celebrar con ellos el primer aniversario de FUENTE DE VERDAD en Cartago, Costa Rica."
         }
     },
     {
@@ -245,13 +245,13 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p34-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>",
-            "content": ""
+            "title": "<br>CASA DE VIDA - GRUPOS CASA",
+            "content": "En el mes de junio iniciamos el establecimiento de Casas de Vida (Grupos Casa). Iniciamos con 5 casas, al mismo tiempo iniciamos la formación de los líderes que estarán a cargo de las casas de vida, siendo esto de gran gozo para la congregación. Al día de hoy tenemos 8 Casas de Vida establecidas en Cartago y 4 en la ciudad de Turrialba."
         }
     },
     {
@@ -288,13 +288,13 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p34-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>",
-            "content": ""
+            "title": "<br>CASA DE VIDA EN LA CIUDAD DE TURRIALBA - CARTAGOBAUTISMO PRIMICIA",
+            "content": "En el mes de julio iniciamos las Casas de Vida en la ciudad de Turrialba, ubicada a 45 minutos de la ciudad de Cartago. Dios nos abrió las puertas de esta ciudad y estamos viendo cómo el Señor sana los corazones heridos de las personas en esta ciudad. De este trabajo bautizamos a la Hna. Clarita. Damos gracias al Señor por esta bendición. No descansaremos hasta ver cada corazón sanado."
         }
     },
     {

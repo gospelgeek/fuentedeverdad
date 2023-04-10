@@ -59,26 +59,9 @@
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "23%",
+        "y": "20%",
         "class": "full-subtitle",
-        "text": "Mostramos a la <br> comunidad de la iglesia..."
-    },
-    {
-        "x": "60%",
-        "y": "28%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p22",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>SERVICIO AL AIRE LIBRE<h5>25 de septiembre de 2022</h5>",
-            "content": "Mostramos a la comunidad la iglesia que somos. Tuvimos asistencia de la misma comunidad."
-        }
+        "text": "25 de Septiembre de 2022<br>Mostramos a la comunidad<br>de la iglesia que somos. Tuvimos asistencia de la <br>misma comunidad."
     },
     {
         "tag": "event-container",
@@ -143,27 +126,10 @@
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "47%",
+        "y": "46%",
         "class": "full-subtitle",
-        "text": "Fue un evento <br> restaurador para..."
-    },
-    {
-        "x": "60%",
-        "y": "52%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p22-3",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>RETIRO PENIEL<h5>2 y 3 de Diciembre de 2022</h5>",
-            "content": "Fue un evento restaurador para nuestra alma. Brindó esperanza a cada asistente."
-        }
-    },
+        "text": "2 y 3 de Diciembre de 2022<br>Fue un evento restaurador <br> para nuestra alma. Brindó esperanza a cada asistente."
+    },    
     {
         "tag": "event-title",
         "x": "5%",
