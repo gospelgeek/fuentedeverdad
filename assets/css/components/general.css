@@ -526,7 +526,7 @@ ul#answer-container li .action button {
 }
 .region.fdv-element2 > div .left .action button {
   border-radius: 30px;
-  display: flex;
+  display: inline-block;
   justify-content: center;
   align-items: center;
   padding: 5px;
