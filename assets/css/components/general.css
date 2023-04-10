@@ -509,7 +509,7 @@ ul#answer-container li .action button {
 }
 .region.fdv-element2 > div .left {
   color: #ffffff;
-  width: 55%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 5px;
@@ -535,6 +535,9 @@ ul#answer-container li .action button {
 }
 .region.fdv-element2 > div .right {
   width: 45%;
+  left: 60%;
+  position: absolute;
+  top: -5%;
 }
 .region.fdv-element2 > div .right img {
   border-radius: 50%;
