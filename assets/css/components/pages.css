@@ -3759,3 +3759,11 @@ line-height: 14px;
 .play-video{
     filter: opacity(0.7) hue-rotate(210deg);
 }
+
+#modal-p39 {
+    background-image: url(/assets/pics/backgrounds/modal-p39.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-weight: lighter;
+}

@@ -329,7 +329,7 @@ function click_boton_a_english() {
 /*CARUSEL*/
   
 function evento(e){
-    console.log("si");
+    
     $(".carousel-slide").remove();
     const modal = $(e).data("id");
     const imagenes  = $(e).data("imagenes");

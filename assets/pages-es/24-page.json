@@ -148,23 +148,6 @@
         "x": "62%",
         "y": "71%",
         "class": "full-subtitle",
-        "text": "El propósito de este <br> evento fuedar..."
-    },
-    {
-        "x": "62%",
-        "y": "76%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p24-2",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>ABRE TUS OJOS<h5>2 de Octubre de 2022 </h5>",
-            "content": "El propósito de este evento fue dar a conocer el mensaje del evangelio a nuevos creyentes, y que ellos conecten con la iglesia."
-        }
+        "text": "El propósito de este <br> evento fue dar conocer el mensaje del evangelio a nuevos creyentes, y que ellos conecten con la iglesia."
     }
 ]

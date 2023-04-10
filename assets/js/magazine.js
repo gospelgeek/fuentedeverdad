@@ -26,7 +26,11 @@
 
         if (page !== 1  && page !== pages && page !== 2) {
             if (lang == 'es') {
-                element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + (page-1) + ' </div>');
+                if(page % 2 == 0){
+                    element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + (page-1) + '-Publicación Misiones Globales</div>')
+                }else{
+                    element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>Publicación Misiones Globales-' + (page-1) + '</div>');
+                }
             } else {
                 element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + (page-1) + ' </div>');
             }

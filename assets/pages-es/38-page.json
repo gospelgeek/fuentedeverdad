@@ -70,8 +70,36 @@
         "id":"modal-p38-01",
         "imagenes_evento":[
             {
-                "tipo":"video",
-                "src":"https://www.youtube.com/embed/8wMdksDEMn8"
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/1.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/2.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/3.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/4.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/5.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/6.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/7.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_IV/8.png"
             }
         ] 
     },
@@ -87,8 +115,44 @@
         "id":"modal-p38-01",
         "imagenes_evento":[
             {
-                "tipo":"video",
-                "src":"https://www.youtube.com/embed/VPgEHIxRGJ0"
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/1.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/2.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/3.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/4.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/5.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/6.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/7.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/8.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/9.png"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/seminario_V/10.png"
             }
         ] 
     },

@@ -66,26 +66,9 @@
     {
         "tag": "event-subtitle",
         "x": "63%",
-        "y": "7%",
+        "y": "9%",
         "class": "full-subtitle",
-        "text": "“Preparandonos para <br> servir con..."
-    },
-    {
-        "x": "63%",
-        "y": "12.5%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p29",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>BAUTISMOS EN EL NOMBRE DE JESÚS<br> “Avanzando hacia el reino”<h6>Agosto 2022</h6>",
-            "content": ""
-        }
+        "text": "“Avanzando hacia el reino”<br>Agosto 2022"
     },
     {
         "tag": "event-container",
@@ -169,24 +152,7 @@
         "x": "63%",
         "y": "50%",
         "class": "full-subtitle",
-        "text": "Es más bienaventurado <br>dar que recibir..."
-    },
-    {
-        "x": "63%",
-        "y": "55.5%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p29-3",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>ALMUERZO EN EL PARQUE<h6>Marzo 2022</h6>",
-            "content": "Es más bienaventurado dar que recibir “Amamos a los jóvenes”"
-        }
+        "text": "Es más bienaventurado <br>dar que recibir “Amamos a los jóvenes”"
     },
     {
         "tag": "event-container",

@@ -416,7 +416,7 @@ const addComponents = (region, lang) => {
                                 <h3>${region.date}</h3>
                                 <div class="action">
                                     <button data-id="${region.id}" data-imagenes='${videos}' onclick="evento(this)" class="video-button">
-                                        Ver Video
+                                        Ver Fotos
                                     </button>
                                     
                                 </div>

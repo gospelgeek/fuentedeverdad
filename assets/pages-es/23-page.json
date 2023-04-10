@@ -42,7 +42,7 @@
         "tag": "event-container",
         "x": "12%",
         "y": "25%",
-        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOMATRIMONIOS.webp",
+        "src": "assets/pics/Eventos/mexico/jomulco/10-MEX-JOMULCO-LANZAMIENTO.webp",
         "text": "Evento <br> de matrimonios",
         "id":"modal-p23-01",
         "imagenes_evento":[
@@ -119,26 +119,9 @@
     {
         "tag": "event-subtitle",
         "x": "62%",
-        "y": "27%",
+        "y": "26%",
         "class": "full-subtitle",
-        "text": "Cuando Dios une, ni el <br> hombre puede..."
-    },
-    {
-        "x": "62%",
-        "y": "32%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p23",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>EVENTO DE MATRIMONIOS<h5>12 de Febrero de 2022</h5>",
-            "content": "Cuando Dios une, ni el hombre puede separar. ¡Trabajando a nivel familiar!"
-        }
+        "text": "12 de Febrero de 2022<br>Cuando Dios une, ni el <br> hombre puede separar. ¡Trabajando a nivel familiar!"
     },
     {
         "tag": "event-container",
@@ -189,26 +172,9 @@
     {
         "tag": "event-subtitle",
         "x": "62%",
-        "y": "42%",
+        "y": "41%",
         "class": "full-subtitle",
-        "text": "Tuvimos la grata <br> compañia de nuestro..."
-    },
-    {
-        "x": "62%",
-        "y": "47%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p23-2",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>SERVICIO EVANGELISTICO CELULAR<h5>9 de Abril de 2022</h5>",
-            "content": "Dios se manifestó de una manera poderosa. Nuestro Señor Jesucristo tocó corazones."
-        }
+        "text": "9 de Abril de 2022 <br>Tuvimos la grata <br> compañia de nuestro Señor Jesucristo tocó corazones."
     },
     {
         "tag": "event-container",

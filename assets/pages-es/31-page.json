@@ -209,33 +209,24 @@
     {
         "tag": "event-subtitle",
         "x": "65%",
-        "y": "43%",
+        "y": "44%",
         "class": "full-subtitle",
-        "text": "Casa de los hermanos Barroso..."
-    },
-    {
-        "x": "65%",
-        "y": "48%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p31-4",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>SERVICIO DE CELEBRACIÓN Y SANTA CENA<h6>31 de diciembre de  2022<br>Casa de los hermanos Barroso</h6>",
-            "content": ""
-        }
+        "text": "31 de Diciembre de 2022 <br> Casa de los hermanos Barroso"
     },
     {
         "tag": "event-container",
         "x": "30%",
-        "y": "52%",
+        "y": "54%",
         "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-PASTORISHIGURO.webp",
-        "text": "Nuevo Templo"
+        "text": "Nuevo Templo",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+                "tipo": "video",
+                "src":"https://www.youtube.com/embed/tE1-MurPf-Q"
+            }
+        ]    
+
     },
     {
         "tag": "event-title",
