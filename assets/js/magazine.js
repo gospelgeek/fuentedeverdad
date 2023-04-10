@@ -93,7 +93,7 @@
                 if(page == 1 || page == 6 || page ==2){
 
                 }else{
-                    if(page == 44 || page == 45 || page == 4 || page == 5){
+                    if(page == 44 || page == 45 || page == 4 || page == 5 || page == 38 || page == 39){
                         var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '.webm', loop: true, 'class': 'backVideo' + page }));
                         video.appendTo(element)
                     }else{

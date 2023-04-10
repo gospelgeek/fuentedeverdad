@@ -332,10 +332,10 @@ function evento(e){
     
     $(".carousel-slide").remove();
     const modal = $(e).data("id");
-    const imagenes  = $(e).data("imagenes");
+    let imagenes  = $(e).data("imagenes");
     const div = document.querySelector('#'+modal);
     const carousel = div.querySelector(".carousel-container");
-
+    
     if(imagenes != "undefined" && imagenes != undefined){
         
         const div2 = document.createElement('div');
@@ -375,7 +375,8 @@ function evento(e){
         const fondo = document.querySelector('#'+modal);
         fondo.style.background = "none";
         var index = 0;
-        nextBtn.setAttribute('style',"display:block"); 
+        nextBtn.setAttribute('style',"display:block");
+        prevBtn.setAttribute("style","display:none");
         function changeImage(n) {
             if(imagenes[n].tipo == "video"){
                 /*images[index].classList.remove('active');
@@ -386,6 +387,18 @@ function evento(e){
                 images[index].classList.remove('active');
                 index = (n + images.length) % images.length;
                 images[index].classList.add('active');
+            }
+
+            if(n>0){
+                prevBtn.setAttribute("style","display:block");
+            }else{
+                prevBtn.setAttribute("style","display:none");
+            }
+
+            if(imagenes.length-1 == n){
+                nextBtn.setAttribute("style","display:none");
+            }else{
+                nextBtn.setAttribute("style","display:block");
             }
         } 
 
@@ -399,8 +412,16 @@ function evento(e){
         nextBtn.addEventListener('click', () => {
             if(index<images.length-1){
                 changeImage(index + 1);   
+            }else{
+
             }
         });
+        console.log(imagenes.length);
+
+        if(imagenes.length == 1){
+            nextBtn.setAttribute("style","display:none");
+            prevBtn.setAttribute("style","display:none");
+        }
  
         $("#"+modal).modal('show');
     }
