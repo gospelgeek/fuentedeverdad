@@ -60,7 +60,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p6",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>Informe Misionero Fuente de Verdad Global<br><br>",

@@ -794,6 +794,11 @@ div[page="7"]{
         .region.actions{
             top: 87% !important;
         }
+
+        .region.reproducir{
+            left: 42% !important;
+            top: 87% !important;
+        }
     }
 }
 
@@ -1189,5 +1194,35 @@ div[page="7"]{
     
     >*:not(.close-modal ){
         padding: 13px 30px;
+    }
+}
+
+// mover por pagina el leer mas en responsive
+@media (max-width: 600px) {
+    .region.mover-leer-mas{
+        transform: translateX(-20px);  
+    }
+}
+
+// mover por pagina el audio
+@media (max-width: 600px) {
+    img#page11,img#page11-1, img#page31{
+        width: 85%;
+        margin-left: 4px;
+        margin-top: -2px;
+    }
+    img#page31{
+        width: 85%;
+        margin-left: 4px;
+    }
+}
+
+// ancho de botones paginas de eventos
+@media (max-width: 600px) {
+    .page.p33{
+        .div-center-two-icons-responsive{
+            width: 4.5em;
+            margin-right: -20px;
+        }
     }
 }

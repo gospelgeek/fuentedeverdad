@@ -23,7 +23,7 @@
           "fontSize": "3.3em",
           "tag": "modal-pequeno",
           "id": "modal-p47-1",
-          "class": "leermas-pag47",
+          "class": "leermas-pag47 mover-leer-mas",
           "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
           "data": {
               "title": "<br>¿CÓMO PUEDO HACERME UN PATROCINADOR MENSUAL DE LAS MISIONES FDV? <br><br>",

@@ -410,7 +410,6 @@ ul#answer-container li .action button {
 .region.legal-page-paragraph .responsive-font-content p {
   text-align: center;
 }
-
 .region.fdv-title h1 {
   color: #ffffff;
   font-size: 58px;
@@ -526,12 +525,13 @@ ul#answer-container li .action button {
 }
 .region.fdv-element2 > div .left .action button {
   border-radius: 30px;
-  display: inline-block;
+  display: flex;
   justify-content: center;
   align-items: center;
   padding: 5px;
   cursor: pointer;
   border: none;
+  display: inline-block;
 }
 .region.fdv-element2 > div .right {
   width: 45%;
@@ -642,6 +642,10 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 @media (max-width: 600px) {
   .page.p10 .region.actions {
+    top: 87% !important;
+  }
+  .page.p10 .region.reproducir {
+    left: 42% !important;
     top: 87% !important;
   }
 }
@@ -1036,4 +1040,28 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 #modal-p48 > *:not(.close-modal ) {
   padding: 13px 30px;
+}
+@media (max-width: 600px) {
+  .region.mover-leer-mas {
+    transform: translateX(-20px);
+  }
+}
+@media (max-width: 600px) {
+  img#page11,
+  img#page11-1,
+  img#page31 {
+    width: 85%;
+    margin-left: 4px;
+    margin-top: -2px;
+  }
+  img#page31 {
+    width: 85%;
+    margin-left: 4px;
+  }
+}
+@media (max-width: 600px) {
+  .page.p33 .div-center-two-icons-responsive {
+    width: 4.5em;
+    margin-right: -20px;
+  }
 }

@@ -500,7 +500,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p12",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>CUMBRE CELULAR GLOBAL 2022<h6>Sábado 03 de Septiembre<h6>",
@@ -565,7 +565,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p12-2",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "EL DERRAMAMIENTO",
@@ -622,7 +622,7 @@
         "fontSize": "2em",
         "tag": "modal-pequeno",
         "id": "modal-p12-3",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "Palabras del Predicador",

@@ -43,7 +43,7 @@
     }, 
     {
          "x": "40%",
-         "y": "87%",
+         "y": "91.7%",
          "viewX": 1800,
          "viewY": 100,
          "width": "90%",
@@ -51,7 +51,7 @@
          "fontSize": "3.3em",
          "tag": "modal-pequeno",
          "id": "modal-p48",
-         "class": "",
+         "class": "mover-leer-mas",
          "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
          "data": {
              "title": "<br>AGRADECIMIENTO A NUESTRA 1RA. DAMA EN FDV",
@@ -60,7 +60,7 @@
     },
     {
         "x": "53%",
-        "y": "87.5%",
+        "y": "91.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "20%",

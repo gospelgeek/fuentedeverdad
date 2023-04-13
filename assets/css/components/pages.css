@@ -164,7 +164,6 @@ span {
     align-items: center;
     width: 100%;
     height: auto;
-    overflow: hidden;
 }
 
 .contentAuthor {
@@ -471,7 +470,6 @@ audio {
     align-items: center;
     width: 100%;
     height: auto;
-    overflow: hidden;
 }
 
 .div-center-two-icons-responsive {
@@ -481,7 +479,7 @@ audio {
     align-items: center;
     justify-items: center;
     width: 4.5em;
-    gap: 10px;
+    gap: 5px;
 }
 
 
@@ -1078,8 +1076,12 @@ audio {
         font-size: 0.8em !important;
     }
 
+    .button-magazine img{
+        width: 18% !important;
+    }
+
     .div-center-two-icons-responsive {
-        width: 3.5em;
+        width: 5.5em;
     }
 
     .read-more-content {

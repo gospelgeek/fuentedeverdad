@@ -25,6 +25,7 @@
     {
         "x": "10%",
         "y": "65%",
+        "class": "mover-leer-mas",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
