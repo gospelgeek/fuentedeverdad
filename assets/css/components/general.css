@@ -1085,3 +1085,23 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 .page.p2 .region.undefined#text-indece-page-2 .indice-text a {
   font-size: 10px;
 }
+@media (max-width: 600px) {
+  .page.p12 .aux-class-content {
+    width: 60% !important;
+  }
+  .page.p12 .aux-class-content .main-text-p12 {
+    font-size: 11px;
+  }
+  .page.p12 img[width="250"] {
+    width: 82%;
+  }
+  .page.p12 img[width="200"] {
+    height: auto;
+  }
+  .page.p12 .region.gallery-pic1 {
+    left: 5% !important;
+  }
+  .page.p12 .region.gallery-pic2 {
+    left: 45% !important;
+  }
+}
