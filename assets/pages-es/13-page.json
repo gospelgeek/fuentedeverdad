@@ -8,72 +8,6 @@
         "image": "<img src='assets/pics/photos/USA_esp.png'>"
     },
     {
-        "tag": "event-title",
-        "x": "11%",
-        "y": "10%",
-        "text1": "Brewster",
-        "text2": "New York"
-    },
-    {
-        "tag": "pastor-name",
-        "x": "11%",
-        "y": "15%",
-        "text": "Abner Ariel Sandoval, Ministro Encargado"
-    },
-    {
-        "tag": "event-container",
-        "id" :"modal-p13-01",
-        "x": "8%",
-        "y": "18%",
-        "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
-        "text": "Día del <br> Super Heroe 2022",
-        "imagenes_evento":[
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/1.JPG"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/2.JPG"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/3.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/4.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/5.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/6.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/7.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/8.jpg"
-            },
-            {
-
-                "src":"assets/pics/Eventos/eeuu/brewster/9.jpg"
-            }
-            
-        ]    
-    },
-    {
-        "tag": "event-subtitle",
-        "x": "61%",
-        "y": "21%",
-        "text": "Servicio de niños <br> Septiembre 2022"
-    },
-    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,
@@ -93,22 +27,22 @@
     },
     {
         "tag": "event-title",
-        "x": "11%",
-        "y": "45%",
+        "x": "8%",
+        "y": "10%",
         "text1": "Hurst",
         "text2": "Texas"
     },
     {
         "tag": "pastor-name",
-        "x": "11%",
-        "y": "50%",
+        "x": "8%",
+        "y": "15%",
         "text": "Angel Mandujano, Pastor"
     },
     {
         "id":"modal-p13-01",
         "tag": "event-container",
         "x": "8%",
-        "y": "53%",
+        "y": "19%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-2ANIVERSARIO.webp",
         "text": "Segundo Aniversario <br> de la Iglesia",
         "imagenes_evento":[
@@ -154,14 +88,31 @@
     {
         "tag": "event-subtitle",
         "x": "61%",
-        "y": "56%",
+        "y": "22.5%",
         "text": "Tuvimos la grata compañía de nuestro..."
+    },    
+    {
+        "x": "61%",
+        "y": "28%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p13-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>Segundo Aniversario de la Iglesia<h6>Julio 9 - 10 de 2022</h6>",
+            "content": "Tuvimos la grata compañía de nuestro Obispo Samuel Valverde y la Primera Dama nuestra hermana Raquel; agradecemos su cariño y apoyo. Gracias sean dadas al Señor Jesús por su respaldo y bendición en todo momento."
+        }
     },
     {
         "id": "modal-p13-01",
         "tag": "event-container",
         "x": "8%",
-        "y": "68%",
+        "y": "42%",
         "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
         "text": "Alborada <br> Servicio <br> de Amanecer",
         "imagenes_evento":[
@@ -183,29 +134,12 @@
     {
         "tag": "event-subtitle",
         "x": "61%",
-        "y": "71%",
-        "text": "Celebramos junto con la iglesia de pipeline..."
+        "y": "45%",
+        "text": "Celebramos junto con la iglesia de Pipeline..."
     },
     {
         "x": "61%",
-        "y": "61.7%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal-pequeno",
-        "id": "modal-p13-2",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>Segundo Aniversario de la Iglesia<h6>Julio 9 - 10 de 2022</h6>",
-            "content": "Tuvimos la grata compañía de nuestro Obispo Samuel Valverde y la 1ra. Dama nuestra hermana Raquel; agradecemos su cariño y apoyo. Gracias sean dadas al Señor Jesús por su respaldo y bendición en todo momento."
-        }
-    },
-    {
-        "x": "61%",
-        "y": "77%",
+        "y": "51%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -218,6 +152,100 @@
         "data": {
             "title": "<br>SERVICIO DE AMANECER<h6>Abril 17, 2022</h6>",
             "content": "Celebramos junto con la iglesia de Pipeline Church este servicio, afuera en el estacionamiento. Fue de gran bendición."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "58.5%",
+        "src": "assets/pics/Eventos/eeuu/plano/2-EU-HURST-FRESHINK.webp",
+        "text": "Fresh Ink",
+        "id":"modal-p13-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/3.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "58.5%",
+        "text": "Los jóvenes hicieron una actividad para la..."
+    },
+    {
+        "x": "61%",
+        "y": "64%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p14",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FRESH INK<h6>Septiembre 30 de 2022</h6>",
+            "content": "Los jóvenes hicieron una actividad para la comunidad, con el fin de alcanzar la juventud del sector. El tema del servicio fue “Te queremos Aquí”."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "72%",
+        "src": "assets/pics/Eventos/eeuu/plano/2-EU-HURST-SERVICIO.webp",
+        "text": "Servicios de Acción de Gracias",
+        "id":"modal-p13-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/3.jpg"
+            },
+            {
+        
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/4.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "73%",
+        "text": "Nos gozamos en este servicio y, despues..."
+    },
+    {
+        "x": "61%",
+        "y": "78.7%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p14-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO DE ACCIÓN DE GRACIAS",
+            "content": "Nos gozamos en este servicio y, después en una gran cena donde las familias participaron trayendo algo para compartir."
         }
     },
     {

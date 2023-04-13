@@ -61,14 +61,14 @@
         "x": "60%",
         "y": "20%",
         "class": "full-subtitle",
-        "text": "25 de Septiembre de 2022<br>Mostramos a la comunidad<br>de la iglesia que somos. Tuvimos asistencia de la <br>misma comunidad."
+        "text": "25 de Septiembre de 2022<br>Mostramos a la comunidad<br>de la iglesia quienes somos. Tuvimos asistencia de la <br>misma comunidad."
     },
     {
         "tag": "event-container",
         "x": "8%",
         "y": "31%",
         "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-ANIVERSARIO.webp",
-        "text": "Aniversario <br> iglesia y <br> Dial del Amigo",
+        "text": "Aniversario <br> iglesia y <br> Día del Amigo",
         "id":"modal-p22-01",
         "imagenes_evento":[
             {
@@ -102,7 +102,7 @@
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>DÍA DEL AMIGO - ANIVERSARIO IGLESIA FDV TIJUANA<h5>23 de octubre de 2022</h5>",
-            "content": "Experimentamos gozo al recibir a nuestros amigos por los cuales estuvimos en oración y seguimiento.  Los resultados fueron muy motivantes, para continuar con nuestra misión aquí en Tijuana B.C"
+            "content": "Experimentamos gozo al recibir a nuestros amigos por los cuales estuvimos en oración y seguimiento.  Los resultados fueron muy motivantes, para continuar con nuestra misión aquí en Tijuana B.C."
         }
     },
     {
@@ -198,7 +198,7 @@
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "Lanzamiento Oficial de la Iglesia",
-            "content": "El día viernes 28 de octubre de 2022, se realizó el lanzamiento oficial de Fuente de Verdad Mazatlán. Un hermoso evento al que asistió el Obispo Samuel Valverde y la 1ra. Dama Raquel Valverde, así como el supervisor de FDV México, el pastor Domingo Carlos y su esposa Irene Carlos. <br><br>Ese día se celebró la ordenación ministerial del Pastor Eliezer Barboza en ese lugar.  Fue un servicio donde la presencia de Dios se derramó de una manera especial, y todos fueron inspirados con un hermoso mensaje de nuestro Obispo Valverde.<br><br>Al final convivieron unos con otros, disfrutando al compartir alimentos y la compañía de todos los invitados."
+            "content": "El día viernes 28 de octubre de 2022, se realizó el lanzamiento oficial de Fuente de Verdad Mazatlán. Un hermoso evento al que asistió el Obispo Samuel Valverde y la Primera Dama Raquel Valverde, así como el supervisor de FDV México, el pastor Domingo Carlos y su esposa Irene Carlos. <br><br>Ese día se celebró la ordenación ministerial del Pastor Eliezer Barboza en ese lugar.  Fue un servicio donde la presencia de Dios se derramó de una manera especial, y todos fueron inspirados con un hermoso mensaje de nuestro Obispo Valverde.<br><br>Al final convivieron unos con otros, disfrutando al compartir alimentos y la compañía de todos los invitados."
         }
     }
 ]

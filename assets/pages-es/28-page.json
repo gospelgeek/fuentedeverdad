@@ -82,7 +82,7 @@
         "x": "65%",
         "y": "19%",
         "class": "full-subtitle",
-        "text": "se celebró una noche <br> de paz en lo que se..."
+        "text": "Se celebró una noche <br> de paz en lo que se..."
     },
     {
         "x": "65%",
@@ -234,7 +234,7 @@
         "x": "65%",
         "y": "72%",
         "class": "full-subtitle",
-        "text": "“Preparándonos para <br> servir con excelencia <br> Enero 2022"
+        "text": "“Preparándonos para <br> servir con excelencia.” <br> Enero 2022"
     },
     {
         "tag": "event-container",

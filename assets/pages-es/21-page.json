@@ -10,14 +10,14 @@
     {
         "tag": "event-title",
         "x": "10%",
-        "y": "17%",
+        "y": "15%",
         "text1": "Mexicali",
         "text2": "México"
     },
     {
         "tag": "pastor-name",
         "x": "10%",
-        "y": "22%",
+        "y": "20%",
         "text": "Abraham Eduardo Encinas Espinoza, Pastor"
     },
     {
@@ -177,7 +177,7 @@
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>RECIBIRÉIS PODER<h5>Diciembre 2 al 4 de 2022</h5>",
-            "content": "En este evento contamos con una asistencia, los 3 días, de aproximadamente 120 personas<br><br>Las actividades fueron las siguientes:<br><br>2 de diciembre<ul><li>Servicio de Himnos Apostólicos.<br>Predicó el Obispo Samuel Valverde</li><ul>3 de diciembre <ul><li>Conferencias Matutinas. <br>Enseñó el Obispo Samuel Valverde y el Pastor Abraham Encinas.</li><li>Servicio de Lanzamiento y Ordenación Ministerial.<br>Predicó el Obispo Samuel Valverde<br>Recibió la ordenación el Hno. Saul Sarabia</li><li>Ceremonia de Lanzamiento y bendición.</li></ul>4 de diciembre<ul><li>Servicio de Celebración y Bautismos<br>Predicó el Evangelista Aldo Lopez de FDV Juchitán, Oaxaca.</li></ul>"
+            "content": "En este evento contamos con una asistencia, los 3 días, de aproximadamente 120 personas.<br><br>Las actividades fueron las siguientes:<br><br>2 de diciembre<ul><li>Servicio de Himnos Apostólicos.<br>Predicó el Obispo Samuel Valverde.</li></ul>3 de diciembre <ul><li>Conferencias Matutinas. <br>Enseñó el Obispo Samuel Valverde y el Pastor Abraham Encinas.</li><li>Servicio de Lanzamiento y Ordenación Ministerial.<br>Predicó el Obispo Samuel Valverde.<br>Recibió la ordenación el Hno. Saul Sarabia.</li><li>Ceremonia de Lanzamiento y bendición.</li></ul>4 de diciembre<ul><li>Servicio de celebración y bautismos.<br>Predicó el Evangelista Aldo Lopez de FDV Juchitán, Oaxaca.</li></ul>"
         }
     },
     {
