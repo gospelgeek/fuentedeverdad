@@ -17,7 +17,7 @@
     {
         "tag": "pastor-name",
         "x": "10%",
-        "y": "22%",
+        "y": "23%",
         "text": "Abraham Eduardo Encinas Espinoza, Pastor"
     },
     {
@@ -41,7 +41,7 @@
     {
         "tag": "event-container",
         "x": "12%",
-        "y": "25%",
+        "y": "26%",
         "src": "assets/pics/Eventos/mexico/mexicali/2-MEX-MEXICALI-EVENTORECIBIREIS.webp",
         "text": "Evento <br> Recibiréis poder",
         "id":"modal-p21-01",
@@ -159,13 +159,13 @@
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "26%",
+        "y": "27%",
         "class": "full-subtitle",
         "text": "En este evento<br> contamos con una..."
     },
     {
         "x": "60%",
-        "y": "31%",
+        "y": "32%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -190,7 +190,7 @@
     {
         "tag": "pastor-name",
         "x": "10%",
-        "y": "65%",
+        "y": "66%",
         "text": "Aldo Aurelio López Solís, Diácono Encargado"
     },
     {

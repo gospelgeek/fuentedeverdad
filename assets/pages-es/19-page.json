@@ -17,7 +17,7 @@
     {
         "tag": "pastor-name",
         "x": "8%",
-        "y": "16%",
+        "y": "17%",
         "text": "Samuel Valverde Jr, Pastor"
     },
     {
@@ -41,7 +41,7 @@
     {
         "tag": "event-container",
         "x": "25%",
-        "y": "19%",
+        "y": "20%",
         "src": "assets/pics/Eventos/eeuu/phoenix/6-EU-PHOENIX-SERVICIOORDENACION.webp",
         "text": "Servicio <br> de Ordenación",
         "id":"modal-p19-01",
@@ -98,7 +98,7 @@
     {
         "tag": "pastor-name",
         "x": "8%",
-        "y": "46%",
+        "y": "47%",
         "text": "Saul Santos, Pastor"
     },
     {

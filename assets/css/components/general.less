@@ -438,7 +438,7 @@ ul#answer-container{
         .responsive-font{
             margin-left: 40px;
             color: #fe5457;
-            font-size: 40px;
+            font-size: 40px !important;
             font-style: italic;
             p{
                 font-weight: 300;
@@ -1281,4 +1281,18 @@ div[page="7"]{
             left: 45% !important;
         }
     } 
+}
+// reajuste de tamaño de letra en mobile pagina 19
+@media (max-width: 600px) {
+    .text-pag-20{
+    font-size: 12px;
+    }
+
+    .nombres-p20{
+        font-size: 9px;
+    }
+
+    .region.read-more-p20{
+        top: 90% !important;
+    }
 }

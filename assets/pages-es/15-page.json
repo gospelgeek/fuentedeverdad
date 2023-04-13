@@ -17,13 +17,13 @@
     {
         "tag": "pastor-name",
         "x": "8%",
-        "y": "16%",
+        "y": "17%",
         "text": "John Freddy Quintero, Pastor"
     },
     {
         "tag": "event-subtitle",
         "x": "11%",
-        "y": "20%",
+        "y": "21%",
         "class": "full-subtitle",
         "text": "''Y a Aquel que es poderoso para hacer..."
     },

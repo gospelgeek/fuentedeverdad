@@ -17,14 +17,14 @@
     {
         "tag": "pastor-name",
         "x": "11%",
-        "y": "15%",
+        "y": "16%",
         "text": "Abner Ariel Sandoval, Ministro Encargado"
     },
     {
         "tag": "event-container",
         "id" :"modal-p13-01",
         "x": "8%",
-        "y": "18%",
+        "y": "19%",
         "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
         "text": "Día del <br> Super Heroe 2022",
         "imagenes_evento":[
@@ -70,7 +70,7 @@
     {
         "tag": "event-subtitle",
         "x": "61%",
-        "y": "21%",
+        "y": "22%",
         "text": "Servicio de niños <br> Septiembre 2022"
     },
     {
@@ -101,7 +101,7 @@
     {
         "tag": "pastor-name",
         "x": "11%",
-        "y": "50%",
+        "y": "51%",
         "text": "Angel Mandujano, Pastor"
     },
     {

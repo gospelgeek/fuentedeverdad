@@ -364,7 +364,7 @@ ul#answer-container li .action button {
 .region.corazon-sanado-title .div-center-ubication-responsive .responsive-font {
   margin-left: 40px;
   color: #fe5457;
-  font-size: 40px;
+  font-size: 40px !important;
   font-style: italic;
 }
 .region.corazon-sanado-title .div-center-ubication-responsive .responsive-font p {
@@ -1103,5 +1103,16 @@ div[page="7"] .page.p7 .region.video-entrevista video {
   }
   .page.p12 .region.gallery-pic2 {
     left: 45% !important;
+  }
+}
+@media (max-width: 600px) {
+  .text-pag-20 {
+    font-size: 12px;
+  }
+  .nombres-p20 {
+    font-size: 9px;
+  }
+  .region.read-more-p20 {
+    top: 90% !important;
   }
 }
