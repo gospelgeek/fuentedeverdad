@@ -13,7 +13,7 @@
         "width": "40%",
         "class": "top-entrevista",
         "tag": "top-entrevista",
-        "text": "<p><strong style='font-weight: normal;'>Preguntas inteligentes y respuestas profundas, enriquecedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí</strong></p>"
+        "text": "<p><strong style='font-weight: normal;'>Preguntas inteligentes y respuestas profundas, enriquecedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí.</strong></p>"
     },
     {
         "x": "30%",
@@ -53,7 +53,7 @@
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
+                "url": "https://drive.google.com/file/d/1wxNS3EuQN22YxoQKSZdqtbQ5KqGaFFZ7/view"
             }
         ]
     },

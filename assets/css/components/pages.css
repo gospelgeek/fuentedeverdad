@@ -3765,11 +3765,16 @@ line-height: 14px;
 }
 
 #modal-p39 {
-    background-image: url(/assets/pics/backgrounds/modal-p39.jpg);
+    background: url("../../pics/backgrounds/modal-p39.jpg");
     background-size: cover;
     background-position: center;
+    padding: 0;
     color: white;
     font-weight: lighter;
+}
+
+#modal-p39 > *:not(.close-modal ) {
+    padding: 13px 30px;
 }
 
 .p38 video {
@@ -3812,4 +3817,24 @@ line-height: 14px;
     display: none;
     transition: opacity 0.5s ease-in-out;
     transform: translate(0, 30%);
+}
+
+@media only screen and (min-height: 650px){
+    #img_48_page_esp{
+        top: 6em !important;
+    }
+
+    #img_48_page_esp img{
+        height: 80% !important;
+    }
+}
+
+@media only screen and (min-width: 1440px) and (height: 570px){
+    #img_48_page_esp{
+        top: 4em !important;
+    }
+
+    #img_48_page_esp img{
+        height: 75% !important;
+    }
 }

@@ -257,12 +257,13 @@ body {
    
     #img_48_page_esp,
     #img_48_page_eng {
-        top: 6em !important;
+        top:4.5em !important;
     }
 
     #img_48_page_esp > img,
     #img_48_page_eng > img{
         width: 80% !important;
+        height: 75% !important;
     }
 
     ._text_center_container_ > h1 {

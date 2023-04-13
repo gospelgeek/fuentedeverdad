@@ -43,7 +43,7 @@
         "x": "13%",
         "y": "22%",
         "src": "assets/pics/Eventos/japon/hiroshima/dia_amigo/modal.jpeg",
-        "text": "<strong>Dia <br>del Amigo</strong>",
+        "text": "<strong>Día <br>del Amigo</strong>",
         "id":"modal-p30-01",
         "imagenes_evento":[
             {
@@ -127,7 +127,7 @@
         "x": "13%",
         "y": "44%",
         "src": "assets/pics/Eventos/japon/hiroshima/dia_paseo/modal.jpg",
-        "text": "<strong>Paseo <br> dia del niño</strong>",
+        "text": "<strong>Paseo <br> día del niño</strong>",
         "id":"modal-p30-01",
         "imagenes_evento":[
             {
@@ -246,7 +246,7 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CAMPAMENTO DE VERANO<h6>12 al 14 de agosto de 2022<br>Lugar Fukuyama Yamanocho Camp.<br>3 días en medio de las montañas estudiando la Palabra de Dios.</h6>",
+            "title": "<br>CAMPAMENTO DE VERANO<h6>12 al 14 de agosto de 2022<br>Lugar Fukuyama Yamanocho Camp<br>3 días en medio de las montañas estudiando la Palabra de Dios</h6>",
             "content": ""
         }
     },

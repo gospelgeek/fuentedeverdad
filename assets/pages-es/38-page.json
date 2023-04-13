@@ -104,7 +104,7 @@
         "tag": "fdv-element1",
         "class": "fdv-element1",
         "title": "SEMINARIO V",
-        "texthtml": "<p>Más allá de lo básico</p><p>Como servir la santa sena</p><p>Cabos sueltos</p>",
+        "texthtml": "<p>Más allá de lo básico</p><p>Como servir la Santa Cena</p><p>Cabos sueltos</p>",
         "id":"modal-p38-01",
         "imagenes_evento":[
             {
@@ -162,7 +162,7 @@
     },
     {
         "x": "-8%",
-        "y": "80%",
+        "y": "86%",
         "width": "50%",
         "background-color": "#b41015",
         "color": "#fff",

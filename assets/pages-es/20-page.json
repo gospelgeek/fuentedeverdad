@@ -101,7 +101,7 @@
         "text": "",
         "id_unique": "text-indece-page-20",
         "data": {
-            "text": "<h3><strong>Sáb. 3</strong></h3>"
+            "text": "<h3><strong>04 al 07</strong></h3>"
         }   
     },
     {
@@ -117,7 +117,7 @@
         "text": "",
         "id_unique": "text-indece-page-20-1",
         "data": {
-            "text": "<h5 style='line-height: 14px;'>de<br>Septiembre</h5>"
+            "text": "<h5 style='line-height: 16px;font-size:1em'>de<br>Febrero</h5>"
         }   
     },
     {
@@ -133,7 +133,7 @@
         "text": "",
         "id_unique": "text-indece-page-20-2",
         "data": {
-            "text": "<h5 class='nombres-p20'>Pastor<br>Mario Oseguera</h5>"
+            "text": "<h5 class='nombres-p20'>Hna.<br>Raquel Valverde</h5>"
         }   
     },
     {
@@ -149,7 +149,7 @@
         "text": "",
         "id_unique": "text-indece-page-20-3",
         "data": {
-            "text": "<h5 class='nombres-p20'>Pastor<br>Elías Paez</h5>"
+            "text": "<h5 class='nombres-p20'>Pastor<br>Martín Pérez</h5>"
         }   
     },
     {
@@ -169,24 +169,8 @@
         }   
     },
     {
-        "x": "0",
-        "y": "84%",
-        "width": "100%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-20",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='text-pag-20'>Como iglesia FVD Gloval, tuvimos la bendición de estar conectados todas las sedes de manera simultanea en nuestra...</p>"
-        }
-    },
-    {
-        "x": "73%",
-        "y": "86%",
+        "x": "44%",
+        "y": "85%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -198,7 +182,7 @@
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>CUMBRE NACIONAL MÉXICO 2022<h5><b>Fecha:</b> 04 al 07 Febrero 2022</h5>",
-            "content": "<b>Invitados:</b><ul><li>Obispo Samuel Valverde & Hna. Raquel Valverde</li><li>Pastor Martín Pérez</li></ul><b>Pastores asistentes:</b><ul><li>Juan Domínguez & Lidia Juárez</li><li>Abraham Encinas & Perla Escalante</li><li>Isaac Nabte & Faride Casanova</li><li>Jairo Escobar & Paola Maldonado</li><li>Gabriel Gálvez & Egla Acosta</li><li>Francisco Díaz & Miriam Cid</li><li>Juan González & Claudia Prado</li><li>Domingo Carlos & Irene Carlos</li></ul><b>DÍA 1 – VIERNES 04 FEBRERO</b><table class='table-modal'><tr><td>Tiempo de Oracion</td><td>Todos</td></tr><tr><td>Mensaje de Lanzamiento</td><td>Pastor Domingo Carlos</td></tr><tr><td>Sesión 1. Bajada secreta del monte</td><td>Obispo Samuel Valverde</td></tr><tr><td>Sesión 2. 5 Características de la Intercesión</td><td>Pastor Martín Pérez</td></tr><tr><td colspan='2'>Sesiones simultáneas (Pastores & Ella México)</td></tr><tr><td>Cena-Conferencia matrimonial Y MI VIÑA QUE ERA MÍA…</td><td>Obispo Samuel Valverde & Hna. Raquel Valverde</td></tr></table><br><br><b>DÍA 2 – SÁBADO 05 FEBRERO</b><table class='table-modal'><tr><td>Sesión 3. Oraciones que mueven el Cielo y la Tierra</td><td>Pastor Domingo Carlos</td></tr><tr><td>Intercesión por el mundo</td><td>Obispo Samuel Valverde</td></tr><tr><td>Intercesión por nuestra nación</td><td>Pastor Martín Pérez</td></tr><tr><td>Intercesión por nuestra capital</td><td>Pastor Gabriel Gálvez</td></tr><tr><td colspan='2'>Sesiones simultáneas (Pastores & Ella México)</td></tr><tr><td colspan='2'>Culto de ordenación e iniciación Diáconos: Rubén Candanosa (SLP), Ramiro Ocampo (SLP), Orlando Valdez (SLP)Ministros: Antonio Medina (CDMX), Daniel Mascareño (Mexicali)</td></tr></table><br><br><b>DÍA 3 – DOMINGO 06 FEBRERO</b><table class='table-modal'><tr><td colspan='2'>Oración por México(ZÓCALO CDMX)</td></tr><tr><td colspan='2'>Culto de lanzamiento FDV CDMX</td></tr></table>"
+            "content": "<b>Invitados:</b><ul><li>Obispo Samuel Valverde & Hna. Raquel Valverde</li><li>Pastor Martín Pérez</li></ul><b>Pastores asistentes:</b><ul><li>Juan Domínguez & Lidia Juárez</li><li>Abraham Encinas & Perla Escalante</li><li>Isaac Nabte & Faride Casanova</li><li>Jairo Escobar & Paola Maldonado</li><li>Gabriel Gálvez & Egla Acosta</li><li>Francisco Díaz & Miriam Cid</li><li>Juan González & Claudia Prado</li><li>Domingo Carlos & Irene Carlos</li></ul><b>DÍA 1 – VIERNES 04 FEBRERO</b><table class='table-modal'><tr><td>Tiempo de Oracion</td><td>Todos</td></tr><tr><td>Mensaje de Lanzamiento</td><td>Pastor Domingo Carlos</td></tr><tr><td>Sesión 1. Bajada secreta del monte</td><td>Obispo Samuel Valverde</td></tr><tr><td>Sesión 2. 5 Características de la Intercesión</td><td>Pastor Martín Pérez</td></tr><tr><td colspan='2'>Sesiones simultáneas (Pastores & Ella México)</td></tr><tr><td>Cena-Conferencia matrimonial <br> Y MI VIÑA QUE ERA MÍA…</td><td>Obispo Samuel Valverde & Hna. Raquel Valverde</td></tr></table><br><br><b>DÍA 2 – SÁBADO 05 FEBRERO</b><table class='table-modal'><tr><td>Sesión 3. Oraciones que mueven el Cielo y la Tierra</td><td>Pastor Domingo Carlos</td></tr><tr><td>Intercesión por el mundo</td><td>Obispo Samuel Valverde</td></tr><tr><td>Intercesión por nuestra nación</td><td>Pastor Martín Pérez</td></tr><tr><td>Intercesión por nuestra capital</td><td>Pastor Gabriel Gálvez</td></tr><tr><td colspan='2'>Sesiones simultáneas (Pastores & Ella México)</td></tr><tr><td colspan='2'>Culto de ordenación e iniciación <br> Diáconos: Rubén Candanosa (SLP), Ramiro Ocampo (SLP), Orlando Valdez (SLP)Ministros: Antonio Medina (CDMX), Daniel Mascareño (Mexicali)</td></tr></table><br><br><b>DÍA 3 – DOMINGO 06 FEBRERO</b><table class='table-modal'><tr><td colspan='2'>Oración por México(ZÓCALO CDMX)</td></tr><tr><td colspan='2'>Culto de lanzamiento FDV CDMX</td></tr></table>"
         }
     }
 ]
