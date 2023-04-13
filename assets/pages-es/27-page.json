@@ -17,7 +17,7 @@
     {
         "tag": "pastor-name",
         "x": "5%",
-        "y": "15%",
+        "y": "16%",
         "text": "Álvaro Alexander Ocampo Cañas, Pastor"
     },
     {
@@ -41,7 +41,7 @@
     {
         "tag": "event-container",
         "x": "12%",
-        "y": "17%",
+        "y": "20%",
         "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOPASTOR.webp",
         "text": "Lanzamiento <br> 1er Pastor",
         "id":"modal-p27-01",
@@ -87,13 +87,13 @@
     {
         "tag": "event-subtitle",
         "x": "62%",
-        "y": "19%",
+        "y": "21%",
         "class": "full-subtitle",
         "text": "El Obispo Samuel <br> Valverde en compañia..."
     },
     {
         "x": "62%",
-        "y": "25%",
+        "y": "27%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -111,7 +111,7 @@
     {
         "tag": "event-container",
         "x": "12%",
-        "y": "28%",
+        "y": "30%",
         "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOIGLESIA.webp",
         "text": "Lanzamiento <br> Oficial <br> de la iglesia",
         "id":"modal-p27-01",
@@ -145,13 +145,13 @@
     {
         "tag": "event-subtitle",
         "x": "62%",
-        "y": "31%",
+        "y": "33%",
         "class": "full-subtitle",
         "text": "¡Fue una evento de gran gozo! Nos acompaño..."
     },
     {
         "x": "62%",
-        "y": "37%",
+        "y": "39%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -176,7 +176,7 @@
     {
         "tag": "pastor-name",
         "x": "5%",
-        "y": "60%",
+        "y": "61%",
         "text": "Anderson Sneyder Londoño López, Pastor"
     },
     {
