@@ -397,7 +397,7 @@ const addComponents = (region, lang) => {
             element = `<ul id="answer-container"></ul>`
             break;
         case 'video-fondo': 
-            element = `<video autoplay muted loop id="video-background">
+            element = `<video playsinline autoplay muted loop id="video-background">
                             <source src="${region.src}" type="video/webm">
                         </video>`
             break;
