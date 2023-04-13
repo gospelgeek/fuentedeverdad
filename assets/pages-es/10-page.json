@@ -26,7 +26,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p10",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "ACERCA DE FDV <br><br>Nuestra Misión y Visión <br> <i style='font-size: 13px;text-align: center;font-weight: normal;'>La Iglesia Apostólica Fuente de Verdad es un lugar <br>donde Dios transforma tu dolor en Su propósito <br> y no descansaremos hasta ver <br> “Cada Corazón Sanado”</i>",

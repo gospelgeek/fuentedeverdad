@@ -25,7 +25,8 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p5",
-        "class": "leermas-pag7",
+        "class": "leermas-pag7 mover-leer-mas",
+
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "DESDE EL CORAZÓN DEL OBISPO SAMUEL VALVERDE",

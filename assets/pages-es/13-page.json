@@ -8,6 +8,72 @@
         "image": "<img src='assets/pics/photos/USA_esp.png'>"
     },
     {
+        "tag": "event-title",
+        "x": "11%",
+        "y": "10%",
+        "text1": "Brewster",
+        "text2": "New York"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "11%",
+        "y": "16%",
+        "text": "Abner Ariel Sandoval, Ministro Encargado"
+    },
+    {
+        "tag": "event-container",
+        "id" :"modal-p13-01",
+        "x": "8%",
+        "y": "19%",
+        "src": "assets/pics/Eventos/eeuu/brewster/1-EU-BREWSTER-SUPERHERO.webp",
+        "text": "Día del <br> Super Heroe 2022",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/1.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/brewster/9.jpg"
+            }
+            
+        ]    
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "22%",
+        "text": "Servicio de niños <br> Septiembre 2022"
+    },
+    {
         "x": "61%",
         "y": "25.5%",
         "viewX": 1800,

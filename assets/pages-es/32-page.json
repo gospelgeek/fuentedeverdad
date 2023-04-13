@@ -17,7 +17,7 @@
     {
         "tag": "pastor-name",
         "x": "10%",
-        "y": "14%",
+        "y": "15%",
         "text": "UNG Ratheany, Pastor"
     },
     {
@@ -46,7 +46,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p32",
-        "class": "leermas-p32",
+        "class": "leermas-p32 mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>IGLESIA APOSTÓLICA FUENTE DE VERDAD CAMBODIA<br><br>Informe del viaje misionero y de necesidades apremiantes<br><br>",

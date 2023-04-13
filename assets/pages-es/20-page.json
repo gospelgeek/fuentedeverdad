@@ -178,7 +178,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p20",
-        "class": "",
+        "class": "read-more-p20",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>CUMBRE NACIONAL MÉXICO 2022<h5><b>Fecha:</b> 04 al 07 Febrero 2022</h5>",

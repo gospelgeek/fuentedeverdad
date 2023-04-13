@@ -102,7 +102,7 @@
         "x": "7%",
         "y": "40%",
         "tag": "author-pic-2",
-        "class": "author-image",
+        "class": "gallery-pic1",
         "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-CUMBRECELULAR.webp'>",
         "id":"modal-p12-01",
         "imagenes_evento":[
@@ -404,7 +404,7 @@
         "x": "47%",
         "y": "40%",
         "tag": "author-pic-2",
-        "class": "author-image",
+        "class": "gallery-pic2",
         "image": "<img width='250' height='250' src='assets/pics/Eventos/eeuu/rancho_cucamonga/0-EU-RANCHOCUCAMONGA-ELDERRAMAMIENTO.webp'>",
         "id":"modal-p12-01",
         "imagenes_evento":[
@@ -500,7 +500,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p12",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>CUMBRE CELULAR GLOBAL 2022<h6>Sábado 03 de Septiembre<h6>",
@@ -565,7 +565,7 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p12-2",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "EL DERRAMAMIENTO",
@@ -622,7 +622,7 @@
         "fontSize": "2em",
         "tag": "modal-pequeno",
         "id": "modal-p12-3",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "Palabras del Predicador",
