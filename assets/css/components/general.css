@@ -1213,3 +1213,8 @@ div[page="7"] .page.p7 .region.video-entrevista video {
     top: 65% !important;
   }
 }
+@media (max-width: 600px) {
+  #modal-p47 {
+    padding: 0;
+  }
+}
