@@ -77,8 +77,8 @@
         ]
     },
     {
-        "x": "56%",
-        "y": "59%",
+        "x": "70%",
+        "y": "85%",
         "viewX": 1800,
         "viewY": 100,
         "width": "20%",
@@ -100,34 +100,19 @@
     },
     {
         "x": "68%",
-        "y": "60.5%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>29</strong></h3>"
-        }   
-    },
-    {
-        "x": "68%",
-        "y": "64%",
+        "y": "68%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1.5em",
+        "class": "date",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de<br>Nov. 2022</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>29 de Nov. 2022</h5>"
         }   
     },
     {
@@ -148,7 +133,7 @@
     },
     {
         "x": "64%",
-        "y": "82%",
+        "y": "85%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -156,7 +141,7 @@
         "fontSize": "2em",
         "tag": "modal-pequeno",
         "id": "modal-p37",
-        "class": "",
+        "class": "leer-mas-p37",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>FUENTE DE VERDAD CHILE",
