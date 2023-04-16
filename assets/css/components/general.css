@@ -1201,3 +1201,15 @@ div[page="7"] .page.p7 .region.video-entrevista video {
     width: auto;
   }
 }
+@media (max-width: 600px) {
+  .page.p42 .region.text1-pag41 p,
+  .page.p42 .region.text2-pag41 p {
+    font-size: 9px;
+  }
+  .page.p42 .region.text2-pag41 {
+    top: 55% !important;
+  }
+  .page.p42 .region.mocal-p42 {
+    top: 65% !important;
+  }
+}
