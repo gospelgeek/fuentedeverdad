@@ -1173,3 +1173,11 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 .videoPages video {
   pointer-events: none;
 }
+@media (max-width: 600px) {
+  .page.p40 .region.sopa-de-letras-title span {
+    font-size: 20px !important;
+  }
+  .page.p40 .region.sopa-de-letras #puzzle > div {
+    width: 119% !important;
+  }
+}
