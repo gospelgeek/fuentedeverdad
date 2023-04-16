@@ -1181,3 +1181,23 @@ div[page="7"] .page.p7 .region.video-entrevista video {
     width: 119% !important;
   }
 }
+@media (max-width: 600px) {
+  .page.p46 .region.text-pag-46 h3 {
+    font-size: 14px;
+  }
+  .page.p46 .region.text-pag46 {
+    top: 11% !important;
+  }
+  .page.p46 .region.text-pag46 p {
+    font-size: 12px;
+  }
+  .page.p46 .region.columns {
+    top: 27% !important;
+  }
+  .page.p46 .region.botones {
+    top: 73% !important;
+  }
+  .page.p46 .region.botones #select-game button {
+    width: auto;
+  }
+}
