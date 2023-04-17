@@ -97,6 +97,48 @@
         }
     },
     {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "38%",
+        "src": "assets/pics/Eventos/mexico/potosi/tren_emociones.png",
+        "text": "El Tren De <br> Las Emociones",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/vgIfLxjoiLE"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "41.5%",
+        "class": "full-subtitle",
+        "text": "Escuelita de Verano <br> realizada durante 2022."
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "48%",
+        "src": "assets/pics/Eventos/mexico/potosi/cada_corazon.jpg",
+        "text": "El Tren De <br> Las Emociones",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/9Ig5KZzBO0E"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "50%",
+        "class": "full-subtitle",
+        "text": "Resumen de <br> actividades de FDV SLP <br> durante 2022."
+    },
+    {
         "tag": "event-title",
         "x": "10%",
         "y": "60%",
