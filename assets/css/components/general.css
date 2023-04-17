@@ -1246,4 +1246,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
     top: 37% !important;
     left: 30% !important;
   }
+  .page.p32 .region.videotitle {
+    top: 52% !important;
+  }
 }

@@ -156,18 +156,19 @@
     },
     {
         "x": "63%",
-        "y": "23%",
+        "y": "24%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#000000",
         "color": "#000000",
+        "class": "date1",
         "font-size": "1.5em",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>mayo</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong>mayo 2022</strong></h3>"
         }   
     },
     {
@@ -183,7 +184,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>2022</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'></h5>"
         }   
     },
     {

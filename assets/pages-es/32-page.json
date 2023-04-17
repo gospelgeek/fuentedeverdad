@@ -137,6 +137,7 @@
         "color": "#ffff",
         "font-size": "2em",
         "tag": "contenido",
+        "class": "videotitle",
         "id_unique": "box-text-page-9",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
