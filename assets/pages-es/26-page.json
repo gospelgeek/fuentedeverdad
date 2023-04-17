@@ -72,12 +72,12 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>19 Y 20</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
         "x": "63%",
-        "y": "13.5%",
+        "y": "16.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -88,7 +88,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Febrero</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>19 Y 20 de Febrero</h5>"
         }   
     },
     {
@@ -212,12 +212,12 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>12</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
         "x": "63%",
-        "y": "57%",
+        "y": "59.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -228,7 +228,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>12 de Marzo</h5>"
         }   
     },
     {
