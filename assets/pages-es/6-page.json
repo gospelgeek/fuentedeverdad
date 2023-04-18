@@ -2,10 +2,13 @@
     {
         "x": "0%",
         "y": "0%",
-        "width": "100%",
-        "tag": "video-fondo",
-        "class": "video-entrevista",
-        "src": "assets/pics/backgrounds/entrevista.mp4"
+        "tag": "img",
+        "class": "fondogif1",
+        "width": "75%",
+        "height":"300",
+        "data":{
+           "src": "assets/pics/backgrounds/entrevista.gif"
+        }
     },
     {
         "x": "0%",
