@@ -1,3 +1,266 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p29-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "5%",
+        "src": "assets/pics/Eventos/colombia/cali/bautismos/4-CO-CALI-BAUTISMOSNOMBRE.webp",
+        "text": "Bautismos <br> en el Nombre <br> de Jesús",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/bautismos/8.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "63%",
+        "y": "9%",
+        "class": "full-subtitle",
+        "text": "“Avanzando hacia el reino”<br>Agosto 2022"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "19%",
+        "src": "assets/pics/Eventos/colombia/cali/ella/4-CO-CALI-MINISTERIOELLA.webp",
+        "text": "Ministerio <br> Ella",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/ella/5.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/6tjzAvLNS64"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/ywn_hAWIaHU"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "63%",
+        "y": "20%",
+        "class": "full-subtitle",
+        "text": "Celebramos un servicio <br> bajo el tema..."
+    },
+    {
+        "x": "63%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p29-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>MINISTERIO “ELLA”<br>Un corazón transformado, es un hogar renovado<h6>Noviembre 2022</h6>",
+            "content": "Celebramos un servicio bajo el tema: ¿Cómo está tu corazón? Dios ministró el corazón de cada mujer. Al final, entregamos algunos detalles a las asistentes."
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "39%",
+        "text1": "Santa Marta",
+        "text2": "Colombia"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "45%",
+        "text": "Zemarcos Miller Díaz Scott, Pastor"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "48%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/almuerzo/5-CO-CALI-ALMUERZOPARQUE.webp",
+        "text": "Almuerzo <br> en el parque",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/almuerzo/2.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "63%",
+        "y": "50%",
+        "class": "full-subtitle",
+        "text": "Es más bienaventurado <br>dar que recibir “Amamos a los jóvenes”"
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "58%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/accion_gracias/5-CO-CALI-DIAACCIONGRACIAS.webp",
+        "text": "Dia de <br> Acción <br> de Gracias",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/sXNAUSP-J8U"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/EJ96HjR27Vk"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/uFXnPMaQYIM"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/AM05C25KEGY"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/_D5m2whUCLM"
+            }
+        ]    
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "72%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/reunion/5-CO-CALI-REUNIONHERMANOS.webp",
+        "text": "Reunión <br> con hermanos",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/reunion/4.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "85%",
+        "src": "assets/pics/Eventos/colombia/santa_marta/jovenes/5-CO-CALI-REUNIONJOVENES.webp",
+        "text": "Reunión <br> de Jóvenes",
+        "id":"modal-p29-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/santa_marta/jovenes/2.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://drive.google.com/file/d/1_YQUEeoBqThUQfolFY5Gwv8nWRanEvKq/preview"
+            }
+        ]
+    },
+    {
+        "x": "57%",
+        "y": "92%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

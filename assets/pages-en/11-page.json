@@ -1,3 +1,162 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "55%",
+        "width": "75%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p11'>As church institutions go, Fountain of Truth Global Missions is still in its infancy stage. However, many hurting, homeless, and hungry pastors and ministers have migrated towards...</p>"
+        }
+    },
+    {
+        "x": "12%",
+        "y": "75%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p11",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>GREAT NEWS FROM THE FIELD<br><br>",
+            "content": "As church institutions go, Fountain of Truth Global Missions is still in its infancy stage. However, many hurting, homeless, and hungry pastors and ministers have migrated towards a place that God uses to transform pain into purpose. God is healing hearts, restoring strength and using men and women to open works around the world.<br><br>We are currently present in ten countries with 54 preaching points and forty-eight pastors who are shepherding flocks.  God is moving. Last year we dedicated a beautiful building in Soloma, located the high mountains of Guatemala; we recently inaugurated our church building in Siem Reap Cambodia, established a Bible study in Puerto Montt, a town in the southernmost part of Chile; we are training a minister in Argentina and continue to preach in Tokyo and Hiroshima. From the beautiful beaches of Playa del Carmen to the border towns of Tijuana and Mexicali, BC Mexico, the Word of God is being preached. Seattle, Ohio, Dallas, San Antonio, San Diego, and Phoenix continue to grow as do our churches in the Silicon Valley of Northern California. Las Vegas continues to win souls and make disciples.<br><br>We have intensified our training for pastors who join FTC - Global with FTC Roadmap, and we continue to deepen our Bible knowledge through the Fountain of Truth Bible Institute. Even more exciting is that many (if not all) of our churches are seeking God in 21-day fasting and prayer chains.<br><br>We are looking forward to our 2023 Mission Summit/Outpouring event that will take place on October 5-8, 2023. More information coming soon, make plans to attend.<br><br>All in all, God has been more than wonderful; this is only the beginning, for the best is yet to come.<br><br><b>Bishop Samuel Valverde</b>"
+        }
+    },  
+    {
+        "x": "6%",
+        "y": "14%",
+        "tag": "img",
+        "class": "image-page11",
+        "width": "75%",
+        "height":"300",
+        "data":{
+        "src": "assets/pics/general-images/tit_grandes_noticias_eng.webp"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "19%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-usa.gif",
+        "pagina": "12"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "28%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-mx.gif",
+        "pagina": "20"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "37%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-co.gif",
+        "pagina": "26"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "46%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-jp.gif",
+        "pagina": "30"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "55%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-cb.gif",
+        "pagina": "32"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "64%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-cr.gif",
+        "pagina": "34"
+        }
+    },
+    {
+        "x": "80%",
+        "y": "73%",
+        "tag": "img-2",
+        "class": "",
+        "width": "100",
+        "height":"100",
+        "lang":"esp",
+        "data":{
+        "src": "assets/pics/icons/fl-ch.gif",
+        "pagina": "37"
+        }
+    },
+    {
+        "x": "24%",
+        "y": "75.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page10",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/eng_grandes_noticias.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    }
 ]

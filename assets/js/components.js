@@ -304,8 +304,8 @@ const addComponents = (region, lang) => {
             break; 
         case 'page-4-title':
             element = `<div class="page-4-title">
-                <h2>Carta del <br>Obispo presidente</h2>
-                <h1>SAMUEL VALVERDE</h1>
+                <h2>${region.title}</h2>
+                <h1>${region.subtitle}</h1>
             </div>`;
             break; 
         case 'author-pic':
