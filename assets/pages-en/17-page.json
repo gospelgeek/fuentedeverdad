@@ -1,3 +1,285 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "8%",
+        "y": "11%",
+        "text1": "Columbia",
+        "text2": "Maryland"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "17%",
+        "text": "Jose Santos Osorio, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p17-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "32%",
+        "y": "28%",
+        "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-ACTIVIDADJOVENES.webp",
+        "text": "Youth activity",
+        "width":"20%",
+        "id":"modal-p17-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/jovenes/7.jpg"
+            }
+        ] 
+    },
+    {
+        "tag": "event-container",
+        "x": "32%",
+        "y": "41%",
+        "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-CONFERENCIAMATRIMONIAL.webp",
+        "text": "Marriage Conference",
+        "width":"20%",
+        "id":"modal-p17-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/matrimonial/28.jpg"
+            }
+        ] 
+    },
+    {
+        "tag": "event-container",
+        "x": "32%",
+        "y": "56%",
+        "src": "assets/pics/Eventos/eeuu/columbia/5-EU-COLUMBIA-DIADELAMIGO.webp",
+        "text": "Friend's Day",
+        "width":"20%",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/columbia/dia_amigo/10.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://drive.google.com/file/d/1qm4Si2_wUE1TM6XQr5Vvt7pI56l8q7qr/preview"
+            }
+        ] 
+    },
+    {
+        "x": "46%",
+        "y": "75%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

@@ -1,7 +1,8 @@
 [
     {
-        "x": "5%",
-        "y": "2%",
+        "x": "0%",
+        "y": "5%",
+        "class": "formulario-title",
         "width": "100%",
         "styleBox": "width: 65%; height: auto !important;",
         "background-color": "#b41015",
@@ -11,20 +12,25 @@
         "style": "font-weight: normal;",
         "text": "",
         "data":{
-            "text": "<p class='monserrat-black' style='font-size: 2.3em; color: black;'>Preguntas</p>"
+            "text": "<p class='monserrat-black'>RESPUESTAS SOBRE LA</p><strong>OBRA MISIONERA</strong>"
         }
   
     },
-    {       
+    {
+        "tag": "answer-container",
         "x": "10%",
-        "y": "20%",
-        "width": "100%",
-        "styleBox": "width: 65%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "formulario",
-        "style": "font-weight: normal;",
-        "text": ""
+        "y": "15%",
+        "width": "80%",
+        "class": "answer-container",
+        "respuestas":[
+            {
+                "pregunta":"¿Hay Iglesia Fuente de Verdad en mi país?",
+                "respuesta":"Tenemos obras FDV en: EE.UU., México, Guatemala, Costa Rica,Colombia, Argentina, Chile, Japón, Camboya."
+            },
+            {
+                "pregunta":"¿La iglesia 'Fuente de Verdad' predica la misma doctrina apostólica unicitaria?",
+                "respuesta":"Predicamos la Doctrina Bíblica Apostólica Unicitaria. 'Nada ha cambiado, excepto todo' Mire el video aquí: https://bit.ly/2EESnqV Folleto de la reunión general de la iglesia: https://bit.ly/2v664zV"
+            }
+        ]
     }
 ]

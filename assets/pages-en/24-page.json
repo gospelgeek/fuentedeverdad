@@ -1,3 +1,195 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "15%",
+        "text1": "San Luis Potosi",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "21%",
+        "text": "Gabriel Antonio Gálvez Figueroa, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p24-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "25%",
+        "src": "assets/pics/Eventos/mexico/potosi/7-MEX-SANLUISPOTOSI-LANZAMIENTO.webp",
+        "text": "Official Launch <br> Of The Church",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/5.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/6.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/7.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "28%",
+        "class": "full-subtitle",
+        "text": "Holy Week (Spring Break) <br> of the year 2022 was a..."
+    },
+    {
+        "x": "62%",
+        "y": "33%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p24",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FTC SAN LUIS POTOSI LAUNCH<h5>Date: April 17, 2022</h5>",
+            "content": "<b>Assistance:</b> Approximately 40 people.<br><br><b>Summary:</b><br>Holy Week (Spring Break) of the year 2022 was a very special time for FTC San Luis Potosí since God granted us to have our own Launch as a part of the Apostolic Church of Fountain of Truth.<br><br>We had the blessing to have Pastor Ramon Mendoza (Leader of the Latin American Zone of the Ministry “Dynamic Church Planting International”), his wife Elisa Mendoza, and his son Pastor Otoniel Mendoza (Director of Training and Digital Strategy of the Ministry DCPI Latin America).<br><br>Previous to our launch celebration, Friday the 15 and Saturday the 16 of April, we were capacitated taking the course: Movements of a Dynamic Discipleship. This course presented us with a very simple and practical way on how to plant a home church through discipleship.<br><br>We were challenged to keep moving forward with the great commission. We had the opportunity to have time to learn, share experiences, prayer time, be ministered, and to partake of the Holy Supper, Communion, as a church.<br><br>On Sunday, April 17, during our launch celebration, the Lord permitted us to open our doors as a community church with a meeting place. We had the blessing to receive greetings and a message of blessing from our Bishop Samuel Valverde.<br><br>We also received a very inspired word from the message of the Sermon on the Mount, “The Beatitudes”, and how it relates to our vision of seeing Every Heart Healed.<br><br>Pastor Ramon Mendoza made a very special prayer to declare the launch of FTC SLP. We believe that it was a very special time that God granted us to unite as a church and to start seeing the fulfillments of promises that God has for us.<br><br><i>Written by Pastor Gabriel A. Galvez F.</i>"
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "38%",
+        "src": "assets/pics/Eventos/mexico/potosi/tren_emociones.png",
+        "text": "El Tren De <br> Las Emociones",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/vgIfLxjoiLE"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "41.5%",
+        "class": "full-subtitle",
+        "text": "Summer school held <br> during 2022."
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "48%",
+        "src": "assets/pics/Eventos/mexico/potosi/cada_corazon.jpg",
+        "text": "El Tren De <br> Las Emociones",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/9Ig5KZzBO0E"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "50%",
+        "class": "full-subtitle",
+        "text": "Summary of FTC SLP <br> activities during 2022"
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "60%",
+        "text1": "Culiacán",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "66%",
+        "text": "Gilberto Rentería López, Pastor"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "70%",
+        "src": "assets/pics/Eventos/mexico/culiacan/8-MEX-CULIACAN-ABRETUSOJOS.webp",
+        "text": "Open <br> Your Eyes",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/7.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "71%",
+        "class": "full-subtitle",
+        "text": "The purpose of this event <br> is to share the message of <br> the gospel to new believers, and for them to connect <br> with the church."
+    }
 ]

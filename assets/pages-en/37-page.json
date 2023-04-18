@@ -1,3 +1,166 @@
 [
-    
+    {
+        "x": "10%",
+        "y": "12%",
+        "width": "80%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h1 class='title-pag-37'><strong>VIAJE MISIONERO NACIONAL</strong><h1>"
+        }
+            
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p37-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "x": "35%",
+        "y": "48%",
+        "tag": "author-pic-2",
+        "class": "author-image",
+        "image": "<img width='150' height='150' src='assets/pics/Eventos/chile/2.webp'>",
+        "id":"modal-p37-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/chile/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/chile/9.jpg"
+            }
+        ]
+    },
+    {
+        "x": "56%",
+        "y": "59%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "68%",
+        "y": "60.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>29</strong></h3>"
+        }   
+    },
+    {
+        "x": "68%",
+        "y": "64%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de<br>Nov. 2022</h5>"
+        }   
+    },
+    {
+        "x": "0",
+        "y": "80%",
+        "width": "100%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-20",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='text-pag-20'>Nuestro viaje misionero tuvo dos objetivos concretos. Primero, confirmar la fe de una pareja de hermanos...</p>"
+        }
+    },
+    {
+        "x": "64%",
+        "y": "82%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p37",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FUENTE DE VERDAD CHILE",
+            "content": "Viaje Misionero Nacional<br>29 de Noviembre al 03 de Diciembre de 2022<br><br>Nuestro viaje misionero tuvo dos objetivos concretos. Primero, confirmar la fe de una pareja de hermanos (Junior y Milmelis) quienes se van a encargar de evangelizar el sector donde ellos viven, y capacitarlos por medio de algunas enseñanzas de evangelismo y misiones. Segundo, evangelizar a algunas familias que estaban dispuestas a oír el evangelio. El lugar visitado fue la región de Los Lagos, ciudad de Puerto Montt, extremo sur de Chile.<br><br>Por lo demás, en Santiago celebramos servicios en Grupos Casa."
+        }
+    }
 ]

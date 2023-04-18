@@ -1,3 +1,241 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "15%",
+        "text1": "Muna",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "21%",
+        "text": "Isaac Cauich Nabté, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p25-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "24%",
+        "src": "assets/pics/Eventos/mexico/muna/9-MEX-MUNA-RETIROESPIRITUAL.webp",
+        "text": "Spiritual Retreat <br>We Are Church",
+        "id":"modal-p25-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/20.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "27%",
+        "class": "full-subtitle",
+        "text": "During the end of <br>last year, God let..."
+    },
+    {
+        "x": "62%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p25",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SPIRITUAL RETREAT “WE ARE CHURCH”<h5>December 2-4 of 2022</h5>",
+            "content": "During the end of last year, God let us celebrate three days of comunión, consecration, and spiritual growth in the “We Are Church” retreat. God gave us a renewed and refreshed vision of our calling to shine and to take our place as the church in our city, as family, and as spouses. Every member was ministered to be a living rock of this building, in which we are united in love and faith, so that way we can grow as a holy temple for the Lord."
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "59%",
+        "text1": "Jala",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "65%",
+        "text": "Jesús René Ramos, Deacon in charge"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "68%",
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOMATRIMONIOS.webp",
+        "text": "Official Launch<br>Of The Church",
+        "id":"modal-p25-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/1.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/6.jpeg"
+            }
+        ]   
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "71%",
+        "class": "full-subtitle",
+        "text": "Brother Jesus Rene <br> Ramos Najar and his..."
+    },
+    {
+        "x": "62%",
+        "y": "76%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p25-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FTC LAUNCH JOMULCO, NAYARIT<h5>Date: November 20, 2022</h5>",
+            "content": "<b>Assistance:</b> Approximately 80 people.<br><br>Summary:<br>Brother Jesus Rene Ramos Najar and his wife Ana Malory Grande Amo casa have been leading this congregation. God permitted us to have a very special  launch service in which we got to worship God alongside the brethren of the congregation of Jomulco, Nayarit.<br>Pastor Gabriel Gálvez (FTC SLP) along side with Pastor Eliezer Barboza (FTC Mazatlán) had the opportunity to bless this church through a program that included the following: <ol><li>4 Baptism Celebrations.</li><li>Video: Greeting and blessed word from Bishop Samuel Valverde.</li><li>Deacon initiation for brother Jesus Rene Ramos Najar.</li><li>Prayer for the launch of the Apostolic Church FTC Jomulco, Nayarit.</li></ol>We rejoice to see the great work that God is doing in this place, believing that He will continue to fulfill our vision of seeing EVERY HEART HEALED. <br><br> <table class='table-modal'><tr><td>Time</td><td>Activity</td><td>Man in Charge</td></tr><tr><td>3:45pm - 4:00pm</td><td>Musical Prelude</td><td>Brother René Ramos</td></tr><tr><td>4:00pm - 4:20pm</td><td>1st Praise and Worship Session</td><td>Deacon Orlando Valdez & Praise Team FTC Jala</td></tr><tr><td>4:20pm - 4:30pm</td><td>Power Word: Baptism</td><td>Pastor Eliezer Barboza</td></tr><tr><td>4:30pm - 4:50pm</td><td>Baptisms</td><td>Pastor Eliezer Barboza & Pastor Gabriel Gálvez</td></tr><tr><td>4:50pm - 5:10pm</td><td>2nd Praise and Worship Session</td><td>Deacon Orlando Valdez & Paise Team FTC Jala</td></tr><tr><td>5:10pm - 5:20pm</td><td>Offering</td><td>Brother René Ramos</td></tr><tr><td>5:20pm - 5:30pm</td><td>Special Songs</td><td>Pastor Eliezer Barboza & Sis. Egla Acosta</td></tr><tr><td>5:30pm - 5:45pm</td><td>FTC Presentation</td><td>Pastor Eliezer Barboza</td></tr><tr><td>5:45pm - 6:15pm</td><td>Message</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>6:15pm - 6:30pm</td><td>Deacon Initiation Ceremony</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>6:30pm - 6:40pm</td><td>Prayer Launch FTC Jala</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>6:40pm - 6:50pm</td><td>Necessities Ministration</td><td>Pastor Eliezer Barboza</td></tr><tr><td>6:50pm - 7pm</td><td>Baptism Certificates + Child Presentations</td><td>Deacon René Ramos</td></tr><tr><td>7pm</td><td>Announcements + Dismissal</td><td>Deacon René Ramos</td></tr></table>"
+        }
+    },
+    {
+        "x": "47%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

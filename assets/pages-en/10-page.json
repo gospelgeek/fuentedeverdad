@@ -1,3 +1,73 @@
 [
-        
+    {
+        "x": "5%",
+        "y": "63%",
+        "width": "90%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "class":"texto-p10",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<h1>ABOUT FTC</h1><p class='main-text-p10'>The Apostolic Church Fountain of Truth is a place where God transforms your pain into His purpose and we won’t rest until we see “Every Heart Healed”...</p>"
+        }
+    },
+    {
+        "x": "14%",
+        "y": "89%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p10",
+        "class": "mover-leer-mas",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "ABOUT FTC <br><br>Our Mission and Vision<br><i style='font-size: 13px;text-align: center;font-weight: normal;'>The Apostolic Church Fountain of Truth is a place<br> where God transforms your pain into His purpose <br>and we won’t rest until we see <br>“Every Heart Healed”</i>",
+            "content": "<b>Our Story</b><br>This journey began over 30 years ago on Slover Ave. in Fontana, Ca. Our location has changed but our heart has remained the same: to see the hurting healed through Jesus Christ.<br><br><b>What We Believe</b><br>We believe in <b>ONE GOD</b>, and that his name is Jesus Christ. The Bible says: <i>“Jesus Christ…this is the true God and eternal life.”</i> 1 John 5:20<br><br>We believe in <b>SALVATION BY GRACE</b>, through faith in Jesus Christ. The Bible says: <i>“For by grace are ye saved through faith; and that not yourselves: it is the gift of God.”</i> Ephesians 2:8<br><br>We believe in <b>REPENTANCE AND BAPTISM</b> in the name of Jesus Christ. The Bible says: <i>“Repent and be baptized every one of you in the name of Jesus Christ for the remission of sins.”</i> Acts 2:38<br><br>We believe in the infilling of the <b>HOLY GHOST</b>, with the evidence of <b>SPEAKING IN TONGUES.</b> The Bible says: <i>“and ye shall receive the gift of the Holy Ghost… for the promise is unto you, and to your children, and to all that are afar off, even many as the Lord our God shall call.” Acts 2:38, 39 <br><br>We believe and preach that the believer should <b>LIVE IN HOLINESS.</b> The Bible says: <i>“Follow peace with all men, and holiness, without which no man can see the Lord.” Hebrews 12:14 <br><br>We  <b>SING JOYOUSLY AND CLAP OUR HANDS.</b><br> The Bible says: “O clap your hands, all ye people; shout unto God with a voice of triumph.” Psalm 47:1 <br><br>We believe in the power of God for <b>THE HEALING OF THE SICK.</b><br> The Bible says: “they shall lay hands on the sick, and they shall recover.” Mark 16:18 <br><br>We believe in the <b>RESURRECTION OF THE DEAD AND JUDGEMENT.</b><br> The Bible says: “And I saw a great white throne…And I saw the dead, small and great stand before God;…and they were judged every man according to their works… And whosoever was not found written in the book of life was cast into the lake of fire.” Revelation 20:11-15 <br><br>We believe that <b>JESUS CHRIST WILL RETURN SOON FOR HIS CHURCH.</b><br> The Bible says: “Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air; and so shall we ever be with the Lord.” 1 Thessalonians 4:17"
+        }
+    },  
+    {
+        "x": "29%",
+        "y": "89.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "",
+        "data": [
+            {   
+                "id": "page9",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "38%",
+        "y": "89.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "10%",
+        "fontSize": "5em",
+        "tag": "btn-normal",
+        "class": "reproducir",
+        "text": "",
+        "icono": "<img id='play-video' class='play-video' style='width:65%' src='assets/pics/icons/play.svg'>"
+    }
 ]

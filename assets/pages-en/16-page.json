@@ -1,3 +1,164 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_eng.png'>"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "15%",
+        "y": "85%",
+        "class": "full-subtitle",
+        "text": "Trusting in the Lord’s promises, we..."
+    },
+    {
+        "x": "71%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p16",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>Maranata… Christ is coming!",
+            "content": "Trusting in the Lord’s promises, we will continue to fight the great battle to obtain a crown in the heavens with our works on this earth so that way we can continue edifying more souls to know the truth in Jesus Christ. Fountain Silicon Valley is a clear testimony that when one is by the side of the Almighty, one obtains victories. So we will continue paving the way for new believers and servants. <br><br>Blessings,<br><b>JOHN FREDDY QUINTERO</b><br>Pastor"
+        }
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p16-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "15%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMINARIOLIDERAZGO.webp",
+        "text": "Leadership Seminar",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/liderazgo/4.jpg"
+            }
+        ] 
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "29%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMINARIOUNICIDAD.webp",
+        "text": "Uniqueness Seminar",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/unicidad/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/unicidad/2.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "42%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOPRIMICIAS.webp",
+        "text": "First Fruits Service",
+        "width":"40%",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/primicias/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/primicias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/primicias/3.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "55%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOESPECIALNACIONES.webp",
+        "text": "Special service of nations",
+        "width":"40%",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/servicio_naciones/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/servicio_naciones/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/servicio_naciones/3.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "70%",
+        "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SERVICIOESPECIALKIDS.webp",
+        "text": "Special kids service",
+        "id":"modal-p16-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/kids/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/kids/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/kids/3.jpg"
+            }
+        ]
+    }
 ]

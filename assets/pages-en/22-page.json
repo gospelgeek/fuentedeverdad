@@ -1,3 +1,205 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "9%",
+        "text1": "Tijuana",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "16%",
+        "text": "Domingo Carlos López, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p22-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "20%",
+        "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-SERVICIOAIRELIBRE.webp",
+        "text": "OUTSIDE SERVICE",
+        "width":"20%",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/servicio_aire_libre/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/servicio_aire_libre/2.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "20%",
+        "class": "full-subtitle",
+        "text": "September 25 of 2022<br>We demonstrated to the community the church that <br> we are. There was assistance from the community as well."
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "31%",
+        "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-ANIVERSARIO.webp",
+        "text": "Church Anniversary <br>and Friend Day",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/segundo_aniversario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/segundo_aniversario/2.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "35%",
+        "class": "full-subtitle",
+        "text": "We felt joy as we received <br> our friends who we..."
+    },
+    {
+        "x": "60%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p22-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FRIEND DAY - FTC TIJUANA CHURCH ANNIVERSARY<h5>October 23 of 2022</h5>",
+            "content": "We felt joy as we received our friends who we were praying for and checking up on. The results were very motivating, so we can continue with our mission here in Tijuana B.C."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "45%",
+        "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-RETIROPENIEL.webp",
+        "text": "Penuel <br> Retreat",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/retiro_peniel/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/retiro_peniel/2.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "46%",
+        "class": "full-subtitle",
+        "text": "December 2 & 3 of 2022<br>It was a restoration even for our soul. It gave hope to everyone that assisted."
+    },    
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "68%",
+        "text1": "Mazatlán",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "74%",
+        "text": "Eliezer Daniel Barboza Valdenegro, Pastor"
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "78%",
+        "src": "assets/pics/Eventos/mexico/mazatlan/5-MEX-MAZATLAN-LANZAMIENTO.webp",
+        "text": "Official Launch <br> Of The Church",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/7.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "82%",
+        "class": "full-subtitle",
+        "text": "Friday, October 28 of 2022..."
+    },
+    {
+        "x": "60%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p22-4",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "Official Launch Of The Church",
+            "content": "Friday, October 28 of 2022. Fountain of Truth Mazatlán was officially launched. It was a beautiful event where our Bishop Samuel Valverde and First Lady Rachel Valverde assisted as well as FTC Mexico Supervisor, Pastor Domingo Carlos and his wife Irene Carlos.<br><br>On that day, Eliezer Barboza was ordained to the ministry. It was a service where God poured out in a special way, and everyone was inspired by a beautiful message from our Bishop Valverde.<br><br>At the end, the people shared time together and enjoyed the guest’s company while eating dinner."
+        }
+    }
 ]

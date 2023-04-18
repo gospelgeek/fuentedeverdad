@@ -1,79 +1,87 @@
 [
     {
-        "x": "5%",
-        "y": "4%",
-        "width": "90%",
+        "x": "18%",
+        "y": "10%",
+        "width": "80%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
-        "font-size": "1em",
+        "font-size": "1.5em",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-indece-page-2",
+        "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1.5em; color: black;'>HERE IS A YOUNG MAN</h4><h3>(Why contribute to the missions?)<br>John 6:5-13</h3>"
+            "text": "<h1 class='monserrat-black' style='font-size: 1.7em; color: #0a8967;'><strong>Greetings and </strong><h1>"
         }
                 
     },
     {
-        "x": "-5%",
-        "y": "32%",
+        "x": "35%",
+        "y": "12%",
+        "width": "60%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-sub-page-6",
+        "data": {
+            "text": "<h3 class='monserrat-black' style='font-size: 1.5em; color: #0a8967; '>Report FTC Mexico</h3>"
+        }
+                
+    },
+    {
+        "x": "20%",
+        "y": "22%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "60%",
+        "height": "4%",
+        "fontSize": "5em",
+        "tag": "p",
+        "class": "text-biblical",
+        "data": {
+            "content": "<i><b>It is a pleasure greeting you in the name of Christ from the most beautiful country in the world,</b></i>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "34%",
         "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "10em",
+        "color": "#ffff",
+        "font-size": "2em",
         "tag": "contenido",
         "id_unique": "box-text-page-7",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>The well known story of the multiplication of the loaves and the fish sheds light upon the importance and blessings of giving. The four evangelists, as if they, not wanting to miss out on telling this miracle, narrate the story, each one from their own perspective. <br><br>Nevertheless, only John reveals that the loaves and fish were provided by a young man. We can learn a few things from this young man.</p>"
+           "text": "<p class='main-text-p8'>By the grace of God, we continue to go forward with a fervent desire to serve the Lord better, sow the word of God and to reap souls for the Kingdom of Christ, and to make disciples throughout the nation. Currently there are 13 churches in 9 states....</p>"
         }
     },
     {
-        "x": "5%",
-        "y": "67%",
+        "x": "75%",
+        "y": "56.5%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "3.3em",
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p8",
-        "class": "button-read",
-        "text": "Leer más...",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>HERE IS A YOUNG MAN<br><br>(Why contribute to the missions?)<br><br>John 6:5-13<br><br>",
-            "content": "The well known story of the multiplication of the loaves and the fish sheds light upon the importance and blessings of giving. The four evangelists, as if they, not wanting to miss out on telling this miracle, narrate the story, each one from their own perspective.<br><br>Nevertheless, only John reveals that the loaves and fish were provided by a young man. We can learn a few things from this young man.<br><br>Sacrifice - the young man was willing to not eat dinner that night, due to the fact that it was evening and the time had passed (Mathew 14:15). It’s possible that his humble barley loaves sardines were meant for the Master who had not eaten yet.<br><br>Generosity - the young man teaches us that generosity is also put to practice when we have a little bit to offer; it is not only given when we have a lot of resources, or even worse, from what we have left.<br><br>Correct Location - Placing our offering in the hands of Jesus makes the whole difference. Jesus ignores Andrew’s comment (“but what are they among so many?”) and He got to work. But the Master did not take action until He had something to work with, in other words, until He had something He could multiply. Can’t the Creator create loaves and fish? Can’t he who rose Lazarus from the dead also remove the stone? Of course he could,  but He always hopes to see faith within us.<br><br>Unexpected Blessing - The one that was willing to sacrifice his dinner, not only ate till satisfied, but possibly carried home one of the 12 baskets of food that were left over. My apologies for those who, without biblical evidence, assign every basket to each of the twelve disciples; but for me, also without biblical evidence, the lad arrived home, (and bear with me a little) with Judas’ basket!<br><br>Why should anyone contribute to missions? Because God expects sacrifice and generosity from us. Because in His hands our prayers and offerings can fulfill the mandate and the principal theme of this story, “Give ye them to eat”.<br><br>Could it be possible that a “young man”, or sister, or businessman is out there with something to put in the hands of the Master?<br><br><b>From Bishop Samuel Valverde</b>"
+            "title": "<br>Apostolic Church Fountain of Truth Mexico<br><br>2022 Report<br><br>",
+            "content": "<i>It is a pleasure greeting you in the name of Christ from the most beautiful country in the world, Mexico!</i><br><br>By the grace of God, we continue to go forward with a fervent desire to serve the Lord better, sow the word of God and to reap souls for the Kingdom of Christ, and to make disciples throughout the nation. Currently there are 13 churches in 9 states.<br><ul>1. Tijuana, Baja California (Pastor Domingo Carlos)</ul><ul>2. Ciudad México (Pastor Domingo Carlos)</ul><ul>3. Mexicali, Baja California (Pastor Abraham Encinas)</ul><ul>4. Culiacán, Sinaloa (Pastor Gilberto Rentería)</ul><ul>5. Mazatlán, Sinaloa (Pastor Eliezer Barboza)</ul><ul>6. San Luis Potosí, San Luis Potosí (Pastor Gabriel Gálvez)</ul><ul>7. Tehuacán, Puebla (Pastor Frank Díaz)</ul><ul>8. Jala, Nayarit (Pastor Gabriel Gálvez)</ul><ul>9. Juchitán, Oaxaca (Pastor Abraham Encinas)</ul><ul>10. Muna, Yucatán (Pastor Isaac Cahuich)</ul><ul>11. Playa del Carmen (Villas del Sol), Quintana Roo (Pastor Juan Domínguez)</ul><ul>12. Playa del Carmen (Pescadores), Quintana Roo (Pastor Juan  Domínguez)</ul><ul>13. Cancún (Bonfil), Quintana Roo (Pastor Juan Domínguez)</ul>We celebrated our <b>National Pastoral Summit 2022 </b>in the month of February in Mexico City where pastors and wives attended. It was there where we celebrated the prayer meetings, words and messages from Bishop Samuel Valverde, Sister Raquel, Pastor Martin Perez, and Pastor Domingo Carlos as well as two general celebrations. We also were able to do a while and a prayer for our nation in the city’s Zocalo. In addition, there was a service of ministerial initiation and ordination which took place in the launch of the church in Mexico City.<br><br>In September 3rd we also celebrated our <b>Virtual Cell Summit 2022 </b>with great success. This event turned into a global event with speakers being; Bishop Samuel Valverde, Bishop Elias Paez (Church La Mision, Mazatlán Sinaloa), Bishop Mario Oseguera (Church Ríos de Agua Viva), and Pastor Ernie Santana.<br><br>Our next <b>National Summit, </b>open to the general public, will be held March 28 to April 2 of the year of 2024 in the city of San Luis Potosi. Everyone is invited!<br><br><b>LOOKING FOR A PASTORAL FAMILY: </b>In the name of Christ, we are looking for a pastor in the city and state of Mexico so that he can continue to form and strengthen the new born congregation that was launched in February of last year 2022. We are on the lookout for a man that is willing to go, fight, obey the calling, and to fulfill the mission.<br><br>Mexico City is a huge metropolis with a population of more than 22M, that awaits a chosen man that will strive and fulfill the vision to see every heart healed. Could it be you? The man for Mexico City? Then, it’s you that we are talking to. Go on and give yourself to the Lord and fulfill…. THE CALLING.<br><br><i><b>From:</b><ul>Pastor Domingo Carlos, FTC President Mexico <br>Pastor Juan Domínguez, Secretar<br>Pastor Abraham Encinas, Treasurer<br>Pastor Gabriel Gálvez, Vocal</ul></i>"
         }
     },
     {
         "x": "-5%",
-        "y": "80%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "35%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
-            }
-        ]
-    },
-    {
-        "x": "50%",
         "y": "80%",
         "width": "50%",
         "background-color": "#b41015",
@@ -85,17 +93,41 @@
             {
                 "icon": "./assets/pics/icons/facebook.png",
                 "url": "http://www.facebook.com/",
-                "page": 4
+                "page": 9
             },
             {
                 "icon": "./assets/pics/icons/gorjeo.png",
                 "url": "http://twitter.com/",
-                "page": 4
+                "page": 9
             },
             {
                 "icon": "./assets/pics/icons/whatsapp.png",
                 "url": "http://api.whatsapp.com/",
-                "page": 4
+                "page": 9
+            }
+        ]
+    },
+    {
+        "x": "55%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "",
+        "data": [
+            {
+                "id": "page7",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/eng_saludo_mx.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1MkCdjk-O4ceXMc5Ck0d0XWWV3OTJ1jw0/view"
             }
         ]
     }

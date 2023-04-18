@@ -1,3 +1,361 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p36-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "18%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/2-CR-SANRAMON-SERVICIOESPECIALN.webp",
+        "text": "Servicio <br> Especial de <br> Niños",
+        "id":"modal-p36-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/12.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "21%",
+        "class": "full-subtitle",
+        "text": "El Ministerio Kids realizó un <br>precioso culto..."
+    },
+    {
+        "x": "62%",
+        "y": "26%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p36",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO ESPECIAL DE NIÑOS<h5>24 de septiembre de 2022</h5>",
+            "content": "El Ministerio Kids realizó un precioso culto dedicado a nuestros hermosos niños, donde ellos fueron los protagonistas de esa noche. Se realizaron dinámicas, juegos, canciones, conocieron a nuestro amigo Pingüi quién llenó su noche de felicidad. Fuimos testigos de cómo esos pequeños corazones anhelan servir al Señor."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "38%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/santa_cena/2-CR-SANRAMON-SERVICIOCAMPAL.webp",
+        "text": "Servicio Campal <br> y Santa Cena",
+        "id":"modal-p36-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/santa_cena/24.jpg"
+            }
+        ]
+
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "40%",
+        "class": "full-subtitle",
+        "text": "En una hermosa <br> celebración campal..."
+    },
+    {
+        "x": "62%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p36-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SERVICIO CAMPAL Y SANTA CENA<h5>11 de diciembre de 2022</h5>",
+            "content": "En una hermosa celebración campal pudimos disfrutar de un tiempo a solas con el Señor lejos del bullicio de la ciudad, nos adentramos a un lugar muy especial; además  fuimos participes del Servicio de Santa Cena. <br><br>También nuestros niños disfrutaron de una hermosa fiesta realizada por el Ministerio Kids."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "56.5%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/bautismos/2-CR-SANRAMON-BAUTISMOS.webp",
+        "text": "Bautismos<br>2022",
+        "id":"modal-p36-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/bautismos/12.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "58%",
+        "class": "full-subtitle",
+        "text": "Para honra y gloria del <br> Señor Jesús durante..."
+    },
+    {
+        "x": "62%",
+        "y": "63%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p36-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>BAUTISMOS 2022",
+            "content": "Para honra y gloria del Señor Jesús durante este primer año en Fuente de Verdad el Señor nos regaló la valiosa oportunidad de bautizar 37 personas en el nombre de Jesús. Ha sido un año lleno de victoria y respaldo de Dios, y estamos seguros de que no descansaremos hasta ver ¡Cada corazón sanado!"
+        }
+    },
+    {
+        "x": "0",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "",
+                "url": ""
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "45%",
+        "y": "80%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

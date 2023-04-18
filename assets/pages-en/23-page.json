@@ -1,3 +1,253 @@
-[
-    
+[   
+    {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "5%",
+        "y": "9%",
+        "text1": "Tehuacán",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "15%",
+        "text": "Francisco Javier Díaz Morales, Deacon in charge"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p23-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "25%",
+        "src": "assets/pics/Eventos/mexico/jomulco/10-MEX-JOMULCO-LANZAMIENTO.webp",
+        "text": "Marriage <br> Event",
+        "id":"modal-p23-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/2.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/3.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/4.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/10.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/11.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/12.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/13.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/14.Jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/15.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/16.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/17.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/matrimonios/18.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "26%",
+        "class": "full-subtitle",
+        "text": "February 12 of 2022<br>When God unites, not even man can separate.<br>Working at a family level!"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "40%",
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-SERVICIOEVANGELISTICO.webp",
+        "text": "EVANGELISTIC CELL SERVICE",
+        "width":"20%",
+        "id":"modal-p23-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/servicio_evangelistico/10.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "41%",
+        "class": "full-subtitle",
+        "text": "April 9 of 2022 <br>God manifested himself in a powerful way. Our Lord Jesus Christ touched hearts."
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "56.5%",
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOFINDE.webp",
+        "text": "NEW YEAR’S <br> EVENT",
+        "id":"modal-p23-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/fin_ano/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/fin_ano/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tehuacan/fin_ano/4.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "58%",
+        "class": "full-subtitle",
+        "text": "We are here together,<br>Fountain do Truth..."
+    },
+    {
+        "x": "62%",
+        "y": "63%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p23-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>NEW YEAR’S EVENT<h5>December 31 of 2022</h5>",
+            "content": "We are here together, Fountain do Truth Tehuacán and our three places where we shared our vision.<br>Ajalpan, (45 minutes from Tehuacán)<br>San Juan Atzingo (45 minutes from Tehuacán)<br>Francisco Nogales (4 hours from Tehuacán)"
+        }
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

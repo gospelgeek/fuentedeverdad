@@ -1,3 +1,283 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_eng.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p13-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "8%",
+        "y": "10%",
+        "text1": "Hurst",
+        "text2": "Texas"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "16%",
+        "text": "Angel Mandujano, Pastor"
+    },
+    {
+        "id":"modal-p13-01",
+        "tag": "event-container",
+        "x": "8%",
+        "y": "19%",
+        "width":"20%",
+        "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-2ANIVERSARIO.webp",
+        "text": "Second Church’s <br> Anniversary",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/segundo_aniversario/9.jpg"
+            }
+            
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "22.5%",
+        "text": "We had the good company of our..."
+    },    
+    {
+        "x": "61%",
+        "y": "28%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p13-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SECOND CHURCH’S ANNIVERSARY <h6>July 9-10 of 2022</h6>",
+            "content": "We had the good company of our Bishop Samuel Valverde and the 1st Lady, our sister Raquel; we thank you for your support. We thank the Lord for his covering and blessing at all times. "
+        }
+    },
+    {
+        "id": "modal-p13-01",
+        "tag": "event-container",
+        "x": "8%",
+        "y": "42%",
+        "width":"20%",
+        "src": "assets/pics/Eventos/eeuu/brewster/2-EU-HURST-ALBORADA.webp",
+        "text": "Sunrise Service",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/alborada/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/alborada/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/alborada/3.jpg"
+            }
+            
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "45%",
+        "text": "We celebrated an outdoor service..."
+    },
+    {
+        "x": "61%",
+        "y": "51%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p13-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>SUNRISE SERVICE<h6>April 17, 2022</h6>",
+            "content": "We celebrated an outdoor service together with Pipeline Church. It was a great blessing."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "58.5%",
+        "src": "assets/pics/Eventos/eeuu/plano/2-EU-HURST-FRESHINK.webp",
+        "text": "Fresh Ink",
+        "width":"20%",
+        "id":"modal-p13-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/fresh_ink/3.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "58.5%",
+        
+        "text": "The Youth organized an activity for the..."
+    },
+    {
+        "x": "61%",
+        "y": "64%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p14",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FRESH INK<h6>September 30 of 2022</h6>",
+            "content": "The Youth organized an activity for the community, with the goal of reaching out to the youth in this sector. The theme of the service was “We Want You Here”."
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "8%",
+        "y": "72%",
+        "src": "assets/pics/Eventos/eeuu/plano/2-EU-HURST-SERVICIO.webp",
+        "text": "Thanksgiving Service",
+        "width":"20%",
+        "id":"modal-p13-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/3.jpg"
+            },
+            {
+        
+                "src":"assets/pics/Eventos/eeuu/texas/accion_gracias/4.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "61%",
+        "y": "73%",
+        "text": "We rejoiced in this service and afterwards..."
+    },
+    {
+        "x": "61%",
+        "y": "78.7%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p14-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>THANKSGIVING SERVICE",
+            "content": "We rejoiced in this service and afterwards celebrated a great dinner where families participated bringing something to share."
+        }
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]
