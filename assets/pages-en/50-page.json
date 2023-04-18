@@ -8,6 +8,14 @@
         "src": "assets/pics/backgrounds/fondo_legal_banderas_esp.mp4"
     },
     {
+        "x": "17.6%",
+        "y": "21%",
+        "width":"65%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/general-images/eng_cierre.png'>"
+    },
+    {
         "x": "2%",
         "y": "90.5%",
         "width":"95%",
@@ -16,12 +24,12 @@
         "image": "<img src='assets/pics/icons/baner_legal.png'>"
     },
     {
-        "x": "14%",
+        "x": "22%",
         "y": "90.8%",
-        "width":"43%",
+        "width":"20%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/icons/fondo_txt_encuentranos.png'>"
+        "image": "<img src='assets/pics/icons/fondo_txt_findus.png'>"
     },
     {
         "x": "58%",

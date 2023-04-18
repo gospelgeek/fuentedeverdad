@@ -1,17 +1,17 @@
 [
     {
-    "x": "0",
-    "y": "10%",
-    "width": "100%",
-    "tag": "html_pure",
-    "html": "<div class='_content_text_greeting_pag_47'> <p>¿Como puedo hacerme un patricionador</p> <p><strong>Mensual de las misiones FDV?</strong></p></div>"
+        "x": "0",
+        "y": "10%",
+        "width": "100%",
+        "tag": "html_pure",
+        "html": "<div class='_content_text_greeting_pag_47 _eng'> <p>How can I make myself a monthly </p> <p><strong>FDV mission partitioner?</strong></p></div>"
     },
     {
-    "x": "10%",
-    "y": "70%",
-    "width": "80%",
-    "tag": "html_pure",
-    "html": "<div class='_content_text_greeting_pag_47'> <p>Cuan hermosos son sobre los montes los pies de los que anuncian la paz, cuan necesarias las rodillas los que oran e interatuan por ellos...</p></div>"
+        "x": "10%",
+        "y": "70%",
+        "width": "80%",
+        "tag": "html_pure",
+        "html": "<div class='_content_text_greeting_pag_47 _eng_text'> <p>How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim...</p></div>"
     },
     {
          "x": "10%",
@@ -26,8 +26,8 @@
          "class": "leermas-pag47 mover-leer-mas",
          "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
          "data": {
-             "title": "<br>¿CÓMO PUEDO HACERME UN PATROCINADOR MENSUAL DE LAS MISIONES FDV? <br><br>",
-             "content": "Cuán hermosos son sobre los montes los pies de los que anuncian la paz, cuán necesarias las rodillas de los que oran e interceden por ellos, y cuán importantes esos corazones que se disponen a dar con gozo y liberalidad para que la obra de Dios se lleve a cabo. <br><br>Hágase un patrocinador mensual y dé $10 $20 $50 $100 o $200 por débito automático. Es fácil, rápido, conveniente y además hace una gran diferencia. ¡Inscríbase hoy! <br><br> Visite nuestra página de misiones para inscribirse como patrocinador: www.cadacorazonsanado.com o comuníquese con la Hermana Liliana Valencia al tel. (909) 822-5450 o lilianavalencia@fountainoftruth.com<br><br><a href='https://www.cadacorazonsanado.com/new-page' target='_blank'>HAGA CLIC AQUÍ Y ÚNASE A LA VISIÓN - HÁGASE PATROCINADOR</a>."
+             "title": "<br>HOW CAN I BECOME A MONTHLY SPONSOR OF FTC MISSIONS?<br><br>",
+             "content": "How beautiful on the mountains are the feet of those who proclaim peace, how necessary the knees of those who pray and intercede for them, and how important are those hearts that are ready to give with joy and liberality so that the work of God may be carried on.<br><br>Become a monthly sponsor and give $10 $20 $50 $100 or $200 with automatic debit. It's easy, fast, convenient, it will make a difference. Sign up today!<br><br> Visit our missions page to sign up as a sponsor: www.everyhearthealed.com or contact Sister Liliana Valencia at (909) 822-5450 or lilianavalencia@fountainoftruth.com<br><br><a href='https://www.cadacorazonsanado.com/new-page' target='_blank'>CLICK HERE AND JOIN THE VISION - BECOME A SPONSOR</a>."
          }
     },
     {
@@ -41,7 +41,7 @@
     "tag": "modal",
     "id": "modal-p47",
     "class":"",
-    "text": "<strong>SUBSCRIBIRME</strong>",
+    "text": "<strong>SUBSCRIBE</strong>",
     "data": {
          "title": "",
          "content": "<iframe src='https://www.cadacorazonsanado.com/new-page' width='100%' height='550' allow='fullscreen'></iframe>"
@@ -63,7 +63,7 @@
            {
                "id": "page46",
                "icon": "./assets/pics/icons/iconEscucha.webp",
-               "url": "./assets/audios/esp_hacerme_patrocinador.m4a"
+               "url": "./assets/audios/eng_hacerme_patrocinador.m4a"
            },
            {
                "icon": "",
