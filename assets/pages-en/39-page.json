@@ -1,3 +1,135 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "5%",
+        "width": "90%",
+        "tag": "fdv-background",
+        "class": "fondo-azul"
+    },
+    {
+        "x": "7%",
+        "y": "7%",
+        "width": "86%",
+        "tag": "fdv-logo",
+        "class": "logo"
+
+    },
+    {
+        "x": "10%",
+        "y": "12%",
+        "width": "110%",
+        "src": "assets/pics/Eventos/fdv_global/1.webp",
+        "tag": "fdv-element2",
+        "class": "fdv-element2",
+        "title": "ORACIONES GLOBALES",
+        "leermas":"Leer Mas",
+        "texthtml": "<p>En el 2o semestre del año 2022 se celebraron 6 reuniones globales de oración de FDV a nivel global:</p><p>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre... </p>",
+        "id": "modal-p39-01",
+        "idtext":"modal-p39",
+        "imagenes_evento":[  
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/oraciones/5.jpg"
+            },
+            {
+                "src":"assets/pics/Eventos/fdv_global/oraciones/6.png"
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "0",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p39",
+        "class": "",
+        "text": "",
+        "data": {
+            "title": "<br>ORACIONES GLOBALES",
+            "content": "En el 2º semestre del año <b>2022</b> se celebraron 6 reuniones globales de oración de FDV a nivel global:<ul>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre</ul>En estas reuniones de oración global El Señor nos concedió adorar juntos como Iglesia con diferentes ministerios de alabanza de las congregaciones locales de FDV alrededor del mundo, recibir una palabra de poder cada mes por un pastor diferente, clamar juntos por las necesidades, y siempre recibir una reflexión inspiradora por parte de nuestro Obispo Samuel Valverde.<br><br>Dios nos concedió que más de 150 personas pudieran estar conectadas en promedio cada reunión de oración."
+        }
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p39-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "x": "10%",
+        "y": "52%",
+        "width": "110%",
+        "src": "assets/pics/Eventos/fdv_global/2.webp",
+        "tag": "fdv-element2",
+        "class": "fdv-element2",
+        "title": "REUNION GLOBAL DE PASTORES",
+        "texthtml": "<p>En el año 2022 se celebraron 9 reuniones de pastores de FDV a nivel global:</p><p>29 de Enero, 26 de Febrero, 26 de Marzo, 30 de Abril, 28 de Mayo, 30 de Julio, 27 de Agosto, 29 de Octubre y 26 de Noviembre.</p>",
+        "id": "modal-p39-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/reunion_pastores/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/reunion_pastores/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/fdv_global/reunion_pastores/3.jpg"
+            }
+        ]  
+    },
+    {
+        "x": "60%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "",
+                "icon": "",
+                "url": ""
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    }
 ]

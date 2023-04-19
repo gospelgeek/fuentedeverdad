@@ -1,3 +1,260 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "8%",
+        "y": "11%",
+        "text1": "Phoenix",
+        "text2": "Arizona"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "17%",
+        "text": "Samuel Valverde Jr, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p19-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "25%",
+        "y": "20%",
+        "src": "assets/pics/Eventos/eeuu/phoenix/6-EU-PHOENIX-SERVICIOORDENACION.webp",
+        "text": "Management Service",
+        "width":"20%",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/1.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/5.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/6.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/7.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/8.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/10.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-title",
+        "x": "8%",
+        "y": "41%",
+        "text1": "San Antonio",
+        "text2": "Texas"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "47%",
+        "text": "Saul Santos, Pastor"
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "52%",
+        "src": "assets/pics/Eventos/eeuu/san_antonio/7-EU-SANANTONIO-LANZAMIENTO.webp",
+        "text": "Official Launch <br> Of The Church",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/8.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "54.5%",
+        "class": "full-subtitle",
+        "text": "Pastor Saul Santos responded to the calling..."
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "65%",
+        "src": "assets/pics/Eventos/eeuu/san_antonio/7-EU-SANANTONIO-CONCIERTO.webp",
+        "text": "Concert <br> Remembering <br> Our Song II",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/9.jpeg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "67.5%",
+        "class": "full-subtitle",
+        "text": "The local church, Fountain of Truth San Antonio..."
+    },
+    {
+        "x": "62%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p17",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>OFFICIAL LAUNCH OF THE CHURCH IN SAN ANTONIO, TEXAS",
+            "content": "Pastor Saul Santos responded to the calling of the ministry, at the age of 15 years when he preached his first sermon. When he was 18, he was admitted to the Bible institute and at 21 he was ordained as minister, following his father’s and grandfather’s footsteps, who served as Pastors.<br><br>Our San Antonio campus was inaugurated on Sunday, May 22 of 2022 under the leadership of Bishop Samuel Valverde. The Santos family lives in San Antonio, Texas and serves as pastors in that place."
+        }
+    },
+    {
+        "x": "62%",
+        "y": "73%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p17-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "Concert “Remembering Our Song II”",
+            "content": "The local church, Fountain of Truth San Antonio, organized an apostolic concert called Remembering Our Song II.        <br><br>Our special guest was Pastor Samuel Valverde Jr, who assisted in the name of Bishop Samuel Valverde. The singer Joseph Espinoza ministered through old hymns that touched our hearts, it was a great blessing. It took place Saturday, June 11 at 6:30 pm at 12280 Alamo Ranch Pkwy, San Antonio, TX 78253."
+        }
+    },
+    {
+        "x": "50%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

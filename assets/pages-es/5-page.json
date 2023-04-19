@@ -17,7 +17,7 @@
                 
     },
     {
-        "x": "17%",
+        "x": "8%",
         "y": "11%",
         "width": "80%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -25,7 +25,7 @@
         "color": "#fff",
         "font-size": "1.5em",
         "tag": "contenido",
-        "style": "font-weight: normal;",
+        "style": "font-weight: normal; text-align: center;",
         "text": "",
         "id_unique": "text-sub-page-6",
         "data": {
@@ -34,38 +34,25 @@
                 
     },
     {
-        "x": "17%",
-        "y": "28%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "82%",
-        "height": "4%",
-        "fontSize": "4em",
-        "tag": "p",
-        "class": "text-biblical",
-        "data": {
-            "content": "<i><b>Paz de Cristo.</b></i>"
-        }
-    },
-    {
         "x": "0%",
-        "y": "35%",
+        "y": "28%",
         "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
+        "class": "text-page5",
         "font-size": "2em",
         "tag": "contenido",
         "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1.2em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text'>Un cordial saludo para todo el pueblo del Señor. Es para mí un honor ser parte del trabajo misionero que realiza...</p>"
+           "text": "<p class='main-text'>Paz de Cristo: <br>Un cordial saludo para todo el pueblo del Señor. Es para mí un honor ser parte del trabajo misionero que realiza nuestra amada Iglesia Apostólica Fuente de Verdad. <br> Cuando empecé a colaborar en las Misiones Globales sólo contábamos con cuatro Iglesias, pero el crecimiento ha sido más que evidente, una a una, he podido ver la afiliación de cada Iglesia y la expansión que Dios nos ha permitido tener en los tres continentes en los que tenemos presencia.</p>"
         }
     },
     {
-        "x": "17%",
-        "y": "46%",
+        "x": "10%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -73,39 +60,12 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p6",
-        "class": "",
+        "class": "mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>Informe Misionero Fuente de Verdad Global<br><br>",
-            "content": "<i>Paz de Cristo.</i><br><br>Es para mí un honor ser parte del trabajo misionero que realiza nuestra amada Iglesia Apostólica Fuente de Verdad.<br><br>Cuando empecé a colaborar en la Misiones Globales sólo contábamos con cuatro Iglesias, pero el crecimiento ha sido más que evidente, una a una, he podido ver la afiliación de cada Iglesia y la expansión que Dios nos ha permitido tener en los tres continentes en los que hacemos presencia.<br><br>Como resultado del crecimiento, se han tenido que incluir más líderes que pongan sus dones en esta área del servicio al Señor; Dios bendiga la labor del Pastor Domingo Carlos, quien se ha encargado de la administración de la obra en México y del Pastor Álvaro Ocampo, quien ha estado al frente del trabajo en Colombia.<br><br>Agradezco la confianza que el Obispo Samuel Valverde me ha tenido, para encabezar el trabajo de incorporación y administración de Guatemala, en donde tenemos dos Iglesias; Japón, en donde contamos con dos Iglesias; Canadá, con una Iglesia; Costa Rica, en donde contamos con dos Iglesias; Chile, en donde tenemos una naciente Iglesia y Los Estados Unidos, en donde tenemos 13 Iglesias, para un total de 21 Iglesias a cargo de su servidor.<br><br>Dentro de los logros obtenidos en las misiones globales puedo resaltar la obtención de la personería jurídica para Colombia; personería jurídica para México, labor liderada por el pastor Domingo Carlos; personería jurídica para Costa Rica y, recientemente, personería jurídica para Chile. Lo que nos permite trabajar con legalidad y total libertad en esos territorios.<br><br>Me siento muy felíz de poder servir a Dios y poner un granito de arena en favor de la expansión de la obra de Dios, pero, definitivamente, lo que más satisfacción nos produce es ver almas rindiéndose a las pies de Cristo y saber que, como resultado de la predicación de todos nuestros pastores a nivel global, entre los años 2021 y 2022, solo por citar un ejemplo, pudimos bautizar unas 364 personas en el Nombre de Jesús, todo para gloria del Señor.<br><br>La necesidad que tenemos de orar por nuestros pastores es urgente, la mayoría de ellos se encuentran empezando nuevas Iglesias y han venido de procesos muy dolorosos, pero al llegar a Fuente de Verdad han podido ver cómo Dios ha sanado sus corazones y eso les ha impulsado a querer poner sus vidas al servicio del Señor para trabajar en favor de aquellos que se encuentran heridos y sin hogar. <br><br>Sigamos orando fervientemente  y sigamos aportando generosamente para las Misiones Globales porque estamos seguros que aunque se ha hecho un gran trabajo, todavía <i>“la mies es mucha y los obreros pocos”.</i><br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'>Por el Pastor Martín Pérez</p>"
+            "content": "<i>Paz de Cristo:</i><br><br>Es para mí un honor ser parte del trabajo misionero que realiza nuestra amada Iglesia Apostólica Fuente de Verdad.<br><br>Cuando empecé a colaborar en las Misiones Globales sólo contábamos con cuatro Iglesias, pero el crecimiento ha sido más que evidente, una a una, he podido ver la afiliación de cada Iglesia y la expansión que Dios nos ha permitido tener en los tres continentes en los que tenemos presencia.<br><br>Como resultado del crecimiento, se han tenido que incluir más líderes que pongan sus dones en esta área del servicio al Señor; Dios bendiga la labor del Pastor Domingo Carlos, quien se ha encargado de la administración de la obra en México y del Pastor Álvaro Ocampo, quien ha estado al frente del trabajo en Colombia.<br><br>Agradezco la confianza que el Obispo Samuel Valverde me ha tenido, para encabezar el trabajo de incorporación y administración de Guatemala, en donde tenemos dos Iglesias; Japón, en donde contamos con dos Iglesias; Canadá, con una Iglesia; Costa Rica, en donde contamos con dos Iglesias; Chile, en donde tenemos una naciente Iglesia y Los Estados Unidos, en donde tenemos 13 Iglesias, para un total de 21 Iglesias a cargo de su servidor.<br><br>Dentro de los logros obtenidos en las misiones globales puedo resaltar la obtención de la personería jurídica para Colombia; personería jurídica para México, labor liderada por el pastor Domingo Carlos; personería jurídica para Costa Rica y, recientemente, personería jurídica para Chile. Lo que nos permite trabajar con legalidad y total libertad en esos territorios.<br><br>Me siento muy felíz de poder servir a Dios y poner un granito de arena en favor de la expansión de la obra de Dios, pero, definitivamente, lo que más satisfacción nos produce es ver almas rindiéndose a las pies de Cristo y saber que, como resultado de la predicación de todos nuestros pastores a nivel global, entre los años 2021 y 2022, solo por citar un ejemplo, pudimos bautizar unas 364 personas en el Nombre de Jesús, todo para gloria del Señor.<br><br>La necesidad que tenemos de orar por nuestros pastores es urgente, la mayoría de ellos se encuentran empezando nuevas Iglesias y han venido de procesos muy dolorosos, pero al llegar a Fuente de Verdad han podido ver cómo Dios ha sanado sus corazones y eso les ha impulsado a querer poner sus vidas al servicio del Señor para trabajar en favor de aquellos que se encuentran heridos y sin hogar. <br><br>Sigamos orando fervientemente  y sigamos aportando generosamente para las Misiones Globales, porque estamos seguros que aunque se ha hecho un gran trabajo, todavía <i>“la mies es mucha y los obreros pocos”.</i><br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'>Pastor Martín Pérez</p>"
         }
-    },
-    {
-        "x": "50%",
-        "y": "80%",
-        "width": "50%",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "social-media",
-        "text": "",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/facebook.png",
-                "url": "http://www.facebook.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/gorjeo.png",
-                "url": "http://twitter.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/whatsapp.png",
-                "url": "http://api.whatsapp.com/",
-                "page": 4
-            }
-        ]
     },
     {
         "x": "0%",
@@ -115,9 +75,9 @@
         "image": "<img src='assets/pics/photos/img_fondo_martin.webp'>"
     },
     {
-        "x": "10%",
-        "y": "75%",
-        "width": "40%",
+        "x": "15%",
+        "y": "87%",
+        "width": "100%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
@@ -127,11 +87,35 @@
         "text": "",
         "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;'>Por el<br><strong>PASTOR MARTÍN PÉREZ</strong></h4>"
+            "text": "<h4 class='monserrat-black' style='font-size: 1em; color: white;cursor:text;'>Por el <strong>PASTOR MARTÍN PÉREZ</strong></h4>"
         }   
     },
     {
-        "x": "50%",
+        "x": "20%",
+        "y": "65%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page4",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_pastor_misiones.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "55%",
         "y": "65%",
         "width": "50%",
         "background-color": "#b41015",
@@ -143,17 +127,17 @@
             {
                 "icon": "./assets/pics/icons/facebook.png",
                 "url": "http://www.facebook.com/",
-                "page": 3
+                "page": 5
             },
             {
                 "icon": "./assets/pics/icons/gorjeo.png",
                 "url": "http://twitter.com/",
-                "page": 3
+                "page": 5
             },
             {
                 "icon": "./assets/pics/icons/whatsapp.png",
                 "url": "http://api.whatsapp.com/",
-                "page": 3
+                "page": 5
             }
         ]
     }

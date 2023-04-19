@@ -1,34 +1,105 @@
 [
     {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "5%",
-        "y": "5%",
+        "y": "9%",
         "text1": "Bogota",
         "text2": "Colombia"
     },
     {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "16%",
+        "text": "Álvaro Alexander Ocampo Cañas, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p27-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
-        "y": "17%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "Lanzamiento <br> 1er Pastor"
+        "y": "20%",
+        "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOPASTOR.webp",
+        "text": "Lanzamiento <br> 1er Pastor",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/2.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/07BfZyTSols"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_primer_pastor/10.jpg"
+            }
+        ]  
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
-        "y": "19%",
+        "y": "21%",
         "class": "full-subtitle",
         "text": "El Obispo Samuel <br> Valverde en compañia..."
     },
     {
         "x": "62%",
-        "y": "25%",
+        "y": "27%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p27",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -40,26 +111,53 @@
     {
         "tag": "event-container",
         "x": "12%",
-        "y": "28%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la iglesia"
+        "y": "30%",
+        "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOIGLESIA.webp",
+        "text": "Lanzamiento <br> Oficial <br> de la iglesia",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/bogota/lanzamiento_oficial/7.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
-        "y": "31%",
+        "y": "33%",
         "class": "full-subtitle",
         "text": "¡Fue una evento de gran gozo! Nos acompaño..."
     },
     {
         "x": "62%",
-        "y": "37%",
+        "y": "39%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p27-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -76,18 +174,31 @@
         "text2": "Colombia"
     },
     {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "61%",
+        "text": "Anderson Sneyder Londoño López, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "65%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "inicio <br> Misión Kids"
+        "src": "assets/pics/Eventos/colombia/medellin/kids/3-CO-MEDELLIN-INICIOMISIONKIDS.webp",
+        "text": "inicio <br> Misión Kids",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/kids/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "63%",
         "y": "67%",
         "class": "full-subtitle",
-        "text": "con la ayuda del Señor <br> se pudo iniciar el..."
+        "text": "Con la ayuda del Señor <br> se pudo iniciar el..."
     },
     {
         "x": "63%",
@@ -97,7 +208,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p27-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -110,8 +221,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "78%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Semana <br> de Renovación <br> Vuelve a casa"
+        "src": "assets/pics/Eventos/colombia/medellin/vuelve_a_casa/3-CO-MEDELLIN-SEMANARENOVACION.webp",
+        "text": "Semana <br> de Renovación <br> Vuelve a casa",
+        "id":"modal-p27-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/vuelve_a_casa/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -128,12 +246,12 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p27-4",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>SEMANA DE RENOVACIÓN “VUELVE A CASA” S<br>20 al 24 de julio de 2022</h6>",
+            "title": "<br>SEMANA DE RENOVACIÓN “VUELVE A CASA” <br>20 al 24 de julio de 2022</h6>",
             "content": "Semana evangelística donde se predicó la Palabra, siendo el objetivo principal buscar rescatar a aquellos hermanos que estaban alejados del Señor."
         }
     }

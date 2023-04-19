@@ -1,3 +1,178 @@
 [
-    
+    {
+        "x": "10%",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CB_esp.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "9%",
+        "text1": "Cambodia",
+        "text2": ""
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "15%",
+        "text": "UNG Ratheany, Pastor"
+    },
+    {
+        "x": "5%",
+        "y": "20%",
+        "width": "80%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-32",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p34'><strong>Mi experiencia <br> en Cambodia <br> Pastor Supervisor Domingo Carlos</strong></p>"
+        }
+    },
+    {
+        "x": "13%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p32",
+        "class": "leermas-p32 mover-leer-mas",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>IGLESIA APOSTÓLICA FUENTE DE VERDAD CAMBODIA<br><br>Informe del viaje misionero y de necesidades apremiantes<br><br>",
+            "content": "<i>¡Gracias a Dios, se cumplió el viaje misionero a la nación de Cambodia en el mes de enero 2023!</i><br><br>La iglesia en Cambodia sigue con valentía, con tenacidad, con aguante, con perseverancia a pesar de muchos retos y adversidades. Rogamos oraciones a favor de los pastores, sus familias, y la hermandad para que sigan avanzando, atravesando, y navegando toda tempestad y sigan creciendo, extendiéndose, y alcanzando cada vez más territorio.<br><br><b>Actualmente hay 4 obras:</b><ul>1. Siem Reap (Pastor Ratheany Ung)</ul><ul>2.  Toulaviang (Pastor Pheak Tra Teav) </ul><ul>3.  Phnom Toich (Ministro (E) Theb Yan)</ul><ul>4.  Kampot (Pastor Chiyat Pen) </ul><b>El viaje misionero del mes de enero de 2023 fue maravilloso y de gran éxito. A través de los varios días de ministerios:</b><ul><li>Se visitaron tres aldeas, donde se reunieron todos los creyentes y donde se predicó el evangelio a nuevos oyentes.</li><li>Se llevaron a cabo: una conferencia para todos los líderes camboyanos, una conferencia para todos los pastores y esposas, y una conferencia para mujeres que fue de mucha sanidad y empoderamiento.</li><li>Una gran celebración donde llegaron todos los creyentes de la ciudad de Siem Reap, Kampot, y de seis aldeas de los alrededores (casi 500 personas en asistencia). Fue un culto hermoso y poderoso, de sanidades, llenura del Espíritu Santo, y almas nuevas recibiendo el evangelio. </li><li>Se bautizaron 11 personas.</li></ul>Damos gracias al equipo ejecutivo (Samuel Valverde, Raquel Valverde, Domingo Carlos, Timothy Valverde, Nat Ochoa y Patrick Cisneros) por su liderazgo en realizar la visión de este viaje, y a todo el equipo que viajó de FDV Rancho, FDV Tijuana, FDV San Diego, FDV Dallas/Ft. Worth, y FDV Phoenix por su gran colaboración en efectuar un gran impacto para FDV Cambodia.<br><br><i><b>Estén atentos para el anuncio del próximo viaje misionero a Cambodia, ya que tenemos planes de regresar, y de volver a viajar un grupo robusto para seguir impulsando la obra de Dios en Cambodia, y de impactar y transformar las vidas mismas de todos los que se integren a este equipo.</b></i><br><br><b>Hubo muchas iglesias y personas que donaron, más de lo que podemos nombrar; se pudo lograr lo siguiente:</b><ul><li>Dar mochilas y útiles escolares a más de 100 niños</li><li>Dar mochilas a todos los líderes Cambodianos (40)</li><li>Dar riñoneras (fanny packs) a 60 mujeres</li><li>Alimentar a 500 personas después de la gran celebración</li><li>Comprar muebles, accesorios, mesas, instrumentos, y utensilios en general para el templo nuevo</li></ul><b>¡Damos toda la gloria a Dios porque se pudo dedicar el templo para la iglesia de Siem Reap!</b><br><br>Después de esfuerzos que comenzaron en noviembre de 2018, atravesando muchos retos causados por la pandemia y retos de construcción, damos gracias a Dios que se pudo construir un templo con casa pastoral en nuestro propio terreno de Fuente de Verdad Cambodia en la ciudad de Siem Reap. Este edificio será un centro de oración, adoración, capacitación ministerial, escuela de música, escuela de inglés, y de alcance comunitario. Damos gracias a la empresa Carlosendo Laparoscopic Instruments (de Ismael y Domingo Carlos), y a FDV Rancho Cucamonga, que fueron los donantes principales en suplir los $68 mil que se invirtieron para completar este proyecto.<br><br><b>Resta pagar una hipoteca bancaria de $20,000 para salir de toda deuda de este proyecto. Otras necesidades nacionales incluyen:</b><ul><li>4 motos para los pastores, para que continúen su ministerio por las aldeas</li><li>1 camioneta para la iglesia principal</li><li>2 equipos de sonido para dos de las cuatro obras</li><li>Paredes y piso para el templo de una de las aldeas (Toualaviang)</li></ul>Por último, <b>pedimos oraciones especiales</b> a favor de la esposa del pastor de Siem Reap (Keany “Esther” Teav) y la esposa del pastor de Kampot (Toich “Tabita” Neak), ya que ambas están pasando enfermedades graves y necesitan un milagro de sanidad en sus cuerpos.<br><br><b>Informe entregado por:</b> Pastor Domingo Carlos, <i>Supervisor FDV Cambodia</i>"
+        }
+    },
+    {
+        "x": "25%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page31",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_cambodia.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "x": "68%",
+        "y": "19%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>Enero</strong></h3>"
+        }   
+    },
+    {
+        "x": "68%",
+        "y": "22.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>2023</h5>"
+        }   
+    },
+    {
+        "x": "5%",
+        "y": "31.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='text-pag-34'><strong></strong></h5>"
+        }   
+    },
+    {
+        "x": "8%",
+        "y": "42%",
+        "width": "50%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "font-size": "2em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p34'><strong>Video <br> Resumen viaje</strong></p>"
+        }
+    },
+    {
+        "x": "7%",
+        "y": "50%",
+        "class": "video-entrevista-pastor",
+        "tag":"video-emb",
+        "url": "<iframe  class='video-entrevista-pastor' src='https://drive.google.com/file/d/1tu9wW8qU8FVtaAQweGOO3HnYAFP1IvHo/preview' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
+    },
+    {
+        "x": "55%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

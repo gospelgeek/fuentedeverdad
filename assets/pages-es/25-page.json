@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "10%",
         "y": "15%",
@@ -7,18 +15,113 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "21%",
+        "text": "Isaac Cauich Nabté, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p25-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "24%",
         "src": "assets/pics/Eventos/mexico/muna/9-MEX-MUNA-RETIROESPIRITUAL.webp",
-        "text": "retiro Espiritual <br>Somos Iglesia"
+        "text": "retiro Espiritual <br>Somos Iglesia",
+        "id":"modal-p25-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/muna/20.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
         "y": "27%",
         "class": "full-subtitle",
-        "text": "durante el fin del año <br> pasado, Dios nos..."
+        "text": "Durante el fin del año <br> pasado, Dios nos..."
     },
     {
         "x": "62%",
@@ -28,7 +131,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p25",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -41,15 +144,48 @@
         "tag": "event-title",
         "x": "10%",
         "y": "59%",
-        "text1": "Jomulco",
+        "text1": "Jala",
         "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "65%",
+        "text": "Jesús René Ramos, Diácono Encargado"
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "68%",
-        "src": "assets/pics/Eventos/mexico/jomulco/10-MEX-JOMULCO-LANZAMIENTO.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+        "src": "assets/pics/Eventos/mexico/tehuacan/6-MEX-TEHUACAN-EVENTOMATRIMONIOS.webp",
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia",
+        "id":"modal-p25-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/1.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/jomulco/6.jpeg"
+            }
+        ]   
     },
     {
         "tag": "event-subtitle",
@@ -71,8 +207,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>LANZAMIENTO FDV JOMULCO, NAYARIT<h5>Fecha: 20 Noviembre 2022</h5>",
-            "content": "<b>#Asistentes:</b> 80 Personas aproximadamente.<br><br>Resumen:<br>El Hno. Jesús René Ramos Najar junto con su esposa Ana Maloy Grande Moncada han estado al frente de esta hermosa congregación. Dios nos permitió tener un servicio de lanzamiento muy especial en el que adoramos al Señor junto con la congregación de los hermanos de Jomulco, Nayarit.<br>El Pastor Gabriel Gálvez (FDV SLP) junto con el Pastor Eliezer Barbosa (FDV Mazatlán) tuvieron la oportunidad de bendecir a esta iglesia a través de un programa que incluyó las siguientes secciones:<ol><li>Celebración de 4 Bautismos.</li><li>Video: Saludos y palabra de bendición por parte del Obispo Samuel Valverde.</li><li>Iniciación al diaconado Hno. Jesús René Ramos Najar.</li><li>Oración de lanzamiento Iglesia Apostólica FDV Jomulco, Nayarit.</li></ol>Nos gozamos al ver la gran obra que Dios está haciendo en este lugar, creyendo que se seguirá cumpliendo nuestra visión de VER CADA CORAZÓN SANADO. <br><br> <table class='table-modal'><tr><td>Horario</td><td>Actividad</td><td>Encargado</td></tr><tr><td>15:45 – 16:00</td><td>Preludio musical</td><td>Hno. René Ramos</td></tr><tr><td>16:00 – 16:20</td><td>1º Bloque Alabanza & Adoración</td><td>Diácono Orlando Valdez & Ministerio Alabanza FDV Jala</td></tr><tr><td>16:20 – 16:30</td><td>Palabra Poder: Bautismo</td><td>Pastor Eliezer Barboza</td></tr><tr><td>16:30 – 16:50</td><td>Bautismos</td><td>Pastor Eliezer Barboza & Pastor Gabriel Gálvez</td></tr><tr><td>16:50 – 17:10</td><td>2º Bloque Alabanza & Adoración</td><td>Diácono Orlando Valdez & Ministerio Alabanza FDV Jala</td></tr><tr><td>17:10 – 17:20</td><td>Ofrenda</td><td>Hno. René Ramos</td></tr><tr><td>17:20 – 17:30</td><td>Cantos Especiales</td><td>Pastor Eliezer Barboza & Hna. Egla Acosta</td></tr><tr><td>17:30 – 17:45</td><td>Presentación FDV</td><td>Pastor Eliezer Barboza</td></tr><tr><td>17:45 – 18:15</td><td>Mensaje</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>18:15 – 18:30</td><td>Ceremonia Iniciación Diaconado</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>18:30 – 18:40</td><td>Oración Lanzamiento FDV Jala</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>18:40 – 18:50</td><td>Ministración Necesidades</td><td>Pastor Eliezer Barboza</td></tr><tr><td>18:50 – 19:00</td><td>Entrega Certificados Bautismo + Presentación Niños</td><td>Diácono René Ramos</td></tr><tr><td>19:00</td><td>Anuncios + Despedida</td><td>Diácono René Ramos</td></tr></table>"
+            "title": "<br>LANZAMIENTO FDV Jala, NAYARIT<h5>Fecha: 20 Noviembre 2022</h5>",
+            "content": "<b>#Asistentes:</b> 80 Personas aproximadamente.<br><br>Resumen:<br>El Hno. Jesús René Ramos Najar junto con su esposa Ana Maloy Grande Moncada han estado al frente de esta hermosa congregación. Dios nos permitió tener un servicio de lanzamiento muy especial en el que adoramos al Señor junto con la congregación de los hermanos de Jala, Nayarit.<br>El Pastor Gabriel Gálvez (FDV SLP) junto con el Pastor Eliezer Barbosa (FDV Mazatlán) tuvieron la oportunidad de bendecir a esta iglesia a través de un programa que incluyó las siguientes secciones:<ol><li>Celebración de 4 Bautismos.</li><li>Video: Saludos y palabra de bendición por parte del Obispo Samuel Valverde.</li><li>Iniciación al diaconado Hno. Jesús René Ramos Najar.</li><li>Oración de lanzamiento Iglesia Apostólica FDV Jala, Nayarit.</li></ol>Nos gozamos al ver la gran obra que Dios está haciendo en este lugar, creyendo que se seguirá cumpliendo nuestra visión de VER CADA CORAZÓN SANADO. <br><br> <table class='table-modal'><tr><td>Horario</td><td>Actividad</td><td>Encargado</td></tr><tr><td>15:45 – 16:00</td><td>Preludio musical</td><td>Hno. René Ramos</td></tr><tr><td>16:00 – 16:20</td><td>1º Bloque Alabanza & Adoración</td><td>Diácono Orlando Valdez & Ministerio Alabanza FDV Jala</td></tr><tr><td>16:20 – 16:30</td><td>Palabra Poder: Bautismo</td><td>Pastor Eliezer Barboza</td></tr><tr><td>16:30 – 16:50</td><td>Bautismos</td><td>Pastor Eliezer Barboza & Pastor Gabriel Gálvez</td></tr><tr><td>16:50 – 17:10</td><td>2º Bloque Alabanza & Adoración</td><td>Diácono Orlando Valdez & Ministerio Alabanza FDV Jala</td></tr><tr><td>17:10 – 17:20</td><td>Ofrenda</td><td>Hno. René Ramos</td></tr><tr><td>17:20 – 17:30</td><td>Cantos Especiales</td><td>Pastor Eliezer Barboza & Hna. Egla Acosta</td></tr><tr><td>17:30 – 17:45</td><td>Presentación FDV</td><td>Pastor Eliezer Barboza</td></tr><tr><td>17:45 – 18:15</td><td>Mensaje</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>18:15 – 18:30</td><td>Ceremonia Iniciación Diaconado</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>18:30 – 18:40</td><td>Oración Lanzamiento FDV Jala</td><td>Pastor Gabriel Gálvez</td></tr><tr><td>18:40 – 18:50</td><td>Ministración Necesidades</td><td>Pastor Eliezer Barboza</td></tr><tr><td>18:50 – 19:00</td><td>Entrega Certificados Bautismo + Presentación Niños</td><td>Diácono René Ramos</td></tr><tr><td>19:00</td><td>Anuncios + Despedida</td><td>Diácono René Ramos</td></tr></table>"
         }
     },
     {

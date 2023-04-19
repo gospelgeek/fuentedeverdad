@@ -18,7 +18,7 @@ body{
             .region.undefined{
                 .page-4-title{
                     h2{
-                        color: #785849;
+                        color:black;
                         font-weight: 400;
                     }
 
@@ -76,7 +76,7 @@ body{
     align-items: center;
     .image{
         img{
-            width: 80px;
+            width: 60px;
             border-radius: 50%;
         }
     }
@@ -85,18 +85,18 @@ body{
         transform: translateX(-10px);
         text-transform: capitalize;
         max-width: 180px;
+        line-height: 20px;
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 600px) {
         .image{
             img{
-                width: 70px;
+                width: 60px;
             }
         }
         h3.text{
-            font-size: 14px;
-            max-width: 150px;
-
+            font-size: 13px;
+            max-width: 130px;
         }
     }
 }
@@ -110,6 +110,13 @@ body{
             margin-right: 8px;
             font-size: 35px;
         }
+
+        @media (max-width:600px) {
+            font-size: 16px;
+            strong{
+                font-size: 33px;
+            }
+        }
     }
 }
 
@@ -120,6 +127,12 @@ body{
         color: @white;
         font-size: 12px;
         text-align: left;
+    }
+    @media (max-width: 600px) {
+        p{
+            font-size: 11px;
+            line-height: 1.2;
+        }
     }
 }
 
@@ -132,8 +145,8 @@ body{
 // estilos dropdown de idiomas
 #canvas{
     position: absolute;
-    top: 20px;
-    right: 20px; 
+    top: 0px;
+    right: 0px; 
     background-color: #ffffff90;
     border-radius: 8px;
     padding: 5px 30px 5px 20px;
@@ -202,6 +215,7 @@ body{
         p{
             font-size: 17px;
             font-weight: 300;
+            cursor: text;
         }
         strong{
             font-size: 25px;
@@ -296,7 +310,7 @@ ul#answer-container{
     max-height: 530px;
     overflow: auto;
 
-    @media (max-width: 480px) {
+    @media (max-width: 600px) {
         max-height: 450px;   
     }
 
@@ -390,7 +404,6 @@ ul#answer-container{
         width: 90%;
         ul{
             display: grid;
-            padding: 0;
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 10px;
             grid-template-rows: repeat(4, 1fr);
@@ -398,6 +411,7 @@ ul#answer-container{
                 color: @white;
                 font-weight: 500;
                 font-size: 16px;
+                padding: 1px;
             }
         }
     }
@@ -424,7 +438,7 @@ ul#answer-container{
         .responsive-font{
             margin-left: 40px;
             color: #fe5457;
-            font-size: 40px;
+            font-size: 40px !important;
             font-style: italic;
             p{
                 font-weight: 300;
@@ -444,6 +458,7 @@ ul#answer-container{
                 p{
                     font-size: 12px;
                     text-align: end;
+                    cursor: text;
                 }
             }
         }
@@ -460,4 +475,1060 @@ ul#answer-container{
 // close modal style
 .modal a.close-modal{
     background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAM5JREFUSEvtlMsNwkAMRJ87oJNQAnQAlYYOSAnQCR0YWXKkZPH+DisuyTHyzlvP2CsM/mSwPgeg6vB/LVLVG7CIyCe6qqqegIuIPHKtZDtw8Rl4AdcU4uJP4Azcc5ASwG63AFMKScTf3kXYZTEDF9pB3Ir15kVxq62GHEDsnNlSFW8CWFECsV9N4r2A1RY7FwYfTVKrRVvPTecn+O4x3VizC9SFwunq6qA0itF05ZaxZdHCQBNI/6K5ReOeiuoz2VhQnaJGnWzZAag6ONyiL3UxahlGNu2NAAAAAElFTkSuQmCC')
+}
+
+// legal page
+.region.legal-page-title{
+    h3{
+        color: @blue-light;
+        font-size: 40px;
+        text-align: center;
+    }
+}
+.region.legal-page-subtitle{
+    h3{
+        color: @white;
+        font-size: 15px;
+        text-align: center;
+    }
+}
+
+.region.legal-page-paragraph{
+    .responsive-font-content{
+        color: @white;
+        font-size: 10px;
+        font-weight: 300;
+        p{
+            text-align: center;
+        }
+    }
+}
+
+// paginas de fuentes de verdad
+// fondo tipo video
+
+.region.fdv-title{
+    h1{
+        color: @white;
+        font-size: 58px;
+        @media (max-width: 600px) {
+            font-size: 48px;
+        }
+    }
+}
+.region.fdv-subtitle{
+    
+    h1{
+        color: @white;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1;
+    }
+    h2{
+        color: @white;
+        font-size: 17px;
+        font-weight: 200;
+        line-height: 1;
+    }
+
+    @media (max-width: 600px) {
+        h1{
+            font-size: 16px;
+        }
+        h2{
+            font-size: 14px;
+        }
+    }
+}
+// estilos fdv-element1
+.region.fdv-element1{
+    >div{
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        .left{
+            width: 55%;
+            
+            h1{
+                color: @white;
+                font-size: 14px;
+                text-align: left;
+            }
+            p{
+                color: @white;
+                font-weight: 200;
+                text-align: initial;
+                font-size: 13px;
+            }
+            @media (max-width: 600px) {
+                h1{
+                    font-size: 12px;
+                }
+                p{
+                    font-size: 11px;
+                }
+            }
+
+        }
+        .right{
+            width: 45%;
+            h3{
+                color: @white;
+                font-size: 13px;
+                text-align: end;
+            }
+            .action{
+                display: flex;
+                justify-content: end;
+                button{
+                    border-radius: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 5px;
+                    border: none;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
+
+.region.fondo-azul{
+    background-color: #003b7370;
+    height: 90%;
+}
+
+// estilos de los videos de fondo
+#video-background {
+    width: 200%;
+    height: 100%;
+    z-index: -1;
+    object-fit: cover;
+    pointer-events: none;
+}
+.video-entrevista{
+    height: 100vh;
+    video{
+        pointer-events: none;
+        @media (max-width: 600px) {
+            // transform: scale(3.9) translateY(-30px);
+        }
+    }
+}
+
+// estilos fdv elemento2
+.region.fdv-element2{
+    >div{
+        display: inline-block;
+        gap: 40px;
+        .left{
+            color: @white;
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            h1{
+                font-size: 14px;
+                text-align: left;
+            }
+
+            p{
+                font-weight: 200;
+                text-align: initial;
+                font-size: 13px;
+                margin-bottom: 10px;
+            }
+            .action{
+                button{
+                    border-radius: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 5px;
+                    cursor: pointer;
+                    border: none;
+                    display: inline-block;
+                }
+            }
+        }
+
+        .right{
+            width: 45%;
+            left: 60%;
+            position: absolute;
+            top: -5%;
+            img{
+                border-radius: 50%;
+                height: 220px;
+                width: 220px;
+            }
+        }
+    }
+}
+
+// estilos logos
+.region.logo > div{
+    display: flex;
+    justify-content: space-between;
+
+    p{
+        color: @white;
+        font-size: 12px;
+    }
+}
+
+// estilos desde el corazon del obispo
+.region.desde-el-corazon-title{
+    h1{
+        color: #003b73;
+        font-weight: 400;
+        strong{
+            font-weight: 800;
+        }
+    }
+}
+.region.desde-el-corazon-text{
+    p.main-text{
+        color: @white;
+        text-align: initial;
+        font-size: 13px;
+    }
+}
+
+.region.top-entrevista{
+    background-color: #135072;
+    border-radius: 0 0 40px 40px;
+    padding: 60px 15px 15px 15px;
+    border: 2px solid #8d6631;
+    border-top: none;
+    color: @white;
+    strong{
+        font-size: 14px;
+    }
+    @media (max-width: 600px) {
+        left: 21% !important;
+        width: 50% !important;
+        padding: 40px 15px 15px 15px;
+
+        strong{
+            font-weight: 200;
+            font-size: 12px;
+        }
+    }
+}
+
+.region.texto-entrevista{
+    p{
+        font-weight: 400;
+        color: #003b73;
+        text-align: left;
+        font-size: 13px;
+        margin-bottom: 20px;
+        strong{
+            font-weight: 800;
+        }
+    }
+}
+
+.region.agradecimiento-title{
+    color: #bc4860;
+    text-align: center;
+    h4{
+        font-size: 20px;
+    }
+}
+
+.region.agradecimiento-text{
+    color: #bc4860;
+    font-size: 13px;
+    p{
+        font-weight: 500;
+        text-align: justify;
+        font-size: 13px;
+        strong{
+            font-weight: 800;
+        }
+    }
+}
+
+// pagina 4 y 5 mobile
+@media (max-width: 600px) {
+    .region.text-page4, .region.text-page5{
+        p{
+            font-size: 10px;
+        }
+    }
+}
+
+// arregla fondo de video para pagina 6 y 7
+div[page="7"]{
+    .page.p7{
+        .region.video-entrevista{
+            video{
+                transform: translateX(-50%);
+            }
+        }
+    } 
+}
+
+// video page10
+.region.video-page9{
+    #video-background{
+        width: 100%;
+        height: 100vh;
+        @media (max-width: 600px) {
+            height: 72vh;
+        }
+    }
+}
+
+// pagina 10
+.region.texto-p10{
+    background-color: #ffffff80;
+    padding: 10px 0;
+    h1{
+        font-size: 34px;
+    }
+}
+@media (max-width: 600px) {
+    .page.p10 {
+        .region.actions{
+            top: 89.5% !important;
+        }
+
+        .region.reproducir{
+            left: 42% !important;
+            top: 87% !important;
+        }
+    }
+}
+
+// pagina 11
+@media (max-width: 600px) {
+    .region.text-page11{
+        p{
+            font-size: 10px;
+        }
+    }
+    .region.image-page11{
+        img{
+            width: 90%;
+            margin: auto;
+            display: block;
+        }
+    }
+}
+
+.pastor-name{
+    p{
+        color: @white;
+        font-size: 14px;
+    }
+}
+
+// video pagina 50
+.region.video-page50{
+    height: 100%;
+    #video-background{
+        width: 100%;
+    }
+}
+
+// estilos para modales tipo texto
+.modal.texto{
+    height: fit-content;
+}
+
+.modal.texto.modal-grande{
+    height: 90%;
+    a.close-modal {
+        position: fixed;
+        right: 25.2%;
+        top: 6.5%;
+    }
+}
+
+.modal.texto.modal-pequeno{
+    overflow: visible;
+    a.close-modal {
+        top: -10px;
+        right: -10px;
+    }
+}
+
+// modal de imagenes
+.modal.imagenes{
+    background-color: #081420 !important;
+    a.close-modal {
+        right: 25.2%;
+        top: 6.5%;
+        position: fixed;
+    }
+}
+
+// imagenes en modales de texto
+
+#modal-p6, #modal-p3{
+    background: url("../../pics/backgrounds/modal-pg3.png");
+    background-size: cover;
+} 
+
+#modal-p5 {
+    position: relative; /* Importante para que el pseudo-elemento se ubique correctamente */
+    background:  linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/modal-pg6.png");
+    background-size: cover;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+  
+#modal-p8{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/modal-pg8.png");
+    background-size: cover;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+} 
+
+#modal-p9{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/modal-pg9.png");
+    background-size: cover;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+} 
+
+#modal-p10{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/general-images/top-index.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+} 
+
+#modal-p11{
+    background: url("../../pics/backgrounds/11.webp");
+    background-size: cover;
+} 
+
+#modal-p12, #modal-p12-2, #modal-p12-3{
+    background: url("../../pics/backgrounds/12.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+} 
+
+#modal-p13-1, #modal-p13-2, #modal-p13-3{
+    background: url("../../pics/backgrounds/13.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p14, #modal-p14-2, #modal-p14-3, #modal-p14-4{
+    background: url("../../pics/backgrounds/14.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+}
+
+
+#modal-p15{
+    background: url("../../pics/backgrounds/15.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p16{
+    background: url("../../pics/backgrounds/16.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+}
+#modal-p17, #modal-p17-2{
+    background: url("../../pics/backgrounds/19.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p20{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/20.webp");
+    background-size: cover;
+    padding: 0;
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+    
+}
+
+#modal-p21, #modal-p21-2{
+    background: url("../../pics/backgrounds/21.webp");
+    background-size: cover;
+    background-color: #081420;
+    color: @white;
+    background-position: center;
+}
+#modal-p22, #modal-p22-2, #modal-p22-3, #modal-p22-4{
+    background: url("../../pics/backgrounds/22.webp");
+    background-size: cover;
+    background-position: center;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p23, #modal-p23-2, #modal-p23-3{
+    background: url("../../pics/backgrounds/23.webp");
+    background-size: cover;
+    background-position: center;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p24, #modal-p24-2{
+    background: url("../../pics/backgrounds/24.webp");
+    background-size: cover;
+    background-position: center;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p25, #modal-p25-2{
+    background: url("../../pics/backgrounds/25.webp");
+    background-size: cover;
+    background-position: center;
+    background-color: #081420;
+    color: @white;
+}
+
+#modal-p26, #modal-p26-2{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/26.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p27, #modal-p27-2, #modal-p27-3, #modal-p27-4{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/27.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p28, #modal-p28-2, #modal-p28-3, #modal-p28-4, #modal-p28-5, #modal-p28-6{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/28.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p29, #modal-p29-2, #modal-p29-3{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/29.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p30, #modal-p30-2, #modal-p30-3{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/30.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p31, #modal-p31-2, #modal-p31-3, #modal-p31-4, #modal-p31-5{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/31.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p32{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/32.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p33, #modal-p33-2, #modal-p33-3, #modal-p33-4{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/33.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p34, #modal-p34-2, #modal-p34-3{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/34.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p35, #modal-p35-2, #modal-p35-3, #modal-p35-4{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/35.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p36, #modal-p36-2, #modal-p36-3{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/36.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p37{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/37.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p41{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/41.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p42{
+     background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/modal-pg41.png");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p43{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/43.webp");
+    background-size: cover;
+    background-position: bottom;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p47-1{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/47.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+#modal-p48{
+    background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("../../pics/backgrounds/49.png");
+    background-size: cover;
+    background-position: bottom;
+    padding: 0;
+    
+    >*:not(.close-modal ){
+        padding: 13px 30px;
+    }
+}
+
+// mover por pagina el leer mas en responsive
+@media (max-width: 600px) {
+    .region.mover-leer-mas{
+        transform: translateX(-20px);  
+    }
+}
+
+// mover por pagina el audio
+@media (max-width: 600px) {
+    img#page11,img#page11-1, img#page31{
+        width: 85%;
+        margin-left: 4px;
+        margin-top: -2px;
+    }
+    img#page31{
+        width: 85%;
+        margin-left: 4px;
+    }
+}
+
+// ancho de botones paginas de eventos
+@media (max-width: 600px) {
+    .page.p33{
+        .div-center-two-icons-responsive{
+            width: 4.5em;
+            margin-right: -20px;
+        }
+    }
+}
+
+// correcciones indice
+
+.page.p2{
+    .region.undefined#text-indece-page-2{
+        &::-webkit-scrollbar{
+            display: block;
+        }
+        &::-webkit-scrollbar-track{
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+            border-radius: 10px;
+            background-color: #F5F5F5;
+        }
+
+        &::-webkit-scrollbar{
+            width: 6px;
+            background-color: #F5F5F5;
+        }
+
+        &::-webkit-scrollbar-thumb{
+            border-radius: 10px;
+            background-color: @blue-light;
+        }
+
+        .indice-text-aux, .indice-text{
+            a{
+                font-size: 10px;
+            }
+        }
+    }
+}
+
+// reajuste general en mobile pagina 12
+@media (max-width: 600px) {
+    .page.p12{
+        .aux-class-content{
+            width: 60% !important; 
+            .main-text-p12{
+                font-size: 11px;
+            }
+        }
+
+        img[width="250"]{
+            width: 82%;
+        }
+        img[width="200"]{
+            height: auto;
+        }
+        .region.gallery-pic1{
+            left: 5% !important;
+        }
+        .region.gallery-pic2{
+            left: 45% !important;
+        }
+    } 
+}
+// reajuste de tamaño de letra en mobile pagina 19
+@media (max-width: 600px) {
+    .text-pag-20{
+    font-size: 12px;
+    }
+
+    .nombres-p20{
+        font-size: 9px;
+    }
+
+    .region.read-more-p20{
+        top: 90% !important;
+    }
+}
+
+// ajustes mobile pag 48
+@media (max-width: 600px) {
+    .page.p49{
+
+        .region.image-page48{
+            top: 50px !important;
+    
+            #img_48_page_esp img{
+                height: 90% !important;
+                width: 70% !important;
+            }
+        }
+    
+        .region.actions{
+            left: 54% !important;
+        }
+    
+        .region.agradecimiento-title{
+            top: 15% !important;
+            h4{
+                font-size: 17px;
+            }
+        } 
+    
+        .region.agradecimiento-text{
+            top: 73% !important;
+        }
+    }
+}
+
+// ajustes mobile pag 36
+@media (max-width: 600px) {
+    .page.p37{
+        h1.title-pag-37{
+            line-height: 39px;
+        }
+        .region.leer-mas-p37{
+            top: 87% !important;
+        }
+
+        .region.actions{
+            top: 86.5% !important;
+        }
+
+        .region.date{
+            h5.fecha-pag-37{
+                font-size: 10px;
+            }
+        }
+    }
+}
+
+// ajustes mobile pag 40
+@media (max-width: 600px) {
+    .page.p41{
+        .region.title-p41{
+            h4{
+                font-size: 15px !important;
+            }            
+        }
+
+        .region.text-p41{
+            p{
+                font-size: 12px !important;
+            }            
+        }
+
+        .region.actions{
+            top: 86% !important;
+            left: 28% !important;
+        }
+
+        .region.social{
+            left: 56% !important;
+        }
+    }
+}
+
+.videoPages{
+    video{
+        pointer-events: none;
+    }
+}
+
+// ajustes mobile pag 39
+@media (max-width: 600px) {
+    .page.p40{
+        .region.sopa-de-letras-title{
+            span{
+                font-size: 20px !important;
+            }
+        }
+
+        .region.sopa-de-letras{
+            #puzzle{
+                >div{
+                    width: 119% !important;
+                }
+            }
+        }
+    }
+}
+
+// ajustes mobile pag 45
+@media (max-width: 600px) {
+    .page.p46{
+        .region.text-pag-46{
+            h3{
+                font-size: 14px;
+            }
+        }
+
+        .region.text-pag46{
+            top: 11% !important;
+            p{
+                font-size: 12px;
+            }
+        }
+
+        .region.columns{
+            top: 27% !important;
+        }
+
+        .region.botones{
+            top: 73% !important;
+            #select-game{
+                button{
+                    width: auto;
+                }
+            }
+        }
+    }
+}
+
+// ajustes mobile pag 40
+@media (max-width: 600px) {
+    .page.p42{
+        .region.text1-pag41, .region.text2-pag41{
+            p{
+                font-size: 9px;
+            }
+        }
+
+        .region.text2-pag41{
+            top: 55% !important;
+        }
+
+        .region.mocal-p42{
+            top: 65% !important;
+        }
+    }
+}
+
+// ajustes mobile pag 46
+@media (max-width: 600px) {
+        #modal-p47{
+            padding: 0;
+        }
+}
+
+// ajustes mobile fechas de paises
+@media (max-width: 600px) {
+    h5.fecha-pag-37{
+        font-size: 12px;
+    }
+
+    .nombres-p26{
+        font-size: 10px;
+    }
+    .page.p32{
+        .main-text-p34{
+            line-height: 18px;
+        }
+
+        .region.date1{
+            left: 78% !important;
+        }
+
+        .region.date1{
+            top: 25% !important;
+            left: 78% !important;
+        }
+
+        .region.event1{
+            top: 23% !important;
+        }
+
+        .region.leermas-p32.mover-leer-mas{
+            top: 37% !important;
+            left: 17% !important;
+        }
+
+        .region.actions{
+            top: 37% !important;
+            left: 30% !important;
+        }
+
+        .region.videotitle{
+            top: 52% !important;
+        }
+    } 
+}
+
+.region.fondogif1{
+    img{
+        width: 100vw;
+        height: 100vh;
+    }
+}
+
+.region.fondogif2{
+    img{
+        width: 100vw;
+        height: 100vh;
+        transform: translateX(-36%);
+    }
+}
+@media (max-width: 600px) {
+    .region.fondogif1{
+        img{
+            width: 115vw;
+            height: 85vh;
+        }
+    }
+    
+    .region.fondogif2{
+        img{
+            width: 115vw;
+            height: 85vh;
+            transform: translateX(0);
+        }
+    }
 }

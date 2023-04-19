@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "8%",
         "y": "11%",
@@ -7,9 +15,15 @@
         "text2": "California"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "17%",
+        "text": "John Freddy Quintero, Pastor"
+    },
+    {
         "tag": "event-subtitle",
         "x": "11%",
-        "y": "20%",
+        "y": "21%",
         "class": "full-subtitle",
         "text": "''Y a Aquel que es poderoso para hacer..."
     },
@@ -22,47 +36,126 @@
         "height": "80%",
         "fontSize": "2em",
         "tag": "modal",
-        "id": "modal-p13",
+        "id": "modal-p15",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>FOUNTAIN SILICON VALLEY<h6>2022</h6>",
-            "content": "“Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros, a Él sea la gloria en la iglesia en Cristo Jesús por todas las edades, por los siglos de los siglos. Amén” Efesios 3:20-21<br><br>La iglesia en Fountain Silicon Valley y su pastor el hermano Fredy Quintero, les saluda en el nombre del Señor Jesucristo, deseándoles abundantes bendiciones en sus hogares y en sus labores diarias.<br><br>Doy gracias a Dios primeramente, y a la Iglesia Apostólica Fuente de Verdad por la confianza depositada en mí, para desempeñarme en la honrosa labor de liderar una iglesia que predica la verdad, basada en el amor y en la honra al Señor Jesucristo.<br><br>Al empezar esta nueva etapa, se generaron muchas expectativas porque siempre se quiere hacer lo mejor, con la aprobación de Dios; por consiguiente, puedo decir que anduvimos por fe y por fe se lograron recibir muchas bendiciones durante el año. Dios dijo a Josué: “Estaré contigo dondequiera que vayas” y esta promesa es para nosotros también! Ella me da la confianza de contar siempre con su apoyo y me da la seguridad de que Aquel que es poderoso, va mucho más allá de mis expectativas.<br><br>A continuación, presentaremos algunos de los eventos más importantes realizados durante la vigencia 2022, en la iglesia de Fountain Silicon Valley, siempre pidiendo la dirección y el respaldo de nuestro Señor Jesucristo."
+            "content": "“Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros, a Él sea la gloria en la iglesia en Cristo Jesús por todas las edades, por los siglos de los siglos. Amén.” Efesios 3:20-21<br><br>La iglesia en Silicon Valley y su pastor el hermano Fredy Quintero, les saluda en el nombre del Señor Jesucristo, deseándoles abundantes bendiciones en sus hogares y en sus labores diarias.<br><br>Doy gracias a Dios primeramente, y a la Iglesia Apostólica Fuente de Verdad por la confianza depositada en mí, para desempeñarme en la honrosa labor de liderar una iglesia que predica la verdad, basada en el amor y en la honra al Señor Jesucristo.<br><br>Al empezar esta nueva etapa, se generaron muchas expectativas porque siempre se quiere hacer lo mejor, con la aprobación de Dios; por consiguiente, puedo decir que anduvimos por fe y por fe se lograron recibir muchas bendiciones durante el año. Dios dijo a Josué: “Estaré contigo dondequiera que vayas” y ¡esta promesa es para nosotros también! Ella me da la confianza de contar siempre con su apoyo y me da la seguridad de que Aquel que es poderoso, va mucho más allá de mis expectativas.<br><br>A continuación, presentaremos algunos de los eventos más importantes realizados durante la vigencia 2022, en la iglesia de Silicon Valley, siempre pidiendo la dirección y el respaldo de nuestro Señor Jesucristo."
         }
     },
     {
-        "tag": "event-container",
-        "x": "25%",
-        "y": "24%",
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p15-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container-2",
+        "x": "26.5%",
+        "y": "25%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-AYUNOYALBORADA.webp",
-        "text": "Ayunos y Alboradas"
+        "text": "Ayunos y Alboradas",
+        "id":"modal-p15-01"   
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "37%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-DEVOCIONALES.webp",
-        "text": "Devocionales Teens en la Playa"
+        "text": "Devocionales Teens en la Playa",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/playa/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/playa/2.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "49%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-DIAACCIONGRACIAS.webp",
-        "text": "Día de Acción de Gracias"
+        "text": "Día de Acción de Gracias",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/accion_gracias/1.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "61%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-MASBAUTISMOS.webp",
-        "text": "Más Bautismos"
+        "text": "Más Bautismos",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/bautismos/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/bautismos/2.jpg"
+            }
+        ] 
     },
     {
         "tag": "event-container",
         "x": "25%",
         "y": "73%",
         "src": "assets/pics/Eventos/eeuu/silicon_valley/4-EU-SILICON-SEMANAFAMILIA.webp",
-        "text": "Semana de la Familia"
+        "text": "Semana de la Familia",
+        "id":"modal-p15-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/silicon_valley/semana_familia/7.jpg"
+            }
+        ] 
     }
 ]

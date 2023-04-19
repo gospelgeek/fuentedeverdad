@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "8%",
         "y": "7%",
@@ -7,11 +15,66 @@
         "text2": "Costa Rica"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "13%",
+        "text": "José Hernando López Vera, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p35-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "10%",
         "y": "20%",
-        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-FOGATAJUVENIL.webp",
-        "text": "Fogata Juvenil"
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/fogata/2-CR-SANRAMON-FOGATAJUVENIL.webp",
+        "text": "Fogata Juvenil",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/8.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -23,21 +86,147 @@
         "tag": "event-container",
         "x": "10%",
         "y": "32%",
-        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-VISITAOBISPO.webp",
-        "text": "Visita del <br> Obispo <br> Samuel Valverde"
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/2-CR-SANRAMON-VISITAOBISPO.webp",
+        "text": "Visita del <br> Obispo <br> Samuel Valverde",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/16.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
         "y": "35%",
-        "text": "Durante la semana del <br> 9 al15 de mayo..."
+        "text": "Durante la semana del <br> 9 al 15 de mayo..."
     },
     {
         "tag": "event-container",
         "x": "10%",
         "y": "48%",
-        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-CAMPAMENTO.webp",
-        "text": "Campamento <br> Juvenil"
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/campamento/2-CR-SANRAMON-CAMPAMENTO.webp",
+        "text": "Campamento <br> Juvenil",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/16.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -49,8 +238,32 @@
         "tag": "event-container",
         "x": "10%",
         "y": "62%",
-        "src": "assets/pics/Eventos/costa_rica/san_ramon/2-CR-SANRAMON-CENAAMIGOS.webp",
-        "text": "Cena <br> de Amigos"
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/2-CR-SANRAMON-CENAAMIGOS.webp",
+        "text": "Cena <br> de Amigos",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/6.jpg"
+            }
+        ]
+
     },
     {
         "tag": "event-subtitle",
@@ -66,7 +279,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p35",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -83,7 +296,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p35-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -100,7 +313,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p35-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -117,7 +330,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p35-4",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",

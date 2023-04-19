@@ -1,3 +1,188 @@
 [
-    
+    {
+        "x": "10%",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_eng.png'>"
+    },
+    {
+        "x": "12%",
+        "y": "12%",
+        "width": "80%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20",
+        "data": {
+            "text": "<h1 class='title-p20'><strong>NATIONAL SUMMIT MEXICO 2022</strong><h1>"
+        }
+                
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p20-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "x": "37%",
+        "y": "52%",
+        "tag": "author-pic-2",
+        "class": "author-image",
+        "image": "<img width='120' height='120' src='assets/pics/general-images/1.webp'>",
+        "id":"modal-p20-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/cumbre_nacional/9.jpg"
+            }
+        ]
+    },
+    {
+        "x": "68%",
+        "y": "61%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20",
+        "data": {
+            "text": "<h3><strong>04-07</strong></h3>"
+        }   
+    },
+    {
+        "x": "68%",
+        "y": "64%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-1",
+        "data": {
+            "text": "<h5 style='line-height: 16px;font-size:1em'>Of<br>February</h5>"
+        }   
+    },
+    {
+        "x": "0",
+        "y": "74%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-2",
+        "data": {
+            "text": "<h5 class='nombres-p20'>Sis.<br>Raquel Valverde</h5>"
+        }   
+    },
+    {
+        "x": "30%",
+        "y": "74%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-3",
+        "data": {
+            "text": "<h5 class='nombres-p20'>Pastor<br>Martín Pérez</h5>"
+        }   
+    },
+    {
+        "x": "60%",
+        "y": "74%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-4",
+        "data": {
+            "text": "<h5 class='nombres-p20'>Bishop<br>Samuel Valverde</h5>"
+        }   
+    },
+    {
+        "x": "44%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p20",
+        "class": "read-more-p20",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>NATIONAL SUMMIT MEXICO 2022<h5><b>Date:</b> February 4-7, 2022</h5>",
+            "content": "<b>Guests:</b><ul><li>Bishop Samuel Valverde & Sis. Raquel Valverde</li><li>Pastor Martín Pérez</li></ul><b>Assistant Pastors:</b><ul><li>Juan Domínguez & Lidia Juárez</li><li>Abraham Encinas & Perla Escalante</li><li>Isaac Nabte & Faride Casanova</li><li>Jairo Escobar & Paola Maldonado</li><li>Gabriel Gálvez & Egla Acosta</li><li>Francisco Díaz & Miriam Cid</li><li>Juan González & Claudia Prado</li><li>Domingo Carlos & Irene Carlos</li></ul><b>DAY 1 - FRIDAY, FEBRUARY 4</b><table class='table-modal'><tr><td>Prayer Time</td><td>Everyone</td></tr><tr><td>Launch Message</td><td>Pastor Domingo Carlos</td></tr><tr><td>Session 1.<br>Mountain’s Secret Descent</td><td>Bishop Samuel Valverde</td></tr><tr><td>Session 2.<br>5 Characteristics of Intercession</td><td>Pastor Martín Perez</td></tr><tr><td colspan='2'>Simultaneous Sessions (Pastors & She Mexico)</td></tr><tr><td>Marriage Dinner-Conference <br> AND THE VINEYARD THAT WAS MINE…</td><td>Bishop Samuel Valverde & Sis. Raquel Valverde</td></tr></table><br><br><b>DAY 2 - SATURDAY, FEBRUARY 5</b><table class='table-modal'><tr><td>Session 3.<br>Prayers that move Heaven and Earth</td><td>Pastor Domingo Carlos</td></tr><tr><td>Intercession for the World</td><td>Bishop Samuel Valverde</td></tr><tr><td>Intercession for our Nation</td><td>Pastor Martín Perez</td></tr><tr><td>Intercession for our Capital</td><td>Pastor Gabriel Galvez</td></tr><tr><td colspan='2'>Simultaneous Sessions (Pastors and She Mexico)</td></tr><tr><td colspan='2'>Service of ordainment and initiation <br> Deacons: Ruben Candanosa (SLP), Ramiro Ocampo (SLP), Orlando Valdez (SLP)<br>Ministers: Antonio Medina (Mexico City), Daniel Mascareño (Mexicali)</td></tr></table><br><br><b>DAY 3 - SUNDAY FEBRUARY 6</b><table class='table-modal'><tr><td colspan='2'>Prayer for Mexico <br> (Zocalo Mexico City)</td></tr><tr><td colspan='2'>Launch Service Mexico City FTC</td></tr></table>"
+        }
+    }
 ]

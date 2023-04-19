@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/USA_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "8%",
         "y": "11%",
@@ -7,11 +15,78 @@
         "text2": "Arizona"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "17%",
+        "text": "Samuel Valverde Jr, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p19-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "25%",
-        "y": "19%",
+        "y": "20%",
         "src": "assets/pics/Eventos/eeuu/phoenix/6-EU-PHOENIX-SERVICIOORDENACION.webp",
-        "text": "Servicio <br> de Ordenación"
+        "text": "Servicio <br> de Ordenación",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/1.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/5.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/6.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/7.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/8.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/9.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/phoenix/servicio_ordenacion/10.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-title",
@@ -21,25 +96,97 @@
         "text2": "Texas"
     },
     {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "47%",
+        "text": "Saul Santos, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "10%",
         "y": "52%",
         "src": "assets/pics/Eventos/eeuu/san_antonio/7-EU-SANANTONIO-LANZAMIENTO.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/lanzamiento_oficial/8.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
         "y": "54.5%",
         "class": "full-subtitle",
-        "text": "Esta historia comenzó hace más de 30 años..."
+        "text": "El Pastor Saúl Santos respondió al llamado..."
     },
     {
         "tag": "event-container",
         "x": "10%",
         "y": "65%",
         "src": "assets/pics/Eventos/eeuu/san_antonio/7-EU-SANANTONIO-CONCIERTO.webp",
-        "text": "Concierto  <br> Recordando <br> Nuestro canto II"
+        "text": "Concierto  <br> Recordando <br> Nuestro canto II",
+        "id":"modal-p19-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/7.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/8.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/eeuu/san_antonio/concierto/9.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -56,13 +203,13 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p17",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>LANZAMIENTO OFICIAL DE LA IGLESIA EN SAN ANTONIO, TEXAS",
-            "content": "Esta historia comenzó hace más de 30 años en Slover Ave. en Fontana, California.<br><br>El Pastor Saúl Santos respondió al llamado de Dios al ministerio, a la edad de 15 años cuando predicó su primer sermón. A los 18 años, ingresó al Instituto Bíblico y a los 21 fue ordenado ministro, siguiendo los pasos de su padre y su abuelo, quienes sirvieron como pastores.<br><br>Nuestro campus de San Antonio se inauguró el domingo 22 de mayo de 2022 bajo el liderazgo del Obispo Samuel Valverde. La familia Santos vive en San Antonio, Texas, y sirven como pastores en ese lugar."
+            "content": "El Pastor Saúl Santos respondió al llamado de Dios al ministerio, a la edad de 15 años cuando predicó su primer sermón. A los 18 años, ingresó al Instituto Bíblico y a los 21 fue ordenado ministro, siguiendo los pasos de su padre y su abuelo, quienes sirvieron como pastores.<br><br>Nuestro campus de San Antonio se inauguró el domingo 22 de mayo de 2022 bajo el liderazgo del Obispo Samuel Valverde. La familia Santos vive en San Antonio, Texas, y sirven como pastores en ese lugar."
         }
     },
     {
@@ -73,37 +220,14 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p17-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "Concierto “Recordando nuestro canto II”",
-            "content": "La iglesia local Fuente de Verdad San Antonio, organizó un concierto apostólico llamado Recordando Nuestro Canto II.<br><br>Nuestro invitado de honor fue el Pastor Samuel Valverde Jr, quien asistió en nombre del Obispo Samuel Valverde. El cantante Joseph Espinoza nos dirigió en himnos antiguos que tocaron nuestro corazón, y fue de mucha bendición. Se llevó a cabo el día sábado 11 de junio a las 6:30 p.m. en 12280 Alamo Ranch Pkwy, San Antonio, TX 78253."
+            "content": "La iglesia local Fuente de Verdad San Antonio, organizó un concierto apostólico llamado Recordando Nuestro Canto II.<br><br>Nuestro invitado de honor fue el Pastor Samuel Valverde Jr, quien asistió en nombre del Obispo Samuel Valverde. El cantante Joseph Espinoza nos dirigió en himnos antiguos que tocaron nuestro corazón, y fue de mucha bendición. Se llevó a cabo el día sábado 11 de junio de 2022 a las 6:30 p.m. en 12280 Alamo Ranch Pkwy, San Antonio, TX 78253."
         }
-    },
-    {
-        "x": "25%",
-        "y": "85%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
-            }
-        ]
     },
     {
         "x": "50%",

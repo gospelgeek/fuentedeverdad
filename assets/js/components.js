@@ -32,22 +32,32 @@ const addComponents = (region, lang) => {
 
         case 'modal':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
-                $('<div/>', { id: region.id, class: 'modal' }).append(
+                $('<div/>', { id: region.id, class: 'modal texto modal-grande' }).append(
                     $('<div/>', { class: 'print-modal' }).html(region.data.print),
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+                addSVG('<a ' + region.id + '" id="a-'+region.id+'" data-modal="'+region.id+'" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+    
+            break;
+
+        case 'modal-pequeno':
+            element = $('<div/>', { class: 'content-modal modal-lg' }).append(
+                $('<div/>', { id: region.id, class: 'modal texto modal-pequeno' }).append(
+                    $('<div/>', { class: 'print-modal' }).html(region.data.print),
+                    $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
+                    $('<img>', { src: region.data.src, class: 'title-modal' }),
+                    $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
+                addSVG('<a ' + region.id + '" id="a-'+region.id+'" data-modal="'+region.id+'" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
     
             break;
         case 'modal-2':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
-                    $('<div/>', { id: region.id, class: 'modal' }).append(
-                        $('<div/>', { class: 'print-modal' }).html(region.data.print),
-                        $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
-                        $('<img>', { src: region.data.src, class: 'title-modal' }),
-                        $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.imagenes))),
-                    addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
+                    $('<div/>', { id: region.id, class: 'modal imagenes' }).append(
+                        $('<div/>', {class:'carousel-container'}),
+                        $('<button/>', { id:region.id+'1', class: 'prev-btn-modal' }),
+                        $('<button/>', { id:region.id+'2', class: 'next-btn-modal' }),
+                        ))
         
             break;    
         case 'audio':
@@ -62,7 +72,7 @@ const addComponents = (region, lang) => {
             }
             
             element = '<div class="div-center-ubication-responsive">'+
-                            '<div class="aux-class-content" style="width: 80%; heiht: 80%;' + region.styleBox +'">'+ 
+                            '<div class="aux-class-content" style="width: 80%; height: 100%;' + region.styleBox +'">'+ 
                                 '<span class="responsive-font-content" style="' + region.style + '">'+ recorrer +
                                 '</span>'+
                             '</div>'+ 
@@ -70,7 +80,7 @@ const addComponents = (region, lang) => {
             break;
         case 'contenido':
             element = (`<div class="div-center-ubication-responsive">
-                            <div class='aux-class-content' style="width: 80%; heiht: 80%; ${region.styleBox}"> 
+                            <div class='aux-class-content' style="width: 80%; height: 100%; ${region.styleBox}"> 
                                 <span class="responsive-font-content" style="${region.style}" >
                                     ${(region.data).text}
                                 </span> 
@@ -81,10 +91,10 @@ const addComponents = (region, lang) => {
             element = '<a href="' + region.data.url + "" + doClick(region.data.page, lang) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
             break;
         case 'btn-normal':
-            element = (`<div class="div-center-ubication-responsive"> <a id="${region.id}" onclick="clickReadMore('+${region.id}+')" style="background-color: ${region['background-color']}; z-index: 1000;" class='btn-normal-23'   target="_blank" id="${region.id}"><span style="color: ${region.color}; font-size: ${region['font-size']}" class="boton-normal-text-23">${(region.data).text}</span></a> </div>`)
+            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a id="pause-video" style="cursor: pointer;" onClick="playvideo()">${region.icono}</a>`} </div> </div>`)
             break;
         case 'btn-normal-2':
-            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a style="cursor: pointer;" onClick="playAudio('${(region.data)[0].url}')"><img class='audio-img-content' src="${(region.data)[0].icon}" ></a> <a class='img-tag-imprimir' href="${(region.data)[1].url}" target='_blank' ><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
+            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a  style="cursor: pointer;" onClick="playAudio('${(region.data)[0].url},${(region.data[0].id)}')"><img id="${(region.data[0].id)}" class='audio-img-content' src="${(region.data)[0].icon}" ></a> <a class='img-tag-imprimir' href="${(region.data)[1].url}" target='_blank' ><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
             break;
         case 'title-content':
             element = (`<div class="div-center-ubication-responsive"><span class="responsive-font" style="${region.style}" >${(region.data).text}</span></div>`)
@@ -177,7 +187,8 @@ const addComponents = (region, lang) => {
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
                 "<div id='words'></div>" +
-                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
+                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"
+                +"<div id='wordsButtonImprimir'><a href='#' target='_blank'><img src='./assets/pics/icons/iconImprimir.png'></a></div>"))
             break;  
         case 'select-juego':
 
@@ -209,63 +220,70 @@ const addComponents = (region, lang) => {
                                 <div class="columnB">
                                     <h1>${region.data[1].titulo}</h1>
                                 </div>
-                                <select id="word1" class="selectGame">
+                                <select id="word1" class="selectGame" onchange="conectar_mexico()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word3">${region.data[1].respuesta1}</option>
-                                    <option value="word5">${region.data[1].respuesta2}</option>
-                                    <option value="word4">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word1">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word2" class="selectGame">
+                                <select id="word2" class="selectGame" onchange="conectar_colombia()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word1">${region.data[1].respuesta1}</option>
-                                    <option value="word2">${region.data[1].respuesta2}</option>
-                                    <option value="word4">${region.data[1].respuesta3}</option>
-                                    <option value="word3">${region.data[1].respuesta4}</option>
-                                    <option value="word5">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word3" class="selectGame">
+                                <select id="word3" class="selectGame" onchange="conectar_japon()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word4">${region.data[1].respuesta1}</option>
-                                    <option value="word2">${region.data[1].respuesta2}</option>
-                                    <option value="word1">${region.data[1].respuesta3}</option>
-                                    <option value="word3">${region.data[1].respuesta4}</option>
-                                    <option value="word5">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word4" class="selectGame">
+                                <select id="word4" class="selectGame" onchange="conectar_cambodia()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word5">${region.data[1].respuesta1}</option>
-                                    <option value="word1">${region.data[1].respuesta2}</option>
-                                    <option value="word4">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word3">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word5" class="selectGame">
+                                <select id="word5" class="selectGame" onchange="conectar_costa_rica()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word3">${region.data[1].respuesta1}</option>
-                                    <option value="word1">${region.data[1].respuesta2}</option>
-                                    <option value="word5">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word4">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
-                                <select id="word6" class="selectGame">
+                                <select id="word6" class="selectGame" onchange="conectar_chile()">
                                     <option value="0" selected="">${region.data[1].text}</option>
-                                    <option value="word3">${region.data[1].respuesta1}</option>
-                                    <option value="word1">${region.data[1].respuesta2}</option>
-                                    <option value="word5">${region.data[1].respuesta3}</option>
-                                    <option value="word2">${region.data[1].respuesta4}</option>
-                                    <option value="word4">${region.data[1].respuesta5}</option>
-                                    <option value="word4">${region.data[1].respuesta6}</option>
+                                    <option value="1">${region.data[1].respuesta1}</option>
+                                    <option value="2">${region.data[1].respuesta2}</option>
+                                    <option value="3">${region.data[1].respuesta3}</option>
+                                    <option value="4">${region.data[1].respuesta4}</option>
+                                    <option value="5">${region.data[1].respuesta5}</option>
+                                    <option value="6">${region.data[1].respuesta6}</option>
                                 </select>
                             </div>
-                        </div>`)
+                        </div>
+                        `)
             break;
+        case 'botones-conectar':
+                element = (`<div id='select-game'>
+                            <button class='select-Game' onclick="conectar_resolver()">RESOLVER</button>
+                            <button class='select-Game' onclick="conectar_reiniciar()">REINICIAR</button>
+                        </div>`);
+            break;    
         case 'tooltip':
             element = $('<a/>', {}).append(
                     addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
@@ -286,13 +304,22 @@ const addComponents = (region, lang) => {
             break; 
         case 'page-4-title':
             element = `<div class="page-4-title">
-                <h2>Carta del <br>Obispo presidente</h2>
-                <h1>SAMUEL VALVERDE</h1>
+                <h2>${region.title}</h2>
+                <h1>${region.subtitle}</h1>
             </div>`;
             break; 
         case 'author-pic':
             element = (`<div class="page-3-title">
                     ${region.image}
+            </div>`);
+            break;
+        case 'author-pic-2':
+            let imagens = region.imagenes_evento
+                if(imagens != undefined){
+                    imagens = JSON.stringify(region.imagenes_evento)
+                }
+            element = (`<div class="page-3-title">
+                <button  class="evento_abrir" data-id="${region.id}" data-imagenes='${imagens}' onclick="evento(this)">${region.image}</button>
             </div>`);
             break;
         case 'video-emb':
@@ -309,13 +336,27 @@ const addComponents = (region, lang) => {
             break;         
             
         case 'event-container':
+                let imagenes = region.imagenes_evento
+                if(imagenes != undefined){
+                    imagenes = JSON.stringify(region.imagenes_evento)
+                }
+                element = `<div class="event-container">
+                    <div class="image">
+                        <button  class="evento_abrir" data-id="${region.id}" data-imagenes='${imagenes}' onclick="evento(this)"><img src="${region.src}"></button>
+                    </div>
+                    <h3 class="text">${region.text}</h3>
+                </div>`;
+            
+            break;
+        case 'event-container-2':
             element = `<div class="event-container">
                 <div class="image">
                     <img src="${region.src}">
                 </div>
                 <h3 class="text">${region.text}</h3>
             </div>`;
-            break; 
+        
+        break;      
         case 'event-title':
             element = `<div class="event-title">
                 <p><strong>${region.text1}</strong>${region.text2}</p>
@@ -335,64 +376,111 @@ const addComponents = (region, lang) => {
             element = region.html
             break;
         case  'answer-container':
-            element = `<ul id="answer-container"> 
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
+            /*var datos="";
+            var contador=2;
+            for(x of region.respuestas){
+                datos += '<li class="item">'+
+                            '<div class="top">'+
+                                '<strong>'+x.pregunta+'</strong>'+
+                            '</div>'+
+                            '<div class="bottom-container">'+
+                                '<p id="button-'+contador+'">'+x.respuesta+'</p>'+
+                            '</div>'+
+                           '<div class="action">'+
+                                    '<button id="boton-ocultar'+contador+'" class="answer-button" onclick="texto_completo('+contador+')">'+
+                                        '<img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">'+
+                                    '</button>'+
+                                '</div>'+    
+                        '</li>';
+                contador++;        
+            }*/      
+            element = `<ul id="answer-container"></ul>`
+            break;
+        case 'video-fondo': 
+            element = `<video autoplay muted loop playsinline preload="auto" webkit-playsinline id="video-background">
+                            <source src="${region.src}" type="video/webm">
+                        </video>`
+            break;
+        case 'fdv-element1':
+            let videos = region.imagenes_evento
+            if(videos != undefined){
+                videos = JSON.stringify(region.imagenes_evento)
+            } 
+            element = `<div>
+                            <div class="left">
+                                <h1>${region.title}</h1>
+                                ${region.texthtml}
+                            
+                            </div>
+                            <div class="right">
+                                <h3>${region.date}</h3>
                                 <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
+                                    <button data-id="${region.id}" data-imagenes='${videos}' onclick="evento(this)" class="video-button">
+                                        Ver Fotos
                                     </button>
+                                    
                                 </div>
-                            </li>
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
+                            </div>
+                        </div>
+            `
+            break;
+        case 'fdv-element1-2': 
+            element = `<div>
+                        <div class="left">
+                            <h1>${region.title}</h1>
+                            ${region.texthtml}
+                        </div>
+                        <div class="right">
+                            <h3>${region.date}</h3>
+                        </div>
+                    </div>`
+                break;
+        case 'fdv-element2':
+            let imagenesfdv = region.imagenes_evento
+            if(imagenesfdv != undefined){
+                imagenesfdv = JSON.stringify(region.imagenes_evento)
+            }
+            let boton = ""; 
+            if(region.leermas != undefined){
+                boton = `<button  data-modal="${region.idtext}" onclick="abrirmodal(this)">${region.leermas}</button>`;
+            }
+            element = `<div>
+                            <div class="left">
+                                <h1>${region.title}</h1>
+                                ${region.texthtml}
                                 <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
+                                    <button data-id="${region.id}" class="video-button" data-imagenes='${imagenesfdv}' onclick="evento(this)">
+                                        Ver Fotos
                                     </button>
+                                    ${boton}
                                 </div>
-                            </li>
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
-                                <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
-                                    </button>
-                                </div>
-                            </li>
-                            <li class="item">
-                                <div class="top">
-                                    <h3>Kevin Sánchez</h3>
-                                    <strong>Lorem ipsum tempor incididunt?</strong>
-                                </div>
-                                <div class="bottom-container">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget dolor morbi non arcu risus quis varius. Iaculis at erat pellentesque adipiscing. Leo vel fringilla est ullamcorper eget nulla facilisi. Justo laoreet sit amet cursus. Lobortis elementum nibh tellus molestie nunc. </p>
-                                </div>
-                                <div class="action">
-                                    <button class="answer-button">
-                                        <img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">
-                                    </button>
-                                </div>
-                            </li>  
-                       </ul>`
+                            </div>
+                            <div class="right">
+                                <img src="${region.src}">
+                            </div>
+                        </div>`
+            break;
+        case 'fdv-logo': 
+            element = `<div>
+                            <img style="width: 20px" src="assets/pics/icons/fdvLogo.png">
+                            <p> FDV GLOBAL</p>
+                        </div>
+            `
+            break;
+
+        case 'fdv-background': 
+            element = `<div class="fondo-azul"></div>`
+            break;
+
+        case 'top-entrevista': 
+            element = `<div class="top-entrevista">
+                    ${region.text}            
+                </div>`
+            break;
+        case 'pastor-name': 
+            element = `<div class="pastor-name">
+                    <p>${region.text}</p>            
+                </div>`
             break;
         default:
             break;

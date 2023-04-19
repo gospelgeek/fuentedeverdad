@@ -1,5 +1,13 @@
 [
     {
+        "x": "10%",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "10%",
         "y": "10%",
@@ -7,35 +15,160 @@
         "text2": "Costa Rica"
     },
     {
-        "x": "10%",
-        "y": "22%",
-        "width": "50%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p34-01",
+        "class": "",
+        "src": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>Celebración del 1er aniversario</strong></p>"
+            "title": "",
+            "content": "",
+            "imagenes": ""
         }
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "17%",
+        "text": "Gerson Fernández Ocampo, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p34-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "13%",
+        "y": "24%",
+        "src": "assets/pics/Eventos/costa_rica/aniversario/modal.jpg",
+        "text": "<strong>Celebración del 1er aniversario</strong>",
+        "id":"modal-p34-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/aniversario/23.jpg"
+            }
+        ] 
+    },
+    {
         "x": "63%",
-        "y": "23%",
+        "y": "24%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#000000",
         "color": "#000000",
+        "class": "date1",
         "font-size": "1.5em",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>mayo</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong>mayo 2022</strong></h3>"
         }   
     },
     {
@@ -51,7 +184,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>2022</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'></h5>"
         }   
     },
     {
@@ -72,36 +205,38 @@
     },
     {
         "x": "15%",
-        "y": "34%",
+        "y": "35%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p34",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>",
-            "content": ""
+            "title": "<br>CELEBRACIÓN DEL PRIMER ANIVERSARIO Y VISITA DE NUESTRO OBISPO SAMUEL VALVERDE",
+            "content": "En el mes de mayo del 2022 tuvimos la bendición de recibir a nuestro apreciado obispo Samuel Valverde y a la primera dama Raquel Valverde. Su visita fue de mucha bendición para nosotros y más aún por la oportunidad de poder celebrar con ellos el primer aniversario de FUENTE DE VERDAD en Cartago, Costa Rica."
         }
     },
     {
-        "x": "11%",
-        "y": "49%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Grupos Casa</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "47%",
+        "src": "assets/pics/Eventos/costa_rica/grupo_casa/modal.jpg",
+        "text": "<strong>Grupos Casa</strong>",
+        "id":"modal-p34-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/grupo_casa/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/grupo_casa/3.jpg"
+            }
+        ] 
     },
     {
         "x": "15%",
@@ -111,46 +246,56 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p34-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>",
-            "content": ""
+            "title": "<br>CASA DE VIDA - GRUPOS CASA",
+            "content": "En el mes de junio iniciamos el establecimiento de Casas de Vida (Grupos Casa). Iniciamos con 5 casas, al mismo tiempo iniciamos, la formación de los líderes que estarán a cargo de las casas de vida, siendo esto de gran gozo para la congregación. Al día de hoy tenemos 8 Casas de Vida establecidas en Cartago y 4 en la ciudad de Turrialba."
         }
     },
     {
-        "x": "11%",
-        "y": "67%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Bautismo Primicia</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "65%",
+        "src": "assets/pics/Eventos/costa_rica/bautismo/modal.jpg",
+        "text": "<strong>Bautismo Primicia</strong>",
+        "id":"modal-p34-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/bautismo/5.JPG"
+            }
+        ] 
     },
     {
         "x": "15%",
         "y": "75%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "85%",
+        "width": "100%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p34-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>",
-            "content": ""
+            "title": "<br>CASA DE VIDA EN LA CIUDAD DE TURRIALBA - CARTAGO<br> BAUTISMO PRIMICIA",
+            "content": "En el mes de julio iniciamos las Casas de Vida en la ciudad de Turrialba, ubicada a 45 minutos de la ciudad de Cartago. Dios nos abrió las puertas de esta ciudad y estamos viendo cómo el Señor sana los corazones heridos de las personas en esta ciudad. De este trabajo bautizamos a la Hna. Clarita. Damos gracias al Señor por esta bendición. No descansaremos hasta ver cada corazón sanado."
         }
     },
     {
@@ -167,8 +312,8 @@
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
+                "icon": "",
+                "url": ""
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

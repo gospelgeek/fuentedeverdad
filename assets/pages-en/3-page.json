@@ -1,63 +1,298 @@
 [
     {
-        "x": "30%",
-        "y": "2%",
+        "x": "0%",
+        "y": "5%",
         "width": "100%",
-        "styleBox": "width: 85%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
+        "class": "legal-page-title",
         "font-size": "1em",
         "tag": "contenido",
-        "style": "font-weight: normal;",
         "text": "",
-        "id_unique": "text-indece-page-2",
         "data": {
-            "text": "<p class='monserrat-black' style='font-size: 2.3em; color: black;'>LEGAL</p>"
+            "text": "<h3>CREDITS</h3>"
         }
-                
     },
     {
-        "x": "60%",
-        "y": "90%",
-        "width": "50%",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "social-media",
-        "text": "",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/facebook.png",
-                "url": "http://www.facebook.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/gorjeo.png",
-                "url": "http://twitter.com/",
-                "page": 4
-            },
-            {
-                "icon": "./assets/pics/icons/whatsapp.png",
-                "url": "http://api.whatsapp.com/",
-                "page": 4
-            }
-        ]
-    },
-    {
-        "x": "5%",
-        "y": "90%",
+        "x": "0%",
+        "y": "20%",
         "width": "100%",
-        "styleBox": "width: 100%",
-        "background-color": "#b41015",
-        "color": "#fff",
+        "class": "legal-page-subtitle",
         "font-size": "1em",
-        "zIndex": 200,
         "tag": "contenido",
-        "id_unique": "content-text-54",
-        "style": "color: #fff; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
-            "text": "<ul style='padding-inline-start: 0px; list-estyle: none; font-size: 0.52em;'> <li style='display: flex; align-items: center; gap: 0.5em;'><a style='color: black; text-decoration: none;' href='https://fuentedeverdad.org/' target='_blank'>fuentedeverdad.org</a> </li></ul>"
+            "text": "<h3>GENERAL DIRECTION</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "26%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Samuel Valverde, FTC President</p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "28%",
+        "width": "100%",
+        "class": "legal-page-subtitle",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h3>EDIT, COORDINATOR</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "34%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Liliana A. Valencia, FTC Missions</p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "36%",
+        "width": "100%",
+        "class": "legal-page-subtitle",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h3>TRANSLATION</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "42%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Jorge Adair Leyva</p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "43%",
+        "width": "100%",
+        "class": "legal-page-subtitle",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h3>AUDIOS</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "49%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Angie N. Luque</p><p>Juan Diego Luque</p><p>Jorge Adair Leyva</p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "54%",
+        "width": "100%",
+        "class": "legal-page-subtitle",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h3>SOFTWARE DEVELOPMENT</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "59.5%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Samuel Ramírez</p><p>Yilver Tello</p><p>Oscar Restrepo</p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "64%",
+        "width": "100%",
+        "class": "legal-page-subtitle",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h3>GRAPHIC & ANIMATION DESIGN</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "70%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Kevin Steven Sánchez</p><p>Stefany Saavedra</p>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "73%",
+        "width": "100%",
+        "class": "legal-page-subtitle",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<h3>PHOTOGRAPHS</h3>"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "79%",
+        "width": "100%",
+        "class": "legal-page-paragraph",
+        "font-size": "1em",
+        "tag": "contenido",
+        "text": "",
+        "data": {
+            "text": "<p>Image Bank of FTC Pastors</p><p>Image Bank of FTC Missions</p>"
+        }
+    },
+    {
+        "x": "7%",
+        "y": "86%",
+        "width":"86%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/icons/baner_legal.png'>"
+    },
+    {
+        "x": "22%",
+        "y": "86.2%",
+        "width":"20%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/icons/fondo_txt_findus.png'>"
+    },
+    {
+        "x": "54.5%",
+        "y": "86.5%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "35%",
+        "height": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-insta",
+        "data": {
+            "href": "https://www.instagram.com/FTCRancho/",
+            "content": "<img src='./assets/pics/icons/icon_ig_b.png'>"
+        }
+    },
+    {
+        "x": "59%",
+        "y": "86.6%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "4.5%",
+        "height": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-youtube",
+        "data": {
+            "href": "https://www.youtube.com/iglesiafuentedeverdad",
+            "content": "<img src='./assets/pics/icons/icon_yt_b.png'>"
+        }
+    },
+    {
+        "x": "65%",
+        "y": "86.7%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-souncloud",
+        "data": {
+            "href": "https://soundcloud.com/ftc-church",
+            "content": "<img src='./assets/pics/icons/icon_sc.png'>"
+        }
+    },
+    {
+        "x": "71%",
+        "y": "86.4%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "3.5%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-sitioweb",
+        "data": {
+            "href": "https://fuentedeverdad.org/",
+            "content": "<img src='./assets/pics/icons/icon_lk.png'>"
+        }
+    },
+    {
+        "x": "76%",
+        "y": "85.5%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "1.8%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-facebook",
+        "data": {
+            "href": "https://www.facebook.com/ftcranchocucamonga",
+            "content": "<img src='./assets/pics/icons/icon_fb_b.png'>"
+        }
+    },
+    {
+        "x": "79.5%",
+        "y": "86.4%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "4.3%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-email",
+        "data": {
+            "href": "mailto:info@fuentedeverdad.com",
+            "content": "<img src='./assets/pics/icons/icon_mg.png'>"
+        }
+    },
+    {
+        "x": "86%",
+        "y": "86.3%",
+        "viewX": 1800,
+        "viewY": 1800,
+        "width": "4.2%",
+        "fontSize": "5em",
+        "tag": "a",
+        "class": "link-twitter",
+        "data": {
+            "href": "https://twitter.com/FTCRancho",
+            "content": "<img src='./assets/pics/icons/icon_tw_b.png'>"
         }
     }
 ]

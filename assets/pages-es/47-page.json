@@ -1,33 +1,75 @@
 [
-    {
-        "x": "0",
-        "y": "10%",
-        "width": "100%",
-        "tag": "html_pure",
-        "html": "<div class='_content_text_greeting_pag_47'> <p>¿Como puedo hacerme un patricionador</p> <p><strong>Mensual de las misiones FDV?</strong></p></div>"
-   },
-   {
-    "x": "0",
-    "y": "70%",
-    "width": "100%",
-    "tag": "html_pure",
-    "html": "<div class='_content_text_greeting_pag_47'> <p>Cuan Hermosos son sobre los montes los pies de los</p> <p>que anuncian la paz, cuan necesarias las rodillas</p><p>los que oran e interatuan por ellos...</p></div>"
-   },
-   {
-    "x": "7%",
-    "y": "85%",
-    "viewX": 1800,
-    "viewY": 100,
-    "width": "90%",
-    "height": "10%",
-    "fontSize": "3.3em",
-    "tag": "modal",
-    "id": "modal-p47",
-    "class": "",
-    "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-    "data": {
-        "title": "<br><br><br>",
-        "content": ""
-    }
-}
+     {
+     "x": "0",
+     "y": "10%",
+     "width": "100%",
+     "tag": "html_pure",
+     "html": "<div class='_content_text_greeting_pag_47'> <p>¿Como puedo hacerme un patricionador</p> <p><strong>Mensual de las misiones FDV?</strong></p></div>"
+     },
+     {
+     "x": "10%",
+     "y": "70%",
+     "width": "80%",
+     "tag": "html_pure",
+     "html": "<div class='_content_text_greeting_pag_47'> <p>Cuan hermosos son sobre los montes los pies de los que anuncian la paz, cuan necesarias las rodillas los que oran e interatuan por ellos...</p></div>"
+     },
+     {
+          "x": "10%",
+          "y": "81%",
+          "viewX": 1800,
+          "viewY": 100,
+          "width": "100%",
+          "height": "10%",
+          "fontSize": "3.3em",
+          "tag": "modal",
+          "id": "modal-p47-1",
+          "class": "leermas-pag47 mover-leer-mas",
+          "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+          "data": {
+              "title": "<br>¿CÓMO PUEDO HACERME UN PATROCINADOR MENSUAL DE LAS MISIONES FDV? <br><br>",
+              "content": "Cuán hermosos son sobre los montes los pies de los que anuncian la paz, cuán necesarias las rodillas de los que oran e interceden por ellos, y cuán importantes esos corazones que se disponen a dar con gozo y liberalidad para que la obra de Dios se lleve a cabo. <br><br>Hágase un patrocinador mensual y dé $10 $20 $50 $100 o $200 por débito automático. Es fácil, rápido, conveniente y además hace una gran diferencia. ¡Inscríbase hoy! <br><br> Visite nuestra página de misiones para inscribirse como patrocinador: www.cadacorazonsanado.com o comuníquese con la Hermana Liliana Valencia al tel. (909) 822-5450 o lilianavalencia@fountainoftruth.com<br><br><a href='https://www.cadacorazonsanado.com/new-page' target='_blank'>HAGA CLIC AQUÍ Y ÚNASE A LA VISIÓN - HÁGASE PATROCINADOR</a>."
+          }
+     },
+     {
+     "x": "67%",
+     "y": "81%",
+     "viewX": 1800,
+     "viewY": 100,
+     "width": "100%",
+     "height": "100%",
+     "fontSize": "2em",
+     "tag": "modal",
+     "id": "modal-p47",
+     "class":"",
+     "text": "<strong>SUBSCRIBIRME</strong>",
+     "data": {
+          "title": "",
+          "content": "<iframe src='https://www.cadacorazonsanado.com/new-page' width='100%' height='550' allow='fullscreen'></iframe>"
+     }
+     },
+     {
+        "x": "25%",
+        "y": "81.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "",
+        "data": [
+            {
+                "id": "page46",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_hacerme_patrocinador.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+     }        
+
 ]

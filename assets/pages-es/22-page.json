@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "5%",
         "y": "9%",
@@ -7,42 +15,71 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "16%",
+        "text": "Domingo Carlos López, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p22-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "8%",
         "y": "20%",
         "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-SERVICIOAIRELIBRE.webp",
-        "text": "Servicio <br> al aire libre"
+        "text": "Servicio <br> al aire libre",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/servicio_aire_libre/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/servicio_aire_libre/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "23%",
+        "y": "20%",
         "class": "full-subtitle",
-        "text": "Mostramos a la <br> comunidad de la iglesia..."
-    },
-    {
-        "x": "60%",
-        "y": "28%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p22",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>SERVICIO AL AIRE LIBRE<h5>25 de septiembre de 2022</h5>",
-            "content": "Mostramos a la comunidad la iglesia que somos. Tuvimos asistencia de la misma comunidad."
-        }
+        "text": "25 de Septiembre de 2022<br>Mostramos a la comunidad<br>de la iglesia quienes somos. Tuvimos asistencia de la <br>misma comunidad."
     },
     {
         "tag": "event-container",
         "x": "8%",
         "y": "31%",
         "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-ANIVERSARIO.webp",
-        "text": "Aniversario <br> iglesia y <br> Dial del Amigo"
+        "text": "Aniversario <br> iglesia y <br> Día del Amigo",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/segundo_aniversario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/segundo_aniversario/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -59,13 +96,13 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p22-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>DÍA DEL AMIGO - ANIVERSARIO IGLESIA FDV TIJUANA<h5>23 de octubre de 2022</h5>",
-            "content": "Experimentamos gozo al recibir a nuestros amigos por los cuales estuvimos en oración y seguimiento.  Los resultados fueron muy motivantes, para continuar con nuestra misión aquí en Tijuana B.C"
+            "content": "Experimentamos gozo al recibir a nuestros amigos por los cuales estuvimos en oración y seguimiento.  Los resultados fueron muy motivantes, para continuar con nuestra misión aquí en Tijuana B.C."
         }
     },
     {
@@ -73,32 +110,26 @@
         "x": "8%",
         "y": "45%",
         "src": "assets/pics/Eventos/mexico/tijuana/4-MEX-TIJUANA-RETIROPENIEL.webp",
-        "text": "Retiro <br> Peniel"
+        "text": "Retiro <br> Peniel",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/retiro_peniel/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/tijuana/retiro_peniel/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "47%",
+        "y": "46%",
         "class": "full-subtitle",
-        "text": "Fue un evento <br> restaurador para..."
-    },
-    {
-        "x": "60%",
-        "y": "52%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p22-3",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>RETIRO PENIEL<h5>2 y 3 de Diciembre de 2022</h5>",
-            "content": "Fue un evento restaurador para nuestra alma. Brindó esperanza a cada asistente."
-        }
-    },
+        "text": "2 y 3 de Diciembre de 2022<br>Fue un evento restaurador <br> para nuestra alma. Brindó esperanza a cada asistente."
+    },    
     {
         "tag": "event-title",
         "x": "5%",
@@ -107,11 +138,44 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "5%",
+        "y": "74%",
+        "text": "Eliezer Daniel Barboza Valdenegro, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "8%",
         "y": "78%",
         "src": "assets/pics/Eventos/mexico/mazatlan/5-MEX-MAZATLAN-LANZAMIENTO.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia",
+        "id":"modal-p22-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mazatlan/7.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -128,13 +192,13 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p22-4",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "Lanzamiento Oficial de la Iglesia",
-            "content": "El día viernes 28 de octubre de 2022, se realizó el lanzamiento oficial de Fuente de Verdad Mazatlán. Un hermoso evento al que asistió el Obispo Samuel Valverde y la 1ra. Dama Raquel Valverde, así como el supervisor de FDV México, el pastor Domingo Carlos y su esposa Irene Carlos. <br><br>Ese día se celebró la ordenación ministerial del Pastor Eliezer Barboza en ese lugar.  Fue un servicio donde la presencia de Dios se derramó de una manera especial, y todos fueron inspirados con un hermoso mensaje de nuestro Obispo Valverde.<br><br>Al final convivieron unos con otros, disfrutando al compartir alimentos y la compañía de todos los invitados."
+            "content": "El día viernes 28 de octubre de 2022, se realizó el lanzamiento oficial de Fuente de Verdad Mazatlán. Un hermoso evento al que asistió el Obispo Samuel Valverde y la Primera Dama Raquel Valverde, así como el supervisor de FDV México, el pastor Domingo Carlos y su esposa Irene Carlos. <br><br>Ese día se celebró la ordenación ministerial del Pastor Eliezer Barboza en ese lugar.  Fue un servicio donde la presencia de Dios se derramó de una manera especial, y todos fueron inspirados con un hermoso mensaje de nuestro Obispo Valverde.<br><br>Al final convivieron unos con otros, disfrutando al compartir alimentos y la compañía de todos los invitados."
         }
     }
 ]

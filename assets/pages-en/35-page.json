@@ -1,3 +1,342 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "8%",
+        "y": "7%",
+        "text1": "San Ramón",
+        "text2": "Costa Rica"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "8%",
+        "y": "13%",
+        "text": "José Hernando López Vera, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p35-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "20%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/fogata/2-CR-SANRAMON-FOGATAJUVENIL.webp",
+        "text": "Fogata Juvenil",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/fogata/8.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "20%",
+        "text": "Tuvimos una hermosa <br> noche de fogata..."
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "32%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/2-CR-SANRAMON-VISITAOBISPO.webp",
+        "text": "Visita del <br> Obispo <br> Samuel Valverde",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/16.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "35%",
+        "text": "Durante la semana del <br> 9 al 15 de mayo..."
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "48%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/campamento/2-CR-SANRAMON-CAMPAMENTO.webp",
+        "text": "Campamento <br> Juvenil",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/campamento/16.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "50%",
+        "text": "Nuestro Ministerio de <br> Jóvenes tuvo un..."
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "62%",
+        "src": "assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/2-CR-SANRAMON-CENAAMIGOS.webp",
+        "text": "Cena <br> de Amigos",
+        "id":"modal-p35-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/6.jpg"
+            }
+        ]
+
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "65%",
+        "text": "Tuvimos una hermosa <br> cena de amigos..."
+    },
+    {
+        "x": "62%",
+        "y": "25%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p35",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>FOGATA JUVENIL<h6>02 de abril de 2022</h6>",
+            "content": "Tuvimos una hermosa noche de fogata, donde la presencia de Dios nos visitó de manera especial. Esa noche se reunieron más de 70 jóvenes."
+        }
+    },
+    {
+        "x": "62%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p35-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>VISITA DEL OBISPO SAMUEL VALVERDE Y SU ESPOSA LA HERMANA RAQUEL<h6>13 de mayo de 2022 </h6>",
+            "content": "Durante la semana del 9 al 15 de mayo celebramos una hermosa semana de la familia. El día 13, tuvimos una tarde de café para nuestros caballeros, una tarde de café para nuestras damas y culminamos con una maravillosa cena de parejas, todo esto en la grata compañía de nuestro Obispo y su esposa."
+        }
+    },
+    {
+        "x": "62%",
+        "y": "55%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p35-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CAMPAMENTO DE JÓVENES<h6>24, 25 y 26 de Junio de 2022 <br> Lema: “Dios te eligió a ti para ser un soldado de Cristo”</h6>",
+            "content": "Nuestro Ministerio de Jóvenes tuvo un hermoso sentir, el Señor puso en sus corazones realizar un campamento para jóvenes. En este campamento la presencia de Dios se hizo sentir de una manera extraordinaria, muchos corazones fueron sanados en su nombre. Desde Estados Unidos tuvimos la grata compañía del Pastor James Pérez, la asistencia fue de más de 150 campistas."
+        }
+    },
+    {
+        "x": "62%",
+        "y": "70%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p35-4",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CENA DE AMIGOS<h6>29 de agosto de 2022<br>Bajo el lema: “Que se llene mi casa”</h6>",
+            "content": "Tuvimos una hermosa cena de amigos, invitamos a amigos de diferentes lugares y tuvimos una noche increíble. Dios restauró corazones de una manera inexplicable, se abrieron muchas puertas, muchos hogares abrieron sus corazones a la palabra del Señor."
+        }
+    }
 ]

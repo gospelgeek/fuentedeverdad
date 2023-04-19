@@ -1,0 +1,86 @@
+[
+
+    {
+        "x": "0",
+        "y": "12%",
+        "width": "100%",
+        "tag": "contenido",
+        "class": "agradecimiento-title",
+        "data": {
+            "text": "<h4>A NUESTRA PRIMERA DAMA EN FDV</h4>"
+        }        
+    }, 
+    {
+        "y": 10,
+        "x": 0,
+        "width": "100%",
+        "tag": "img_container",
+        "src": "assets/pics/general-images/txt_1eradama.png",
+        "styles": "position: relative; top: 2em; left: 0;  display: grid; place-items: center;",
+        "style_img": "width: 85%; height: 90%;",
+        "id": "img_49_page_esp"
+     },
+    {
+        "y": 10,
+        "x": 0,
+        "width": "100%",
+        "tag": "img_container",
+        "src": "assets/pics/general-images/foto_1eradama.png",
+        "styles": "position: relative; top: 9em; left: 0;  display: grid; place-items: center;",
+        "style_img": "width: 85%; height: 90%;",
+        "id": "img_48_page_esp"
+     },
+    {
+        "x": "20%",
+        "y": "78%",
+        "width": "65%",
+        "tag": "contenido",
+        "class": "agradecimiento-text",
+        "data": {
+            "text": "<p><strong>Hna. Raquel Valverde,</strong> nos honramos en expresarles nuestro más sincero agradecimiento en virtud</p>"
+        }
+                
+    }, 
+    {
+         "x": "40%",
+         "y": "91.7%",
+         "viewX": 1800,
+         "viewY": 100,
+         "width": "90%",
+         "height": "10%",
+         "fontSize": "3.3em",
+         "tag": "modal-pequeno",
+         "id": "modal-p48",
+         "class": "mover-leer-mas",
+         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+         "data": {
+             "title": "<br>AGRADECIMIENTO A NUESTRA PRIMERA DAMA EN FDV",
+             "content": "Hna. Raquel Valverde, nos honramos en expresarle nuestro más sincero agradecimiento en virtud de su gran labor como pilar espiritual en esta bella familia, Fuente de Verdad. Su vida misma es un destello de gloria que impacta de luz a los que la rodeamos. El fruto de sus obras ha trascendido a las naciones, una sonrisa, un mensaje, una invitación, un consejo, no son solo detalles, sino pequeñas semillas que dan fruto en tierra fértil. Ella Ministerial Global agradece su sabía dirección en cada reunión, su liderazgo en el acompañamiento y consejería a cada esposa de pastor, su empeño en vivir nuestra visión de ser un lugar seguro y su mentoría para formarnos como líderes de este bello ministerio."
+         }
+    },
+    {
+        "x": "53%",
+        "y": "91.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "",
+        "data": [
+            {
+                "id": "page48",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_primera_dama.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    } 
+   
+]

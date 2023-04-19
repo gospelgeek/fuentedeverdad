@@ -1,94 +1,73 @@
 [
     {
-        "x": "5%",
-        "y": "0",
-        "width": "90%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-2",
-        "data": {
-            "text": "<h4 class='monserrat-black' style='font-size: 2em; color: black;'>Dear Global Fountain of Truth Church:</h4>"
-        }
-                
+        "x": "0%",
+        "y": "5%",
+        "width": "100%",
+        "tag": "page-4-title",
+        "title": "Letter of the <br> Presidential Bishop",
+        "subtitle": "SAMUEL VALVERDE"
     },
     {
-        "x": "-5%",
-        "y": "30%",
+        "x": "0%",
+        "y": "28%",
         "width": "100%",
         "styleBox": "",
         "background-color": "#b41015",
+        "class": "text-page4",
         "color": "#fff",
-        "font-size": "10em",
+        "font-size": "2em",
         "tag": "contenido",
-        "id_unique": "box-text-page-7",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "box-text-page-3",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1.2em; color: black; text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>Welcome to our first 2023 Global Missions Publication. I invite you to enjoy our new interactive format which includes news from the mission field, articles, photographs, videos, and other content. I’m sure you will enjoy each section that you can access by simply clicking on a particular tab. </p>"
+           "text": "<p class='main-text'>Dear Global Fountain of Truth Church:<br>Welcome to our first 2023 Global Missions Publication. I invite you to enjoy our new interactive format which includes news from the mission field, articles, photographs, videos, and other content. I’m sure you will enjoy each section that you can access by simply clicking on a particular tab. <br><br>Jesus said: “Go therefore…” (Matthew 28:19)</p>"
         }
     },
     {
-        "x": "13%",
-        "y": "25%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "82%",
-        "height": "4%",
-        "fontSize": "3.5em",
-        "tag": "p",
-        "class": "text-biblical",
-        "data": {
-            "content": "<i>“Jesus said: “Go therefore…” (Matthew 28:19).</i>"
-        }
-    },
-    {
-        "x": "5%",
-        "y": "58%",
+        "x": "10%",
+        "y": "65%",
+        "class": "mover-leer-mas",
         "viewX": 1800,
         "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "4em",
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "1.5em",
         "tag": "modal",
-        "id": "modal-1",
-        "class": " ",
-        "text": "Leer más...",
+        "id": "modal-p3",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>Dear Global Fountain of Truth Church:<br><br>",
             "content": "Welcome to our first 2023 Global Missions Publication. I invite you to enjoy our new interactive format which includes news from the mission field, articles, photographs, videos, and other content. I’m sure you will enjoy each section that you can access by simply clicking on a particular tab.<br><br><i>Jesus said: “Go therefore…” (Matthew 28:19)</i><br><br>Go!<br><br>It is amazing how much power, purpose and promise such a small two-letter word can have. Jesus employed the word when he commissioned his disciples to do precisely that - to go.<br><br>Go is a verb that requires action, intention, initiative, and planning. It means to move on a course, to proceed.<br><br>Go is the opposite of stay or wait. It is a commandment, a directive expressed from the very lips of our gentle Master. It proceeds from his loving heart; it encompasses his reason for becoming a man - the Son of God.<br><br>Fountain of Truth Church has heard the command; we have accepted the challenge and mobilized our resources to go and make disciples to the ends of the earth. We covet your prayers and generosity.<br><br><p style='padding-bottom: 0.5em; font-size: 1em; color: #387086;'> Every Heart…  <br> Bishop Samuel Valverde</p>"
         }
     },
     {
-        "x": "-5%",
-        "y": "80%",
+        "x": "20%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "35%",
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
-        "class": "",
+        "class": "actions",
         "text": "",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "./assets/audios/"
+            {   
+                "id": "page3",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/carta_obispo/eng_carta_obispo.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1j-6adI0CYgc6jNMIRSssAI9BZhYxa4f_/view?usp=share_link"
+                "url": "https://drive.google.com/file/d/1Ala9WBK6wv3p-I5-drphWLYxAUq9nDLS/view"
             }
         ]
     },
     {
-        "x": "50%",
-        "y": "80%",
+        "x": "55%",
+        "y": "65%",
         "width": "50%",
         "background-color": "#b41015",
         "color": "#fff",
@@ -99,18 +78,41 @@
             {
                 "icon": "./assets/pics/icons/facebook.png",
                 "url": "http://www.facebook.com/",
-                "page": 4
+                "page": 3
             },
             {
                 "icon": "./assets/pics/icons/gorjeo.png",
                 "url": "http://twitter.com/",
-                "page": 4
+                "page": 3
             },
             {
                 "icon": "./assets/pics/icons/whatsapp.png",
                 "url": "http://api.whatsapp.com/",
-                "page": 4
+                "page": 3
             }
         ]
+    },
+    {
+        "x": "0%",
+        "y": "70.5%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/samuel.jpg'>"
+    },
+    {
+        "x": "25%",
+        "y": "84.5%",
+        "width": "66%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.7em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-5",
+        "data": {
+            "text": "<h4 class='monserrat-black' id='obispo-4'>...from the desk of our Bishop</h4>"
+        }   
     }
 ]

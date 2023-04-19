@@ -1,10 +1,43 @@
 [
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p28-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "5%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-NOCHEVIGILIA.webp",
-        "text": "Retiro <br> Cara a Cara <br> con Dios"
+        "src": "assets/pics/Eventos/colombia/medellin/retiro/3-CO-MEDELLIN-RETIROCARAACARA.webp",
+        "text": "Retiro <br> Cara a Cara <br> con Dios",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/retiro/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -21,8 +54,8 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p31",
+        "tag": "modal-pequeno",
+        "id": "modal-p28",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
@@ -34,15 +67,22 @@
         "tag": "event-container",
         "x": "12%",
         "y": "17%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "Noche <br> de Paz"
+        "src": "assets/pics/Eventos/colombia/medellin/noche_paz/3-CO-MEDELLIN-NOCHEDEPAZ.webp",
+        "text": "Noche <br> de Paz",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/noche_paz/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "65%",
         "y": "19%",
         "class": "full-subtitle",
-        "text": "se celebró una noche <br> de paz en lo que se..."
+        "text": "Se celebró una noche <br> de paz en lo que se..."
     },
     {
         "x": "65%",
@@ -52,8 +92,8 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p31-2",
+        "tag": "modal-pequeno",
+        "id": "modal-p28-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
@@ -65,8 +105,19 @@
         "tag": "event-container",
         "x": "12%",
         "y": "29%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Regalando<br>Sonrisas"
+        "src": "assets/pics/Eventos/colombia/medellin/sonrisas/3-CO-MEDELLIN-REGALANDOSONRISAS.webp",
+        "text": "Regalando<br>Sonrisas",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/sonrisas/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/sonrisas/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -83,7 +134,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p28-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -96,8 +147,15 @@
         "tag": "event-container",
         "x": "12%",
         "y": "40%",
-        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-SERVICIOCELEBRACION.webp",
-        "text": "Celebración <br> de Servicios"
+        "src": "assets/pics/Eventos/colombia/medellin/servicios/3-CO-MEDELLIN-CELEBRACIONSERVICIOS.webp",
+        "text": "Celebración <br> de Servicios",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/medellin/servicios/2.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -114,7 +172,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p28-4",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -131,42 +189,106 @@
         "text2": "Colombia"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "68%",
+        "text": "José Andrés Mejía Luque, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "69%",
-        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-CONFERENCIASDECANOJORGE.webp",
-        "text": "Conferencias <br> Decano <br> Jorge Medina"
+        "src": "assets/pics/Eventos/colombia/cali/conferencias/4-CO-CALI-CONFERENCIASDECANOJORGE.webp",
+        "text": "Conferencias <br> Decano <br> Jorge Medina",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/conferencias/7.jpg"
+            }
+        ]
+
     },
     {
         "tag": "event-subtitle",
         "x": "65%",
         "y": "72%",
         "class": "full-subtitle",
-        "text": "“Preparándonos para <br> servir con..."
-    },
-    {
-        "x": "65%",
-        "y": "77%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p28-5",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>CONFERENCIAS<br>DECANO JORGE MEDINA<br>“Preparándonos para servir con excelencia”<h6>Enero 2022</h6>",
-            "content": ""
-        }
+        "text": "“Preparándonos para <br> servir con excelencia.” <br> Enero 2022"
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "83%",
-        "src": "assets/pics/Eventos/colombia/cali/4-CO-CALI-SERVICIOKIDS.webp",
-        "text": "Servicio <br> Kids"
+        "src": "assets/pics/Eventos/colombia/cali/kids/4-CO-CALI-SERVICIOKIDS.webp",
+        "text": "Servicio <br> Kids",
+        "id":"modal-p28-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/cali/kids/10.jpg"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/kbNPMgjiavI"
+            },
+            {
+                "tipo": "video",
+                "src": "https://www.youtube.com/embed/FjdB7wvc5JQ"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -183,7 +305,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p28-6",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",

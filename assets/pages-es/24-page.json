@@ -1,5 +1,13 @@
 [
     {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "10%",
         "y": "17%",
@@ -7,11 +15,62 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "23%",
+        "text": "Gabriel Antonio Gálvez Figueroa, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p24-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "25%",
         "src": "assets/pics/Eventos/mexico/potosi/7-MEX-SANLUISPOTOSI-LANZAMIENTO.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la Iglesia"
+        "text": "Lanzamiento <br> Oficial <br> de la Iglesia",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/3.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/4.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/5.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/6.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/potosi/7.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -38,6 +97,48 @@
         }
     },
     {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "38%",
+        "src": "assets/pics/Eventos/mexico/potosi/tren_emociones.png",
+        "text": "El Tren De <br> Las Emociones",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/vgIfLxjoiLE"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "41.5%",
+        "class": "full-subtitle",
+        "text": "Escuelita de Verano <br> realizada durante 2022."
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "48%",
+        "src": "assets/pics/Eventos/mexico/potosi/cada_corazon.jpg",
+        "text": "El Tren De <br> Las Emociones",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+                "tipo":"video",
+                "src":"https://www.youtube.com/embed/9Ig5KZzBO0E"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "50%",
+        "class": "full-subtitle",
+        "text": "Resumen de <br> actividades de FDV SLP <br> durante 2022."
+    },
+    {
         "tag": "event-title",
         "x": "10%",
         "y": "60%",
@@ -45,57 +146,50 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "66%",
+        "text": "Gilberto Rentería López, Pastor"
+    },
+    {
         "tag": "event-container",
         "x": "12%",
         "y": "70%",
         "src": "assets/pics/Eventos/mexico/culiacan/8-MEX-CULIACAN-ABRETUSOJOS.webp",
-        "text": "Abre <br> tus ojos"
+        "text": "Abre <br> tus ojos",
+        "id":"modal-p24-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/culiacan/7.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
         "y": "71%",
         "class": "full-subtitle",
-        "text": "El propósito de este <br> evento fuedar..."
-    },
-    {
-        "x": "62%",
-        "y": "76%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p24-2",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>ABRE TUS OJOS<h5>2 de Octubre de 2022 </h5>",
-            "content": "El propósito de este evento fue dar a conocer el mensaje del evangelio a nuevos creyentes, y que ellos conecten con la iglesia."
-        }
-    },
-    {
-        "x": "25%",
-        "y": "85%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
-            }
-        ]
+        "text": "El propósito de este <br> evento fue dar a conocer el mensaje del evangelio a nuevos creyentes, y que ellos conecten con la iglesia."
     }
 ]

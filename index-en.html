@@ -13,6 +13,7 @@
     <meta name="og:description" content="">
     <link rel="icon" type="image/png" href="/assets/pics/icons/book.png">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Great+Vibes">
     <script type="text/javascript" src="./assets/extras/jquery.min.1.7.js"></script>
     <script type="text/javascript" src="./assets/extras/modernizr.2.5.3.min.js"></script>
     <script type="text/javascript" src="./assets/js/wordfind.js"></script>
@@ -31,7 +32,10 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/general_pages.css">
-    <link rel="stylesheet" href="assets/css/components/general.css">    
+    <link rel="stylesheet" href="assets/css/components/general.css">
+    <!-- fuente -->
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5S3KT50YL"></script>
@@ -52,27 +56,30 @@
     <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
     <div id="canvas">
         <div class="action">
-            <img src="./assets/pics/icons/united-states.png">
-            <span class="iconify" data-icon="material-symbols:keyboard-arrow-down-rounded" style="color: #fff;" data-width="24" data-height="24"></span>
-        </div>
-        <div class="dropdown">
-            <ul>
-                <li>
-                    <a  onclick="click_boton_a_spanish()">
-                        <button class="idioma">
-                            <img src="./assets/pics/icons/spain.png">
-                        </button>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    <!--<div class="dropdown">
-        <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
-        <div id="myDropdown" class="dropdown-content">
-            <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
-        </div>
-        </div>
-    <div>-->
+             <img src="./assets/pics/icons/united-states.png">
+             <span class="iconify" data-icon="material-symbols:keyboard-arrow-down-rounded" style="color: #fff;" data-width="24" data-height="24"></span>
+         </div>
+         <div class="dropdown">
+             <ul>
+                 <li>
+                     <a onclick="click_boton_a_spanish()">
+                         <button class="">
+                             <img src="./assets/pics/icons/spain.png">
+                         </button>
+                     </a>
+                 </li>
+                 <li>
+ 
+                 </li>
+             </ul>
+         </div>
+        <!--<div class="dropdown">
+            <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
+            <div id="myDropdown" class="dropdown-content">
+                <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
+            </div>
+            </div>
+        <div>-->
     </div>
 
     <div class="magazine-viewport">
@@ -96,8 +103,6 @@
             </div>
         </div>
         <div>
-
-            <script src="/assets/js/loader.js"></script>
 
             <script type="text/javascript">
                 function loadApp() {
@@ -143,7 +148,7 @@
 
                         // The number of pages
 
-                        pages: 49,
+                        pages: 50,
 
                         // Events
 
@@ -299,7 +304,8 @@
                     test: Modernizr.csstransforms,
                     yep: ['./assets/lib/turn.js'],
                     nope: ['./assets/lib/turn.html4.min.js'],
-                    both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css','./assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css', './assets/js/loader.js'],
+                    both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css','./assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css'
+                ],
                     complete: loadApp
                 });
 

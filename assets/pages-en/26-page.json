@@ -1,3 +1,261 @@
 [
-    
+    {
+        "x": "10%",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p26-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "13%",
+        "src": "assets/pics/Eventos/colombia/convencion_nacional/modal.jpg",
+        "text": "<strong>CONVENCIÓN NACIONAL E INTERNACIONAL COLOMBIA 2022</strong>",
+        "id":"modal-p26-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/7.jpg"
+            }
+        ] 
+    },
+    {
+        "x": "63%",
+        "y": "10%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>19 Y 20</strong></h3>"
+        }   
+    },
+    {
+        "x": "63%",
+        "y": "13.5%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Febrero</h5>"
+        }   
+    },
+    {
+        "x": "15%",
+        "y": "29%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p26",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>EVENTOS 2022 FDV COLOMBIA<br>CONVENCIÓN NACIONAL E INTERNACIONAL<h6>Medellín<br>19 y 20 de Febrero de 2022</h6>",
+            "content": "<b>Asistencia:</b> 350 personas aproximadamente.<br>Se contó con un equipo de trabajo compuesto por 80 personas.<br><b>Conferencistas:</b> Obispo Samuel Valverde, primera dama Raquel Valverde, y el pastor Martín  Pérez.<br><b>Delegaciones:</b> EE. UU., Costa Rica, Barranquilla, Cartagena, Cali, Palmira, y otras ciudades de Colombia.<br><b>Impacto Espiritual:</b> Muchos asistentes reportaron que después de la conferencia para parejas, sus matrimonios y relaciones han sido sanados. Varias personas se comunicaron preguntando por la dirección de FDV para congregarse."
+        }
+    },
+    {
+        "x": "5%",
+        "y": "35%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-2",
+        "data": {
+            "text": "<h5 class='nombres-p26'>Obispo<br>Samuel Valverde</h5>"
+        }   
+    },
+    {
+        "x": "35%",
+        "y": "35%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-3",
+        "data": {
+            "text": "<h5 class='nombres-p26'>Primera Dama<br>Raquel Valverde</h5>"
+        }   
+    },
+    {
+        "x": "60%",
+        "y": "35%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-20-4",
+        "data": {
+            "text": "<h5 class='nombres-p26'>Pastor<br>Martin Pérez</h5>"
+        }   
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "57%",
+        "src": "assets/pics/Eventos/colombia/seminario/modal.jpg",
+        "text": "<strong>SEMINARIO AUTORIDAD ESPIRITUAL</strong>",
+        "id":"modal-p26-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/4.jpg"
+            }
+        ] 
+    },
+    {
+        "x": "15%",
+        "y": "70%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p26-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>EVENTOS 2022 FDV COLOMBIA<br><br>SEMINARIO AUTORIDAD ESPIRITUAL<h6>Medellín<br>12 de marzo de 2022</h6>",
+            "content": "<b>Conferencista:</b> Obispo Samuel Valverde<br>Este fue un programa muy especial, en el cual participaron y trabajaron las tres congregaciones de la ciudad, logrando una asistencia mayoritaria por parte de FDV Medellín. El Obispo enseñó la Importancia de la Autoridad Espiritual - personas que están en autoridad, y personas que están bajo autoridad. Fue un momento de comunión, hermandad y afecto entre las tres Iglesias de FDV Medellín."
+        }
+    },
+    {
+        "x": "63%",
+        "y": "54%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#000000",
+        "color": "#000000",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37",
+        "data": {
+            "text": "<h3 class='fecha-pag-37'><strong>12</strong></h3>"
+        }   
+    },
+    {
+        "x": "63%",
+        "y": "57%",
+        "width": "40%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1.5em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-37-1",
+        "data": {
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+        }   
+    },
+    {
+        "x": "0%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

@@ -1,19 +1,63 @@
 [
     {
         "x": "10%",
-        "y": "13%",
-        "width": "50%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p26-01",
+        "class": "",
+        "src": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>CONVENCIÓN NACIONAL E INTERNACIONAL COLOMBIA 2022</strong></p>"
+            "title": "",
+            "content": "",
+            "imagenes": ""
         }
+    },
+    {
+        "tag": "event-container",
+        "x": "10%",
+        "y": "13%",
+        "src": "assets/pics/Eventos/colombia/convencion_nacional/modal.jpg",
+        "text": "<strong>CONVENCIÓN NACIONAL E INTERNACIONAL COLOMBIA 2022</strong>",
+        "id":"modal-p26-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/convencion_nacional/7.jpg"
+            }
+        ] 
     },
     {
         "x": "63%",
@@ -28,12 +72,12 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>19 Y 20</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
         "x": "63%",
-        "y": "13.5%",
+        "y": "16.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -44,18 +88,18 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Febrero</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>19 Y 20 de Febrero</h5>"
         }   
     },
     {
         "x": "15%",
-        "y": "33%",
+        "y": "29%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p26",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -113,20 +157,30 @@
         }   
     },
     {
-        "x": "11%",
-        "y": "58%",
-        "width": "45%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>SEMINARIO AUTORIDAD ESPIRITUAL</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "10%",
+        "y": "57%",
+        "src": "assets/pics/Eventos/colombia/seminario/modal.jpg",
+        "text": "<strong>SEMINARIO AUTORIDAD ESPIRITUAL</strong>",
+        "id":"modal-p26-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/colombia/seminario/4.jpg"
+            }
+        ] 
     },
     {
         "x": "15%",
@@ -136,7 +190,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p26-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -158,12 +212,12 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>12</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
         "x": "63%",
-        "y": "57%",
+        "y": "59.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -174,31 +228,8 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>12 de Marzo</h5>"
         }   
-    },
-    {
-        "x": "45%",
-        "y": "85%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
-            }
-        ]
     },
     {
         "x": "0%",

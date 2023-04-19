@@ -1,33 +1,75 @@
 [
-{
-    "x": "0",
-    "y": "10%",
-    "width": "100%",
-    "tag": "html_pure",
-    "html": "<div class='_content_text_greeting_pag_47 _eng'> <p>How can I make myself a monthly </p> <p><strong>FDV mission partitioner?</strong></p></div>"
+    {
+        "x": "0",
+        "y": "10%",
+        "width": "100%",
+        "tag": "html_pure",
+        "html": "<div class='_content_text_greeting_pag_47 _eng'> <p>How can I make myself a monthly </p> <p><strong>FDV mission partitioner?</strong></p></div>"
     },
     {
-    "x": "0",
-    "y": "67%",
-    "width": "100%",
-    "tag": "html_pure",
-    "html": "<div class='_content_text_greeting_pag_47 _eng_text'> <p>How beautiful on the mountains are the feet of those</p> <p>who bring good news, who proclaim peace, who bring</p><p>good tidings, who proclaim salvation, who say to Zion,</p><p>'Your God reigns!'</p></div>"
+        "x": "10%",
+        "y": "70%",
+        "width": "80%",
+        "tag": "html_pure",
+        "html": "<div class='_content_text_greeting_pag_47 _eng_text'> <p>How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim...</p></div>"
     },
     {
-    "x": "7%",
-    "y": "85%",
+         "x": "10%",
+         "y": "81%",
+         "viewX": 1800,
+         "viewY": 100,
+         "width": "100%",
+         "height": "10%",
+         "fontSize": "3.3em",
+         "tag": "modal-pequeno",
+         "id": "modal-p47-1",
+         "class": "leermas-pag47 mover-leer-mas",
+         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+         "data": {
+             "title": "<br>HOW CAN I BECOME A MONTHLY SPONSOR OF FTC MISSIONS?<br><br>",
+             "content": "How beautiful on the mountains are the feet of those who proclaim peace, how necessary the knees of those who pray and intercede for them, and how important are those hearts that are ready to give with joy and liberality so that the work of God may be carried on.<br><br>Become a monthly sponsor and give $10 $20 $50 $100 or $200 with automatic debit. It's easy, fast, convenient, it will make a difference. Sign up today!<br><br> Visit our missions page to sign up as a sponsor: www.everyhearthealed.com or contact Sister Liliana Valencia at (909) 822-5450 or lilianavalencia@fountainoftruth.com<br><br><a href='https://www.cadacorazonsanado.com/new-page' target='_blank'>CLICK HERE AND JOIN THE VISION - BECOME A SPONSOR</a>."
+         }
+    },
+    {
+    "x": "67%",
+    "y": "81%",
     "viewX": 1800,
     "viewY": 100,
-    "width": "90%",
-    "height": "10%",
-    "fontSize": "3.3em",
+    "width": "100%",
+    "height": "100%",
+    "fontSize": "2em",
     "tag": "modal",
     "id": "modal-p47",
-    "class": "",
-    "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+    "class":"",
+    "text": "<strong>SUBSCRIBE</strong>",
     "data": {
-    "title": "<br><br><br>",
-    "content": ""
+         "title": "",
+         "content": "<iframe src='https://www.cadacorazonsanado.com/new-page' width='100%' height='550' allow='fullscreen'></iframe>"
     }
-    }
-]    
+    },
+    {
+       "x": "25%",
+       "y": "81.5%",
+       "viewX": 1800,
+       "viewY": 100,
+       "width": "20%",
+       "height": "20%",
+       "fontSize": "5em",
+       "tag": "btn-normal-2",
+       "class": "actions",
+       "text": "",
+       "icon": "",
+       "data": [
+           {
+               "id": "page46",
+               "icon": "./assets/pics/icons/iconEscucha.webp",
+               "url": "./assets/audios/eng_hacerme_patrocinador.m4a"
+           },
+           {
+               "icon": "",
+               "url": ""
+           }
+       ]
+    }        
+
+]

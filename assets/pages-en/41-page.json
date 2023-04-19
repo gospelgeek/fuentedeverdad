@@ -1,3 +1,137 @@
 [
-    
+    {
+        "x": "20%",
+        "y": "4%",
+        "width": "90%",
+        "styleBox": "width: 100%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "contenido",
+        "style": "font-weight: normal;",
+        "text": "",
+        "id_unique": "text-indece-page-2",
+        "data": {
+            "text": "<h4 class='monserrat-black' style='text-align:center; font-size: 1.3em; color: black;'>HERE IS A YOUNG MAN</h4>"
+        }
+                
+    },
+    {
+        "x": "25%",
+        "y": "14%",
+        "width": "80%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-7",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='' style='padding-top: 1em; font-size: 1em;'>The well known story of the multiplication of the loaves and the fish sheds light upon the importance and blessings of giving. The four evangelists, as if they, not wanting to miss out on telling this miracle, narrate the story, each one from their own perspective. <br><br>Nevertheless, only John reveals that the loaves and fish were provided by a young man. We can learn a few things from this young man.</p>"
+        }
+    },
+    {
+        "x": "33%",
+        "y": "66%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p41",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>HERE IS A YOUNG MAN<br><br>(Why contribute to the missions?)<br><br>John 6:5-13<br><br>",
+            "content": "The well known story of the multiplication of the loaves and the fish sheds light upon the importance and blessings of giving. The four evangelists, as if they, not wanting to miss out on telling this miracle, narrate the story, each one from their own perspective.<br><br>Nevertheless, only John reveals that the loaves and fish were provided by a young man. We can learn a few things from this young man.<br><br>Sacrifice - the young man was willing to not eat dinner that night, due to the fact that it was evening and the time had passed (Mathew 14:15). It’s possible that his humble barley loaves sardines were meant for the Master who had not eaten yet.<br><br>Generosity - the young man teaches us that generosity is also put to practice when we have a little bit to offer; it is not only given when we have a lot of resources, or even worse, from what we have left.<br><br>Correct Location - Placing our offering in the hands of Jesus makes the whole difference. Jesus ignores Andrew’s comment (“but what are they among so many?”) and He got to work. But the Master did not take action until He had something to work with, in other words, until He had something He could multiply. Can’t the Creator create loaves and fish? Can’t he who rose Lazarus from the dead also remove the stone? Of course he could,  but He always hopes to see faith within us.<br><br>Unexpected Blessing - The one that was willing to sacrifice his dinner, not only ate till satisfied, but possibly carried home one of the 12 baskets of food that were left over. My apologies for those who, without biblical evidence, assign every basket to each of the twelve disciples; but for me, also without biblical evidence, the lad arrived home, (and bear with me a little) with Judas’ basket!<br><br>Why should anyone contribute to missions? Because God expects sacrifice and generosity from us. Because in His hands our prayers and offerings can fulfill the mandate and the principal theme of this story, “Give ye them to eat”.<br><br>Could it be possible that a “young man”, or sister, or businessman is out there with something to put in the hands of the Master?<br><br><b>From Bishop Samuel Valverde</b>"
+        }
+    },
+    {
+        "x": "22%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "id":"page40",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/eng_aqui_esta_un_muchacho.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1i-KWrnJ2ng6pbxM9FavbuRxgsiHTInjY/view"
+            }
+        ]
+    },
+    {
+        "x": "60%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    },
+    {
+        "x": "45%",
+        "y": "64%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "6em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Samuel Valverde",
+            "position": "BISHOP",
+            "year": "2023",
+            "src": "./assets/pics/photos/samuelvalverde.jpg"
+        }
+    },
+    {
+        "x": "57%",
+        "y": "66%",
+        "width": "30%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "10em",
+        "tag": "contenido",
+        "id_unique": "box-text-page-42-3",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+           "text": "<p class='main-text-p42-2'>From<br><strong>BISHOP SAMUEL VALVERDE</strong></p>"
+        }
+    }
 ]

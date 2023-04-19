@@ -1,24 +1,57 @@
 [   
     {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/CB_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "5%",
         "y": "9%",
         "text1": "Testimonios",
-        "text2": "Camboya"
+        "text2": "Cambodia"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p33-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "25%",
-        "src": "assets/pics/Eventos/camboya/testimonios/2-CY-TESTIMONIO-ANNETTE.webp",
-        "text": "Testimonio <br> Hna. <br> Annette Herrera"
+        "src": "assets/pics/Eventos/camboya/testimonios/1/2-CY-TESTIMONIO-ANNETTE.webp",
+        "text": "Testimonio <br> Hna. <br> Annette Herrera",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/1/2.jpeg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "62%",
         "y": "29%",
         "class": "full-subtitle",
-        "text": "Camboya fue un lugar <br> donde Dios..."
+        "text": "Cambodia fue un lugar <br> donde Dios..."
     },
     {
         "x": "62%",
@@ -33,16 +66,51 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VIAJE MISIONERO A CAMBOYA<br><br>TESTIMONIO HNA. ANNETTE HERRERA<br><br>",
-            "content": "Camboya fue un lugar donde Dios verdaderamente se movió en mi corazón para poder aportar al ministerio. FDV ha depositado en mí en tantas maneras y ahora es una bendición espiritual que trae paz y gozo a mi corazón, el poder derramar eso que se había depositado en mí para otros. Cada vez que me encontraba detrás del lente de las cámaras, podía ver como en cámara lenta lo que Dios había creado y aunque nuestras culturas se veían tan diferentes, pude ver como tenemos los mismos deseos y necesidades en nuestros corazones. Es muy importante escuchar a Dios cuando te pide darle una palabra a alguien. Esa persona sabe que Dios lo escucha, porque Dios te usa a tí para declarar vida sobre él. Esos momentos especiales, donde Dios me usó, fueron de gran bendición y es algo que verdaderamente me transformó.<br><br>No solamente pude declarar vida hacia otras personas, sino también muchas cosas me fueron confirmadas, <i>“Dios me quiere enseñar cosas más grandes en el caminar con Él”.</i>"
+            "title": "<br>VIAJE MISIONERO A CAMBODIA<br><br>TESTIMONIO HNA. ANNETTE HERRERA<br><br>",
+            "content": "Cambodia fue un lugar donde Dios verdaderamente se movió en mi corazón para poder aportar al ministerio. FDV ha depositado en mí en tantas maneras y ahora es una bendición espiritual que trae paz y gozo a mi corazón, el poder derramar eso que se había depositado en mí para otros. Cada vez que me encontraba detrás del lente de las cámaras, podía ver como en cámara lenta lo que Dios había creado y aunque nuestras culturas se veían tan diferentes, pude ver como tenemos los mismos deseos y necesidades en nuestros corazones. Es muy importante escuchar a Dios cuando te pide darle una palabra a alguien. Esa persona sabe que Dios lo escucha, porque Dios te usa a tí para declarar vida sobre él. Esos momentos especiales, donde Dios me usó, fueron de gran bendición y es algo que verdaderamente me transformó.<br><br>No solamente pude declarar vida hacia otras personas, sino también muchas cosas me fueron confirmadas, <i>“Dios me quiere enseñar cosas más grandes en el caminar con Él”.</i>"
         }
+    },
+    {
+        "x": "75%",
+        "y": "34%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page32-1",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/spa_testimonio_hna _annette.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "39%",
-        "src": "assets/pics/Eventos/camboya/testimonios/2-CY-TESTIMONIO-NANCY.webp",
-        "text": "Testimonio <br> Hna. <br> Nancy Pagán"
+        "src": "assets/pics/Eventos/camboya/testimonios/2/2-CY-TESTIMONIO-NANCY.webp",
+        "text": "Testimonio <br> Hna. <br> Nancy Pagán",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/2/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/2/3.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -64,16 +132,67 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VIAJE MISIONERO A CAMBOYA<br><br>TESTIMONIO HNA. NANCY PAGAN<br><br>",
-            "content": "Uno de los acontecimientos que impactó mi vida fuertemente en este viaje, fue la conexión que tuvimos con nuestras hermanas de Camboya en la conferencia de mujeres. El Espíritu del Señor nos unió de una manera impactante; lloramos, nos abrazamos y aunque no nos podíamos comunicar, el Señor nos unió en un mismo espíritu. Las alabanzas con la música de Camboya me llevaron a un lugar altísimo, y el Señor me mostraba que la diferencia de idioma no era una barrera para exaltarle.<br><br>Otra experiencia que también me impactó, fue la unidad que había entre todos los hermanos de Fuente de Verdad; que, aunque no nos conocíamos mucho, algunos, nos pudimos unir en un mismo espíritu con un corazón de servicio y dar lo mejor de nosotros. Poder compartir con los niños y las familias de las aldeas, y ayudar con las necesidades de nuestros hermanos allí, fue de gran bendición para nuestro corazón.<br><br>La lección para mi vida en este viaje misionero, es la de valorar cada día más las bendiciones que Dios nos ha dado, y sobre todo enseñarles a mis hijas y a mi familia lo bendecidos que somos; muchas veces renegamos y exigimos tanto, cuando otros se conforman con lo que tienen sin reclamar nada.  Este viaje también me enseñó a seguir apoyando las misiones, y a motivar a otros a apoyar nuestras obras misioneras."
+            "title": "<br>VIAJE MISIONERO A CAMBODIA<br><br>TESTIMONIO HNA. NANCY PAGAN<br><br>",
+            "content": "Uno de los acontecimientos que impactó mi vida fuertemente en este viaje, fue la conexión que tuvimos con nuestras hermanas de Cambodia en la conferencia de mujeres. El Espíritu del Señor nos unió de una manera impactante; lloramos, nos abrazamos y aunque no nos podíamos comunicar, el Señor nos unió en un mismo espíritu. Las alabanzas con la música de Cambodia me llevaron a un lugar altísimo, y el Señor me mostraba que la diferencia de idioma no era una barrera para exaltarle.<br><br>Otra experiencia que también me impactó, fue la unidad que había entre todos los hermanos de Fuente de Verdad; que, aunque no nos conocíamos mucho, algunos, nos pudimos unir en un mismo espíritu con un corazón de servicio y dar lo mejor de nosotros. Poder compartir con los niños y las familias de las aldeas, y ayudar con las necesidades de nuestros hermanos allí, fue de gran bendición para nuestro corazón.<br><br>La lección para mi vida en este viaje misionero, es la de valorar cada día más las bendiciones que Dios nos ha dado, y sobre todo enseñarles a mis hijas y a mi familia lo bendecidos que somos; muchas veces renegamos y exigimos tanto, cuando otros se conforman con lo que tienen sin reclamar nada.  Este viaje también me enseñó a seguir apoyando las misiones, y a motivar a otros a apoyar nuestras obras misioneras."
         }
+    },
+    {
+        "x": "75%",
+        "y": "48%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page32-2",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_testimonio_hna_nancy_pagan.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "56.5%",
-        "src": "assets/pics/Eventos/camboya/testimonios/2-CY-TESTIMONIO-ESPOSOSCLARK.webp",
-        "text": "Testimonio <br> esposos Clark"
+        "src": "assets/pics/Eventos/camboya/testimonios/3/2-CY-TESTIMONIO-ESPOSOSCLARK.webp",
+        "text": "Testimonio <br> esposos Clark",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/testimonios/3/7.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
@@ -90,37 +209,239 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p33-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VIAJE MISIONERO A CAMBOYA<br><br>TESTIMONIO ESPOSOS CLARK<br><br>",
-            "content": "¡Paz de Cristo!  Mi nombre es Billie y el de mi esposa Arielle.  Tuvimos el placer de trabajar y reclutar al grupo de FDV Rancho para visitar el campo misionero en Camboya.<i>“Nuestras vidas han cambiado para siempre”.</i>Pensamos que íbamos a ayudar, a bendecir, a edificar, pero fue al contrario, ellos nos cambiaron a nosotros. Nunca olvidaremos los sonidos, los olores, todo lo que vimos, vivimos y experimentamos.  Lo más importante fueron las sonrisas de las personas de allí, que siempre estarán en nuestros corazones. ¡Son personas maravillosas que están llenas del Espíritu de Dios!  Siempre estaremos agradecidos por la experiencia que vivimos y animamos a todos los hermanos y hermanas que puedan unirse a nosotros la próxima vez en el campo misionero.  ¡Dios les bendiga!"
+            "title": "<br>VIAJE MISIONERO A CAMBODIA<br><br>TESTIMONIO ESPOSOS CLARK<br><br>",
+            "content": "¡Paz de Cristo!  Mi nombre es Billie y el de mi esposa Arielle.  Tuvimos el placer de trabajar y reclutar al grupo de FDV Rancho para visitar el campo misionero en Cambodia. <i>“Nuestras vidas han cambiado para siempre”. </i>Pensamos que íbamos a ayudar, a bendecir, a edificar, pero fue al contrario, ellos nos cambiaron a nosotros. Nunca olvidaremos los sonidos, los olores, todo lo que vimos, vivimos y experimentamos.  Lo más importante fueron las sonrisas de las personas de allí, que siempre estarán en nuestros corazones. ¡Son personas maravillosas que están llenas del Espíritu de Dios!  Siempre estaremos agradecidos por la experiencia que vivimos y animamos a todos los hermanos y hermanas que puedan unirse a nosotros la próxima vez en el campo misionero.  ¡Dios les bendiga!"
         }
     },
     {
-        "tag": "event-subtitle",
-        "x": "22%",
-        "y": "75%",
-        "class": "full-subtitle",
-        "text": "Fotos y videos viaje misionero Camboya..."
-    },
-    {
-        "x": "42%",
-        "y": "78%",
+        "x": "75%",
+        "y": "63%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p33-4",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "",
-            "content": ""
-        }
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "actions",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {   
+                "id": "page32-3",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_testimonio_esposos_clark.m4a"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "70%",
+        "src": "assets/pics/Eventos/camboya/experiencia/modal.jpg",
+        "text": "<strong>Fotos viaje misionero Cambodia</strong>",
+        "id":"modal-p33-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/1.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/28.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/29.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/30.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/31.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/32.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/33.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/34.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/35.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/36.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/37.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/38.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/39.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/40.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/41.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/42.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/43.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/44.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/45.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/46.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/47.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/camboya/experiencia/48.jpg"
+            }
+        ]
     }
 ]

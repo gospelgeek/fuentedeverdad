@@ -13,7 +13,8 @@
     <meta name="og:description" content="">
     <link rel="icon" type="image/png" href="/assets/pics/icons/book.png">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-    <script type="text/javascript" src="./assets/extras/jquery.min.1.7.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="./assets/extras/jquery.min.js"></script>
     <script type="text/javascript" src="./assets/extras/modernizr.2.5.3.min.js"></script>
     <script type="text/javascript" src="./assets/js/wordfind.js"></script>
     <script type="text/javascript" src="./assets/js/wordfindgame.js"></script>
@@ -58,7 +59,7 @@
     <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
     
     <div id="canvas">
-        <div class="action">
+       <div class="action">
             <img src="./assets/pics/icons/spain.png">
             <span class="iconify" data-icon="material-symbols:keyboard-arrow-down-rounded" style="color: #fff;" data-width="24" data-height="24"></span>
         </div>
@@ -76,28 +77,28 @@
                 </li>
             </ul>
         </div>
-    <!--<div class="dropdown">
-        <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
-        <div id="myDropdown" class="dropdown-content">
-            <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
-        </div>
-        </div>
-    <div>-->
-    </div>
-
-        <div class="magazine-viewport">
-            <!-- Next button -->
-            <div ignore="1" class="next-button"></div>
-
-            <!--Container of the flipbook-->
-            <div class="container">
-                <div class="magazine"></div>
+        <!--<div class="dropdown">
+            <button onclick="myFunction()" class="drop-button"><img src="./assets/pics/icons/spain.png"></button>
+            <div id="myDropdown" class="dropdown-content">
+                <a onclick="click_boton_a_english()"><img src="./assets/pics/icons/united-states.png"></a>
             </div>
-
-            <!-- Previous button -->
-            <div ignore="1" class="previous-button"></div>
-        </div>
+            </div>
+        <div>-->
     </div>
+
+    <div class="magazine-viewport">
+        <!-- Next button -->
+        <div ignore="1" class="next-button"></div>
+
+        <!--Container of the flipbook-->
+        <div class="container">
+            <div class="magazine"></div>
+        </div>
+
+        <!-- Previous button -->
+        <div ignore="1" class="previous-button"></div>
+    </div>
+    
 
     <!-- Read more Component -->
     <div class="read-more-box display-none">
@@ -107,8 +108,6 @@
             </div>
         </div>
         <div>
-
-            <script src="/assets/js/loader.js"></script>
 
             <script type="text/javascript">
                 function loadApp() {
@@ -309,7 +308,7 @@
                     test: Modernizr.csstransforms,
                     yep: ['./assets/lib/turn.js'],
                     nope: ['./assets/lib/turn.html4.min.js'],
-                    both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css','./assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css', './assets/js/loader.js'],
+                    both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css','./assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css'],
                     complete: loadApp
                 });
 
@@ -326,5 +325,7 @@
     
     <!-- iconos -->
     <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+    
+    <!-- iconos <script src="./assets/lib/owl.carousel.min.js"></script>-->
 </body>
 </html>

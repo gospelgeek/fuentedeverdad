@@ -1,5 +1,13 @@
 [
     {
+        "x": "10%",
+        "y": "5%",
+        "width":"80%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/JP_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "10%",
         "y": "10%",
@@ -7,20 +15,63 @@
         "text2": "Japón"
     },
     {
+        "tag": "pastor-name",
         "x": "10%",
-        "y": "25%",
-        "width": "50%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "y": "16%",
+        "text": "Ishiguro Leonardo, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "23.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p30-01",
+        "class": "",
+        "src": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>Dia <br>del Amigo</strong></p>"
+            "title": "",
+            "content": "",
+            "imagenes": ""
         }
+    },
+    {
+        "tag": "event-container",
+        "x": "13%",
+        "y": "22%",
+        "src": "assets/pics/Eventos/japon/hiroshima/dia_amigo/modal.jpeg",
+        "text": "<strong>Día <br>del Amigo</strong>",
+        "id":"modal-p30-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/2.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/3.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/4.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/5.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/6.jpeg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_amigo/7.jpeg"
+            }
+        ]
+
     },
     {
         "x": "63%",
@@ -35,7 +86,7 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>20</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
@@ -51,7 +102,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>20 de Marzo</h5>"
         }   
     },
     {
@@ -62,7 +113,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p30",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -72,20 +123,31 @@
         }
     },
     {
-        "x": "11%",
-        "y": "47%",
-        "width": "40%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Paseo <br> dia del niño</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "44%",
+        "src": "assets/pics/Eventos/japon/hiroshima/dia_paseo/modal.jpg",
+        "text": "<strong>Paseo <br> día del niño</strong>",
+        "id":"modal-p30-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/dia_paseo/5.jpg"
+            }
+        ]
+
     },
     {
         "x": "15%",
@@ -95,7 +157,7 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p30-2",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
@@ -117,12 +179,12 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>5</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
         "x": "63%",
-        "y": "46.5%",
+        "y": "45%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -133,24 +195,43 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Mayo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>5 de Mayo</h5>"
         }   
     },
     {
-        "x": "11%",
-        "y": "67%",
-        "width": "45%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-9",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='main-text-p34'><strong>Campamento <br> de Verano</strong></p>"
-        }
+        "tag": "event-container",
+        "x": "13%",
+        "y": "64%",
+        "src": "assets/pics/Eventos/japon/hiroshima/campamento/modal.jpg",
+        "text": "<strong>Campamento <br> de Verano</strong>",
+        "id":"modal-p30-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/2.JPG"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/campamento/7.JPG"
+            }
+        ]
+
     },
     {
         "x": "15%",
@@ -160,12 +241,12 @@
         "width": "85%",
         "height": "80%",
         "fontSize": "2em",
-        "tag": "modal",
+        "tag": "modal-pequeno",
         "id": "modal-p30-3",
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CAMPAMENTO DE VERANO<h6>12 al 14 de agosto de 2022<br>Lugar Fukuyama Yamanocho Camp.<br>3 días en medio de las montañas estudiando la Palabra de Dios.</h6>",
+            "title": "<br>CAMPAMENTO DE VERANO<h6>12 al 14 de agosto de 2022<br>Lugar Fukuyama Yamanocho Camp<br>3 días en medio de las montañas estudiando la Palabra de Dios</h6>",
             "content": ""
         }
     },
@@ -182,7 +263,7 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>12 al 14</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
@@ -198,31 +279,8 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Agosto</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>12 al 14 de Agosto</h5>"
         }   
-    },
-    {
-        "x": "45%",
-        "y": "85%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "50%",
-        "height": "20%",
-        "fontSize": "5em",
-        "tag": "btn-normal-2",
-        "class": "actions",
-        "text": "",
-        "icon": "./assets/pics/icons/iconImprimir.png",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/"
-            },
-            {
-                "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
-            }
-        ]
     },
     {
         "x": "0%",

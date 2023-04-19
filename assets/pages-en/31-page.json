@@ -1,3 +1,397 @@
-[
-    
+[   
+    {
+        "x": "5%",
+        "y": "2%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/JP_esp.png'>"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p31-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "5%",
+        "src": "assets/pics/Eventos/japon/hiroshima/noche_vigilia/2-JPN-HIROSHIMA-NOCHEVIGILIA.webp",
+        "text": "Noche <br> de Vigilia",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/noche_vigilia/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/noche_vigilia/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/noche_vigilia/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/noche_vigilia/5.jpg"
+            }
+        ]
+
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "7%",
+        "class": "full-subtitle",
+        "text": "Noche de vigilia en <br>directo con todas..."
+    },
+    {
+        "x": "65%",
+        "y": "12%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p31",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CUMBRE CELULAR GLOBAL ENSANCHA<h6>3 de septiembre de 2022<br>Noche de vigilia en directo con todas las iglesias de FDV Global<br>Lugar: casa pastoral</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "15%",
+        "src": "assets/pics/Eventos/japon/hiroshima/derramamiento/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
+        "text": "Derramamiento <br> Ministración <br> desde FVD Rancho",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/derramamiento/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/derramamiento/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/derramamiento/4.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "19%",
+        "class": "full-subtitle",
+        "text": "Nuestra hermana <br> marthe recibió el..."
+    },
+    {
+        "x": "65%",
+        "y": "24%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p31-2",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>DERRAMAMIENTO<br>MINISTRACIÓN DESDE FDV RANCHO<h6>9 de octubre de 2022<br>Nuestra hermana Martha recibió el bautismo del Espíritu Santo<br>Salón de Tadanoumi, Hiroshima</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "29%",
+        "src": "assets/pics/Eventos/japon/hiroshima/clamor_japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
+        "text": "Clamor <br> por Japón",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/clamor_japon/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/clamor_japon/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/clamor_japon/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/clamor_japon/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/clamor_japon/6.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "31%",
+        "class": "full-subtitle",
+        "text": "Lugar: Salón de <br> Tadanoumi, Hiroshima..."
+    },
+    {
+        "x": "65%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p31-3",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>CLAMOR POR JAPÓN<h6>6 de noviembre de 2022<br>Lugar: Salón de Tadanoumi, Hiroshima<br>Ministración desde FDV Rancho, para FDV Japón</h6>",
+            "content": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "40%",
+        "src": "assets/pics/Eventos/japon/hiroshima/santa_cena/2-JPN-HIROSHIMA-SERVICIOCELEBRACION.webp",
+        "text": "Servicio de <br> Celebracion <br> y Santa Cena",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/santa_cena/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/santa_cena/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/santa_cena/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/santa_cena/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/hiroshima/santa_cena/6.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "65%",
+        "y": "44%",
+        "class": "full-subtitle",
+        "text": "31 de Diciembre de 2022 <br> Casa de los hermanos Barroso"
+    },
+    {
+        "tag": "event-container",
+        "x": "30%",
+        "y": "54%",
+        "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-PASTORISHIGURO.webp",
+        "text": "Nuevo Templo",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+                "tipo": "video",
+                "src":"https://www.youtube.com/embed/tE1-MurPf-Q"
+            }
+        ]    
+
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "75%",
+        "text1": "Tokio",
+        "text2": "Japón"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "81%",
+        "text": "Nasu Norihisa, Pastor"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "84%",
+        "src": "assets/pics/Eventos/japon/tokio/3-JPN-TOKIO-INFORME.webp",
+        "text": "Informe 2022 <br> FDV Tokio",
+        "id":"modal-p31-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/26.jpg"
+            },{
+
+                "src":"assets/pics/Eventos/japon/tokio/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/28.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/29.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/30.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/japon/tokio/31.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "62%",
+        "y": "85%",
+        "class": "full-subtitle",
+        "text": "Paz de Cristo. Damos <br> gracias al Señor..."
+    },
+    {
+        "x": "62%",
+        "y": "90%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal-pequeno",
+        "id": "modal-p31-5",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>INFORME 2022 FDV TOKIO",
+            "content": "Paz de Cristo. Damos gracias al señor por su misericordia y por cada programa celebrado en 2022.  En mayo 27, 28 y 29 tuvimos un campamento en Nikko, monte de los olivos con el tema “Maranata Cristo viene”. Vinieron hermanos de todo Japón, fue de gran bendición para todos. Hemos celebrado servicios y reuniones en casas, salones, y visitas a otras iglesias con el propósito de predicar y enseñar la Unicidad de Cristo.<br><br>Muchas gracias ¡Bendiciones!"
+        }
+    }
 ]

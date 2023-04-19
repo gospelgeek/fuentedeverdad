@@ -1,3 +1,252 @@
 [
-    
+    {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_eng.png'>"
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "15%",
+        "text1": "Mexicali",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "20%",
+        "text": "Abraham Eduardo Encinas Espinoza, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p21-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "26%",
+        "src": "assets/pics/Eventos/mexico/mexicali/2-MEX-MEXICALI-EVENTORECIBIREIS.webp",
+        "text": "YE SHALL <br> RECEIVE POWER",
+        "id":"modal-p21-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/28.jpg"
+            }
+        ]
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "27%",
+        "class": "full-subtitle",
+        "text": "In this event <br> we counted with the..."
+    },
+    {
+        "x": "60%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "85%",
+        "height": "80%",
+        "fontSize": "2em",
+        "tag": "modal",
+        "id": "modal-p21",
+        "class": "",
+        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
+        "data": {
+            "title": "<br>YE SHALL RECEIVE POWER<h5>December 2-4 of 2022</h5>",
+            "content": "In this event we counted with the assistance of approximately 120 people, all three days.<br><br>The activities were the following:<br><br>December 2 <ul><li>Apostolic Hymns Service<br>Bishop Samuel Valverde preached.</li></ul>December 3<ul><li>Morning Services.<br>Bishop Samuel Valverde & Pastor Abraham Encinas taught.</li><li>Launch Service & Ministerial Ordination.<br>Bishop Samuel Valverde preached.<br>Brother Saul Sarabia received the ordinance.</li><li>Launch and blessing ceremony.</li></ul>December 4<ul><li>Celebration & Baptisms Service.<br>Evangelist Aldo Lopez of FTC Juchitan, Oaxaca preached.</li></ul>"
+        }
+    },
+    {
+        "tag": "event-title",
+        "x": "10%",
+        "y": "60%",
+        "text1": "Juchitán",
+        "text2": "México"
+    },
+    {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "66%",
+        "text": "Aldo Aurelio López Solís, Deacon in charge"
+    },
+    {
+        "tag": "event-subtitle",
+        "x": "60%",
+        "y": "71.5%",
+        "class": "full-subtitle",
+        "text": "Deacon in charge: <br> Brother Aldo Lopez Solis <br>November 10-12 of 2022"
+    },
+    {
+        "tag": "event-container",
+        "x": "12%",
+        "y": "68%",
+        "src": "assets/pics/Eventos/mexico/juchitan/3-MEX-JUCHITAN-LANZAMIENTO.webp",
+        "text": "Official Launch<br>Of The Church",
+        "id":"modal-p21-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/4.jpg"
+            }
+        ]
+    },
+    {
+        "x": "45%",
+        "y": "85%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 4
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 4
+            }
+        ]
+    }
 ]

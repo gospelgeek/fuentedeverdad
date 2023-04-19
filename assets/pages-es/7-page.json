@@ -1,39 +1,26 @@
 [
     {
-        "x": "4%",
-        "y": "8%",
-        "width": "80%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='title-p7'><strong>Quisiera que mi<br> epitafio dijera:</strong></p>"
+        "x": "0%",
+        "y": "0%",
+        "tag": "img",
+        "class": "fondogif2",
+        "width": "75%",
+        "height":"300",
+        "data":{
+           "src": "assets/pics/backgrounds/entrevista.gif"
         }
     },
     {
-        "x": "2%",
-        "y": "17%",
-        "width": "100%",
-        "styleBox": "",
-        "background-color": "#b41015",
-        "color": "#ffff",
-        "font-size": "2em",
-        "tag": "contenido",
-        "id_unique": "box-text-page-4",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
-        "data": {
-           "text": "<p class='text-pag-7'>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.</p>"
-        }
+        "x": "25%",
+        "y": "0%",
+        "width": "40%",
+        "class": "top-entrevista",
+        "tag": "top-entrevista",
+        "text": "<p><strong style='font-weight: normal;'>Preguntas inteligentes y respuestas profundas, enriquecedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí.</strong></p>"
     },
     {
-        "x": "12%",
-        "y": "36%",
+        "x": "30%",
+        "y": "37%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -41,36 +28,71 @@
         "fontSize": "2em",
         "tag": "modal",
         "id": "modal-p5",
-        "class": "",
+        "class": "leermas-pag7 mover-leer-mas",
+
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "",
-            "content": "<strong>Quisiera que mi epitafio dijera:</strong><br><br>“Fue un buen padre, un buen esposo, una persona afable, una persona humilde, una persona a la que la gente se le podía acercar.  Fue una persona misericordiosa, que daba el beneficio de la duda, que antes de hablar y de juzgar, tenía toda la información y aún así, era en sus juicios misericordioso. Que fue humano, y transparente”.<br><br>Yo tengo un principio en mi vida: Que cuando tengo que juzgar algún asunto, y no estoy seguro ciento por ciento, siempre prefiero errar hacia el lado de la gracia, siempre! si Dios me reclama eso yo le diría: “Señor, es lo que aprendí de ti: La misericordia en el juicio”.<br><br>En una ocasión prediqué en una convención juvenil, habían miles de jóvenes, y el joven que me introdujo dijo: “Con nosotros una gran hombre de Dios, el Obispo Valverde”, entonces cuando tomé el lugar abracé al joven y le dije: “Yo no soy un gran hombre de Dios, yo soy un hombre de ¡Un Gran Dios!”<br><br><b>Obispo Samuel Valverde</b>"
+            "title": "DESDE EL CORAZÓN DEL OBISPO SAMUEL VALVERDE",
+            "content": "Esta hermosa entrevista hecha por FDV Bogotá a nuestro Obispo Valverde, deja al descubierto su sincero y transparente corazón.  Preguntas inteligentes y respuestas profundas, enriquecedoras, importantes y necesarias en esta temporada de Fuente de Verdad, están aquí: <ul><li>¿Por qué “Cada Corazón Sanado”?</li><li>¿Por qué independizarse de la Asamblea Apostólica?</li><li>¿Cuál ha sido su mayor quebrantamiento?</li><li>¿Por qué es importante sanar?</li><li>¿Por qué Colombia?</li><li>¿Cuál es la visión para Bogotá y en general para Colombia?</li><li>¿Cuál es su sentir hacia la Iglesia del Nombre de Jesucristo?</li><li>¿Qué viene para la Iglesia Global del Nombre de Jesús?</li><li>¿Cuál es su postura con respecto a las Iglesias del Nombre de Jesús?</li><li>¿Quién es el Pastor Álvaro Ocampo?</li><li>Un consejo para los pastores</li><li>¿Cuál debe ser la relación entre las Iglesias del Nombre de Jesús?</li><li>¿Cuál es el legado que usted le deja a las generaciones actuales?</li></ul>¡Esperamos que la disfrutes!"
         }
     },
     {
-        "x": "12%",
-        "y": "42%",
+        "x": "45%",
+        "y": "37.5%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "50%",
+        "width": "20%",
         "height": "20%",
         "fontSize": "5em",
-        "tag": "print",
-        "class": "actions",
+        "tag": "btn-normal-2",
+        "class": "actions imprimir-pag7",
         "text": "",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
+            {   
+                "id": "page6",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/esp_entrevista_obispo.m4a"
+            },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": ""
+                "url": "https://drive.google.com/file/d/1wxNS3EuQN22YxoQKSZdqtbQ5KqGaFFZ7/view"
+            }
+        ]
+    },
+    {
+        "x": "55%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "class": "social-media-pag47",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/",
+                "page": 5
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/",
+                "page": 5
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/",
+                "page": 5
             }
         ]
     },
     {
         "x": "7%",
-        "y": "50%",
+        "y": "48%",
+        "class": "video-entrevista-pastor",
         "tag":"video-emb",
-        "url": "<iframe  width='420' height='250' src='https://www.youtube.com/embed/HiCYyUhrurQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
+        "url": "<iframe  class='video-entrevista-pastor' src='https://www.youtube.com/embed/HiCYyUhrurQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
     }
 ]   

@@ -1,6 +1,26 @@
 [   {
-    "x": "5%",
+    "x": "0",
     "y": "2%",
+    "width": "100%",
+    "class": "text-pag-46",
+    "font-size": "1em",
+    "tag": "contenido",
+    "text": "",
+    "data": {
+        "text": "<h3>¿Qué tanto sabes de las misiones FDV?</h3>"
+    }
+    },
+    {
+        "x": "10%",
+        "y": "17%",
+        "width": "80%",
+        "tag": "html_pure",
+        "class": "text-pag46",
+        "html": "<div class='_content_text_greeting_pag_47'> <p>Te invitamos a que compruebes que tanto sabes, sobre la obra misionera FDV. En la columna “Pastores”, selecciona el pastor correspondiente a cada país.</p></div>"
+   },
+    {
+    "x": "5%",
+    "y": "35%",
     "width": "100%",
     "styleBox": "width: 65%; height: auto !important;",
     "background-color": "#b41015",
@@ -9,9 +29,10 @@
     "tag": "select-juego",
     "style": "font-weight: normal;",
     "text": "",
+    "class": "columns",
     "data":[
         {
-            "titulo": "PISTAS",
+            "titulo": "PAISES",
             "pista1":"MÉXICO",
             "pista2":"COLOMBIA",
             "pista3":"JAPÓN",
@@ -20,31 +41,38 @@
             "pista6":"CHILE"
         },
         {
-            "titulo":"RESPUESTAS",
-            "text":"SELECCIONE UNA OPCION",
+            "titulo":"PASTORES",
+            "text":"SELECCIONE UNA OPCIÓN",
             "respuesta6":"Domingo Carlos",
-            "respuesta3":"Jairo R. rozo",
+            "respuesta3":"Jairo R. Rozo",
             "respuesta1":"Leonardo Ishiguro",
-            "respuesta2":"UNG Ratheany",
-            "respuesta4":"Gerson Fernández",
+            "respuesta4":"UNG Ratheany",
+            "respuesta2":"Gerson Fernández",
             "respuesta5":"David E. Caverlotti"
         }
     ]
-},
-{
-    "x": "35%",
-    "y": "50%",
-    "viewX": 1800,
-    "viewY": 100,
-    "width": "83%",
-    "height": "4%",
-    "fontSize": "5em",
-    "tag": "print",
-    "class": "button-print",
-    "text": "Imprimir",
-    "icon": "./assets/pics/icons/iconImprimir.png",
-    "data": {
-        "url": "#"
+    },
+    {
+        "x": "3%",
+        "y": "78%",
+        "width": "100%",
+        "tag": "botones-conectar",
+        "class": "botones"
+    },
+    {
+        "x": "48%",
+        "y": "84%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "60%",
+        "height": "4%",
+        "fontSize": "5em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": {
+            "url": "#"
+        }
     }
-}
 ]

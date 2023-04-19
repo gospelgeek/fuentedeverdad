@@ -1,28 +1,171 @@
 [
     {
+        "x": "5%",
+        "y": "4%",
+        "width":"90%",
+        "tag": "author-pic",
+        "class": "author-image",
+        "image": "<img src='assets/pics/photos/MX_esp.png'>"
+    },
+    {
         "tag": "event-title",
         "x": "10%",
-        "y": "17%",
+        "y": "15%",
         "text1": "Mexicali",
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "20%",
+        "text": "Abraham Eduardo Encinas Espinoza, Pastor"
+    },
+    {
+        "x": "61%",
+        "y": "25.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "100%",
+        "fontSize": "2em",
+        "tag": "modal-2",
+        "id": "modal-p21-01",
+        "class": "",
+        "src": "",
+        "data": {
+            "title": "",
+            "content": "",
+            "imagenes": ""
+        }
+    },
+    {
         "tag": "event-container",
         "x": "12%",
-        "y": "25%",
+        "y": "26%",
         "src": "assets/pics/Eventos/mexico/mexicali/2-MEX-MEXICALI-EVENTORECIBIREIS.webp",
-        "text": "Seminario <br> de Liderazgo"
+        "text": "Evento <br> Recibiréis poder",
+        "id":"modal-p21-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/4.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/5.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/6.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/7.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/8.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/9.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/10.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/11.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/12.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/13.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/14.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/15.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/16.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/17.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/18.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/19.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/20.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/21.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/22.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/23.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/24.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/25.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/26.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/27.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/mexicali/28.jpg"
+            }
+        ]
     },
     {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "26%",
+        "y": "27%",
         "class": "full-subtitle",
         "text": "En este evento<br> contamos con una..."
     },
     {
         "x": "60%",
-        "y": "31%",
+        "y": "32%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -34,7 +177,7 @@
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>RECIBIRÉIS PODER<h5>Diciembre 2 al 4 de 2022</h5>",
-            "content": "En este evento contamos con una asistencia, los 3 días, de aproximadamente 120 personas<br><br>Las actividades fueron las siguientes:<br><br>2 de diciembre<ul><li>Servicio de Himnos Apostólicos.<br>Predicó el Obispo Samuel Valverde</li><ul>3 de diciembre <ul><li>Conferencias Matutinas. <br>Enseñó el Obispo Samuel Valverde y el Pastor Abraham Encinas.</li><li>Servicio de Lanzamiento y Ordenación Ministerial.<br>Predicó el Obispo Samuel Valverde<br>Recibió la ordenación el Hno. Saul Sarabia</li><li>Ceremonia de Lanzamiento y bendición.</li></ul>4 de diciembre<ul><li>Servicio de Celebración y Bautismos<br>Predicó el Evangelista Aldo Lopez de FDV Juchitán, Oaxaca.</li></ul>"
+            "content": "En este evento contamos con una asistencia, los 3 días, de aproximadamente 120 personas.<br><br>Las actividades fueron las siguientes:<br><br>2 de diciembre<ul><li>Servicio de Himnos Apostólicos.<br>Predicó el Obispo Samuel Valverde.</li></ul>3 de diciembre <ul><li>Conferencias Matutinas. <br>Enseñó el Obispo Samuel Valverde y el Pastor Abraham Encinas.</li><li>Servicio de Lanzamiento y Ordenación Ministerial.<br>Predicó el Obispo Samuel Valverde.<br>Recibió la ordenación el Hno. Saul Sarabia.</li><li>Ceremonia de Lanzamiento y bendición.</li></ul>4 de diciembre<ul><li>Servicio de celebración y bautismos.<br>Predicó el Evangelista Aldo Lopez de FDV Juchitán, Oaxaca.</li></ul>"
         }
     },
     {
@@ -45,35 +188,39 @@
         "text2": "México"
     },
     {
+        "tag": "pastor-name",
+        "x": "10%",
+        "y": "66%",
+        "text": "Aldo Aurelio López Solís, Diácono Encargado"
+    },
+    {
         "tag": "event-subtitle",
         "x": "60%",
-        "y": "70%",
+        "y": "71.5%",
         "class": "full-subtitle",
-        "text": "Diácono Encargado: <br> Hermano..."
+        "text": "Diácono Encargado: <br> Hermano Aldo López Solis <br>10 al 12 de Noviembre de 2022"
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "68%",
         "src": "assets/pics/Eventos/mexico/juchitan/3-MEX-JUCHITAN-LANZAMIENTO.webp",
-        "text": "Seminario <br> de Unicidad"
-    },
-    {
-        "x": "60%",
-        "y": "75%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "85%",
-        "height": "80%",
-        "fontSize": "2em",
-        "tag": "modal",
-        "id": "modal-p21-2",
-        "class": "",
-        "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-        "data": {
-            "title": "<br>LANZAMIENTO DE FUENTE DE VERDAD EN JUCHITÁN, OAXACA",
-            "content": "Diácono Encargado: Hermano Aldo López Solis <br>10 al 12 de Noviembre de 2022"
-        }
+        "text": "Lanzamiento<br>Oficial<br>de la Iglesia",
+        "id":"modal-p21-01",
+        "imagenes_evento":[
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/2.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/3.jpg"
+            },
+            {
+
+                "src":"assets/pics/Eventos/mexico/juchitan/4.jpg"
+            }
+        ]
     },
     {
         "x": "45%",
