@@ -87,13 +87,6 @@ function loadPage(page, pageElement, lang) {
 
     loadRegions(page, pageElement, lang);
     
-     /*CAPTURAR EXCEL DE PREGUNTAS Y RESPUESTAS*/
-    if(page == 45 && lang == 'es'){
-        questions('es');
-    }else if(page == 45 && lang == 'en'){
-        questions('en');
-    }
-    
 }
 
 function checkImage(url, img, element, page) {
@@ -162,6 +155,17 @@ if (page == 40) {
     }
     
 }
+
+/*CAPTURAR EXCEL DE PREGUNTAS Y RESPUESTAS*/
+if(page == 45 ){
+    if(lang == 'es'){
+        questions('es');
+    }else{
+        questions('en');
+
+    }
+}
+
 $(reg).attr('id', region.id_unique);
 
 reg.css({
@@ -391,8 +395,10 @@ function questions(e){
         var table = doc.querySelector('table tbody');
         var tr = table.querySelectorAll('tr');
 
-        const div_principal = document.querySelector('.p45 .answer-container');
-        console.log(div_principal)
+        const div_principal = document.querySelector('.p45');
+        const div_secundario = document.createElement('div');
+        div_secundario.setAttribute('class','region answer-container');
+        div_secundario.setAttribute('style','top: 15%; left: 10%; width: 80%;');
         const ul = document.createElement('ul');
         ul.setAttribute('id','answer-container');
         for(i=2;i<tr.length;i++){
@@ -476,9 +482,12 @@ function questions(e){
                 li.appendChild(div2);
                 li.appendChild(div3);
                 ul.appendChild(li);
-            }         
+            }
+
+            div_secundario.appendChild(ul);
+            div_principal.appendChild(div_secundario);         
         }
-        div_principal.appendChild(ul);
+        
     })
     .catch(error => {
     console.error('Error:', error);

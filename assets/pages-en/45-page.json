@@ -15,12 +15,5 @@
             "text": "<p class='monserrat-black'>ANSWERS ABOUT</p><strong>MISSIONARY WORK</strong>"
         }
   
-    },
-    {
-        "tag": "answer-container",
-        "x": "10%",
-        "y": "15%",
-        "width": "80%",
-        "class": "answer-container"
     }
 ]
