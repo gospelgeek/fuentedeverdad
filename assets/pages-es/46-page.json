@@ -15,6 +15,7 @@
         "y": "17%",
         "width": "80%",
         "tag": "html_pure",
+        "class": "text-pag46",
         "html": "<div class='_content_text_greeting_pag_47'> <p>Te invitamos a que compruebes que tanto sabes, sobre la obra misionera FDV. En la columna “Pastores”, selecciona el pastor correspondiente a cada país.</p></div>"
    },
     {
@@ -28,6 +29,7 @@
     "tag": "select-juego",
     "style": "font-weight: normal;",
     "text": "",
+    "class": "columns",
     "data":[
         {
             "titulo": "PAISES",
@@ -57,6 +59,7 @@
         "tag": "botones-conectar",
         "boton1" :"Resolver",
         "boton2" :"Reiniciar"
+        "class": "botones"
     },
     {
         "x": "48%",
