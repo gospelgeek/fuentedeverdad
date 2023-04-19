@@ -12,7 +12,7 @@
         "style": "font-weight: normal;",
         "text": "",
         "data":{
-            "text": "<p class='monserrat-black'>PREGUNTAS SOBRE LA</p><strong>OBRA MISIONERA</strong>"
+            "text": "<p class='monserrat-black'>QUESTIONS ABOUT</p><strong>MISSIONARY WORK</strong>"
         }
   
     },
@@ -25,7 +25,7 @@
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
-        "tag": "formulario",
+        "tag": "formulario-eng",
         "style": "font-weight: normal;",
         "text": ""
     }

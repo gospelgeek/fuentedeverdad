@@ -7,7 +7,7 @@
     "tag": "contenido",
     "text": "",
     "data": {
-        "text": "<h3>¿Qué tanto sabes de las misiones FDV?</h3>"
+        "text": "<h3>HOW MUCH DO YOU KNOW OF THE FTC MISSIONARY WORKS?</h3>"
     }
     },
     {
@@ -15,7 +15,7 @@
         "y": "17%",
         "width": "80%",
         "tag": "html_pure",
-        "html": "<div class='_content_text_greeting_pag_47'> <p>Te invitamos a que compruebes que tanto sabes, sobre la obra misionera FDV. En la columna “Pastores”, selecciona el pastor correspondiente a cada país.</p></div>"
+        "html": "<div class='_content_text_greeting_pag_47'> <p>Prove it! In the column “Pastors” select the one that corresponds to each country</p></div>"
    },
     {
     "x": "5%",
@@ -30,22 +30,22 @@
     "text": "",
     "data":[
         {
-            "titulo": "PAISES",
-            "pista1":"MÉXICO",
+            "titulo": "COUNTRY",
+            "pista1":"MEXICO",
             "pista2":"COLOMBIA",
-            "pista3":"JAPÓN",
+            "pista3":"JAPAN",
             "pista4":"CAMBODIA",
             "pista5":"COSTA RICA",
             "pista6":"CHILE"
         },
         {
-            "titulo":"PASTORES",
-            "text":"SELECCIONE UNA OPCIÓN",
+            "titulo":"PASTORS",
+            "text":"SELECT ONE OPTION",
             "respuesta6":"Domingo Carlos",
             "respuesta3":"Jairo R. Rozo",
             "respuesta1":"Leonardo Ishiguro",
             "respuesta4":"UNG Ratheany",
-            "respuesta2":"Gerson Fernández",
+            "respuesta2":"Gerson Fernandez",
             "respuesta5":"David E. Caverlotti"
         }
     ]
@@ -54,7 +54,9 @@
         "x": "3%",
         "y": "78%",
         "width": "100%",
-        "tag": "botones-conectar"
+        "tag": "botones-conectar",
+        "boton1" :"Resolve",
+        "boton2" :"Restart"
     },
     {
         "x": "48%",

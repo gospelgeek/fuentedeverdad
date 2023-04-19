@@ -11,7 +11,7 @@
         "tag": "contenido",
         "text": "",
         "data":{
-            "text": "SOPA DE LETRAS"
+            "text": "WORD SEARCH"
         }
   
     },
@@ -22,6 +22,8 @@
         "zIndex": "1",
         "width": "100%",
         "id_unique": "sopa-letras-39",
-        "tag": "wordsGame"
+        "tag": "wordsGame",
+        "boton1" :"Resolve",
+        "boton2" :"Restart"
     }
 ]

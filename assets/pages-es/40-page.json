@@ -22,6 +22,8 @@
         "zIndex": "1",
         "width": "100%",
         "id_unique": "sopa-letras-39",
-        "tag": "wordsGame"
+        "tag": "wordsGame",
+        "boton1" :"Resolver",
+        "boton2" :"Reiniciar"
     }
 ]
