@@ -157,7 +157,7 @@ if (page == 40) {
         var words = ['Fuentedeverdad', 'BuenasNuevas', 'Pastores', 'GranComision','Corazon','Viaje', 'Misiones','Noticias',  'Dar','Ofrenda']
         createWordsGame(words);
     }else{
-        var words = ['Fountainoftruth', 'Greatcomission', 'Missions', 'Goodnews ','Offering','Give', 'Pastors','News', 'Heart','Trip']
+        var words = ['Fountainoftruth', 'Greatcomission', 'Missions', 'Goodnews','Offering','Give', 'Pastors','News', 'Heart','Trip']
         createWordsGame(words);    
     }
     
