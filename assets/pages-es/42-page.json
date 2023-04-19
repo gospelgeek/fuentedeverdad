@@ -1,19 +1,5 @@
 [
     {
-        "x": "20%",
-        "y": "33%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "82%",
-        "height": "4%",
-        "fontSize": "5em",
-        "tag": "p",
-        "class": "text-biblical",
-        "data": {
-            "content": "<i><strong>Paz de Cristo</strong></i>"
-        }
-    },
-    {
         "x": "12%",
         "y": "43%",
         "width": "78%",
@@ -25,8 +11,9 @@
         "id_unique": "box-text-page-42",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
+        "class": "text1-pag41",
         "data": {
-           "text": "<p class='main-text-p42'>“1 El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón....</p>"
+           "text": "<p class='main-text-p42'>“Paz de Cristo<br>1 El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón....</p>"
         }
     },
     {
@@ -38,6 +25,7 @@
         "color": "#fff",
         "font-size": "10em",
         "tag": "contenido",
+        "class": "text2-pag41",
         "id_unique": "box-text-page-42-2",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
@@ -55,7 +43,7 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p42",
-        "class": "",
+        "class": "mocal-p42",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
             "title": "<br>JESUCRISTO, NUESTRO MISIONERO POR EXCELENCIA<br><br>",

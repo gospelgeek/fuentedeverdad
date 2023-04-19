@@ -22,7 +22,7 @@
     },
     {
         "x": "61%",
-        "y": "25.5%",
+        "y": "23.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -86,7 +86,7 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>20</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
@@ -102,7 +102,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>20 de Marzo</h5>"
         }   
     },
     {
@@ -179,12 +179,12 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>5</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
         "x": "63%",
-        "y": "46.5%",
+        "y": "45%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -195,7 +195,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Mayo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>5 de Mayo</h5>"
         }   
     },
     {
@@ -263,7 +263,7 @@
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>12 al 14</strong></h3>"
+            "text": "<h3 class='fecha-pag-37'><strong></strong></h3>"
         }   
     },
     {
@@ -279,7 +279,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Agosto</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>12 al 14 de Agosto</h5>"
         }   
     },
     {

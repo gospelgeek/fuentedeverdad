@@ -24,6 +24,7 @@
         "y": 10,
         "x": 0,
         "width": "100%",
+        "class": "image-page48",
         "tag": "img_container",
         "src": "assets/pics/general-images/foto_1eradama.png",
         "styles": "position: relative; top: 9em; left: 0;  display: grid; place-items: center;",
