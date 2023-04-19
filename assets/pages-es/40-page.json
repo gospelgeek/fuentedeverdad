@@ -23,7 +23,7 @@
         "width": "100%",
         "id_unique": "sopa-letras-39",
         "tag": "wordsGame",
-        "boton1" :"Resolver",
-        "boton2" :"Reiniciar"
+        "boton1" :"RESOLVER",
+        "boton2" :"REINICIAR"
     }
 ]

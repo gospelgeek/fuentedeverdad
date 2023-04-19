@@ -213,7 +213,7 @@ const addComponents = (region, lang) => {
             break;    
 
         case 'wordsGame':
-            element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
+            element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'></div>" +
                 "<div id='words'></div>" +
                 "<div id='wordsButton'><button class='buttonsGame' id='solve'>"+ region.boton1+"</button><button class='buttonsGame' id='clean'>"+ region.boton2+"</button></div>"
                 +"<div id='wordsButtonImprimir'><a href='#' target='_blank'><img src='./assets/pics/icons/iconImprimir.png'></a></div>"))
@@ -403,25 +403,7 @@ const addComponents = (region, lang) => {
         case 'html_pure': 
             element = region.html
             break;
-        case  'answer-container':
-            /*var datos="";
-            var contador=2;
-            for(x of region.respuestas){
-                datos += '<li class="item">'+
-                            '<div class="top">'+
-                                '<strong>'+x.pregunta+'</strong>'+
-                            '</div>'+
-                            '<div class="bottom-container">'+
-                                '<p id="button-'+contador+'">'+x.respuesta+'</p>'+
-                            '</div>'+
-                           '<div class="action">'+
-                                    '<button id="boton-ocultar'+contador+'" class="answer-button" onclick="texto_completo('+contador+')">'+
-                                        '<img style="width: 100px" src="assets/pics/icons/iconos_leermas2.png">'+
-                                    '</button>'+
-                                '</div>'+    
-                        '</li>';
-                contador++;        
-            }*/      
+        case  'answer-container':    
             element = `<ul id="answer-container"></ul>`
             break;
         case 'video-fondo': 

@@ -55,8 +55,8 @@
         "y": "78%",
         "width": "100%",
         "tag": "botones-conectar",
-        "boton1" :"Resolve",
-        "boton2" :"Restart"
+        "boton1" :"RESOLVE",
+        "boton2" :"REINITIATE"
     },
     {
         "x": "48%",
