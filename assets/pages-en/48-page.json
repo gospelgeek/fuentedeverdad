@@ -38,23 +38,6 @@
          "width": "100%",
          "tag": "html_pure",
          "html": "<div class='_text_center_container_'> <h1>thanks you!</h1> </div>"
-    },  
-    {
-         "x": "45%",
-         "y": "70%",
-         "viewX": 1800,
-         "viewY": 100,
-         "width": "90%",
-         "height": "10%",
-         "fontSize": "3.3em",
-         "tag": "modal",
-         "id": "modal-p48",
-         "class": "",
-         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
-         "data": {
-             "title": "<br><br><br>",
-             "content": ""
-         }
     },
     {
         "x": "48%",
@@ -82,6 +65,30 @@
                 "page": 48
             }
         ]
-   }
+   },
+   {
+        "x": "40%",
+        "y": "69%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "20%",
+        "height": "20%",
+        "fontSize": "6em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "id": "page47",
+                "icon": "./assets/pics/icons/iconEscucha.webp",
+                "url": "./assets/audios/eng_agradecimientos.m4a"
+            },
+            {
+                "icon": "",
+                "url": ""
+            }
+        ]
+    }
    
 ]

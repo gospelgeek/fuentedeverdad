@@ -183,11 +183,39 @@ const addComponents = (region, lang) => {
            </form>
            <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>`)
             break;
+        case 'formulario-eng':
+            element = (`
+            <img class="form-icon" src="assets/pics/icons/preguntas_icono.webp">
+            <form action="https://formsubmit.co/d65870144b043385d9cf46c3cb060e33" method="post">
+            <ul>
+                <li>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="user_name">
+                </li>
+                <li>
+                <label for="city">City:</label>
+                <input type="text" id="city" name="user_city">
+                </li>
+                <li>
+                <label for="pais">Country:</label>
+                <input type="text" id="pais" name="user_pais">
+                </li>
+                <li>
+                <label for="msg">Message:</label>
+                <textarea id="msg" name="user_message"></textarea>
+                </li>
+                <div id="html_element"></div>
+                <input type="hidden" name="_captcha" value="false">         
+                </ul>
+                <button  type="submit">Send</button>
+            </form>
+            <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>`)
+            break;    
 
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
                 "<div id='words'></div>" +
-                "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"
+                "<div id='wordsButton'><button class='buttonsGame' id='solve'>"+ region.boton1+"</button><button class='buttonsGame' id='clean'>"+ region.boton2+"</button></div>"
                 +"<div id='wordsButtonImprimir'><a href='#' target='_blank'><img src='./assets/pics/icons/iconImprimir.png'></a></div>"))
             break;  
         case 'select-juego':
@@ -280,8 +308,8 @@ const addComponents = (region, lang) => {
             break;
         case 'botones-conectar':
                 element = (`<div id='select-game'>
-                            <button class='select-Game' onclick="conectar_resolver()">RESOLVER</button>
-                            <button class='select-Game' onclick="conectar_reiniciar()">REINICIAR</button>
+                            <button class='select-Game' onclick="conectar_resolver()">${region.boton1}</button>
+                            <button class='select-Game' onclick="conectar_reiniciar()">${region.boton2}</button>
                         </div>`);
             break;    
         case 'tooltip':

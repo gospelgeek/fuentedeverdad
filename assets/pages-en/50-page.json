@@ -5,15 +5,7 @@
         "width": "100%",
         "tag": "video-fondo",
         "class": "video-page50",
-        "src": "assets/pics/backgrounds/fondo_legal_banderas_esp.mp4"
-    },
-    {
-        "x": "17.6%",
-        "y": "21%",
-        "width":"65%",
-        "tag": "author-pic",
-        "class": "author-image",
-        "image": "<img src='assets/pics/general-images/eng_cierre.png'>"
+        "src": "assets/pics/backgrounds/fondo_legal_banderas_eng.mp4"
     },
     {
         "x": "2%",

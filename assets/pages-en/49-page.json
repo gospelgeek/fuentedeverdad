@@ -37,7 +37,7 @@
         "tag": "contenido",
         "class": "agradecimiento-text",
         "data": {
-            "text": "<p><strong>Hna. Raquel Valverde,</strong> nos honramos en expresarles nuestro más sincero agradecimiento en virtud</p>"
+            "text": "<p><strong>Sister Rachel Valverde,</strong> we are honored to express our most sincere gratitude in regards to...</p>"
         }
                 
     }, 
@@ -54,8 +54,8 @@
          "class": "mover-leer-mas",
          "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
          "data": {
-             "title": "<br>AGRADECIMIENTO A NUESTRA PRIMERA DAMA EN FDV",
-             "content": "Hna. Raquel Valverde, nos honramos en expresarle nuestro más sincero agradecimiento en virtud de su gran labor como pilar espiritual en esta bella familia, Fuente de Verdad. Su vida misma es un destello de gloria que impacta de luz a los que la rodeamos. El fruto de sus obras ha trascendido a las naciones, una sonrisa, un mensaje, una invitación, un consejo, no son solo detalles, sino pequeñas semillas que dan fruto en tierra fértil. Ella Ministerial Global agradece su sabía dirección en cada reunión, su liderazgo en el acompañamiento y consejería a cada esposa de pastor, su empeño en vivir nuestra visión de ser un lugar seguro y su mentoría para formarnos como líderes de este bello ministerio."
+             "title": "<br>A SPECIAL THANKS TO OUR 1st LADY OF FTC",
+             "content": "Sister Rachel Valverde, we are honored to express our most sincere gratitude in regards to your great work as a pillar to this beautiful family, Fountain of Truth. Your life itself is a glimpse of glory that sheds light to those around you. <br><br>The fruit of the spirit has transcended nations, a smile, a message, an invitation, an advice, there are not only details, but rather are small seeds that give fruits on fertile soil.<br><br>Global Ministry “She” thanks your wise direction in every reunion, your leadership in every companionship and advice that you’ve given to every pastor’s wife, your endeavor in living our vision of making this a safe place and your mentorship to form us as leaders of this beautiful ministry."
          }
     },
     {
