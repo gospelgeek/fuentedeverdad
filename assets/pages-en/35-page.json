@@ -5,7 +5,7 @@
         "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+        "image": "<img src='assets/pics/photos/CR_eng.png'>"
     },
     {
         "tag": "event-title",
@@ -18,7 +18,7 @@
         "tag": "pastor-name",
         "x": "8%",
         "y": "13%",
-        "text": "José Hernando López Vera, Pastor"
+        "text": "Jose Hernando Lopez Vera, Pastor"
     },
     {
         "x": "61%",
@@ -43,7 +43,8 @@
         "x": "10%",
         "y": "20%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/fogata/2-CR-SANRAMON-FOGATAJUVENIL.webp",
-        "text": "Fogata Juvenil",
+        "text": "Youth Bonfire",
+        "width":"20%",
         "id":"modal-p35-01",
         "imagenes_evento":[
             {
@@ -80,14 +81,15 @@
         "tag": "event-subtitle",
         "x": "62%",
         "y": "20%",
-        "text": "Tuvimos una hermosa <br> noche de fogata..."
+        "text": "We had a beautiful bonfire night..."
     },
     {
         "tag": "event-container",
         "x": "10%",
         "y": "32%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/visita_obispo/2-CR-SANRAMON-VISITAOBISPO.webp",
-        "text": "Visita del <br> Obispo <br> Samuel Valverde",
+        "text": "Bishop Samuel Valverde",
+        "width":"20%",
         "id":"modal-p35-01",
         "imagenes_evento":[
             {
@@ -156,14 +158,15 @@
         "tag": "event-subtitle",
         "x": "62%",
         "y": "35%",
-        "text": "Durante la semana del <br> 9 al 15 de mayo..."
+        "text": "In May 9-15, we celebrated a beautiful..."
     },
     {
         "tag": "event-container",
         "x": "10%",
         "y": "48%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/campamento/2-CR-SANRAMON-CAMPAMENTO.webp",
-        "text": "Campamento <br> Juvenil",
+        "text": "Youth Camp",
+        "width":"20%",
         "id":"modal-p35-01",
         "imagenes_evento":[
             {
@@ -232,14 +235,15 @@
         "tag": "event-subtitle",
         "x": "62%",
         "y": "50%",
-        "text": "Nuestro Ministerio de <br> Jóvenes tuvo un..."
+        "text": "Our youth ministry had a wonderful idea..."
     },
     {
         "tag": "event-container",
         "x": "10%",
         "y": "62%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/cena_amigos/2-CR-SANRAMON-CENAAMIGOS.webp",
-        "text": "Cena <br> de Amigos",
+        "text": "Friend’s Dinner",
+        "width":"20%",
         "id":"modal-p35-01",
         "imagenes_evento":[
             {
@@ -269,7 +273,7 @@
         "tag": "event-subtitle",
         "x": "62%",
         "y": "65%",
-        "text": "Tuvimos una hermosa <br> cena de amigos..."
+        "text": "We had a beautiful friend’s dinner with..."
     },
     {
         "x": "62%",
@@ -284,8 +288,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>FOGATA JUVENIL<h6>02 de abril de 2022</h6>",
-            "content": "Tuvimos una hermosa noche de fogata, donde la presencia de Dios nos visitó de manera especial. Esa noche se reunieron más de 70 jóvenes."
+            "title": "<br>YOUTH BONFIRE<h6>April 2 of 2022</h6>",
+            "content": "We had a beautiful bonfire night , where the presence of God visited us in a special manner. There were 70 young people that got together that evening."
         }
     },
     {
@@ -301,8 +305,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VISITA DEL OBISPO SAMUEL VALVERDE Y SU ESPOSA LA HERMANA RAQUEL<h6>13 de mayo de 2022 </h6>",
-            "content": "Durante la semana del 9 al 15 de mayo celebramos una hermosa semana de la familia. El día 13, tuvimos una tarde de café para nuestros caballeros, una tarde de café para nuestras damas y culminamos con una maravillosa cena de parejas, todo esto en la grata compañía de nuestro Obispo y su esposa."
+            "title": "<br>BISHOP SAMUEL VALVERDE & HIS WIFE SISTER RACHEL<h6>May 13 of 2022</h6>",
+            "content": "In May 9-15, we celebrated a beautiful week regarding family. On the 13th, we had an afternoon with coffee for our gentlemen and another one for our women. It culminated into a wonderful dinner for couples, and all of this occurred with the great company of our Bishop and his wife. "
         }
     },
     {
@@ -318,8 +322,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CAMPAMENTO DE JÓVENES<h6>24, 25 y 26 de Junio de 2022 <br> Lema: “Dios te eligió a ti para ser un soldado de Cristo”</h6>",
-            "content": "Nuestro Ministerio de Jóvenes tuvo un hermoso sentir, el Señor puso en sus corazones realizar un campamento para jóvenes. En este campamento la presencia de Dios se hizo sentir de una manera extraordinaria, muchos corazones fueron sanados en su nombre. Desde Estados Unidos tuvimos la grata compañía del Pastor James Pérez, la asistencia fue de más de 150 campistas."
+            "title": "<br>YOUTH CAMP<h6>June 24-26 of 2022<br>Theme: “God chose you to be a soldier of Christ”</h6>",
+            "content": "Our youth ministry had a wonderful idea, the Lord put in their hearts to celebrate a youth camp. In this camp, the presence of God was manifested in an extraordinary way, many hearts were healed in His name. From the United States, we had the great company of Pastor James Perez, the number of attendance was more than 150 campers."
         }
     },
     {
@@ -335,8 +339,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CENA DE AMIGOS<h6>29 de agosto de 2022<br>Bajo el lema: “Que se llene mi casa”</h6>",
-            "content": "Tuvimos una hermosa cena de amigos, invitamos a amigos de diferentes lugares y tuvimos una noche increíble. Dios restauró corazones de una manera inexplicable, se abrieron muchas puertas, muchos hogares abrieron sus corazones a la palabra del Señor."
+            "title": "<br>FRIEND’S DINNER<h6>August 29 of 2022<br>Theme: “That My House Gets Filled”</h6>",
+            "content": "We had a beautiful friend’s dinner with guests from different places. We had an incredible night. God restored hearts in an inexplicable manner, doors were open, many homes opened their hearts to the word of the Lord."
         }
     }
 ]

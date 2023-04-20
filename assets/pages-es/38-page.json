@@ -11,7 +11,8 @@
         "y": "7%",
         "width": "86%",
         "tag": "fdv-logo",
-        "class": "logo"
+        "class": "logo",
+        "text": "FDV GLOBAL"
 
     },
     {
@@ -31,7 +32,7 @@
         "tag": "contenido",
         "class": "fdv-subtitle",
         "data": {
-            "text": "<h1>ENTRENAMIENTO MINISTERIAL</h1><h2>'DIGNOS DE DOBLE HONOR'</h2>"
+            "text": "<h1>ENTRENAMIENTO MINISTERIAL</h1><h2>“DIGNOS DE DOBLE HONOR”</h2>"
         }    
     },
     {
@@ -61,6 +62,7 @@
         "title": "SEMINARIO IV",
         "texthtml": "<p>Como dar consejo sabio (Parte 2)</p><p>Como bautizar correctamente</p>",
         "id":"modal-p38-01",
+        "boton1":"Ver Fotos",
         "imagenes_evento":[
             {
 
@@ -106,6 +108,7 @@
         "title": "SEMINARIO V",
         "texthtml": "<p>Más allá de lo básico</p><p>Como servir la Santa Cena</p><p>Cabos sueltos</p>",
         "id":"modal-p38-01",
+        "boton1":"Ver Fotos",
         "imagenes_evento":[
             {
 
@@ -156,8 +159,8 @@
         "date": "OCTUBRE 7 Y 8, 2022",
         "tag": "fdv-element1-2",
         "class": "fdv-element1",
-        "title": "SEMINARIO IV",
-        "texthtml": "<p>(IMPARTIDO DURANTE 'EL DERRAMAMIENTO')</p><p>¡Cambiar o morir!</p><p>Lideres saludables</p><p>Familias saludables</p><p>Intimidad con Dios</p>",
+        "title": "SEMINARIO VI",
+        "texthtml": "<p>(IMPARTIDO DURANTE “EL DERRAMAMIENTO”)</p><p>¡Cambiar o morir!</p><p>Lideres saludables</p><p>Familias saludables</p><p>Intimidad con Dios</p>",
         "boton":""  
     },
     {

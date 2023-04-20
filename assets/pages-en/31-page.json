@@ -5,7 +5,7 @@
         "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/JP_esp.png'>"
+        "image": "<img src='assets/pics/photos/JP_eng.png'>"
     },
     {
         "x": "61%",
@@ -30,7 +30,8 @@
         "x": "12%",
         "y": "5%",
         "src": "assets/pics/Eventos/japon/hiroshima/noche_vigilia/2-JPN-HIROSHIMA-NOCHEVIGILIA.webp",
-        "text": "Noche <br> de Vigilia",
+        "text": "Night watch",
+        "width":"20%",
         "id":"modal-p31-01",
         "imagenes_evento":[
             {
@@ -57,7 +58,7 @@
         "x": "65%",
         "y": "7%",
         "class": "full-subtitle",
-        "text": "Noche de vigilia en <br>directo con todas..."
+        "text": "Night watch online with all FTC Global..."
     },
     {
         "x": "65%",
@@ -72,7 +73,7 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CUMBRE CELULAR GLOBAL ENSANCHA<h6>3 de septiembre de 2022<br>Noche de vigilia en directo con todas las iglesias de FDV Global<br>Lugar: casa pastoral</h6>",
+            "title": "<br>GLOBAL CELL SUMMIT EXPAND<h6>September 3 of 2022<br>Night watch online with all the FTC Global churches<br>Place: Pastoral Home</h6>",
             "content": ""
         }
     },
@@ -81,7 +82,7 @@
         "x": "12%",
         "y": "15%",
         "src": "assets/pics/Eventos/japon/hiroshima/derramamiento/2-JPN-HIROSHIMA-DERRAMAMIENTO.webp",
-        "text": "Derramamiento <br> Ministración <br> desde FVD Rancho",
+        "text": "Outpouring <br> Ministration <br> From FTC Rancho",
         "id":"modal-p31-01",
         "imagenes_evento":[
             {
@@ -103,7 +104,7 @@
         "x": "65%",
         "y": "19%",
         "class": "full-subtitle",
-        "text": "Nuestra hermana <br> marthe recibió el..."
+        "text": "Our sister Martha received the baptism..."
     },
     {
         "x": "65%",
@@ -118,7 +119,7 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>DERRAMAMIENTO<br>MINISTRACIÓN DESDE FDV RANCHO<h6>9 de octubre de 2022<br>Nuestra hermana Martha recibió el bautismo del Espíritu Santo<br>Salón de Tadanoumi, Hiroshima</h6>",
+            "title": "<br>OUTPOURING MINISTRATION FROM FTC RANCHO<h6>October 9 of 2022<br>Our sister Martha received the baptism of the Holy Spirit<br>Hall of Tadanoumi, Hiroshima</h6>",
             "content": ""
         }
     },
@@ -127,7 +128,8 @@
         "x": "12%",
         "y": "29%",
         "src": "assets/pics/Eventos/japon/hiroshima/clamor_japon/2-JPN-HIROSHIMA-CLAMORJAPON.webp",
-        "text": "Clamor <br> por Japón",
+        "text": "Cry Out For Japan",
+        "width":"35%",
         "id":"modal-p31-01",
         "imagenes_evento":[
             {
@@ -157,7 +159,7 @@
         "x": "65%",
         "y": "31%",
         "class": "full-subtitle",
-        "text": "Lugar: Salón de <br> Tadanoumi, Hiroshima..."
+        "text": "Place: Hall of Tadanoumi, Hiroshima...."
     },
     {
         "x": "65%",
@@ -172,7 +174,7 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CLAMOR POR JAPÓN<h6>6 de noviembre de 2022<br>Lugar: Salón de Tadanoumi, Hiroshima<br>Ministración desde FDV Rancho, para FDV Japón</h6>",
+            "title": "<br>CRY OUT FOR JAPAN<h6>November 6 of 2022<br>Place: Hall of Tadanoumi, Hiroshima<br>Ministration from FTC Rancho, to FTC Japan</h6>",
             "content": ""
         }
     },
@@ -181,7 +183,8 @@
         "x": "12%",
         "y": "40%",
         "src": "assets/pics/Eventos/japon/hiroshima/santa_cena/2-JPN-HIROSHIMA-SERVICIOCELEBRACION.webp",
-        "text": "Servicio de <br> Celebracion <br> y Santa Cena",
+        "text": "Celebration Service and Holy Supper",
+        "width":"40%",
         "id":"modal-p31-01",
         "imagenes_evento":[
             {
@@ -211,14 +214,14 @@
         "x": "65%",
         "y": "44%",
         "class": "full-subtitle",
-        "text": "31 de Diciembre de 2022 <br> Casa de los hermanos Barroso"
+        "text": "December 31 of 2022 <br> Brothers Barroso’s house"
     },
     {
         "tag": "event-container",
         "x": "30%",
         "y": "54%",
         "src": "assets/pics/Eventos/japon/2-JPN-HIROSHIMA-PASTORISHIGURO.webp",
-        "text": "Nuevo Templo",
+        "text": "New Temple",
         "id":"modal-p31-01",
         "imagenes_evento":[
             {
@@ -232,8 +235,8 @@
         "tag": "event-title",
         "x": "10%",
         "y": "75%",
-        "text1": "Tokio",
-        "text2": "Japón"
+        "text1": "Tokyo",
+        "text2": "Japan"
     },
     {
         "tag": "pastor-name",
@@ -246,7 +249,8 @@
         "x": "12%",
         "y": "84%",
         "src": "assets/pics/Eventos/japon/tokio/3-JPN-TOKIO-INFORME.webp",
-        "text": "Informe 2022 <br> FDV Tokio",
+        "text": "FTC Tokyo Report 2022",
+        "width":"40%",
         "id":"modal-p31-01",
         "imagenes_evento":[
             {
@@ -375,7 +379,8 @@
         "x": "62%",
         "y": "85%",
         "class": "full-subtitle",
-        "text": "Paz de Cristo. Damos <br> gracias al Señor..."
+        "text": "Praise the Lord. We give thanks to the Lord...",
+        "width":"35%"
     },
     {
         "x": "62%",
@@ -390,8 +395,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>INFORME 2022 FDV TOKIO",
-            "content": "Paz de Cristo. Damos gracias al señor por su misericordia y por cada programa celebrado en 2022.  En mayo 27, 28 y 29 tuvimos un campamento en Nikko, monte de los olivos con el tema “Maranata Cristo viene”. Vinieron hermanos de todo Japón, fue de gran bendición para todos. Hemos celebrado servicios y reuniones en casas, salones, y visitas a otras iglesias con el propósito de predicar y enseñar la Unicidad de Cristo.<br><br>Muchas gracias ¡Bendiciones!"
+            "title": "<br>FTC TOKYO REPORT 2022",
+            "content": "Praise the Lord. We give thanks to the Lord for His mercy and for every program that we celebrated in 2022. On May 27-29, we had a camp in Nikki, mount of the olives with the theme, “Maranatha Christ is Coming”. Brethren from all Japón came and it was a great blessing for everyone. We have had meetings in homes, halls, services, and visits to other churches with the purpose of preaching and teaching the Oneness of Christ.<br><br>Thank you so much, Blessings!"
         }
     }
 ]

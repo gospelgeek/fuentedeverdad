@@ -5,7 +5,7 @@
         "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CR_esp.png'>"
+        "image": "<img src='assets/pics/photos/CR_eng.png'>"
     },
     {
         "x": "61%",
@@ -30,7 +30,8 @@
         "x": "12%",
         "y": "18%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/servicio_especial/2-CR-SANRAMON-SERVICIOESPECIALN.webp",
-        "text": "Servicio <br> Especial de <br> Niños",
+        "text": "Special Kid’s Service",
+        "width":"20%",
         "id":"modal-p36-01",
         "imagenes_evento":[
             {
@@ -84,7 +85,7 @@
         "x": "62%",
         "y": "21%",
         "class": "full-subtitle",
-        "text": "El Ministerio Kids realizó un <br>precioso culto..."
+        "text": "The Kid’s Ministry celebrated a precious..."
     },
     {
         "x": "62%",
@@ -99,8 +100,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>SERVICIO ESPECIAL DE NIÑOS<h5>24 de septiembre de 2022</h5>",
-            "content": "El Ministerio Kids realizó un precioso culto dedicado a nuestros hermosos niños, donde ellos fueron los protagonistas de esa noche. Se realizaron dinámicas, juegos, canciones, conocieron a nuestro amigo Pingüi quién llenó su noche de felicidad. Fuimos testigos de cómo esos pequeños corazones anhelan servir al Señor."
+            "title": "<br>SPECIAL KID’S SERVICE<h5>September 24 of 2022</h5>",
+            "content": "The Kid’s Ministry celebrated a precious service dedicated to our beautiful children, where they became the protagonists that night. They had activities, games, songs, and they got to know our friend Pingui, which gave them a lot of happiness. We were witnesses to how those tiny hearts desire to serve the Lord. "
         }
     },
     {
@@ -108,7 +109,8 @@
         "x": "12%",
         "y": "38%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/santa_cena/2-CR-SANRAMON-SERVICIOCAMPAL.webp",
-        "text": "Servicio Campal <br> y Santa Cena",
+        "text": "Camp Service & Holy Supper",
+        "width":"45%",
         "id":"modal-p36-01",
         "imagenes_evento":[
             {
@@ -211,7 +213,7 @@
         "x": "62%",
         "y": "40%",
         "class": "full-subtitle",
-        "text": "En una hermosa <br> celebración campal..."
+        "text": "It was a beautiful camp celebration..."
     },
     {
         "x": "62%",
@@ -226,8 +228,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>SERVICIO CAMPAL Y SANTA CENA<h5>11 de diciembre de 2022</h5>",
-            "content": "En una hermosa celebración campal pudimos disfrutar de un tiempo a solas con el Señor lejos del bullicio de la ciudad, nos adentramos a un lugar muy especial; además  fuimos participes del Servicio de Santa Cena. <br><br>También nuestros niños disfrutaron de una hermosa fiesta realizada por el Ministerio Kids."
+            "title": "<br>CAMP SERVICE & HOLY SUPPER<h5>December 11 of 2022</h5>",
+            "content": "It was a beautiful camp celebration where we were able to enjoy some alone time with the Lord away from all the noise of the city. We entered a very special place and in addition to that we had our holy supper service.<br><br>Our kids also enjoyed an amazing party realized by our Kids Ministry."
         }
     },
     {
@@ -235,7 +237,8 @@
         "x": "12%",
         "y": "56.5%",
         "src": "assets/pics/Eventos/costa_rica/san_ramon/bautismos/2-CR-SANRAMON-BAUTISMOS.webp",
-        "text": "Bautismos<br>2022",
+        "text": "Baptisms 2022",
+        "width":"20%",
         "id":"modal-p36-01",
         "imagenes_evento":[
             {
@@ -289,7 +292,7 @@
         "x": "62%",
         "y": "58%",
         "class": "full-subtitle",
-        "text": "Para honra y gloria del <br> Señor Jesús durante..."
+        "text": "All the honor and glory is for our Lord Jesus..."
     },
     {
         "x": "62%",
@@ -304,8 +307,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>BAUTISMOS 2022",
-            "content": "Para honra y gloria del Señor Jesús durante este primer año en Fuente de Verdad el Señor nos regaló la valiosa oportunidad de bautizar 37 personas en el nombre de Jesús. Ha sido un año lleno de victoria y respaldo de Dios, y estamos seguros de que no descansaremos hasta ver ¡Cada corazón sanado!"
+            "title": "<br>BAPTISMS 2022",
+            "content": "All the honor and glory is for our Lord Jesus because during our first year of Fountain of Truth, the Lord gave us the valuable opportunity to baptize 37 people in the name of Jesus. It had been a year of victory and of the Lord’s hand, and we are sure that we won’t rest until we see Every Heart Healed!"
         }
     },
     {

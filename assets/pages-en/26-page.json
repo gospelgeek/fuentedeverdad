@@ -5,7 +5,7 @@
         "width":"80%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+        "image": "<img src='assets/pics/photos/CO_eng.png'>"
     },
     {
         "x": "61%",
@@ -30,7 +30,7 @@
         "x": "10%",
         "y": "13%",
         "src": "assets/pics/Eventos/colombia/convencion_nacional/modal.jpg",
-        "text": "<strong>CONVENCIÓN NACIONAL E INTERNACIONAL COLOMBIA 2022</strong>",
+        "text": "<strong>NATIONAL AND INTERNATIONAL CONVENTION COLOMBIA 2022</strong>",
         "id":"modal-p26-01",
         "imagenes_evento":[
             {
@@ -61,23 +61,7 @@
     },
     {
         "x": "63%",
-        "y": "10%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>19 Y 20</strong></h3>"
-        }   
-    },
-    {
-        "x": "63%",
-        "y": "13.5%",
+        "y": "16.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -88,7 +72,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Febrero</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>February 19 & 20</h5>"
         }   
     },
     {
@@ -104,8 +88,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>EVENTOS 2022 FDV COLOMBIA<br>CONVENCIÓN NACIONAL E INTERNACIONAL<h6>Medellín<br>19 y 20 de Febrero de 2022</h6>",
-            "content": "<b>Asistencia:</b> 350 personas aproximadamente.<br>Se contó con un equipo de trabajo compuesto por 80 personas.<br><b>Conferencistas:</b> Obispo Samuel Valverde, primera dama Raquel Valverde, y el pastor Martín  Pérez.<br><b>Delegaciones:</b> EE. UU., Costa Rica, Barranquilla, Cartagena, Cali, Palmira, y otras ciudades de Colombia.<br><b>Impacto Espiritual:</b> Muchos asistentes reportaron que después de la conferencia para parejas, sus matrimonios y relaciones han sido sanados. Varias personas se comunicaron preguntando por la dirección de FDV para congregarse."
+            "title": "<br>FTC Colombia Events <br>Report 2022<br>NATIONAL AND INTERNATIONAL CONVENTION<h6>Medellin<br>February 19 & 20 of 2022</h6>",
+            "content": "<b>Assistance:</b> approximately 350 people.<br>There was a group of 80 people working.<br><b>Speakers:</b> Bishop Samuel Valverde, first lady Raquel Valverde, y el pastor Martin  Perez.<br><b>Delegations:</b> USA, Costa Rica, Barranquilla, Cartagena, Cali, Palmira, and other cities from Colombia.<br><b>Spiritual Impact:</b> A lot of people present reported after the couples conference that their marriages and relationships had been healed. Many people reached out and asked for the address of FTC so they can congregate."
         }
     },
     {
@@ -121,7 +105,7 @@
         "text": "",
         "id_unique": "text-indece-page-20-2",
         "data": {
-            "text": "<h5 class='nombres-p26'>Obispo<br>Samuel Valverde</h5>"
+            "text": "<h5 class='nombres-p26'>Bishop<br>Samuel Valverde</h5>"
         }   
     },
     {
@@ -137,7 +121,7 @@
         "text": "",
         "id_unique": "text-indece-page-20-3",
         "data": {
-            "text": "<h5 class='nombres-p26'>Primera Dama<br>Raquel Valverde</h5>"
+            "text": "<h5 class='nombres-p26'>First Lady<br>Raquel Valverde</h5>"
         }   
     },
     {
@@ -153,7 +137,7 @@
         "text": "",
         "id_unique": "text-indece-page-20-4",
         "data": {
-            "text": "<h5 class='nombres-p26'>Pastor<br>Martin Pérez</h5>"
+            "text": "<h5 class='nombres-p26'>Pastor<br>Martin Perez</h5>"
         }   
     },
     {
@@ -161,7 +145,8 @@
         "x": "10%",
         "y": "57%",
         "src": "assets/pics/Eventos/colombia/seminario/modal.jpg",
-        "text": "<strong>SEMINARIO AUTORIDAD ESPIRITUAL</strong>",
+        "text": "<strong>SPIRITUAL AUTHORITY SEMINAR</strong>",
+        "width":"40%",
         "id":"modal-p26-01",
         "imagenes_evento":[
             {
@@ -195,29 +180,13 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>EVENTOS 2022 FDV COLOMBIA<br><br>SEMINARIO AUTORIDAD ESPIRITUAL<h6>Medellín<br>12 de marzo de 2022</h6>",
-            "content": "<b>Conferencista:</b> Obispo Samuel Valverde<br>Este fue un programa muy especial, en el cual participaron y trabajaron las tres congregaciones de la ciudad, logrando una asistencia mayoritaria por parte de FDV Medellín. El Obispo enseñó la Importancia de la Autoridad Espiritual - personas que están en autoridad, y personas que están bajo autoridad. Fue un momento de comunión, hermandad y afecto entre las tres Iglesias de FDV Medellín."
+            "title": "<br>FTC Colombia Events<br>Report 2022<br><br>SPIRITUAL AUTHORITY SEMINAR<h6>Medellin<br>March 12, 2022</h6>",
+            "content": "<b>Speaker:</b> Bishop Samuel Valverde<br>This was a very special program, in which the three congregations of the city      participated and served, achieving the majority assistance from FTC Medellin. The  Bishop taught about the importance of Spiritual Authority - people that are in authority, and people that are under authority. It was a moment of communion, brotherhood, and affection between the three churches of FTC Medellin."
         }
     },
     {
         "x": "63%",
-        "y": "54%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>12</strong></h3>"
-        }   
-    },
-    {
-        "x": "63%",
-        "y": "57%",
+        "y": "59.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -228,7 +197,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>12 of March</h5>"
         }   
     },
     {

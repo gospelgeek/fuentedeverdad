@@ -5,7 +5,7 @@
         "width":"80%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CB_esp.png'>"
+        "image": "<img src='assets/pics/photos/CB_eng.png'>"
     },
     {
         "tag": "event-title",
@@ -23,17 +23,18 @@
     {
         "x": "5%",
         "y": "20%",
-        "width": "80%",
+        "width": "75%",
         "styleBox": "",
         "background-color": "#b41015",
         "color": "#ffff",
         "font-size": "2em",
         "tag": "contenido",
+        "class": "event1",
         "id_unique": "box-text-page-32",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>Mi experiencia <br> en Cambodia <br> Pastor Supervisor Domingo Carlos</strong></p>"
+           "text": "<p class='main-text-p34'><strong>My experience <br>in Cambodia <br> Pastor Supervisor Domingo Carlos</strong></p>"
         }
     },
     {
@@ -49,8 +50,8 @@
         "class": "leermas-p32 mover-leer-mas",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>IGLESIA APOSTÓLICA FUENTE DE VERDAD CAMBODIA<br><br>Informe del viaje misionero y de necesidades apremiantes<br><br>",
-            "content": "<i>¡Gracias a Dios, se cumplió el viaje misionero a la nación de Cambodia en el mes de enero 2023!</i><br><br>La iglesia en Cambodia sigue con valentía, con tenacidad, con aguante, con perseverancia a pesar de muchos retos y adversidades. Rogamos oraciones a favor de los pastores, sus familias, y la hermandad para que sigan avanzando, atravesando, y navegando toda tempestad y sigan creciendo, extendiéndose, y alcanzando cada vez más territorio.<br><br><b>Actualmente hay 4 obras:</b><ul>1. Siem Reap (Pastor Ratheany Ung)</ul><ul>2.  Toulaviang (Pastor Pheak Tra Teav) </ul><ul>3.  Phnom Toich (Ministro (E) Theb Yan)</ul><ul>4.  Kampot (Pastor Chiyat Pen) </ul><b>El viaje misionero del mes de enero de 2023 fue maravilloso y de gran éxito. A través de los varios días de ministerios:</b><ul><li>Se visitaron tres aldeas, donde se reunieron todos los creyentes y donde se predicó el evangelio a nuevos oyentes.</li><li>Se llevaron a cabo: una conferencia para todos los líderes camboyanos, una conferencia para todos los pastores y esposas, y una conferencia para mujeres que fue de mucha sanidad y empoderamiento.</li><li>Una gran celebración donde llegaron todos los creyentes de la ciudad de Siem Reap, Kampot, y de seis aldeas de los alrededores (casi 500 personas en asistencia). Fue un culto hermoso y poderoso, de sanidades, llenura del Espíritu Santo, y almas nuevas recibiendo el evangelio. </li><li>Se bautizaron 11 personas.</li></ul>Damos gracias al equipo ejecutivo (Samuel Valverde, Raquel Valverde, Domingo Carlos, Timothy Valverde, Nat Ochoa y Patrick Cisneros) por su liderazgo en realizar la visión de este viaje, y a todo el equipo que viajó de FDV Rancho, FDV Tijuana, FDV San Diego, FDV Dallas/Ft. Worth, y FDV Phoenix por su gran colaboración en efectuar un gran impacto para FDV Cambodia.<br><br><i><b>Estén atentos para el anuncio del próximo viaje misionero a Cambodia, ya que tenemos planes de regresar, y de volver a viajar un grupo robusto para seguir impulsando la obra de Dios en Cambodia, y de impactar y transformar las vidas mismas de todos los que se integren a este equipo.</b></i><br><br><b>Hubo muchas iglesias y personas que donaron, más de lo que podemos nombrar; se pudo lograr lo siguiente:</b><ul><li>Dar mochilas y útiles escolares a más de 100 niños</li><li>Dar mochilas a todos los líderes Cambodianos (40)</li><li>Dar riñoneras (fanny packs) a 60 mujeres</li><li>Alimentar a 500 personas después de la gran celebración</li><li>Comprar muebles, accesorios, mesas, instrumentos, y utensilios en general para el templo nuevo</li></ul><b>¡Damos toda la gloria a Dios porque se pudo dedicar el templo para la iglesia de Siem Reap!</b><br><br>Después de esfuerzos que comenzaron en noviembre de 2018, atravesando muchos retos causados por la pandemia y retos de construcción, damos gracias a Dios que se pudo construir un templo con casa pastoral en nuestro propio terreno de Fuente de Verdad Cambodia en la ciudad de Siem Reap. Este edificio será un centro de oración, adoración, capacitación ministerial, escuela de música, escuela de inglés, y de alcance comunitario. Damos gracias a la empresa Carlosendo Laparoscopic Instruments (de Ismael y Domingo Carlos), y a FDV Rancho Cucamonga, que fueron los donantes principales en suplir los $68 mil que se invirtieron para completar este proyecto.<br><br><b>Resta pagar una hipoteca bancaria de $20,000 para salir de toda deuda de este proyecto. Otras necesidades nacionales incluyen:</b><ul><li>4 motos para los pastores, para que continúen su ministerio por las aldeas</li><li>1 camioneta para la iglesia principal</li><li>2 equipos de sonido para dos de las cuatro obras</li><li>Paredes y piso para el templo de una de las aldeas (Toualaviang)</li></ul>Por último, <b>pedimos oraciones especiales</b> a favor de la esposa del pastor de Siem Reap (Keany “Esther” Teav) y la esposa del pastor de Kampot (Toich “Tabita” Neak), ya que ambas están pasando enfermedades graves y necesitan un milagro de sanidad en sus cuerpos.<br><br><b>Informe entregado por:</b> Pastor Domingo Carlos, <i>Supervisor FDV Cambodia</i>"
+            "title": "<br>Apostolic Church Fountain of Truth Cambodia<br><br>Missionary Trip Report and Urgent Needs<br><br>",
+            "content": "<b>Thank God, the missionary trip to Cambodia was realized in the month of January 2023!</b><br><br>The church of Cambodia continues to be brave, with tenacity, will, and perseverance despite the many challenges and adversities. We ask for prayers for the pastors, their families, and the brethren so they can continue advancing, traversing, and navigating through all storms. That way they can continue to grow, expand, and reach more territory.<br><br><b>Currently there are 4 churches:</b><ul><ol>Siem Reap (Pastor Ratheany Ung)</ol><ol>Toulaviang (Pastor Pheak Tra Teav)</ol><ol>Phnom Toich (Minister (E) Theb Yan)</ol><ol>Kampot (Pastor Chiyat Pen)</ol></ul><b>Last month’s missionary trip was marvelous and of great success. Throughout the days of ministries:</b><ul><li>Three villages were visited, where all the believers got together and the gospel was preached to the new listeners.</li><li>There was a conference for all the Cambodian leaders, one conference for all the pastors and their wives, and one conference for the women that was of great healing and empowerment.</li><li>There was a great celebration where all the believers from the city of Siem Reap, Kampot, and six other villages got together for it (almost 500 people were in assistance). It was a beautiful and powerful service full of healing, of the Holy Spirit, and of new souls receiving the gospel.</li><li>11 People were baptized.</li></ul>We are grateful for the executive team (Samuel Valverde, Raquel Valverde, Domingo Carlos, Timothy Valverde, Nat Ochoa, and Patrick Cisneros) for their leadership in realizing this vision for this trip. We are also thankful for the whole team that traveled from FTC Rancho, FTC Tijuana, FTC San Diego, FTC Dallas/Ft. Worth, and FTC Phoenix for their great collaboration in creating this great impact for FTC Cambodia. <br><br> <b><i>Stay Tuned for the announcement of the missionary trip to Cambodia, since we have plans to go back with a robust group. So that way the church of Cambodia can keep on being propelled to impact and transform the lives of everyone that joins this group.</i> <br><br>There were many churches and people that donated, more than we can name, this is what was donated:</b><ul><li>Backpacks and school utensils for more than 100 kids</li><li>Backpacks to all the cambodian leaders (40)</li><li>Fanny packs to 60 women</li><li>Fed 500 people after the great celebration</li><li>Bought furniture, accessories, tables, instruments, and utensils in general for the new temple</li></ul> <b>We give all the glory to God because we were able to dedicate the temple for the church of Siem Reap!</b><br><br>After the efforts that started in November of 2018, in which we went through many challenges due to the pandemic and other construction obstacles, we thank God that we were able to construct a temple with a pastoral house in our own property of Fountain of Truth Cambodia in the city of Siem Reap. This building will be a place of prayer, worship, ministerial capacitation, school of music, school to learn English, and for community outreach. We thank the company of Carlosendo Laparoscopic Instruments (from Ismael and Domingo Carlos) and to FTC Rancho Cucamonga, which were the primary givers in supplying the $68K that were invested to complete this project.<br><br> <b>The mortgage of $20,000 still needs to be paid so that way we can  eliminate the debt of this project. Other national necessities include:</b> <ul><li>4 motorcycles for the pastors, so that they can continue their ministry throughout the villages</li><li>1 Van for the principal church</li><li>2 sound systems for two of the four churches</li><li>Walls and flooring for the temple of one of the villages (Toualaviang)</li></ul>Lastly, <b>we ask for special prayers</b> directed towards the wife of the pastor of Siem Reap (Keany “Esther” Teav) and the wife of the pastor of Kampot (Tooch “Tabita” Neal). We are asking for prayer due to the fact that both of these women are going through serious illnesses and need a miracle of healing in their bodies.<br><br><b>Report delivered by:</b> Pastor Domingo Carlos, <i>FTC Supervisor Cambodia</i>"
         }
     },
     {
@@ -69,7 +70,7 @@
             {   
                 "id": "page31",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/esp_cambodia.m4a"
+                "url": "./assets/audios/eng_cambodia.m4a"
             },
             {
                 "icon": "",
@@ -78,51 +79,20 @@
         ]
     },
     {
-        "x": "68%",
-        "y": "19%",
+        "x": "62%",
+        "y": "22%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#000000",
         "color": "#000000",
         "font-size": "1.5em",
         "tag": "contenido",
+        "class": "date1",
         "style": "font-weight: normal;",
         "text": "",
         "id_unique": "text-indece-page-37",
         "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>Enero</strong></h3>"
-        }   
-    },
-    {
-        "x": "68%",
-        "y": "22.5%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37-1",
-        "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>2023</h5>"
-        }   
-    },
-    {
-        "x": "5%",
-        "y": "31.5%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37-1",
-        "data": {
-            "text": "<h5 class='text-pag-34'><strong></strong></h5>"
+            "text": "<h3 class='fecha-pag-37'><strong>January 2023</strong></h3>"
         }   
     },
     {
@@ -134,11 +104,12 @@
         "color": "#ffff",
         "font-size": "2em",
         "tag": "contenido",
+        "class": "videotitle",
         "id_unique": "box-text-page-9",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='main-text-p34'><strong>Video <br> Resumen viaje</strong></p>"
+           "text": "<p class='main-text-p34'><strong>Video <br> Trip summary</strong></p>"
         }
     },
     {

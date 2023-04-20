@@ -12,7 +12,7 @@
         "text": "",
         "id_unique": "text-indece-page-5",
         "data": {
-            "text": "<h1 class='title-pag-37'><strong>VIAJE MISIONERO NACIONAL</strong><h1>"
+            "text": "<h1 class='title-pag-37'><strong>NATIONAL MISSIONARY TRIP</strong><h1>"
         }
             
     },
@@ -100,34 +100,19 @@
     },
     {
         "x": "68%",
-        "y": "60.5%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>29</strong></h3>"
-        }   
-    },
-    {
-        "x": "68%",
-        "y": "64%",
+        "y": "68%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1.5em",
+        "class": "date",
         "tag": "contenido",
         "style": "font-weight: normal;",
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de<br>Nov. 2022</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>29 of Nov. 2022</h5>"
         }   
     },
     {
@@ -143,12 +128,12 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(0 0 0 0); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-           "text": "<p class='text-pag-20'>Nuestro viaje misionero tuvo dos objetivos concretos. Primero, confirmar la fe de una pareja de hermanos...</p>"
+           "text": "<p class='text-pag-20'>Our missionary trip had two concrete objectives. First, to confirm the faith of a couple, Junior and Milmelis...</p>"
         }
     },
     {
         "x": "64%",
-        "y": "82%",
+        "y": "85%",
         "viewX": 1800,
         "viewY": 100,
         "width": "85%",
@@ -156,11 +141,11 @@
         "fontSize": "2em",
         "tag": "modal-pequeno",
         "id": "modal-p37",
-        "class": "",
+        "class": "leer-mas-p37",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>FUENTE DE VERDAD CHILE",
-            "content": "Viaje Misionero Nacional<br>29 de Noviembre al 03 de Diciembre de 2022<br><br>Nuestro viaje misionero tuvo dos objetivos concretos. Primero, confirmar la fe de una pareja de hermanos (Junior y Milmelis) quienes se van a encargar de evangelizar el sector donde ellos viven, y capacitarlos por medio de algunas enseñanzas de evangelismo y misiones. Segundo, evangelizar a algunas familias que estaban dispuestas a oír el evangelio. El lugar visitado fue la región de Los Lagos, ciudad de Puerto Montt, extremo sur de Chile.<br><br>Por lo demás, en Santiago celebramos servicios en Grupos Casa."
+            "title": "<br>FOUNTAIN OF TRUTH CHILE",
+            "content": "National Missionary Trip<br>November 29 to December 3 of 2022<br><br>Our missionary trip had two concrete objectives. First, to confirm the faith of a couple, Junior and Milmelis, who will be in charge of evangelizing in the sector where they live as well as training others through some lessons of evangelism and missions. Secondly, it was to evangelize a few families that were willing to hear the gospel. Los Lagos, was the region that was visited, the city of Puerto Montt, in the southern part of Chile.<br><br>On the other hand, there were home group services conducted in the city of Santiago."
         }
     }
 ]
