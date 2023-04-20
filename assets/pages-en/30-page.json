@@ -5,14 +5,14 @@
         "width":"80%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/JP_esp.png'>"
+        "image": "<img src='assets/pics/photos/JP_eng.png'>"
     },
     {
         "tag": "event-title",
         "x": "10%",
         "y": "10%",
         "text1": "Hiroshima",
-        "text2": "Japón"
+        "text2": "Japan"
     },
     {
         "tag": "pastor-name",
@@ -22,7 +22,7 @@
     },
     {
         "x": "61%",
-        "y": "25.5%",
+        "y": "23.5%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -43,7 +43,8 @@
         "x": "13%",
         "y": "22%",
         "src": "assets/pics/Eventos/japon/hiroshima/dia_amigo/modal.jpeg",
-        "text": "<strong>Día <br>del Amigo</strong>",
+        "text": "<strong>Friend’s Day</strong>",
+        "width":"20%",
         "id":"modal-p30-01",
         "imagenes_evento":[
             {
@@ -75,22 +76,6 @@
     },
     {
         "x": "63%",
-        "y": "22%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>20</strong></h3>"
-        }   
-    },
-    {
-        "x": "63%",
         "y": "25.5%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
@@ -102,7 +87,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Marzo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>March 20</h5>"
         }   
     },
     {
@@ -118,7 +103,7 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>DÍA DEL AMIGO EN EL BAMBOO ATHLETIC PARK <h6>20 de Marzo de 2022<br>Actividad Evangelística y tarde de confraternidad</h6>",
+            "title": "<br>FRIEND’S DAY AT BAMBOO ATHLETIC PARK<h6>March 20 of 2022<br>Evangelistic activity and afternoon of fellowship</h6>",
             "content": ""
         }
     },
@@ -127,7 +112,8 @@
         "x": "13%",
         "y": "44%",
         "src": "assets/pics/Eventos/japon/hiroshima/dia_paseo/modal.jpg",
-        "text": "<strong>Paseo <br> día del niño</strong>",
+        "text": "<strong>Day Of The Kid’s Trip</strong>",
+        "width":"40%",
         "id":"modal-p30-01",
         "imagenes_evento":[
             {
@@ -162,29 +148,13 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>PASEO DEL DÍA DEL NIÑO FDV KIDS HIROSHIMA<h6>5 de Mayo de 2022<br>En Hiroshima Asa Zoological Park<br>Tarde de enseñanza y paseo sobre la creación de Dios</h6>",
+            "title": "<br>DAY OF THE KID’S TRIP FTC KIDS HIROSHIMA<h6>May 5 of 2022<br>In Hiroshima Asa Zoological Park<br>Afternoon of teaching and stroll through the creation of God</h6>",
             "content": ""
         }
     },
     {
         "x": "63%",
-        "y": "43%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>5</strong></h3>"
-        }   
-    },
-    {
-        "x": "63%",
-        "y": "46.5%",
+        "y": "45%",
         "width": "40%",
         "styleBox": "width: 100%; height: auto !important;",
         "background-color": "#b41015",
@@ -195,7 +165,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Mayo</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>May 5</h5>"
         }   
     },
     {
@@ -203,7 +173,8 @@
         "x": "13%",
         "y": "64%",
         "src": "assets/pics/Eventos/japon/hiroshima/campamento/modal.jpg",
-        "text": "<strong>Campamento <br> de Verano</strong>",
+        "text": "<strong>SUMMER CAMP</strong>",
+        "width":"20%",
         "id":"modal-p30-01",
         "imagenes_evento":[
             {
@@ -246,25 +217,9 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>CAMPAMENTO DE VERANO<h6>12 al 14 de agosto de 2022<br>Lugar Fukuyama Yamanocho Camp<br>3 días en medio de las montañas estudiando la Palabra de Dios</h6>",
+            "title": "<br>SUMMER CAMP<h6>August 12-14 of 2022<br>Place: Fukuyama Yamanocho Camp<br>3 and a half days of teachings of the Word of the Lord in the mountains</h6>",
             "content": ""
         }
-    },
-    {
-        "x": "63%",
-        "y": "63%",
-        "width": "40%",
-        "styleBox": "width: 100%; height: auto !important;",
-        "background-color": "#000000",
-        "color": "#000000",
-        "font-size": "1.5em",
-        "tag": "contenido",
-        "style": "font-weight: normal;",
-        "text": "",
-        "id_unique": "text-indece-page-37",
-        "data": {
-            "text": "<h3 class='fecha-pag-37'><strong>12 al 14</strong></h3>"
-        }   
     },
     {
         "x": "63%",
@@ -279,7 +234,7 @@
         "text": "",
         "id_unique": "text-indece-page-37-1",
         "data": {
-            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>de <br> Agosto</h5>"
+            "text": "<h5 class='fecha-pag-37' style='line-height: 16px;'>August 12-14</h5>"
         }   
     },
     {

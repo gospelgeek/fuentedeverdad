@@ -11,7 +11,8 @@
         "y": "7%",
         "width": "86%",
         "tag": "fdv-logo",
-        "class": "logo"
+        "class": "logo",
+        "text": "FTC GLOBAL"
 
     },
     {
@@ -21,9 +22,10 @@
         "src": "assets/pics/Eventos/fdv_global/1.webp",
         "tag": "fdv-element2",
         "class": "fdv-element2",
-        "title": "ORACIONES GLOBALES",
-        "leermas":"Leer Mas",
-        "texthtml": "<p>En el 2o semestre del año 2022 se celebraron 6 reuniones globales de oración de FDV a nivel global:</p><p>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre... </p>",
+        "title": "GLOBAL PRAYERS",
+        "leermas":"Read More",
+        "boton1":"View Photos",
+        "texthtml": "<p>In the 2nd semester of the year <b>2022</b> there were 6 global reunion prayer celebrations of FTC at a global level:</p><p>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre...</p>",
         "id": "modal-p39-01",
         "idtext":"modal-p39",
         "imagenes_evento":[  
@@ -61,8 +63,8 @@
         "class": "",
         "text": "",
         "data": {
-            "title": "<br>ORACIONES GLOBALES",
-            "content": "En el 2º semestre del año <b>2022</b> se celebraron 6 reuniones globales de oración de FDV a nivel global:<ul>02 Julio, 06 Agosto, 10 Septiembre, 01 Octubre, 05 Noviembre, 03 Diciembre</ul>En estas reuniones de oración global El Señor nos concedió adorar juntos como Iglesia con diferentes ministerios de alabanza de las congregaciones locales de FDV alrededor del mundo, recibir una palabra de poder cada mes por un pastor diferente, clamar juntos por las necesidades, y siempre recibir una reflexión inspiradora por parte de nuestro Obispo Samuel Valverde.<br><br>Dios nos concedió que más de 150 personas pudieran estar conectadas en promedio cada reunión de oración."
+            "title": "<br>GLOBAL PRAYERS",
+            "content": "In the 2nd semester of the year <b>2022</b> there were 6 global reunion prayer celebrations of FTC at a global level:<ul>July 2, August 6, September 10, October 1, November 5, & December 3</ul>In these global prayer meetings, the Lord allowed us to worship together as a church with different praise ministries from the local FTC churches around the world. We would also receive a powerful word every month from a different pastor and got to cry out for the necessities. At the end we would always receive an inspiring reflection from our Bishop Samuel Valverde.<ul>God granted us to have an average of 150 people connected per reunion.</ul>"
         }
     },
     {
@@ -90,9 +92,10 @@
         "src": "assets/pics/Eventos/fdv_global/2.webp",
         "tag": "fdv-element2",
         "class": "fdv-element2",
-        "title": "REUNION GLOBAL DE PASTORES",
-        "texthtml": "<p>En el año 2022 se celebraron 9 reuniones de pastores de FDV a nivel global:</p><p>29 de Enero, 26 de Febrero, 26 de Marzo, 30 de Abril, 28 de Mayo, 30 de Julio, 27 de Agosto, 29 de Octubre y 26 de Noviembre.</p>",
+        "title": "GLOBAL PASTORAL REUNION",
+        "texthtml": "<p>In the year of <b>2022</b>, there were 9 pastoral reunions at the FTC global level:</p><p>January 29, February 26, March 26, April 30, May 28, July 30, August 27, October 29, & November 26.</p>",
         "id": "modal-p39-01",
+        "boton1":"View Photos",
         "imagenes_evento":[
             {
 

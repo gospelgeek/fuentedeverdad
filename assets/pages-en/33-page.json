@@ -5,13 +5,13 @@
         "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CB_esp.png'>"
+        "image": "<img src='assets/pics/photos/CB_eng.png'>"
     },
     {
         "tag": "event-title",
         "x": "5%",
         "y": "9%",
-        "text1": "Testimonios",
+        "text1": "Testimonies",
         "text2": "Cambodia"
     },
     {
@@ -37,7 +37,7 @@
         "x": "12%",
         "y": "25%",
         "src": "assets/pics/Eventos/camboya/testimonios/1/2-CY-TESTIMONIO-ANNETTE.webp",
-        "text": "Testimonio <br> Hna. <br> Annette Herrera",
+        "text": "Testimony <br> Sis. <br> Annette Herrera",
         "id":"modal-p33-01",
         "imagenes_evento":[
             {
@@ -51,7 +51,7 @@
         "x": "62%",
         "y": "29%",
         "class": "full-subtitle",
-        "text": "Cambodia fue un lugar <br> donde Dios..."
+        "text": "Cambodia is a place where God..."
     },
     {
         "x": "62%",
@@ -66,8 +66,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VIAJE MISIONERO A CAMBODIA<br><br>TESTIMONIO HNA. ANNETTE HERRERA<br><br>",
-            "content": "Cambodia fue un lugar donde Dios verdaderamente se movió en mi corazón para poder aportar al ministerio. FDV ha depositado en mí en tantas maneras y ahora es una bendición espiritual que trae paz y gozo a mi corazón, el poder derramar eso que se había depositado en mí para otros. Cada vez que me encontraba detrás del lente de las cámaras, podía ver como en cámara lenta lo que Dios había creado y aunque nuestras culturas se veían tan diferentes, pude ver como tenemos los mismos deseos y necesidades en nuestros corazones. Es muy importante escuchar a Dios cuando te pide darle una palabra a alguien. Esa persona sabe que Dios lo escucha, porque Dios te usa a tí para declarar vida sobre él. Esos momentos especiales, donde Dios me usó, fueron de gran bendición y es algo que verdaderamente me transformó.<br><br>No solamente pude declarar vida hacia otras personas, sino también muchas cosas me fueron confirmadas, <i>“Dios me quiere enseñar cosas más grandes en el caminar con Él”.</i>"
+            "title": "<br>MISSIONARY TRIP TO CAMBODIA<br><br>TESTIMONY SIS ANNETTE HERRERA<br><br>",
+            "content": "Cambodia is a place where God truly moved in my heart to step up to ministry. FTC has deposited into me in so many ways and to be able to pour that back unto others is a spiritual blessing that brings peace and joy to my heart. Every time my eyes opened behind the lens of my camera, it was like a slow-motion view that really allowed me to see God’s beautiful creation and see how our cultures can look so different; yet, we all have the same desires and needs in our hearts. It is very important to listen when God is asking you to speak a word unto someone. That person knows God hears them because God uses you to speak life into someone’s marriage or situation. Those special moments when God used me were a true blessing and something that truly transformed me. <br><br>Not only was I able to speak life unto others but things were confirmed to me as well, <i>“God wants to show me bigger things in my walk with Him.”.</i>"
         }
     },
     {
@@ -86,7 +86,7 @@
             {   
                 "id": "page32-1",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/spa_testimonio_hna _annette.m4a"
+                "url": "./assets/audios/eng_testimonio_hna _annette.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
@@ -99,7 +99,7 @@
         "x": "12%",
         "y": "39%",
         "src": "assets/pics/Eventos/camboya/testimonios/2/2-CY-TESTIMONIO-NANCY.webp",
-        "text": "Testimonio <br> Hna. <br> Nancy Pagán",
+        "text": "Testimony <br> Sis. <br> Nancy Pagan",
         "id":"modal-p33-01",
         "imagenes_evento":[
             {
@@ -117,7 +117,7 @@
         "x": "62%",
         "y": "43%",
         "class": "full-subtitle",
-        "text": "Uno de los <br> acontecimientos que..."
+        "text": "One of the events that impacted my..."
     },
     {
         "x": "62%",
@@ -132,8 +132,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VIAJE MISIONERO A CAMBODIA<br><br>TESTIMONIO HNA. NANCY PAGAN<br><br>",
-            "content": "Uno de los acontecimientos que impactó mi vida fuertemente en este viaje, fue la conexión que tuvimos con nuestras hermanas de Cambodia en la conferencia de mujeres. El Espíritu del Señor nos unió de una manera impactante; lloramos, nos abrazamos y aunque no nos podíamos comunicar, el Señor nos unió en un mismo espíritu. Las alabanzas con la música de Cambodia me llevaron a un lugar altísimo, y el Señor me mostraba que la diferencia de idioma no era una barrera para exaltarle.<br><br>Otra experiencia que también me impactó, fue la unidad que había entre todos los hermanos de Fuente de Verdad; que, aunque no nos conocíamos mucho, algunos, nos pudimos unir en un mismo espíritu con un corazón de servicio y dar lo mejor de nosotros. Poder compartir con los niños y las familias de las aldeas, y ayudar con las necesidades de nuestros hermanos allí, fue de gran bendición para nuestro corazón.<br><br>La lección para mi vida en este viaje misionero, es la de valorar cada día más las bendiciones que Dios nos ha dado, y sobre todo enseñarles a mis hijas y a mi familia lo bendecidos que somos; muchas veces renegamos y exigimos tanto, cuando otros se conforman con lo que tienen sin reclamar nada.  Este viaje también me enseñó a seguir apoyando las misiones, y a motivar a otros a apoyar nuestras obras misioneras."
+            "title": "<br>MISSIONARY TRIP TO CAMBODIA<br><br>TESTIMONY FROM SIS NANCY PAGAN<br><br>",
+            "content": "One of the events that impacted my life greatly on this trip was the connection we had with the sisters from Cambodia in the women’s conference. The Spirit of the Lord united us in a very impactful way; we cried, we hugged, and even though we couldn’t really communicate, the Lord united us in one spirit. The worship with music from Cambodia took me to a higher place, and the Lord would show me that the difference in language was not a barrier to praise him.<br><br>Another experience that impacted me was the unity that was between the brethren of Fountain of Truth. Even though some of us didn’t know each other, we were still able to connect in one same spirit with a heart of service and were able to give our best effort. To be able to share with the kids and families of the villages and to help with the necessities from our brethren there, truly was a great blessing to our heart.<br><br>The lesson for my life in this missionary trip, is to value day by day all the blessings that God has granted us, and above all to show my daughters and family how blessed we really are. Many times we complain and demand so much, when other people conform with what they have without complaining about anything. This trip also has taught me to keep supporting our missions and to motivate others to support our missionary works."
         }
     },
     {
@@ -152,7 +152,7 @@
             {   
                 "id": "page32-2",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/esp_testimonio_hna_nancy_pagan.m4a"
+                "url": "./assets/audios/eng_testimonio_hna_nancy_pagan.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
@@ -165,7 +165,7 @@
         "x": "12%",
         "y": "56.5%",
         "src": "assets/pics/Eventos/camboya/testimonios/3/2-CY-TESTIMONIO-ESPOSOSCLARK.webp",
-        "text": "Testimonio <br> esposos Clark",
+        "text": "Testimony <br> From <br>  The Clark’s",
         "id":"modal-p33-01",
         "imagenes_evento":[
             {
@@ -199,7 +199,7 @@
         "x": "62%",
         "y": "58%",
         "class": "full-subtitle",
-        "text": "¡Paz de Cristo! Mi <br> nombre es Billie y el..."
+        "text": "Praise the Lord! My name is Billie and my..."
     },
     {
         "x": "62%",
@@ -214,8 +214,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>VIAJE MISIONERO A CAMBODIA<br><br>TESTIMONIO ESPOSOS CLARK<br><br>",
-            "content": "¡Paz de Cristo!  Mi nombre es Billie y el de mi esposa Arielle.  Tuvimos el placer de trabajar y reclutar al grupo de FDV Rancho para visitar el campo misionero en Cambodia. <i>“Nuestras vidas han cambiado para siempre”. </i>Pensamos que íbamos a ayudar, a bendecir, a edificar, pero fue al contrario, ellos nos cambiaron a nosotros. Nunca olvidaremos los sonidos, los olores, todo lo que vimos, vivimos y experimentamos.  Lo más importante fueron las sonrisas de las personas de allí, que siempre estarán en nuestros corazones. ¡Son personas maravillosas que están llenas del Espíritu de Dios!  Siempre estaremos agradecidos por la experiencia que vivimos y animamos a todos los hermanos y hermanas que puedan unirse a nosotros la próxima vez en el campo misionero.  ¡Dios les bendiga!"
+            "title": "<br>MISSIONARY TRIP TO CAMBODIA<br><br>TESTIMONY FROM THE CLARK’S<br><br>",
+            "content": "Praise the Lord! My name is Billie and my wife’s name is Arielle. We had the pleasure of working and recruiting the team of FTC Rancho so we could go and be launched to the missionary field of Cambodia. <i>“Our lives have been changed forever”. </i>We thought we were going to help, bless, and edify but it was quite the opposite, they changed us. We will never forget the sounds, smells, sights, and life experiences. The most important thing that we got to see were the smiles of the local people that will forever be in our hearts. They are marvelous people that are filled with the Spirit of God! We will always be grateful for the experience that we had and we encourage all the brethren to join us the next time we go to the missionary field. God bless!"
         }
     },
     {
@@ -234,7 +234,7 @@
             {   
                 "id": "page32-3",
                 "icon": "./assets/pics/icons/iconEscucha.webp",
-                "url": "./assets/audios/esp_testimonio_esposos_clark.m4a"
+                "url": "./assets/audios/eng_testimonio_esposos_clark.m4a"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
@@ -247,7 +247,8 @@
         "x": "30%",
         "y": "70%",
         "src": "assets/pics/Eventos/camboya/experiencia/modal.jpg",
-        "text": "<strong>Fotos viaje misionero Cambodia</strong>",
+        "text": "<strong>Photos missionary trip Cambodia</strong>",
+        "width":"50%",
         "id":"modal-p33-01",
         "imagenes_evento":[
             {

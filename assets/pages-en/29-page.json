@@ -5,7 +5,7 @@
         "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+        "image": "<img src='assets/pics/photos/CO_eng.png'>"
     },
     {
         "x": "61%",
@@ -30,7 +30,8 @@
         "x": "12%",
         "y": "5%",
         "src": "assets/pics/Eventos/colombia/cali/bautismos/4-CO-CALI-BAUTISMOSNOMBRE.webp",
-        "text": "Bautismos <br> en el Nombre <br> de Jesús",
+        "text": "Baptsms In The Name Of Jesus",
+        "width":"38%",
         "id":"modal-p29-01",
         "imagenes_evento":[
             {
@@ -68,14 +69,15 @@
         "x": "63%",
         "y": "9%",
         "class": "full-subtitle",
-        "text": "“Avanzando hacia el reino”<br>Agosto 2022"
+        "text": "“Advancing The Kingdom”<br>August 2022"
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "19%",
         "src": "assets/pics/Eventos/colombia/cali/ella/4-CO-CALI-MINISTERIOELLA.webp",
-        "text": "Ministerio <br> Ella",
+        "text": "She Ministry",
+        "width":"20%",
         "id":"modal-p29-01",
         "imagenes_evento":[
             {
@@ -109,7 +111,8 @@
         "x": "63%",
         "y": "20%",
         "class": "full-subtitle",
-        "text": "Celebramos un servicio <br> bajo el tema..."
+        "text": "We celebrated a service with the title...",
+        "width":"30%"
     },
     {
         "x": "63%",
@@ -124,8 +127,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>MINISTERIO “ELLA”<br>Un corazón transformado, es un hogar renovado<h6>Noviembre 2022</h6>",
-            "content": "Celebramos un servicio bajo el tema: ¿Cómo está tu corazón? Dios ministró el corazón de cada mujer. Al final, entregamos algunos detalles a las asistentes."
+            "title": "<br>“SHE” MINISTRY<br>A transformed heart, is a renewed home<h6>November 2022</h6>",
+            "content": "We celebrated a service with the title: How is your heart?<br> God ministered to every woman’s heart. At the end, we gave a few gifts to the attendees."
         }
     },
     {
@@ -146,7 +149,8 @@
         "x": "12%",
         "y": "48%",
         "src": "assets/pics/Eventos/colombia/santa_marta/almuerzo/5-CO-CALI-ALMUERZOPARQUE.webp",
-        "text": "Almuerzo <br> en el parque",
+        "text": "LUNCH AT THE PARK",
+        "width":"40%",
         "id":"modal-p29-01",
         "imagenes_evento":[
             {
@@ -158,16 +162,17 @@
     {
         "tag": "event-subtitle",
         "x": "63%",
-        "y": "50%",
+        "y": "49%",
         "class": "full-subtitle",
-        "text": "Es más bienaventurado <br>dar que recibir “Amamos a los jóvenes”"
+        "width":"30%",
+        "text": "Is more blessed to give than to receive “We love our youth”"
     },
     {
         "tag": "event-container",
         "x": "30%",
         "y": "58%",
         "src": "assets/pics/Eventos/colombia/santa_marta/accion_gracias/5-CO-CALI-DIAACCIONGRACIAS.webp",
-        "text": "Dia de <br> Acción <br> de Gracias",
+        "text": "Thanksgiving <br>Day",
         "id":"modal-p29-01",
         "imagenes_evento":[
             {
@@ -197,7 +202,7 @@
         "x": "30%",
         "y": "72%",
         "src": "assets/pics/Eventos/colombia/santa_marta/reunion/5-CO-CALI-REUNIONHERMANOS.webp",
-        "text": "Reunión <br> con hermanos",
+        "text": "Meeting <br>with Brothers",
         "id":"modal-p29-01",
         "imagenes_evento":[
             {
@@ -223,7 +228,8 @@
         "x": "30%",
         "y": "85%",
         "src": "assets/pics/Eventos/colombia/santa_marta/jovenes/5-CO-CALI-REUNIONJOVENES.webp",
-        "text": "Reunión <br> de Jóvenes",
+        "text": "Youth Meeting",
+        "width":"20%",
         "id":"modal-p29-01",
         "imagenes_evento":[
             {

@@ -426,7 +426,7 @@ const addComponents = (region, lang) => {
                                 <h3>${region.date}</h3>
                                 <div class="action">
                                     <button data-id="${region.id}" data-imagenes='${videos}' onclick="evento(this)" class="video-button">
-                                        Ver Fotos
+                                        ${region.boton1}
                                     </button>
                                     
                                 </div>
@@ -460,7 +460,7 @@ const addComponents = (region, lang) => {
                                 ${region.texthtml}
                                 <div class="action">
                                     <button data-id="${region.id}" class="video-button" data-imagenes='${imagenesfdv}' onclick="evento(this)">
-                                        Ver Fotos
+                                        ${region.boton1}
                                     </button>
                                     ${boton}
                                 </div>
@@ -473,7 +473,7 @@ const addComponents = (region, lang) => {
         case 'fdv-logo': 
             element = `<div>
                             <img style="width: 20px" src="assets/pics/icons/fdvLogo.png">
-                            <p> FDV GLOBAL</p>
+                            <p> ${region.text}</p>
                         </div>
             `
             break;

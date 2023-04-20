@@ -5,7 +5,7 @@
         "width":"90%",
         "tag": "author-pic",
         "class": "author-image",
-        "image": "<img src='assets/pics/photos/CO_esp.png'>"
+        "image": "<img src='assets/pics/photos/CO_eng.png'>"
     },
     {
         "tag": "event-title",
@@ -18,7 +18,7 @@
         "tag": "pastor-name",
         "x": "5%",
         "y": "16%",
-        "text": "Álvaro Alexander Ocampo Cañas, Pastor"
+        "text": "Alvaro Alexander Ocampo Cañas, Pastor"
     },
     {
         "x": "61%",
@@ -43,7 +43,8 @@
         "x": "12%",
         "y": "20%",
         "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOPASTOR.webp",
-        "text": "Lanzamiento <br> 1er Pastor",
+        "text": "Launching 1st Pastor",
+        "width":"40%",
         "id":"modal-p27-01",
         "imagenes_evento":[
             {
@@ -89,7 +90,8 @@
         "x": "62%",
         "y": "21%",
         "class": "full-subtitle",
-        "text": "El Obispo Samuel <br> Valverde en compañia..."
+        "text": "Bishop Samuel Valverde and Pastor...",
+        "width":"34%"
     },
     {
         "x": "62%",
@@ -104,8 +106,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>LANZAMIENTO OFICIAL<br>1ER. PASTOR DE FUENTE DE VERDAD BOGOTÁ",
-            "content": "Mayo 2022<br>El Obispo Samuel Valverde en compañía del Pastor Álvaro Ocampo visitó la ciudad de Bogotá, con el fin de atender a un grupo de personas que se habían comunicado por medio de correos electrónicos, mensajes y llamadas telefónicas, en las que solicitaban que nuestra visión de “Cada Corazón Sanado” llegara a esta hermosa ciudad. En esta visita fue oficializado como pastor en la zona sur de Bogotá, localidad de Bosa, el hermano Jairo Roberto Rozo."
+            "title": "<br>OFFICIAL LAUNCH<br>1st. PASTOR OF FOUNTAIN OF TRUTH BOGOTA",
+            "content": "May 2022<br>Bishop Samuel Valverde and Pastor Alvaro Ocampo visited the city of Bogota with the goal to attend a group of people that had been communicating through emails, messages, and phone calls, in which they would request for our vision of “Every Heart Healed” to arrive in their city. During this visit, brother Roberto Rozo was officialized as the pastor of the southern zone of Bogota called Bosa."
         }
     },
     {
@@ -113,7 +115,8 @@
         "x": "12%",
         "y": "30%",
         "src": "assets/pics/Eventos/colombia/bogota/2-CO-BOGOTA-LANZAMIENTOIGLESIA.webp",
-        "text": "Lanzamiento <br> Oficial <br> de la iglesia",
+        "text": "Official Launch Of The Church",
+        "width":"48%",
         "id":"modal-p27-01",
         "imagenes_evento":[
             {
@@ -147,7 +150,8 @@
         "x": "62%",
         "y": "33%",
         "class": "full-subtitle",
-        "text": "¡Fue una evento de gran gozo! Nos acompaño..."
+        "text": "It was an event of great joy! A very well...",
+        "width":"36%"
     },
     {
         "x": "62%",
@@ -162,29 +166,29 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>LANZAMIENTO OFICIAL<br>IGLESIA FUENTE DE VERDAD CHAPINERO, BOGOTÁ<h6>27 de noviembre de 2022</h6>",
-            "content": "<b>Asistencia:</b> 500 personas aproximadamente.<br>¡Fue un evento de gran gozo!<br>Nos acompañó un grupo musical muy reconocido. Contamos con la compañía del obispo Samuel Valverde y la primera dama Raquel Valverde, asimismo hubo delegaciones de varias partes del país. El obispo realizó una poderosa oración al finalizar el evento, después de un hermoso mensaje sobre “Las Heridas de Cristo”. Este evento causó un gran impacto en Bogotá. La misión FDV en Colombia tiene un gran futuro."
+            "title": "<br>OFFICIAL LAUNCH<br>FOUNTAIN OF TRUTH CHURCH CHAPINERO, BOGOTA<h6>November 27, 2022</h6>",
+            "content": "<b>Assistance:</b> approximately 500 people.<br>It was an event of great joy!<br>A very well known music group visited us. Bishop Samuel Valverde’s and first lady Raquel Valverde, as well as other delegations of the country was also present. Bishop made a powerful prayer at the end of the event, after a beautiful message of “The Wounds of Christ”. This event caused a great impact in Bogota. The FTC mission of Colombia has a great future."
         }
     },
     {
         "tag": "event-title",
         "x": "5%",
         "y": "55%",
-        "text1": "Medellín",
+        "text1": "Medellin",
         "text2": "Colombia"
     },
     {
         "tag": "pastor-name",
         "x": "5%",
         "y": "61%",
-        "text": "Anderson Sneyder Londoño López, Pastor"
+        "text": "Anderson Sneyder Londoño Lopez, Pastor"
     },
     {
         "tag": "event-container",
         "x": "12%",
         "y": "65%",
         "src": "assets/pics/Eventos/colombia/medellin/kids/3-CO-MEDELLIN-INICIOMISIONKIDS.webp",
-        "text": "inicio <br> Misión Kids",
+        "text": "Mission <br> Start Kids",
         "id":"modal-p27-01",
         "imagenes_evento":[
             {
@@ -198,7 +202,7 @@
         "x": "63%",
         "y": "67%",
         "class": "full-subtitle",
-        "text": "Con la ayuda del Señor <br> se pudo iniciar el..."
+        "text": "With the Lord’s help we were able to start..."
     },
     {
         "x": "63%",
@@ -213,8 +217,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>INICIO MISIÓN KIDS <h6>Marzo de 2022 </h6>",
-            "content": "Con la ayuda del Señor se pudo iniciar el programa de Misión Kids, teniendo 2 sitios donde se enseñaba a cada uno de los presentes, del amor de Dios. Contamos con un total de 29 niños asistiendo."
+            "title": "<br>MISSION START KIDS<h6>March of 2022</h6>",
+            "content": "With the Lord’s help we were able to start the Mission Kids program, having 2 sites where they teach each child present, the love of God. We count with a total of 29 kids in assistance."
         }
     },
     {
@@ -222,7 +226,8 @@
         "x": "12%",
         "y": "78%",
         "src": "assets/pics/Eventos/colombia/medellin/vuelve_a_casa/3-CO-MEDELLIN-SEMANARENOVACION.webp",
-        "text": "Semana <br> de Renovación <br> Vuelve a casa",
+        "text": "Renovation Week <br>Come Home",
+        "width":"40%",
         "id":"modal-p27-01",
         "imagenes_evento":[
             {
@@ -236,7 +241,8 @@
         "x": "63%",
         "y": "81%",
         "class": "full-subtitle",
-        "text": "Semana evangelística <br> donde se predicó la..."
+        "text": "Evangelistic week where word was...",
+        "width":"30%"
     },
     {
         "x": "63%",
@@ -251,8 +257,8 @@
         "class": "",
         "text": "<img src='assets/pics/icons/iconos_leermas2.png'>",
         "data": {
-            "title": "<br>SEMANA DE RENOVACIÓN “VUELVE A CASA” <br>20 al 24 de julio de 2022</h6>",
-            "content": "Semana evangelística donde se predicó la Palabra, siendo el objetivo principal buscar rescatar a aquellos hermanos que estaban alejados del Señor."
+            "title": "<br>RENOVATION WEEK “COME HOME”<br>July 20-24 of 2022</h6>",
+            "content": "Evangelistic week where word was preached, with the main objective being to rescue the brethren that have strayed from the Lord."
         }
     }
 ]

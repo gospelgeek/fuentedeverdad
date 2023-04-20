@@ -81,6 +81,8 @@ function loadPage(page, pageElement, lang) {
     }else if(page == 42 && lang == 'en'){
         var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { muted: true, playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '_eng.mp4', loop: true, 'class': 'backVideo' + page }));
         video.appendTo(pageElement)
+    }else if(page==37 && lang == 'en'){
+        checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '-eng.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
     }else{
     checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
     }
