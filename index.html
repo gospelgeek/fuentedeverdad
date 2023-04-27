@@ -128,11 +128,15 @@
                     // Create the flipbook
 
                     flipbook.turn({
+                        
+                        width: $(window).width(),
 
                         height: $(window).height(),
 
-                        // Duration in millisecond
+                        responsive: true,
 
+                        // Duration in millisecond
+                        
                         duration: 1000,
 
                         // Hardware acceleration
