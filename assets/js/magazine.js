@@ -73,18 +73,22 @@ function loadPage(page, pageElement, lang) {
 
     let background_diferent = [3,8,38,39,48,49]
 
-    let background_jpg = [37,50]
+    let background_jpg = [37]
     
+    let background_gif = [42,50]
+
     if(page == 10){
         video = $('<div/>', { 'class': 'videoPages' }).append($('<video />', { muted: "muted", id: "page-10-video", src: 'assets/pics/backgrounds/' + page + '.mp4', 'class': 'backVideo' + page }));
         video.appendTo(pageElement)
-    }else if(page == 42 && lang == 'en'){
-        var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { muted: true, playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '_eng.mp4', loop: true, 'class': 'backVideo' + page }));
-        video.appendTo(pageElement)
-    }else if(page==37 && lang == 'en'){
-        checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '-eng.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
+    }
+    else if((page==37 || page == 42  || page == 50) && lang == 'en'){
+        checkImage((background_diferent.includes(page)) ? 'assets/pics/backgrounds/' + page + '.png' : 
+        (background_jpg.includes(page)) ? 'assets/pics/backgrounds/' + page + '-eng.jpg' : 
+        (background_gif.includes(page)) ? 'assets/pics/backgrounds/' + page + '-eng.gif' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
     }else{
-    checkImage((background_diferent.includes(page))? 'assets/pics/backgrounds/' + page + '.png' : (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
+        checkImage((background_diferent.includes(page)) ? 'assets/pics/backgrounds/' + page + '.png' : 
+        (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 
+        (background_gif.includes(page)) ? 'assets/pics/backgrounds/' + page + '.gif' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
     }
 
     loadRegions(page, pageElement, lang);
@@ -107,7 +111,8 @@ function checkImage(url, img, element, page) {
                 if(page == 44 || page == 45 || page == 4 || page == 5 || page == 38 || page == 39){
                     var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '.webm', loop: true, 'class': 'backVideo' + page }));
                     video.appendTo(element)
-                }else{
+                }    
+                else{
                     var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { muted: true, playsinline: true, autoplay: true, src: 'assets/pics/backgrounds/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
                     video.appendTo(element)
                 }
