@@ -87,7 +87,7 @@ function loadPage(page, pageElement, lang) {
         (background_gif.includes(page)) ? 'assets/pics/backgrounds/' + page + '-eng.gif' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
     }else{
         checkImage((background_diferent.includes(page)) ? 'assets/pics/backgrounds/' + page + '.png' : 
-        (background_jpg.includes(page)) ?'assets/pics/backgrounds/' + page + '.jpg' : 
+        (background_jpg.includes(page)) ? 'assets/pics/backgrounds/' + page + '.jpg' : 
         (background_gif.includes(page)) ? 'assets/pics/backgrounds/' + page + '.gif' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
     }
 
