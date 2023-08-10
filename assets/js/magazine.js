@@ -24,7 +24,7 @@ if (book.turn('addPage', element, page)) {
     // Add the initial HTML
     // It will contain a loader indicator and a gradient
 
-    if (page !== 1  && page !== pages && page !== 2) {
+    if (page !== 1  && page !== pages && page !== 2 && page !== 3 && page !== 50 && page !== 51) {
         if (lang == 'es') {
             if(page % 2 == 0){
                 element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + (page-1) + '-Publicación Misiones Globales</div>')
@@ -71,17 +71,17 @@ function loadPage(page, pageElement, lang) {
         pageElement.find('.loader').remove();
     });
 
-    let background_diferent = [3,8,38,39,48,49]
+    let background_diferent = [8,38,39,48,49,51]
 
     let background_jpg = [37]
     
-    let background_gif = [42,50]
+    let background_gif = [42,52]
 
     if(page == 10){
         video = $('<div/>', { 'class': 'videoPages' }).append($('<video />', { muted: "muted", id: "page-10-video", src: 'assets/pics/backgrounds/' + page + '.mp4', 'class': 'backVideo' + page }));
         video.appendTo(pageElement)
     }
-    else if((page==37 || page == 42  || page == 50) && lang == 'en'){
+    else if((page==37 || page == 42  || page == 52) && lang == 'en'){
         checkImage((background_diferent.includes(page)) ? 'assets/pics/backgrounds/' + page + '.png' : 
         (background_jpg.includes(page)) ? 'assets/pics/backgrounds/' + page + '-eng.jpg' : 
         (background_gif.includes(page)) ? 'assets/pics/backgrounds/' + page + '-eng.gif' : 'assets/pics/backgrounds/' + page + '.webp', img, pageElement, page)
