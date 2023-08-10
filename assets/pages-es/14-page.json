@@ -238,5 +238,21 @@
             "title": "<br>1er. ANIVERSARIO FDV PLANO, TEXAS<h6>Abril 11-12 de 2022<h6>",
             "content": "¡Fin de semana de victoria! Este fin de semana tuvimos conferencia para parejas, 3 nuevos bautismos y celebración de Santa Cena por primera vez en nuestra congregación,  auspiciada por nuestro Obispo Samuel Valverde. Hubo llenura del Espíritu Santo para nuevos hermanos, definitivamente este fin de semana marcó otro periodo especial en la historia de nuestra congregación.<br><br>Pastor Edwin Camilo Moreno"
         }
+    },
+    {
+        "x": "-8%",
+        "y": "88%",
+        "width": "115%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Esta generación de cristianos es responsable por ésta generación de almas”.</p><p style='text-align: center;'>Keith Green</p>"
+        }
     }
 ]

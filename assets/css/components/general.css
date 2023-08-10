@@ -655,7 +655,7 @@ div[page="7"] .page.p7 .region.video-entrevista video {
 }
 @media (max-width: 600px) {
   .region.text-page11 p {
-    font-size: 10px;
+    font-size: 9px;
   }
   .region.image-page11 img {
     width: 90%;
@@ -1116,9 +1116,9 @@ div[page="7"] .page.p7 .region.video-entrevista video {
   .nombres-p20 {
     font-size: 9px;
   }
-  .region.read-more-p20 {
+  /*.region.read-more-p20 {
     top: 90% !important;
-  }
+  }*/
 }
 @media (max-width: 600px) {
   .page.p49 .region.image-page48 {

@@ -239,5 +239,21 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "-5%",
+        "y": "82%",
+        "width": "110%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 1em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Nunca te quedes con los brazos cruzados, cuando el Salvador del mundo murió con los brazos abiertos”.</p><p style='text-align: center;'>José Luis Prieto</p>"
+        }
     }
 ]

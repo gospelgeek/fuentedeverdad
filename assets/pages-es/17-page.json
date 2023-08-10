@@ -278,5 +278,21 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "-10%",
+        "y": "80.5%",
+        "width": "114.8%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.9em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“La gran comisión no es una opción para ser considerada, sino un mandamiento para ser obedecido”.</p><p style='text-align: center;'>Hudson Taylor</p>"
+        }
     }
 ]

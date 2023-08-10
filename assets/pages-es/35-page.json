@@ -338,5 +338,21 @@
             "title": "<br>CENA DE AMIGOS<h6>29 de agosto de 2022<br>Bajo el lema: “Que se llene mi casa”</h6>",
             "content": "Tuvimos una hermosa cena de amigos, invitamos a amigos de diferentes lugares y tuvimos una noche increíble. Dios restauró corazones de una manera inexplicable, se abrieron muchas puertas, muchos hogares abrieron sus corazones a la palabra del Señor."
         }
+    },
+    {
+        "x": "-10%",
+        "y": "79%",
+        "width": "120%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.75em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Solo la iglesia que cumple con su deber misionero justifica su existencia”.</p><p style='text-align: center;'>Anónimo</p>"
+        }
     }
 ]

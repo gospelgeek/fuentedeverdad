@@ -357,5 +357,21 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "-10%",
+        "y": "88.5%",
+        "width": "120%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.75em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“La Iglesia que no está involucrada en misiones no está completa”.</p><p style='text-align: center;'>Dr. Idilio Pardillo</p>"
+        }
     }
 ]

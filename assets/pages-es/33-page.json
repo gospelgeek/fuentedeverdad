@@ -443,5 +443,21 @@
                 "src":"assets/pics/Eventos/camboya/experiencia/48.jpg"
             }
         ]
+    },
+    {
+        "x": "-11%",
+        "y": "87%",
+        "width": "120%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.8em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Tu y yo no tenemos el derecho de escuchar el evangelio dos veces, cuando hay personas que no lo han oído por primera vez.”</p><p style='text-align: center;'>Oswald J. Smith</p>"
+        }
     }
 ]
