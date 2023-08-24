@@ -3717,6 +3717,18 @@ line-height: 14px;
     #box-text-page-12-01{
         left: 12% !important; 
     }
+    .region.formulario-obra-misionera img {
+        width: 50px !important;
+    }
+    .region.formulario-obra-misionera form ul {
+        gap: 7px !important;
+    }
+    .region.formulario-obra-misionera form ul li {
+        padding: 0px 17px !important;
+    }
+    .pag-44-title{
+        top: 0% !important;
+    }
 }
 
 #wordsButtonImprimir{
@@ -3842,3 +3854,54 @@ line-height: 14px;
         height: 75% !important;
     }
 }
+
+
+#box-text-page-03,.p3,.p50{
+    background-color: #000 !important;
+}
+.contenedor-p50-principal {
+    display: grid;
+    grid-template-columns: 1fr 6fr 1fr; /* 1fr a la izquierda, 6fr en el medio y 1fr a la derecha */
+    gap: 10px;
+    margin: 0 auto;
+    padding: 15px;
+    margin-bottom: 3%;
+}
+
+.contenedor-p50-izquierda {
+    display: flex;
+    flex-direction: column;
+    gap: 7.2%;
+}
+
+.contenedor-p50-centro {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* 6 columnas a lo ancho */
+    grid-template-rows: repeat(7, 1fr); /* 7 filas a lo largo */
+    gap: 0px; /* Espacio entre las imágenes */
+}
+
+.contenedor-p50-derecha {
+    display: flex;
+    flex-direction: column;
+    gap: 7.2%;
+}
+
+.imagen-p50 {
+    width: 100%; /* Asegura que la imagen ocupe todo el espacio disponible en su celda */
+    height: 55px; /* Asegura que la imagen ocupe todo el espacio disponible en su celda */
+    object-fit: contain; /* Ajusta la imagen para que cubra toda su celda */
+}
+
+.imagen-circular {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; /* Hace que la imagen sea circular */
+    overflow: hidden; /* Oculta cualquier parte de la imagen que esté fuera del círculo */
+}
+.imagen-circular img{
+    object-fit: cover;
+    height: 50px;
+}
+
+

@@ -342,5 +342,21 @@
             "title": "<br>FRIEND’S DINNER<h6>August 29 of 2022<br>Theme: “That My House Gets Filled”</h6>",
             "content": "We had a beautiful friend’s dinner with guests from different places. We had an incredible night. God restored hearts in an inexplicable manner, doors were open, many homes opened their hearts to the word of the Lord."
         }
+    },
+    {
+        "x": "-10%",
+        "y": "79%",
+        "width": "120%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.75em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Solo la iglesia que cumple con su deber misionero justifica su existencia”.</p><p style='text-align: center;'>Anónimo</p>"
+        }
     }
 ]

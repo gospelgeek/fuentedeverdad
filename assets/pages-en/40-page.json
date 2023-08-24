@@ -1,7 +1,7 @@
 [  
     {
         "x": "0%",
-        "y": "5%",
+        "y": "2%",
         "width": "100%",
         "class": "sopa-de-letras-title",
         "styleBox": "width: 65%; height: auto !important;",
@@ -17,7 +17,7 @@
     },
     {
         "x": "0",
-        "y": "15%",
+        "y": "10%",
         "class": "sopa-de-letras",
         "zIndex": "1",
         "width": "100%",

@@ -17,15 +17,15 @@ const addComponents = (region, lang) => {
         case 'div':
             element = addSVG('<div class="' + region.class + '">' + region.data.content + '</div>', region)
             break;
-    
+
         case 'a':
             element = addSVG('<a class="' + region.class + '" href="' + region.data.href + '" target="blank_">' + region.data.content + '</div>', region)
             break;
-    
+
         case 'inputs':
             element = addSVG('<div class="">' + region.data.content + '</div>', region)
             break;
-    
+
         case 'section':
             element = addSVG('<div><img src=' + region.data.src + '><p style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml">' + region.data.content + '</p></div>', region)
             break;
@@ -37,8 +37,8 @@ const addComponents = (region, lang) => {
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a ' + region.id + '" id="a-'+region.id+'" data-modal="'+region.id+'" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
-    
+                addSVG('<a ' + region.id + '" id="a-' + region.id + '" data-modal="' + region.id + '" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">' + region.text, region))
+
             break;
 
         case 'modal-pequeno':
@@ -48,35 +48,35 @@ const addComponents = (region, lang) => {
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<img>', { src: region.data.src, class: 'title-modal' }),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a ' + region.id + '" id="a-'+region.id+'" data-modal="'+region.id+'" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">'+region.text, region))
-    
+                addSVG('<a ' + region.id + '" id="a-' + region.id + '" data-modal="' + region.id + '" onclick="abrirmodal(this)" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">' + region.text, region))
+
             break;
         case 'modal-2':
             element = $('<div/>', { class: 'content-modal modal-lg' }).append(
-                    $('<div/>', { id: region.id, class: 'modal imagenes' }).append(
-                        $('<div/>', {class:'carousel-container'}),
-                        $('<button/>', { id:region.id+'1', class: 'prev-btn-modal' }),
-                        $('<button/>', { id:region.id+'2', class: 'next-btn-modal' }),
-                        ))
-        
-            break;    
+                $('<div/>', { id: region.id, class: 'modal imagenes' }).append(
+                    $('<div/>', { class: 'carousel-container' }),
+                    $('<button/>', { id: region.id + '1', class: 'prev-btn-modal' }),
+                    $('<button/>', { id: region.id + '2', class: 'next-btn-modal' }),
+                ))
+
+            break;
         case 'audio':
             element = $('<div/>', { class: 'content-audio' }).append(
-                    addSVG('<a style="position:absolute;"class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region),
-                    '<audio id="' + region.id + '" class="audioPage" controls = true src="' + region.data.src + '"></audio>')
-            break;    
+                addSVG('<a style="position:absolute;"class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region),
+                '<audio id="' + region.id + '" class="audioPage" controls = true src="' + region.data.src + '"></audio>')
+            break;
         case 'content-text':
-            var recorrer = "";        
-            for (x of region.data){
-                    recorrer += x.titulo + x.autor + x.cargo + x.pagina 
+            var recorrer = "";
+            for (x of region.data) {
+                recorrer += x.titulo + x.autor + x.cargo + x.pagina
             }
-            
-            element = '<div class="div-center-ubication-responsive">'+
-                            '<div class="aux-class-content" style="width: 80%; height: 100%;' + region.styleBox +'">'+ 
-                                '<span class="responsive-font-content" style="' + region.style + '">'+ recorrer +
-                                '</span>'+
-                            '</div>'+ 
-                        '</div>'
+
+            element = '<div class="div-center-ubication-responsive">' +
+                '<div class="aux-class-content" style="width: 80%; height: 100%;' + region.styleBox + '">' +
+                '<span class="responsive-font-content" style="' + region.style + '">' + recorrer +
+                '</span>' +
+                '</div>' +
+                '</div>'
             break;
         case 'contenido':
             element = (`<div class="div-center-ubication-responsive">
@@ -86,7 +86,7 @@ const addComponents = (region, lang) => {
                                 </span> 
                             </div> 
                         </div>`)
-            break;                 
+            break;
         case 'share':
             element = '<a href="' + region.data.url + "" + doClick(region.data.page, lang) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
             break;
@@ -99,14 +99,14 @@ const addComponents = (region, lang) => {
         case 'title-content':
             element = (`<div class="div-center-ubication-responsive"><span class="responsive-font" style="${region.style}" >${(region.data).text}</span></div>`)
             break;
-        
+
         case 'botones-idomas':
             element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 33.3% 33.3% 33.3%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[0].id}')"><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[1].id}')"><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[2].id}')"><img src="${(region.data)[2].icon}" ></a>`} </div> </div>`)
             break;
         case 'img-content':
             element = (`<div class="div-center-ubication-responsive"> <img src="${region.data.src}" class='aux-img-class' style="width: 70%; height: 100%; object-fit: cover; ${region.style}"> </div>`)
             break;
-        
+
         case 'img-content-2':
             element = (`<div class="div-center-ubication-responsive"> 
                             <div class="img-aux-page-12" style='display: grid; grid-template-rows: 5% 90% 5%; grid-template-columns: 100%;'> 
@@ -120,7 +120,7 @@ const addComponents = (region, lang) => {
         case 'btn-presidente':
             element = (`<div class="div-center-ubication-responsive">
                             <div style='${region.styleBox}'>
-                              <a id='btn-presidente' style='width: 8em; border-radius: 0.7em; background-color: #9a211f;  font-size: 1em;'  onclick="click_autor('${''+region.iframe+''}')" >
+                              <a id='btn-presidente' style='width: 8em; border-radius: 0.7em; background-color: #9a211f;  font-size: 1em;'  onclick="click_autor('${'' + region.iframe + ''}')" >
                                  Ver Video
                               </a>
                             </div>
@@ -142,7 +142,7 @@ const addComponents = (region, lang) => {
             break;
         case 'boton-author':
             element = (`<div class="div-center-ubication-responsive">
-                            <a id="${region.id_1}" class='box-content-img-text' onclick="click_autor('${''+region.iframe+''}')" >
+                            <a id="${region.id_1}" class='box-content-img-text' onclick="click_autor('${'' + region.iframe + ''}')" >
                                 <div id="${region.id_2}" class='box-content-text-autor' style="${region.styleBoxText}" >
                                     <p class='author-class' id="${region.id_3}" style="${region.styleTextAutor}">${region.autor}</p>
                                 </div>
@@ -210,14 +210,14 @@ const addComponents = (region, lang) => {
                 <button  type="submit">Send</button>
             </form>
             <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>`)
-            break;    
+            break;
 
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'></div>" +
                 "<div id='words'></div>" +
-                "<div id='wordsButton'><button class='buttonsGame' id='solve'>"+ region.boton1+"</button><button class='buttonsGame' id='clean'>"+ region.boton2+"</button></div>"
-                +"<div id='wordsButtonImprimir'><a href='#' target='_blank'><img src='./assets/pics/icons/iconImprimir.png'></a></div>"))
-            break;  
+                "<div id='wordsButton'><button class='buttonsGame' id='solve'>" + region.boton1 + "</button><button class='buttonsGame' id='clean'>" + region.boton2 + "</button></div>"
+                + "<div id='wordsButtonImprimir'><a href='#' target='_blank'><img src='./assets/pics/icons/iconImprimir.png'></a></div>"))
+            break;
         case 'select-juego':
 
             element = (`<div class="divGameDrop">
@@ -307,35 +307,35 @@ const addComponents = (region, lang) => {
                         `)
             break;
         case 'botones-conectar':
-                element = (`<div id='select-game'>
+            element = (`<div id='select-game'>
                             <button class='select-Game' onclick="conectar_resolver()">${region.boton1}</button>
                             <button class='select-Game' onclick="conectar_reiniciar()">${region.boton2}</button>
                         </div>`);
-            break;    
+            break;
         case 'tooltip':
             element = $('<a/>', {}).append(
-                    addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
-                    addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
-            break;     
-            
+                addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><img class="main-img" src=' + region.data.src + '></p>', region),
+                addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
+            break;
+
         case 'portada':
             element = (`<div class="page">
                 <div id="animatedBackground"></div>
                 <img src="assets/pics/portada/portada_fondo.png" alt="">
                 <img src="${region.url}" alt="">
             </div>`);
-            break; 
+            break;
         case 'imageIdex':
             element = `<div class="index-image">
                 <img src="assets/pics/general-images/top-index.jpg" alt="">
             </div>`;
-            break; 
+            break;
         case 'page-4-title':
             element = `<div class="page-4-title">
                 <h2>${region.title}</h2>
                 <h1>${region.subtitle}</h1>
             </div>`;
-            break; 
+            break;
         case 'author-pic':
             element = (`<div class="page-3-title">
                     ${region.image}
@@ -343,9 +343,9 @@ const addComponents = (region, lang) => {
             break;
         case 'author-pic-2':
             let imagens = region.imagenes_evento
-                if(imagens != undefined){
-                    imagens = JSON.stringify(region.imagenes_evento)
-                }
+            if (imagens != undefined) {
+                imagens = JSON.stringify(region.imagenes_evento)
+            }
             element = (`<div class="page-3-title">
                 <button  class="evento_abrir" data-id="${region.id}" data-imagenes='${imagens}' onclick="evento(this)">${region.image}</button>
             </div>`);
@@ -355,26 +355,26 @@ const addComponents = (region, lang) => {
             break;
 
         case 'img-2':
-            if(region.lang == "esp"){
-                element = '<a href="./index.html#pagina/'+region.data.pagina +'"> <img src=' + region.data.src + '></a>'
-            }else{
-                element = '<a href="./index-en.html#pagina/'+region.data.pagina +'"> <img src=' + region.data.src + '></a>'
+            if (region.lang == "esp") {
+                element = '<a href="./index.html#pagina/' + region.data.pagina + '"> <img src=' + region.data.src + '></a>'
+            } else {
+                element = '<a href="./index-en.html#pagina/' + region.data.pagina + '"> <img src=' + region.data.src + '></a>'
             }
-            
-            break;         
-            
+
+            break;
+
         case 'event-container':
-                let imagenes = region.imagenes_evento
-                if(imagenes != undefined){
-                    imagenes = JSON.stringify(region.imagenes_evento)
-                }
-                element = `<div class="event-container">
+            let imagenes = region.imagenes_evento
+            if (imagenes != undefined) {
+                imagenes = JSON.stringify(region.imagenes_evento)
+            }
+            element = `<div class="event-container">
                     <div class="image">
                         <button  class="evento_abrir" data-id="${region.id}" data-imagenes='${imagenes}' onclick="evento(this)"><img src="${region.src}"></button>
                     </div>
                     <h3 class="text">${region.text}</h3>
                 </div>`;
-            
+
             break;
         case 'event-container-2':
             element = `<div class="event-container">
@@ -383,39 +383,39 @@ const addComponents = (region, lang) => {
                 </div>
                 <h3 class="text">${region.text}</h3>
             </div>`;
-        
-        break;      
+
+            break;
         case 'event-title':
             element = `<div class="event-title">
                 <p><strong>${region.text1}</strong>${region.text2}</p>
             </div>`;
-            break; 
+            break;
         case 'event-subtitle':
             element = `<div class="event-subtitle">
                 <p>${region.text}</p>
             </div>`;
-            break; 
-        case  'img_container':
+            break;
+        case 'img_container':
             element = `<div id='${region.id}' style="${region.styles}" class="img_container"> 
                             <img style="${region.style_img}" src="${region.src}">
                       </div>`
             break;
-        case 'html_pure': 
+        case 'html_pure':
             element = region.html
             break;
-        case  'answer-container':    
+        case 'answer-container':
             element = `<ul id="answer-container"></ul>`
             break;
-        case 'video-fondo': 
+        case 'video-fondo':
             element = `<video autoplay muted loop playsinline preload="auto" webkit-playsinline id="video-background">
                             <source src="${region.src}" type="video/webm">
                         </video>`
             break;
         case 'fdv-element1':
             let videos = region.imagenes_evento
-            if(videos != undefined){
+            if (videos != undefined) {
                 videos = JSON.stringify(region.imagenes_evento)
-            } 
+            }
             element = `<div>
                             <div class="left">
                                 <h1>${region.title}</h1>
@@ -434,7 +434,7 @@ const addComponents = (region, lang) => {
                         </div>
             `
             break;
-        case 'fdv-element1-2': 
+        case 'fdv-element1-2':
             element = `<div>
                         <div class="left">
                             <h1>${region.title}</h1>
@@ -444,14 +444,14 @@ const addComponents = (region, lang) => {
                             <h3>${region.date}</h3>
                         </div>
                     </div>`
-                break;
+            break;
         case 'fdv-element2':
             let imagenesfdv = region.imagenes_evento
-            if(imagenesfdv != undefined){
+            if (imagenesfdv != undefined) {
                 imagenesfdv = JSON.stringify(region.imagenes_evento)
             }
-            let boton = ""; 
-            if(region.leermas != undefined){
+            let boton = "";
+            if (region.leermas != undefined) {
                 boton = `<button  data-modal="${region.idtext}" onclick="abrirmodal(this)">${region.leermas}</button>`;
             }
             element = `<div>
@@ -470,7 +470,7 @@ const addComponents = (region, lang) => {
                             </div>
                         </div>`
             break;
-        case 'fdv-logo': 
+        case 'fdv-logo':
             element = `<div>
                             <img style="width: 20px" src="assets/pics/icons/fdvLogo.png">
                             <p> ${region.text}</p>
@@ -478,23 +478,32 @@ const addComponents = (region, lang) => {
             `
             break;
 
-        case 'fdv-background': 
+        case 'fdv-background':
             element = `<div class="fondo-azul"></div>`
             break;
 
-        case 'top-entrevista': 
+        case 'top-entrevista':
             element = `<div class="top-entrevista">
                     ${region.text}            
                 </div>`
             break;
-        case 'pastor-name': 
+        case 'pastor-name':
             element = `<div class="pastor-name">
                     <p>${region.text}</p>            
                 </div>`
             break;
+        case 'contenido-50':
+            element = (`<div class="div-center-ubication-responsive">
+                                <div class='aux-class-content' style="width: 100%; height: 100%; ${region.styleBox}"> 
+                                    <span class="responsive-font-content" style="${region.style}" >
+                                        ${(region.data).text}
+                                    </span> 
+                                </div> 
+                            </div>`)
+            break;
         default:
             break;
-            
+
     }
 
     return element
