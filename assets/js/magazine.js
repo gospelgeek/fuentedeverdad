@@ -39,7 +39,11 @@ if (book.turn('addPage', element, page)) {
             }
         }
     } else {
-        element.html('<div class="gradient"></div>');
+        if(page === 3 || page === 50){
+
+        }else{
+            element.html('<div class="gradient"></div>');
+        }
     }
 
     // Load the page
@@ -105,7 +109,7 @@ function checkImage(url, img, element, page) {
         {
             img.attr('src', url);
         } else{
-            if(page == 1 || page == 6 || page ==2 || page == 7){
+            if(page == 1 || page == 6 || page ==2 || page == 7 || page == 3 || page == 50){
 
             }else{
                 if(page == 44 || page == 45 || page == 4 || page == 5 || page == 38 || page == 39){

@@ -237,5 +237,21 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "-5%",
+        "y": "89%",
+        "width": "110%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.7em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Dios usa hombres y mujeres que son lo suficientemente débiles y frágiles como para apoyarse en Él”.</p><p style='text-align: center;'>Hudson Taylor</p>"
+        }
     }
 ]

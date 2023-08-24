@@ -239,5 +239,21 @@
             "title": "<br>1st ANNIVERSARY FTC PLANO, TEXAS<h6>April 11-12 of 2022<h6>",
             "content": "Weekend of Victory! This weekend we had a conference for couples, 3 new baptisms, and the celebration of the Holy Supper for the first time in our congregation, sponsored by our Bishop Samuel Valverde. There was a fulfillment of the Holy Ghost for new brethren. This weekend definitely was sealed as another special period in the history of our congregation.<br><br>Pastor Edwin Camilo Moreno"
         }
+    },
+    {
+        "x": "-8%",
+        "y": "88%",
+        "width": "115%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Esta generación de cristianos es responsable por ésta generación de almas”.</p><p style='text-align: center;'>Keith Green</p>"
+        }
     }
 ]

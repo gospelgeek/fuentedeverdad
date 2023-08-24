@@ -226,5 +226,21 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "9%",
+        "y": "89%",
+        "width": "85%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.75em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Somos deudores a cada hombre en darle el Evangelio, en la misma medida en que lo hemos recibido”.</p><p style='text-align: center;'>P.F. Bresee</p>"
+        }
     }
 ]

@@ -263,5 +263,21 @@
                 "page": 4
             }
         ]
+    },
+    {
+        "x": "-4%",
+        "y": "89%",
+        "width": "110%",
+        "styleBox": "",
+        "background-color": "#b41015",
+        "color": "#ffff",
+        "class": "text-page11",
+        "tag": "contenido",
+        "id_unique": "box-text-page-9",
+        "style": "font-weight: normal;font-size: 0.75em; color: white; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='main-text-p10' style='text-align: center;'>“Hablamos acerca de la segunda venida de Cristo.</p><p>La mitad del mundo no han escuchado acerca de su primera venida.”</p><p style='text-align: center;'>Oswald J. Smith</p>"
+        }
     }
 ]
